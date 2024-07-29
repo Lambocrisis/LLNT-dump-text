@@ -1,0 +1,755 @@
+夏夏
+夏夏 : 『どんどん家がなくなって、空がすごい広いですね！』
+Natsuka : "There's barely any houses or tall buildings this far out. The sky looks so big!"
+夏夏 : "两旁的房屋越来越少，天空变得越来越辽阔了！"
+
+夏夏
+夏夏 : 『この広々～とした空を背景に、電柱がぱっ、ぱっ、って飛び去っていくのを見ると、あー電車だな～って思いますね』
+Natsuka : "Seeing the power lines whiz by against the wide-open sky is one of the nice things about riding a train, I think."
+夏夏 : "在这广阔的蓝天下，看着电线杆一个个向后飞去直到消失在视野之外，就有一种自己身处电车里的感觉呢"
+
+優
+優 : 『…………』
+Yuu : "..."
+优 : "…………"
+
+夏夏
+夏夏 : 『…………』
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 『優さん、なんかそわそわしてますね？　何かいいたいことが？』
+Natsuka : "Yuu-san, are you nervous? Do you wanna talk?"
+夏夏 : "优小姐，您好像有些坐立不安？　有什么想说的吗？"
+
+優
+優 : 『夏夏ちゃんこそ、そわそわしてるじゃない。そちらからどうぞ』
+Yuu : "You seem rather fidgety yourself, Natsuka-chan. Why don't you tell me what's on your mind?"
+优 : "夏夏，坐立不安的是你吧。你先说吧"
+
+夏夏
+夏夏 : 『では遠慮なく！　車内に人気もなくなってきましたし……このあたりで……ゴソゴソ……』
+Natsuka : "All right, I will! Most of the other passengers have gotten off the train, so it should be okay now... Hmm, where is it...?"
+夏夏 : "那我就不客气啦！　车里也没什么人了……应该是放这里了吧……我找找……"
+
+夏夏
+夏夏 : 『じゃーん！』
+Natsuka : "Ta-dah!"
+夏夏 : "锵——！"
+
+優
+優 : 『まあ、かわいい……！　それってもしかして、リルヤさん？』
+Yuu : "My, that's so cute! Is that Lilja-san?"
+优 : "哎呀，真可爱……！　这难道是丽露娅小姐吗？"
+
+夏夏
+夏夏 : 『そうです！　この日のために用意したリルヤさんぬいぐるみです！』
+Natsuka : "Yup, it is! It's a Lilja-san plushie that I made to bring with us today!"
+夏夏 : "没错！　这正是为了今天准备的丽露娅小姐布偶！"
+
+リルヤ
+リルヤ : （……あれか）
+Lilja : (So that's what it was for...)
+丽露娅 : （……是那个吗）
+
+夏夏
+夏夏 : 「できました！　ついに完成です！　リルヤさんぬいぐるみ！」
+Natsuka : "I'm done! My Lilja-san plushie is complete!"
+夏夏 : "做好啦！　可算完成了！　这就是丽露娅小姐布偶！"
+
+リルヤ
+リルヤ : 「合理的に考えて、声だけで良いだろう」
+Lilja : "Logically speaking, wouldn't it suffice to call me and put me on speaker?"
+丽露娅 : "合理思考，一般来说有声音就够了吧"
+
+夏夏
+夏夏 : 「わたしとリルヤさんだけなら、それでもいいですけど、今回は依頼人さんがいますから」
+Natsuka : "That's fine when it's just you and me, but we have a client now."
+夏夏 : "如果只有我们的话，或许声音就好。然而这次还有客户"
+
+夏夏
+夏夏 : 「外に出たとき、リルヤさんの声が、スマホのスピーカーからただ声が聞こえるよりも、お話相手がいた方がいいと思いまして」
+Natsuka : "When we're out, I think it'll be easier for the client to have something to talk to rather than a disembodied voice."
+夏夏 : "感觉要是到了户外，有个聊天对象总比从手机的喇叭里传出丽露娅小姐的声音好一些"
+
+夏夏
+夏夏 : 「あまり人が多いところでやると注目されちゃうと思うので、あくまでも、人がいないところ限定になりますが」
+Natsuka : "We might get some stares if we're around other people though, so we'll only use it when there's no one else around."
+夏夏 : "在人多的地方可能会引人注目，所以只在没有其他人的时候这样做"
+
+リルヤ
+リルヤ : 「人間はつくづく非合理で、非効率的だな」
+Lilja : "Humans really %i1are%id so irrational and inefficient..."
+丽露娅 : "人类这种生物是真的不合理，也不讲效率啊"
+
+リルヤ
+リルヤ : 「しかし、大多数がそのようにできているのならば、お前のしたいようにするのが、もっとも効率的だろう」
+Lilja : "However, if the majority of people find it agreeable, then it will likely be effective."
+丽露娅 : "不过，如果所有人都是如是诞生于此的话，让你按自己的喜好办事，应该是最具效率的吧"
+
+夏夏
+夏夏 : 「一般人代表ですね！　リルヤさんにまかせてもらえて嬉しいです」
+Natsuka : "The voice of the people, right!? I'm glad you trust my judgment, Lilja-san."
+夏夏 : "我就是普通人的代表吧！　丽露娅小姐肯把这些事交给我真开心"
+
+夏夏
+夏夏 : 「はーでも、この子ができるまでは、どうなることかと思いましたが、とっても綺麗にできてよかったです」
+Natsuka : "I wasn't too sure about this until I actually finished the plushie, but I'm glad it turned out so pretty."
+夏夏 : "哎呀不过，在做好这个布偶之前，还有点担心成品的外观，幸好做出来看上去还是挺漂亮的"
+
+夏夏
+夏夏 : 「リルヤさんは美人なので！　ぬいぐるみも、ちゃんと美人に作らないといけないという使命感が！」
+Natsuka : "You're a pretty girl, Lilja-san, so I felt compelled to make the plushie as pretty as I could, too!"
+夏夏 : "丽露娅小姐可是个大美女！　所以布偶的质量绝不能粗糙，我感受到了肩上的使命感！"
+
+リルヤ
+リルヤ : 「貸してみろ」
+Lilja : "Give it to me."
+丽露娅 : "给我"
+
+夏夏
+夏夏 : 「はいどうぞ！」
+Natsuka : "Here you go!"
+夏夏 : "来，给你！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「どうですか？　美人にできてますか？」
+Natsuka : "What do you think? A real beauty, isn't she?"
+夏夏 : "怎么样？　是不是个美女？"
+
+リルヤ
+リルヤ : 「美とは究極の調和であり、人間の美への探求は、神の生み出した完全への永遠の探求でもある」
+Lilja : "Beauty is the ultimate harmony, and man's quest for beauty is an eternal quest for the perfection created by God."
+丽露娅 : "美既是一种究极的调和，同时于人类而言，探索美，乃是对神明所创造的完美进行的无止境探索"
+
+夏夏
+夏夏 : 「ふむふむ……ふむ？」
+Natsuka : "Hmm-hmm... Hmm?"
+夏夏 : "嗯嗯……嗯？"
+
+リルヤ
+リルヤ : 「ぬいぐるみに求められるのは、美ではなく可愛らしさだ」
+Lilja : "However, what people generally expect from stuffed toys isn't beauty, but cuteness."
+丽露娅 : "而人们在布偶上所追求的，并不是美丽，而是可爱"
+
+リルヤ
+リルヤ : 「可愛らしさとは、端的にいえば不完全さであり、それこそがぬいぐるみに求められる属性であり本質であろう」
+Lilja : "Cuteness is, simply put, imperfection. That is the essence of the quality desired in a stuffed toy."
+丽露娅 : "而所谓可爱，一言蔽之就是不完整性，而不完整性才是布偶所需要表现的属性，同时也是其本质"
+
+リルヤ
+リルヤ : 「故に、これでかまわない」
+Lilja : "In other words, this plushie will suffice."
+丽露娅 : "因此，就这样就好"
+
+夏夏
+夏夏 : 「貶されたのか褒められたのかちょっとわかりにくいですが、ありがとうございます！」
+Natsuka : "I can't tell whether you're complimenting or insulting my sewing skills, but thanks, I guess!"
+夏夏 : "有点听不明白我被损了还是被表扬了，不过还是谢谢您！"
+
+リルヤ
+リルヤ : 「いや？　よくできているぞ」
+Lilja : "Oh? It's very well made."
+丽露娅 : "我可没损你啊？　做得挺好的"
+
+リルヤ
+リルヤ : 「愛を感じる」
+Lilja : "It was clearly made with love."
+丽露娅 : "能从中感受到爱意"
+
+夏夏
+夏夏 : 「！！　やったーありがとうございます！　確かにリルヤさんへの愛はたっぷり込めました！」
+Natsuka : "You can tell!? Thank you! I put all my love for you into this, Lilja-san!"
+夏夏 : "！！　好耶，谢谢夸奖！　确实我在做这个的时候，一针一线都灌注了对丽露娅小姐的爱！"
+
+リルヤ
+リルヤ : 「これで私と一緒に旅ができる、か？」
+Lilja : "So that you'll be able to travel with her instead of me?"
+丽露娅 : "这样就可以和我一起去旅游了，你是这个意思吗？"
+
+夏夏
+夏夏 : 「えっ？　そんなことないですよ。リルヤさんはリルヤさんで、この子はこの子なので。別人というか別存在？」
+Natsuka : "Huh? I didn't mean it that way! You're you, Lilja-san, and the plushie is the plushie. You're completely different."
+夏夏 : "咦？　怎么会呢。丽露娅小姐是丽露娅小姐，这个布偶是这个布偶。是两个人，哦不对，两个存在？"
+
+夏夏
+夏夏 : 「この子はどちらかというと、メッセンジャーですよね。ですから『りるりゃ』さんとでも呼びましょう」
+Natsuka : "The plushie is kinda like, a messenger, I guess? I'm gonna call her Li'l Ya-san!"
+夏夏 : "这个布偶要说的话，应该是传话人吧。因此我叫它‘丽露喵’以示区别"
+
+リルヤ
+リルヤ : 「りるりゃ」
+Lilja : "Li'l Ya..."
+丽露娅 : "丽露喵"
+
+夏夏
+夏夏 : 「はい、わたしとりるりゃさんは力をあわせて、リルヤさんのお役に立ちますので、これからのご活躍をお楽しみに！」
+Natsuka : "Yep! Li'l Ya-san and I will join forces as your trusty servants and make ourselves useful to you. We'll prove our worth yet!"
+夏夏 : "是的，只要我和丽露喵一起努力，应该就能帮上丽露娅小姐的忙，就期待它以后的活跃吧！"
+
+リルヤ
+リルヤ : 「……ふ」
+Lilja : "Heh..."
+丽露娅 : "……呵"
+
+夏夏
+夏夏 : 「あれ、今、リルヤさん笑いました？　何か楽しいことでも？」
+Natsuka : "Did you just laugh, Lilja-san? What's so funny?"
+夏夏 : "咦，刚才丽露娅小姐笑了？　有什么开心事吗？"
+
+リルヤ
+リルヤ : 『ああ。いわゆる思い出し笑いだな』
+Lilja : "Oh, I was just remembering something."
+丽露娅 : "没错。想起以前发生的事就笑出声了"
+
+優
+優 : 「あの……リルヤさんは、ご在宅なんですね？」
+Yuu : "Um... Are you at your condo, Lilja-san?"
+优 : "请问……丽露娅小姐，你在家里吧？"
+
+リルヤ
+リルヤ : 『私は基本的に外出はしない。[・]そ[・]れが私の目と足の代わりだ』
+Lilja : "Yes, I rarely go out. That's why I employ someone to serve as my eyes and legs."
+丽露娅 : "我几乎不会外出。她是用来代替我的眼睛与双腿的"
+
+優
+優 : 「[・]そ[・]れって、このぬいちゃんが？」
+Yuu : "You mean this plushie?"
+优 : "她是指这个布偶吗？"
+
+リルヤ
+リルヤ : 『違う』
+Lilja : "No."
+丽露娅 : "不是"
+
+夏夏
+夏夏 : 「それはわたしですね！　わたしがリルヤさんの目と足になります。カメラもばっちり持参です」
+Natsuka : "She means me! I'm Lilja-san's eyes and legs. I even brought a camera with me."
+夏夏 : "是指我啦！　我可是丽露娅小姐的双眼与双腿。照相机我也带上了哦"
+
+リルヤ
+リルヤ : 『カメラの情報は、あくまでも補助だがな。夏夏の目を通した方が、絵が描ける確率があがる』
+Lilja : "The data from the camera is merely supplementary. Your eyes are a far more reliable tool to help me create my paintings."
+丽露娅 : "照相机拍下来的东西只能算得上是辅助信息。让夏夏看过一切之后，我画出画的几率也会变高"
+
+夏夏
+夏夏 : 「でも、りるりゃさんも大事なお手伝いさんなんですよ」
+Natsuka : "But Li'l Ya-san is our valued assistant."
+夏夏 : "不过，丽露喵也是很重要的帮手呢"
+
+優
+優 : 「りるりゃさん？」
+Yuu : "Li'l Ya-san?"
+优 : "丽露喵？"
+
+夏夏
+夏夏 : 「はい！　この子の名前です！」
+Natsuka : "Yep, that's the plushie's name!"
+夏夏 : "没错！　就是这个布偶的名字！"
+
+夏夏
+夏夏 : 「っと、電車がとまりましたね」
+Natsuka : "Oh, the train's stopped."
+夏夏 : "啊，电车停下来了呢"
+
+優
+優 : 「母校の最寄り駅はもうすこし先だけど、確かこの駅は……」
+Yuu : "The station near my old school is up ahead, but this one's..."
+优 : "这个车站距离我母校那站还有些距离，没记错的话，这里是……"
+
+夏夏
+夏夏 : 「あれ、ホームを歩いて行く子たち、優さんと同じ制服ですね？」
+Natsuka : "Huh? Those girls walking on the platform are wearing the same uniform as yours, Yuu-san."
+夏夏 : "咦，在走在月台上的那些学生们身上穿的，和优小姐的校服是一样的？"
+
+優
+優 : 「そうそう。この駅に母校の本校があったはずよ」
+Yuu : "Yes, the main campus of my alma mater is near this station."
+优 : "对对。这站旁边就是我们母校的本校呢"
+
+夏夏
+夏夏 : 「男女ともネクタイなんですね」
+Natsuka : "Both the boys and girls are wearing neckties."
+夏夏 : "无论男女都系着领带呢"
+
+優
+優 : 「分校が本校に合併されるときに、制服もリニューアルしたそうよ」
+Yuu : "The uniform design was renewed when the branch school and main school merged."
+优 : "分校与本校合并时，校服好像也经过了修改"
+
+優
+優 : 「懐かしいわね……わたしも、休日に制服を着て遊んでいたわ」
+Yuu : "That reminds me... I used to wear my uniform all the time, too. Even on the weekends."
+优 : "真怀念……那时候我休息日也穿着校服到处跑呢"
+
+夏夏
+夏夏 : 「休日もですか？」
+Natsuka : "Really?"
+夏夏 : "休息日也穿校服？"
+
+優
+優 : 「ええ。３年間しか着れないものだから、たくさん着たかったの。だからどこに行くにも制服だったわ」
+Yuu : "Yes. You only get to wear your uniform for three years, so I wanted to wear it as much as possible. I wore it everywhere."
+优 : "没错。由于只能穿三年嘛，我就想多穿穿。结果不管哪里我都会穿上校服去了呢"
+
+夏夏
+夏夏 : 「出発しましたね」
+Natsuka : "Oh, we're moving again."
+夏夏 : "电车开动了呢"
+
+夏夏
+夏夏 : 「次の停車時間は、と……おお～ひと駅ひと駅の間が長いです」
+Natsuka : "The next stop is... Ohh, the stations are starting to feel so far apart."
+夏夏 : "下一站的停靠时间是……哦哦～站与站之间距离真远啊"
+
+優
+優 : 「母校はここよりも田舎だから、遠くてごめんなさいね？」
+Yuu : "My old school is pretty far out in the sticks. Sorry for making you come all this way."
+优 : "我的母校比现在这里还要乡下，真是抱歉呀"
+
+夏夏
+夏夏 : 「いえいえ！　わたし自転車に乗ってあちこち見て歩いてますし、考えてみたらこっち方面ははじめてなので、楽しみです！」
+Natsuka : "Oh no, it's fine! I do a lot of exploring on foot and on my bicycle, but I've never really gone this way, so I'm having a lot of fun!"
+夏夏 : "没事没事！　我平时都是踩着自行车到处乱逛，想起来还是第一次坐这么久电车来这个方向，很是期待呢！"
+
+優
+優 : 「旅行が好きなの？」
+Yuu : "Do you like to travel?"
+优 : "你喜欢旅游吗？"
+
+夏夏
+夏夏 : 「そうですね。色々な場所にいけるのは楽しいです」
+Natsuka : "Yeah, I like to visit all sorts of places."
+夏夏 : "喜欢啊。我很喜欢到处跑的"
+
+夏夏
+夏夏 : 「リルヤさんと出会えたのも、旅行がきっかけでしたし。ｗｅｂラジオって知ってますか？」
+Natsuka : "I actually met Lilja-san thanks to my travels. Have you heard of podcasts?"
+夏夏 : "我与丽露娅小姐认识的契机也是旅游呢。您知道网络电台吗？"
+
+優
+優 : 「インターネットで聞くラジオのことかしら？」
+Yuu : "They're like radio programs you can listen to online, right?"
+优 : "那种在网上听的电台吗？"
+
+夏夏
+夏夏 : 「ですです。本来のラジオは基本的に生放送なんですが、ｗｅｂだと収録した音声データを流すタイプがそう呼ばれますね」
+Natsuka : "Yep, that's right! Unlike radio, though, which is usually broadcast live from a studio, podcasts are pre-recorded."
+夏夏 : "没错没错。正常来说电台应该是直播形式的，但所谓网络电台，就是把录下来的音频文件在网上播放的形式吧"
+
+夏夏
+夏夏 : 「気軽に放送できるアプリとかもあるんですけど、その頃のわたしは、スマホもパソコンも回線も持っていなかったので……」
+Natsuka : "Nowadays, there are apps where anyone can publish their own podcasts, but I didn't have a smartphone, a computer, or an internet connection back then..."
+夏夏 : "现在有可以很方便上传网络电台的应用，但那时候的我没有手机，没有电脑，也没有网线……"
+
+夏夏
+夏夏 : 「バイト先の店長さんにパソコンと回線とサーバを借りて、音声データをアップしてたんですよね」
+Natsuka : "So I asked the manager of the store I worked part-time at if I could use their computer and internet connection to upload my audio files."
+夏夏 : "于是我就找打工的地方的店长借了电脑和网线还有服务器，把我录的音频上传了上去"
+
+夏夏
+夏夏 : 「当時から店主にも恐竜時代の遺物なんだぞっていわれてましたが、それだと自分で回線やスマホを持たずにできたもんで……」
+Natsuka : "The manager warned me that their computer was a dinosaur, but it worked well enough for my purposes."
+夏夏 : "当时老板也对我说这东西是恐龙时代的老古董，但我还是靠这个在没有网线和手机的情况下成功上传了……"
+
+優
+優 : 「恐竜時代の遺物……」
+Yuu : "A dinosaur..."
+优 : "恐龙时代的老古董……"
+
+夏夏
+夏夏 : 「とまあ、一応、わかった顔をして説明してますけれど、実はわたしも、詳しくはわかってないんですよね。やり方だけ教えてもらったので」
+Natsuka : "I don't know much about computers, so I'm afraid I can't really explain. All the manager taught me was how to upload my podcasts."
+夏夏 : "不过吧，虽然我侃侃而谈看上去显得自己很懂，其实我自己对具体的细节不是很明白啊。因为只向他们请教了做法"
+
+夏夏
+夏夏 : 「とにかくそんな最初から遺跡みたいな場所にあったｗｅｂラジオのデータが、なぜかリルヤさんの耳にとまって……」
+Natsuka : "The site I uploaded them to was like a relic from the past, but Lilja-san somehow managed to find and listen to them..."
+夏夏 : "反正嘛，这份一开始被放置在宛如遗迹般地方的网络电台音频文件，不知为何进了丽露娅小姐的耳朵里……"
+
+夏夏
+夏夏 : 「わたしの見たり聞いたりした話が、リルヤさんの絵を描くために役に立つってことで、今では助手をやってるんですよ」
+Natsuka : "I used to talk about random stuff I saw or heard during my travels, and somehow that inspired Lilja-san for her paintings. That's how I ended up working as her assistant."
+夏夏 : "我的见闻，能帮助丽露娅小姐完成自己的创作，所以现在我在当她的助手"
+
+優
+優 : 「色々な出会いのきっかけがあるのね……ああ、でもわたしも……」
+Yuu : "There are so many ways to meet new people, huh... I also met—"
+优 : "人和人之间的相遇也有很多种啊……喔，但是我好像也……"
+
+リルヤ
+リルヤ : 『ミス優、スマホが鳴っているようだが』
+Lilja : "Miss Yuu, your phone is ringing."
+丽露娅 : "优女士，你电话响了"
+
+優
+優 : 「えっ？　まあ、ほんとだわ通知が……ちょっと失礼」
+Yuu : "Huh? Oh, you're right... Excuse me for a moment."
+优 : "咦？　哎呀，真的呢，有消息通知……稍等片刻"
+
+夏夏
+夏夏 : 「おお～全然気づかなかったです……リルヤさんの耳って」
+Natsuka : "Ohh, I didn't hear that at all! Lilja-san, you have the ears of a... a..."
+夏夏 : "噢噢～我都没察觉到……丽露娅小姐的耳朵简直是"
+
+リルヤ
+リルヤ : 『地獄耳か？』
+Lilja : "The ears of a hawk?"
+丽露娅 : "简直是千里耳？"
+
+夏夏
+夏夏 : 「そんなこと言ってませんよ！　超音波とか！　ましてや熱光線とか！」
+Natsuka : "No, that's not what I meant! More like... superhuman? I bet you could even hear ultrasound waves! And thermal waves!"
+夏夏 : "没说到这个份上！　我没说什么超声波，更没说什么灼热光线！"
+
+リルヤ
+リルヤ : 『たまに思うんだが、お前は年齢を詐称してないか？』
+Lilja : "Sometimes I can't help but wonder if you're lying about your real age."
+丽露娅 : "偶尔我会怀疑，你是不是谎报年龄了？"
+
+夏夏
+夏夏 : 「リルヤさんこそそんな古い歌知ってるなんて、年齢どころか、国籍詐称疑惑ですよ？？？」
+Natsuka : "I could say the same about you! You know so many old Japanese songs! Are you sure you're not secretly a Japanese granny?"
+夏夏 : "丽露娅小姐你才是，怎么会知道这么老的歌，别说年龄，我都要怀疑你的国籍了哦？？？"
+
+リルヤ
+リルヤ : 『音声アシスタントに一声かければ、膨大な過去のデータに気軽にアクセスできる。素晴らしい時代だな』
+Lilja : "We live in an age where you can access a vast amount of historical data simply by talking to a voice assistant. It's a wonderful time to be alive, isn't it?"
+丽露娅 : "对语音助手一声令下就能轻易访问过去那庞大的信息数据。现在真是个好时代啊"
+
+優
+優 : 「ふう……ほんと心配性なんだから」
+Yuu : "Phew... What a worrywart."
+优 : "呼……是真爱操心啊"
+
+優
+優 : 「ごめんなさいね、話の途中で」
+Yuu : "My apologies for the interruption."
+优 : "不好意思啊，聊一半就离开"
+
+夏夏
+夏夏 : 「あ、優さんおかえりなさい。急な用事ですか？」
+Natsuka : "Ah, welcome back. Is everything okay?"
+夏夏 : "啊，优小姐欢迎回来。有什么急事吗？"
+
+優
+優 : 「婚約者からの連絡よ。今、どこにいるかって聞いてきたから、説明しておいたわ」
+Yuu : "Yes, it was just my SO wanting to know where I am."
+优 : "是我的婚约者在找我。那人问我现在在哪，我就解释了一下"
+
+優
+優 : 「もちろん、母校の近くに行ってくるって話はしたのだけど、なのに、今、どのあたりかって聞いてくるのよ。ふふ、おかしいわね」
+Yuu : "I told them I'd be visiting the area around my old school, of course, but they still wanted to know where exactly I was right now. Hehe, pretty silly, isn't it?"
+优 : "我当然对那人说过我要去趟母校周边，但我家那位非得问明白我现在在哪里。呵呵，真奇怪啊"
+
+リルヤ
+リルヤ : 『ミス優の婚約者は、束縛の強い人間なのか？』
+Lilja : "Is your significant other very possessive of you, Miss Yuu?"
+丽露娅 : "优女士的婚约者，控制欲很强吗？"
+
+優
+優 : 「そんなことないわ。普段は、別々にしたいことがあったら、休日だってバラバラに行動するくらいなのに」
+Yuu : "No, I wouldn't say so. We each have our own interests, so we sometimes take separate days off to do our own thing."
+优 : "没有的事。平时要是都有想做的事，哪怕是休息日也会分开行动的"
+
+優
+優 : 「ときどきすごく心配性なのよ。不思議よね、ふふ」
+Yuu : "My SO can be a real worrywart sometimes... Pretty weird, isn't it? Hehe."
+优 : "不过那个人偶尔会特别喜欢操心呢。真奇怪，呵呵"
+
+夏夏
+夏夏 : 「はっ！　優さん！」
+Natsuka : "Ahh! Yuu-san!"
+夏夏 : "哈！　优小姐！"
+
+優
+優 : 「え？　ど、どうしたの？」
+Yuu : "Huh? Wh-What's the matter?"
+优 : "咦？　怎、怎么了？"
+
+夏夏
+夏夏 : 「そのスマホチャーム、缶入りドロップスですね？　青い飴ってことはミントですね、きれいな色です」
+Natsuka : "That smartphone charm you have... It's a miniature candy drop, right? It's blue, so it's the mint flavor... It's so pretty."
+夏夏 : "您手机上的挂饰，这个是罐装硬糖吧？　蓝色糖果，也就是薄荷味吧，这颜色真漂亮"
+
+優
+優 : 「まあ、ありがとう。景品のサンプルが残ってたからもらったのよ」
+Yuu : "Oh, thanks. We had some product samples left over, so I helped myself to one."
+优 : "哎呀，谢谢夸奖。这是抽奖奖品的样品，之前有剩的就拿了一个"
+
+優
+優 : 「……ふふ」
+Yuu : "Hehe..."
+优 : "……呵呵"
+
+夏夏
+夏夏 : 「むむ！？　今の、笑顔！　なんかわかんないですけど気になります！」
+Natsuka : "Hmm? That smile you had just now... I don't know what it is about it, but you're making me curious!"
+夏夏 : "呣呣！？　刚刚，您笑出来了！　不知道怎么回事，反正我有点好奇！"
+
+優
+優 : 「え？　そんな気になる笑顔だった？」
+Yuu : "Huh? Why would my smile make you curious?"
+优 : "咦？　我笑得这么让人在意？"
+
+夏夏
+夏夏 : 「はい……すごーく幸せそうだったので……」
+Natsuka : "Well... You looked really happy."
+夏夏 : "没错……看上去特别幸福……"
+
+優
+優 : 「やだ、そんなに顔に出てたかしら？　恥ずかしいわね」
+Yuu : "My, was it that obvious? How embarrassing..."
+优 : "讨厌，我笑成那样了？　有点害羞啊"
+
+優
+優 : 「実は、このチャームがきっかけでね、婚約者と出会ったのよ」
+Yuu : "This charm is actually the reason I met my SO."
+优 : "其实呀，我是通过这个挂饰才和我的婚约者相遇的呢"
+
+夏夏
+夏夏 : 「チャームが？」
+Natsuka : "That charm? Really?"
+夏夏 : "通过挂饰？"
+
+優
+優 : 「ええ。わたしと婚約者、平日に通っているカフェが同じだったのよ」
+Yuu : "Yes. We both used to frequent the same café during the week."
+优 : "没错，我和我家那位，平时都会去同一家咖啡厅逗留"
+
+優
+優 : 「偶然なんだけど、同じ機種で同じチャームだったせいで、考え事をしていたあの人が、間違ってわたしの席に座ってしまったのよ」
+Yuu : "One time, I left my phone on a table, and then someone absent-mindedly sat down in my seat because they happened to have the same model phone with the same charm."
+优 : "然后就很巧，我们俩用的同一个机型的手机，挂饰也是一模一样。结果那天，那个人想着事情，不知不觉坐我旁边了"
+
+優
+優 : 「今時、スマホにチャームをつけること自体が珍しいでしょ？　高校生のときならまだしも、大人になると落下防止リングくらいしか見ないし」
+Yuu : "Not many people have phone charms anymore nowadays, do they? Maybe some high schoolers do, but the most grown-ups might put on their phone is a kickstand."
+优 : "现在不是已经没什么人在手机上加挂饰了吗？　高中那会儿暂且不提，步入社会之后我最多只看到过防掉环"
+
+優
+優 : 「わたしも丁度離席してて……」
+Yuu : "And I just happened to be away from my seat at that exact moment."
+优 : "而且那时候我也离开座位了……"
+
+夏夏
+夏夏 : 「すごい偶然ですね……！　運命、感じちゃいますね」
+Natsuka : "That's such a coincidence! It feels like destiny."
+夏夏 : "真是巧呢……！　有种被命运红线相连的感觉"
+
+優
+優 : 「そんな風に言われると、本当に恥ずかしいのだけど……」
+Yuu : "It's really embarrassing when you put it like that, but..."
+优 : "被你这么一说，我是有点害羞了，但是……"
+
+夏夏
+夏夏 : 「けど？」
+Natsuka : "But?"
+夏夏 : "但是？"
+
+優
+優 : 「わたしも運命感じちゃったのよね、ふふ」
+Yuu : "I feel like it was destiny, too, hehe."
+优 : "我也感受到命运了呢，呵呵"
+
+夏夏
+夏夏 : 「いいですね！　素敵ですね！」
+Natsuka : "That's so romantic!"
+夏夏 : "真不错呢！　很棒！"
+
+優
+優 : 「夏夏ちゃんも、運命を信じちゃう方？」
+Yuu : "Do you believe in destiny too, Natsuka-chan?"
+优 : "夏夏你也是那种相信命运的人？"
+
+夏夏
+夏夏 : 「あったら素敵だなって思いますね」
+Natsuka : "I %i1want%id to believe in it."
+夏夏 : "要是有就很棒吧"
+
+優
+優 : 「夏夏ちゃんとリルヤさんも運命なのかしら……？」
+Yuu : "Maybe your meeting with Lilja-san was destiny, too..."
+优 : "那夏夏与丽露娅小姐的相遇也是命运所使吗……？"
+
+夏夏
+夏夏 : 「そうですねえ、ある意味、運命だなって思いますね！」
+Natsuka : "Yes, I believe so, in a certain sense!"
+夏夏 : "是啊，某种意义上来说，确实是命运所使呢！"
+
+優
+優 : 「いいわね。素敵ねえ……」
+Yuu : "That's so wonderful..."
+优 : "真好啊，真棒……"
+
+優
+優 : 「ねえ、[ひよくれんり,3]比翼連理って知っている？　相思相愛のたとえなのだけど、連理は、元々は別の木がひとつに繋がったもので……」
+Yuu : "Hey, have you heard of lovebirds? They're a kind of small parrot that's extremely social. They bond for life."
+优 : "对了，你知道比翼连理的传说吗？　现在是用来比喻两情相悦，但所谓连理，本是由两棵不同的树木连接在一起的产物……"
+
+優
+優 : 「比翼は目と翼がひとつしかない鳥が、いつも一体になって飛ぶという想像上の鳥なの。わかちがたく結びついた運命の象徴……憧れるわ」
+Yuu : "Paired lovebirds spend a lot of time sitting together and engaging in affectionate behavior, which is why they're a symbol of eternal love."
+优 : "而所谓比翼鸟，其实是只有一只眼和一个翅膀的，总是两只鸟一起飞在空中的，架空的鸟类。是难分难解的命运象征……让我很是憧憬啊"
+
+夏夏
+夏夏 : 「優さんは、婚約者さんと比翼の鳥みたいになりたいんですか？」
+Natsuka : "Do you want to become like a pair of lovebirds with your partner, Yuu-san?"
+夏夏 : "优小姐是想跟自己的婚约者成为比翼鸟吗？"
+
+優
+優 : 「ええ、そういう関係になれればいいなって思っているわ。お互いの欠けた部分を補い合えるように……あなたたちみたいにね」
+Yuu : "Yes, it would be amazing if we could build that kind of relationship, where we both make up for each other's shortcomings... Just like the two of you."
+优 : "是啊，要是我们能成为那种关系就好了。能互相弥补自身的不足之处……就像你们一样"
+
+夏夏
+夏夏 : 「……ん？」
+Natsuka : "...Hmm?"
+夏夏 : "……嗯？"
+
+優
+優 : 「え？」
+Yuu : "What?"
+优 : "咦？"
+
+夏夏
+夏夏 : 「は！　今やっと気づきました！　すみません、勘違いさせちゃったみたいですが、リルヤさんとわたしは恋人ではないです」
+Natsuka : "Ah! I finally realize what you meant! I'm sorry, but I think you're misunderstanding! Lilja-san and I aren't lovers."
+夏夏 : "哈！　我总算懂了！　不好意思让您误会了，我和丽露娅小姐并不是恋人"
+
+優
+優 : 「えっ違うの？　うわ、恥ずかしいわね。勘違いしちゃって、ごめんなさいね？　わたし思い込みが激しくて……こういう勘違いをしがちなの」
+Yuu : "Oh, you're not? My, how embarrassing. My apologies for the misunderstanding. I tend to make assumptions about people..."
+优 : "咦，不是吗？　哇，有点害羞啊。我会错意了，真不好意思呢。我很难怀疑自己深信的东西……总会闹出这种笑话来"
+
+夏夏
+夏夏 : 「わたしも運命とかいっちゃったので、勘違いさせちゃいましたね」
+Natsuka : "I can understand why you'd get the wrong idea when I'm the one talking about destiny."
+夏夏 : "是我说的命运之类的话，让您误会了"
+
+夏夏
+夏夏 : 「でも、リルヤさんとわたしは恋人ではありませんが、出会いはけっこう運命的だったなあとは思います」
+Natsuka : "Lilja-san and I may not be lovers, but I do think it was fate that brought us together."
+夏夏 : "但是吧，尽管我和丽露娅小姐并非恋人，但和她的相遇，我觉得挺有命运使然的感觉"
+
+リルヤ
+リルヤ : 『私は思わないぞ』
+Lilja : "I don't think so."
+丽露娅 : "我可不觉得"
+
+夏夏
+夏夏 : 「リルヤさんいわく『合理的に考えて、運命などない』ですか？」
+Natsuka : "Why not? Because destiny isn't logical?"
+夏夏 : "是丽露娅小姐之前说的‘合理考虑，我和你之间不存在命运一说’那句话吗？"
+
+リルヤ
+リルヤ : 『いや？　運命や霊感を信じないほど狭量ではない。だが、夏夏との間にあるかどうかの断定はできないといっている』
+Lilja : "No, I'm not so narrow-minded as to deny the existence of destiny or the supernatural. However, what I'm saying is that we can't conclude that our meeting was fated."
+丽露娅 : "怎么会呢？　我的心胸没狭隘到会否定命运或者精神类存在。我只是对与你的相遇一事下了定义而已"
+
+リルヤ
+リルヤ : 『それよりも、ミス優の話のつづきをしてもらいたい』
+Lilja : "I'm interested in hearing the rest of Miss Yuu's story, though."
+丽露娅 : "先不说这个了，继续问优女士吧"
+
+夏夏
+夏夏 : 「あっそうでした。それが目的の旅ですからね」
+Natsuka : "Oh, right! That was the purpose of this trip."
+夏夏 : "啊没错。这才是旅行的目的呢"
+
+夏夏
+夏夏 : 「えーとそれで、それがきっかけで話すようになって、結婚を申し込まれるようになったってことですね。ドロップスが結ぶ縁ですね！」
+Natsuka : "So, the candy charm on your phone got you talking with your partner and led you two to become engaged? Maybe those drops have the power to bring people together!"
+夏夏 : "嗯，然后以此为契机，你们二人说上了话，渐渐开始将结婚提上日程。这就是所谓‘以硬糖结缘’吧！"
+
+優
+優 : 「そう、あの人は、あまり甘いものは好きじゃないけれど、高校生のときにもよく食べていたっていってたわ」
+Yuu : "Maybe. Despite not really liking sweets, my SO mentioned eating a lot of them back in high school."
+优 : "是的。那个人说自己不怎么喜欢吃甜食，高中的时候却没少吃"
+
+夏夏
+夏夏 : 「もしかして、その青いリボンのネックレスも、婚約者さんからのプレゼントなんですか？」
+Natsuka : "Was that necklace with the blue ribbon you're wearing a present from your partner?"
+夏夏 : "难道说，这条蓝色缎带的项链，也是婚约者送给您的吗？"
+
+優
+優 : 「え？　ええ、そうだけど……よくわかったわね」
+Yuu : "Huh? Oh, yes... How could you tell?"
+优 : "咦？　嗯，没错……你竟然能看出来呢"
+
+夏夏
+夏夏 : 「なんかよくわからないけど、そうかなーって思ったんです。でも、なんででしょう？」
+Natsuka : "I'm not sure. It just has that kind of vibe, I guess. I wonder why..."
+夏夏 : "我不是很懂，但总感觉应该是这样。但是，这又是为什么呢？"
+
+リルヤ
+リルヤ : 『合理的に考えて、青いからだろう。制服のリボンは、ミス優にとって特別なものだ』
+Lilja : "Logically speaking, that would be because it's blue. Your school uniform's blue ribbon was special to you, wasn't it, Miss Yuu?"
+丽露娅 : "合理考虑，因为是蓝色吧。校服上的缎带，于优女士而言是有特殊意义的东西"
+
+優
+優 : 「そうね。青いリボンは、あの頃のわたしたちにとって、とてもとても、大切なものだった」
+Yuu : "Yes, that's right. Our blue ribbons meant the world to us."
+优 : "是呢。蓝色缎带，对那时的我们来说，是非常非常重要的东西"
+
+夏夏
+夏夏 : 「仲の良い友達同士で交換したんですよね？」
+Natsuka : "You'd exchange them with your friends sometimes, right?"
+夏夏 : "是用来和好朋友交换的对吧？"
+
+優
+優 : 「ええ、それだけじゃなくて、告白にも使われていたのよ」
+Yuu : "Yes, and they were used to ask people out."
+优 : "是的，不仅如此，这蓝色缎带还用来告白了呢"
+
+優
+優 : 「……あの頃のわたしたちにとって、大切なリボン」
+Yuu : "Those ribbons really meant so much to us back then."
+优 : "……对当时的我们来说，是一条非常重要的缎带"
+
+夏夏
+夏夏 : 「そんな大事なリボンをなくしちゃって、残念ですね」
+Natsuka : "It's really a shame that you lost yours."
+夏夏 : "这么重要的缎带就这么丢了，真可惜呢"
+
+優
+優 : 「残念だけど、でも、しかたないわね。昔からおっちょこちょいで、あちこちに忘れ物や落とし物をしちゃうタイプだったし」
+Yuu : "It is... But I've always been clumsy, always misplacing things. Maybe it was inevitable that I'd lose it somehow."
+优 : "可惜是可惜，但也没办法。我从小就很冒失，总是丢三落四的"
+
+優
+優 : 「本当、あの頃のわたしはだめな子だったなあ……あっ今はあの頃よりはマシなのよ？」
+Yuu : "I was such a hopeless girl, really... Oh, but I've grown up a lot since then, you know?"
+优 : "那时候的我真的很没用……不过现在比当时要好些了哦！"
+
+優
+優 : 「あら、駅に着いたわね」
+Yuu : "Oh look, we've arrived."
+优 : "哎呀，到站了呢"
+
+夏夏
+夏夏 : 「話していたらあっというまでしたね！」
+Natsuka : "I was so absorbed in the conversation that I didn't notice!"
+夏夏 : "聊聊天很快就到了呢！"
+
+優
+優 : 「ええ、昔もそうだったわ。話していたら、電車に乗っている時間なんてあっという間だった……」
+Yuu : "Time passes by quickly when you're talking. It felt like that whenever we took the train together back in high school, too."
+优 : "没错，以前也是这样呢。坐着电车聊聊天，很快就到站了……"
+
+夏夏
+夏夏 : 「昔の楽しい時間を再現できてよかったです、次は、廃駅で色々とやりましょう！」
+Natsuka : "I'm glad we were able to recreate one of your fun memories already. Let's try doing some more stuff on the station platform!"
+夏夏 : "能想起曾经的快乐时光就好。接下来就去废弃车站看看能干点什么吧！"
+
+優
+優 : 「ええ、よろしくね」
+Yuu : "Yes, that sounds good."
+优 : "好的，麻烦你了"
+

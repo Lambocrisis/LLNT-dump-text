@@ -1,0 +1,680 @@
+白縫
+白縫 : 「――――」
+Shiranui : "..."
+白缝 : "————"
+
+白縫
+白縫 : （自分のせいで、夏夏さんを苦しませてしまった）
+Shiranui : (Natsuka-san suffered because of me.)
+白缝 : （都怪我，让夏夏受苦了）
+
+白縫
+白縫 : （絵一枚のためにこんなにも恐ろしいことになってしまった）
+Shiranui : (How could a single painting turn into something so terrible?)
+白缝 : （只是为了一幅画却经历了这么恐怖的事情）
+
+白縫
+白縫 : （何をどう取り繕おうと、罪は罪……）
+Shiranui : (No matter how I try to explain myself, what's done is done...)
+白缝 : （我该怎么去弥补呢，罪过就是罪过……）
+
+白縫
+白縫 : （私は罪を償わなくてはならない）
+Shiranui : (I have to atone for my sins...)
+白缝 : （我必须要偿还自己的罪过）
+
+白縫
+白縫 : （なのに……）
+Shiranui : (And yet...)
+白缝 : （但是……）
+
+白縫
+白縫 : （夏夏さんは謝ってもらえればそれでいいからといい、リルヤは絵を見に来いという）
+Shiranui : (Natsuka-san said an apology was all she needed, and Lilja just told me to come see her painting.)
+白缝 : （夏夏说跟她道了歉就已经足够了，还让我去看丽露娅小姐的画）
+
+白縫
+白縫 : （多大な迷惑をかけた上に、絵までもらうなんて、さすがにできないといったのだけど……）
+Shiranui : (After all I put them through, it felt ridiculous to accept a %i1gift%id for all of it...)
+白缝 : （添了这么大的麻烦，还要我收下画，我说我实在是太难以承受了……）
+
+白縫
+白縫 : （迷惑をかけたと思っているのなら、こちらの要求を受け入れるべきだなんて……）
+Shiranui : (But she told me if I really felt I'd put them through the wringer, then I should listen to their demands...)
+白缝 : （但她却说如果觉得自己过意不去的话，就应该接受她们的要求……）
+
+白縫
+白縫 : （あんな話し方をする子だったかしら？）
+Shiranui : (Has she always been like that?)
+白缝 : （她像是会说这种话的人吗？）
+
+白縫
+白縫 : （意外に強引だったわね）
+Shiranui : (It felt uncharacteristically pushy of her.)
+白缝 : （没想到她会这么强硬）
+
+白縫
+白縫 : （いえ、強引――というよりも、自分のペースを崩さない）
+Shiranui : (No... It felt more like she wouldn't let anyone break her stride.)
+白缝 : （不，与其说强硬——不如说她不会乱了自己的节奏）
+
+白縫
+白縫 : 「…………」
+Shiranui : "..."
+白缝 : "…………"
+
+白縫
+白縫 : （あのひととは容姿も、性格も、何ひとつ似てないのに、そんなところだけは、よく似ているわ）
+Shiranui : (She may not look or act anything like the woman I knew, but that aspect of her is quite similar.)
+白缝 : （那个人的长相、性格，全都跟她不一样，但只有这个地方，真的很像啊）
+
+白縫
+白縫 : （……ゆり）
+Shiranui : (...Yuri.)
+白缝 : （……百合）
+
+白縫
+白縫 : （あなたがいなくなったこの世界に未練はなかったのだけど、それでも、あなたが待って欲しいというから待ったわよ）
+Shiranui : (I thought I had nothing tying me to this world after you passed, but I still waited because you told me to.)
+白缝 : （虽然对没有你的这个世界我已经没有留恋了，但我还是按照你想让我等一下的愿望等了一会哦）
+
+白縫
+白縫 : （でも、これで……これで、やっとあきらめることができる。もう『明日』はこないと）
+Shiranui : (But now... Now, I think I can finally give up on you. "Tomorrow" will never come.)
+白缝 : （但是，这下……这下，我终于能够放弃了。我想《明天》已经不会来了）
+
+白縫
+白縫 : （あとは、死ぬまであなたの絵を見て暮らすわ）
+Shiranui : (I'll just spend the rest of my life gazing at your paintings.)
+白缝 : （我接下来的人生，只剩下在死之前一直看着你的画了）
+
+白縫
+白縫 : （あなたの絵は、いつでも眩しいくらいに輝いている）
+Shiranui : (They always shone so brightly. Too brightly for me.)
+白缝 : （你的画，一直都很耀眼、夺目）
+
+白縫
+白縫 : （眩しすぎて、私にはあなたの見た『明日』は見えなかったけれど）
+Shiranui : (They were so bright, I could never see the vision of tomorrow you saw.)
+白缝 : （是在是太耀眼了，让我看不到你所看到的《明天》了）
+
+白縫
+白縫 : 「…………」
+Shiranui : "..."
+白缝 : "…………"
+
+白縫
+白縫 : （この先に、リルヤの描いた絵がある）
+Shiranui : (Lilja's painting is just up ahead.)
+白缝 : （在这之后，我要去看丽露娅画的画）
+
+白縫
+白縫 : （リルヤの絵を見たあと、どう話そうかしら。リルヤが傷つかないようにしたいけれど……）
+Shiranui : (How am I supposed to talk to her after I see this painting? I don't want to hurt her any more than I already have...)
+白缝 : （看到丽露娅画的画后，我该说些什么呢。虽然我不想伤害到丽露娅……）
+
+白縫
+白縫 : （……いえやめましょう。言葉を選ぶ方が失礼だわ）
+Shiranui : (...No, I need to stop thinking like that. It'd be far worse to dance around the topic.)
+白缝 : （……算了。说客套话才更没礼貌吧）
+
+白縫
+白縫 : （ただ、ごめんなさいね、とだけいえばいいでしょう）
+Shiranui : (I just need to tell her I'm sorry. That's all.)
+白缝 : （不过，只要跟她说对不起，应该就好了吧）
+
+None
+None : ずっと昔、昔の物語。
+None : This is a story from long, long ago.
+None : 这是很久、很久以前的故事。
+
+None
+None : 私もゆりもまだ若く、何も知らない少女だった。
+None : Yuri and I were still so young and naïve.
+None : 那时候我和百合都还很年轻，只是两个一无所知的少女
+
+None
+None : 私たちは山奥の村にある施設で暮らしていた。
+None : We lived together in a village facility deep in the mountains.
+None : 我们生活在一所建在偏远山村的收容所里。
+
+None
+None : それは、寄宿学校の体を取ってはいるけれど、実質、訳ありの若い少女を収容しておくための施設だった。
+None : While by all appearances it was a boarding school, it was mostly a facility used to house young girls with troubled circumstances.
+None : 这所收容所，名义上是一所寄宿学校，实际上，这是一所收容了有着特殊情况的少女们的收容所
+
+None
+None : その存在が明るみにでると、多くの者に影響を及ぼす。主に私生児。その他に色々な事情の少女たちがいた。
+None : Too many people would be in trouble if its existence came to light. We were mostly illegitimate children or girls with other unsavory backgrounds.
+None : 如果这间收容所让世人知晓的话，很多人都会遭到波及。这里主要是一些私生女。不过也有一些其他原因被收容的少女。
+
+None
+None : その寄宿学校の少女たちに伝わる噂話があった。
+None : A terrifying rumor had always been passed between the girls of that facility.
+None : 在那间寄宿学校的少女间有着这样的传言。
+
+None
+None : それは、施設の周りには死の天使がいて、逃げようとすると死の天使の接吻を受ける。
+None : It said that there was an angel of death that wandered the facility grounds, and any who tried to escape would receive its kiss of death.
+None : 传言死亡天使就徘徊在收容所的附近，如果想要逃走的话就会被死亡天使亲吻。
+
+None
+None : 事実、逃げ出そうとした少女はみんな死んでしまった。その死体は、必ず学校に戻ってきた。
+None : As it happened, anyone who tried to run really did die. Their corpses were always returned to the school.
+None : 实际上，想要逃出去的少女们都死了。而尸体一定会回到学校里。
+
+None
+None : 黒い羽根に飾られて。
+None : And each one of them was covered in black feathers.
+None : 装饰着黑色羽毛的尸体。
+
+None
+None : 天使は代々、施設の選ばれた少女が任命されていた。
+None : The role of the angel was assigned to one girl in the facility throughout the generations.
+None : 每一代的天使都是由收容所中被选中的少女来担任
+
+None
+None : 天使役に選ばれたことは、私にとって大いなる誇りになった。
+None : Being selected to become the angel was a source of enormous pride for me.
+None : 能被选为天使，对我来说是非常自豪的事情。
+
+None
+None : 私は、選ばれたのだ。私は、他の少女たちと違うのだ。
+None : I was chosen. I was different from the others.
+None : 我被选中了。我和其他的少女们不一样。
+
+None
+None : 私の手には、他の少女たちの生殺与奪の権が握られているのだ。私は、施設の少女たちに憐れみさえ抱けた。
+None : I had the authority to choose whether they would live or die. I held nothing but pity for everyone else in that facility.
+None : 我的手中掌握着对其他少女的生杀大权。我甚至对收容所的少女们感到同情
+
+None
+None : 少女たちへの憐れみと驕りが、その頃の私を支えていた。
+None : That arrogance and pity I felt was what gave me strength back then.
+None : 对少女们的怜悯和骄傲，支撑着那个时候的我。
+
+None
+None : なのに……。
+None : And yet...
+None : 但是……
+
+None
+None : 私は選ばれた人間のはずなのに、なぜかひとりの少女にだけは、不可解な劣等感を抱かされた。
+None : Even though I thought I was the chosen one, there was one girl I felt so deeply inferior to, no matter how irrational it was.
+None : 我明明是被选中的人，不知道为什么我会从其中一名少女身上，感受到难以解释的卑劣感。
+
+None
+None : ゆり。
+None : Yuri.
+None : 百合。
+
+None
+None : 才能にあふれた少女。いつも明るくて、楽しそうに笑う。
+None : She was brimming with talent. And she was always so cheery and full of smiles.
+None : 才华洋溢的少女。总是开朗地、快乐地笑着。
+
+None
+None : 何をやってもゆりには敵わなかった。
+None : No matter what I did, I couldn't hold a candle to her.
+None : 我不管做什么都赢不了百合。
+
+None
+None : ゆりは完璧だった。
+None : She was perfect.
+None : 百合是十全十美的。
+
+None
+None : ゆりの笑顔を見るたびに、私のなかで不可解な劣等感が疼いた。
+None : Every time I saw her smile, I felt that inferiority closing in on me.
+None : 每当我看到百合的笑容，在我心中难以解释的那种卑劣感就会使我隐隐作痛。
+
+None
+None : 私はその劣等感を、いざとなったら私はゆりを殺す権利を持っているのだと思うことでなだめた。
+None : I comforted myself with the thought that I had the authority to kill her if it came down to it.
+None : 为了平复这种卑劣感，我总会想我拥有着可以杀死百合的权利来安慰自己。
+
+None
+None : 何度もゆりを殺す夢を見た。
+None : And I dreamt of it so many times.
+None : 我梦见了很多次杀死百合的梦。
+
+None
+None : 表向きは親友の顔をして、心のなかは憧れとコンプレックスからの憎悪でドロドロだった。
+None : While on the surface, I pretended to be her best friend, deep in my heart I harbored such a thick, palpable disdain for her, stemming from feelings of adoration and inadequacy.
+None : 表面上装作是好朋友，心里面却充满了由羡慕和自卑所产生的厌恶。
+
+None
+None : そんな折、ゆりがこの施設から逃げ出すと私に打ち明けた。
+None : And then Yuri told me she planned to run away.
+None : 就在那个时候，百合向我袒露她打算从收容所中逃出去的想法。
+
+None
+None : 施設にゲストとして来た若者に恋をしたのだといった。一目惚れだといった。
+None : She said she'd fallen in love with a young man who'd come to the facility as a guest. It was love at first sight.
+None : 她说她爱上了从外面来到收容所的年轻的访客。一见钟情了。
+
+None
+None : 若者はこの施設を単なる寄宿学校だと思っている。どこかの王子様だという。
+None : That youth believed this facility was nothing more than a boarding school. They said he was a prince from somewhere.
+None : 年轻人把这座收容所看作是普通的寄宿学校。他好像是哪个国家的王子。
+
+None
+None : もうこの施設から出て行ってしまった。けれど、どうしても会いたい。また会いたい。
+None : He'd already left, but she said she had to see him again. She wanted to see him more than anything.
+None : 他已经离开这个收容所了。但是，百合无论如何都想见到他。还想再一次见到他。
+
+None
+None : だからこの施設から逃げ出すのだ。もう一度、彼を見るために。
+None : That's why she said she had to leave. All so she could see him one more time.
+None : 所以百合要从这个收容所中逃出去。为了能再一次见到他。
+
+None
+None : 逃げ出すのに、協力して欲しいといった。
+None : She wanted me to help her escape.
+None : 百合说希望我能帮助她逃出去
+
+None
+None : 黒いドロドロとした歓喜が私の中にわきあがった。これで、あなたを殺すことができる。
+None : I felt a black, dripping glee rise up within me. This was my opportunity to kill her.
+None : 我的心中涌起漆黑浑浊的欢喜与兴奋。这下，我终于能杀了你了。
+
+None
+None : 私は私の中に渦巻く感情をすべて押し隠して、ゆりの逃走に協力した。
+None : I covered up those feelings swirling inside me and helped Yuri escape.
+None : 我隐藏着在我心中翻滚的全部感情，协助百合逃走。
+
+None
+None : 途中まで協力して、最後に裏切るつもりだった。死の天使としてゆりを殺すつもりだった。
+None : I was going to help her, then betray her right at the end. I was going to kill Yuri as the angel of death.
+None : 我打算只帮她到一半，最后背叛她。作为死亡天使将百合杀掉。
+
+None
+None : 実際にそうした。花の咲く洞窟で、ゆりの首を絞めて殺した。
+None : And I did. I strangled her to death in a cavern blooming with flowers.
+None : 实际上我也这么做了。我在开满鲜花的洞穴里，掐住百合的脖子杀死了她。
+
+None
+None : ゆりは首を絞められたときに、天使の正体を理解した。
+None : As she was being choked, she saw who the angel really was.
+None : 在被掐住脖子的时候，百合明白了天使的真实身份。
+
+None
+None : ゆりは抵抗をやめた。そのときのゆりの表情が……理解できなかった。
+None : And she stopped resisting. I couldn't understand her expression.
+None : 百合放弃了抵抗。那个时候百合的表情……我无法理解。
+
+None
+None : ゆりは笑ったのだ。私に向かって。
+None : Yuri was %i1smiling.%id She was looking directly at me and smiling.
+None : 百合笑了。对着我笑了。
+
+None
+None : 笑うゆりが理解できなかった。笑うゆりが憎かった。
+None : I couldn't understand how she could smile. I hated her for her smile.
+None : 我无法理解笑着的百合。我痛恨笑着的百合。
+
+None
+None : 最後まで私を劣等感に狂わせるゆりが憎かった。
+None : I hated her for driving me mad with feelings of inadequacy, even at the very end.
+None : 我痛恨着即使在最后也要让我在卑劣感中发狂的百合。
+
+None
+None : 私はその渦巻く感情のままに、首にかけた手に力を込めた。
+None : Those swirling emotions took hold, and I tightened my grip on her throat.
+None : 我任由感情在我心中翻腾，更用力地掐住了她的脖子。
+
+None
+None : ……ゆりの体から力が抜けた。
+None : ...And Yuri's body went slack.
+None : ……百合渐渐失去了力气。
+
+None
+None : 私はゆりを置いて、そのまま去った。どうせあとで、職員が死体を学校に運んでくる。
+None : I left Yuri there. I figured a faculty member would carry her body back later anyway.
+None : 我把百合丢在原地，就这样离开了。我想反正之后会有教职人员把尸体搬回学校的。
+
+None
+None : でもゆりはいなかった。
+None : But that isn't what happened.
+None : 但是百合没有被搬回来。
+
+None
+None : ゆりは生きていたのだ。
+None : Yuri lived.
+None : 百合活下去了。
+
+None
+None : そして私は、天使の資格を剥奪された。
+None : And I was stripped of my right to be the angel of death.
+None : 然后我被剥夺了天使的资格。
+
+None
+None : それから、何年も、何年も経過した。
+None : Years passed, and still more years passed.
+None : 那之后，又过了很多、很多年。
+
+None
+None : ずっと思い出すことがあった。私に首を絞められてどうして、ゆりは笑ったのだろうと。
+None : Yet there was one thing I could never get out of my mind. Why was it that Yuri smiled at me when I was choking the life out of her?
+None : 有件事始终在我的脑海里挥之不去。为什么被我掐住脖子的百合，会笑呢。
+
+None
+None : あのときの彼女の心を知りたかった。あのとき、ゆりが何を見たのか。知りたかった。
+None : I wanted to know what she was thinking. I wanted to know what she saw.
+None : 我想知道那个时候她心里的想法。那个时候，百合看到了什么。我想知道。
+
+None
+None : でも答が得られることはないと思っていた。
+None : But I thought I'd never be able to find that answer.
+None : 但是我想我应该是得不到答案了。
+
+None
+None : 聞く、チャンスはあったのだ。
+None : I %i1did%id have the chance to ask.
+None : 但、能让我问的机会来了。
+
+None
+None : 私たちは再会できたのだから。
+None : We were able to reunite, after all.
+None : 因为我们再次相遇了。
+
+None
+None : ねえゆり。あのとき、どうして笑ったの、ゆり。
+None : Yuri, why was it that you smiled at me back then?
+None : 百合啊。那个时候，你为什么笑了啊。
+
+None
+None : ただそう聞けばよかった。
+None : I should have just asked her upfront.
+None : 要是我直接这样问就好了。
+
+None
+None : ――でも、聞けなかった。
+None : But I didn't.
+None : ——但是，我没有问。
+
+None
+None : 私の心は、今も湖に沈んだあの場所に留まったまま。私の心は、子どものまま、すこしも成長できていない。
+None : My heart is still at the bottom of the lake with that facility. I haven't matured in the slightest since those days.
+None : 我的心，至今仍停留在沉入湖底的那个地方。我的心，依旧和孩童时一样，一点也没有成长。
+
+None
+None : 虚しい希望を胸に抱いて。\n過去に立ち止まったまま、現在を怖れ、未来に背を向けて。
+None : I held this empty hope in my heart. I stayed stock still in the past, terrified of the present, with my back turned on the future.
+None : 心中怀抱着虚无的希望。止步于过去，惧怕着如今，不敢正视未来。
+
+None
+None : どこにもいけなかった。
+None : I had nowhere to go.
+None : 一无是处。
+
+None
+None : 大人になったゆりは、変わらずゆりだった。
+None : Yuri was the same as always, even after all those years.
+None : 长大的百合仍旧是百合。
+
+None
+None : 明るく笑う、喜びに満ちた、ゆり。
+None : She smiled so brightly. She was brimming with so much joy.
+None : 灿烂的笑容中，充满了喜悦的百合。
+
+None
+None : ゆりは私を許していたけれど、私は自分を許せなかった。
+None : Yuri may have forgiven me, but I couldn't forgive myself.
+None : 即使百合能够原谅我，我也无法原谅我自己。
+
+None
+None : どうしても、過去の自分を許すことができなかった。いまだに暗い欲望を抱く、[いま,1]現在の私も。
+None : I couldn't forgive the person I was in the past, and I couldn't forgive the person I am now, who still clung to that dark desire to know.
+None : 我无论如何也无法原谅过去的自己。我也无法原谅至今扔抱有黑暗的欲望的，现在的我。
+
+None
+None : でも、ゆりは私が私を許せるようになったらまた会おうと約束した。
+None : But Yuri and I promised that we'd meet again once I'd learned to forgive myself.
+None : 但是，百合跟我约定如果我能原谅自己的话还会再跟我相会。
+
+None
+None : ゆりは私に何度も絵を送ってきて、その絵があまりにキラキラして眩しかったから。
+None : She sent me so many paintings. They were so bright and full of life.
+None : 百合一次又一次地向我送来了画，但是那些画实在是太耀眼了。
+
+None
+None : 眩しくて、私には見えない。何も見えない。
+None : They were too bright for me to see anything. I was blinded by them.
+None : 实在是太耀眼了，我看不见。什么也看不见。
+
+None
+None : それでも――
+None : And yet...
+None : 即便如此——
+
+None
+None : それでも、一度だけ血迷ってしまったことがある。
+None : Just once, I allowed the strangest fancy to overpower me.
+None : 即便如此，我还是有一次没能克制住自己。
+
+None
+None : 私とゆりの間にはもう見られない『明日』を、もしかしたら……と、思ってしまったことがある。
+None : I thought if I could see a vision of our tomorrow that we could no longer see... Maybe I would know.
+None : 我和百合之间已经无法看到的“明天”，说不定……我不禁有这样的想法。
+
+None
+None : だからお願いした。『明日』を送って欲しいと。
+None : That's why I asked her to paint it for me.
+None : 所以我向她请求了。希望她能把《明天》给我送来。
+
+None
+None : これ以上、ゆりに願う資格など、一つもないというのに。私は望んでしまったのだ。
+None : Even though I had no right to ask her for anything, I still asked her for this painting.
+None : 我没有向百合请求更多东西的资格。我期待着结果。
+
+None
+None : そして私は失敗した。私に『明日』は見られなかった。
+None : But it was a failure. I couldn't see 'tomorrow.'
+None : 但是我失败了。我没能看到《明天》。
+
+None
+None : だから最初の『明日』の絵を送り返して、もう送らないでいいと告げた。
+None : So, I returned the first painting of 'tomorrow' she sent me and told her not to send me another.
+None : 所以当最开始的《明天》送来的时候，我跟她说不用再送了。
+
+None
+None : でもゆりは送りつづけた。今度は、ゆりの思う『明日』――夜明けの絵を。
+None : But Yuri kept sending me more. This was a picture of what Yuri thought 'tomorrow' was—a painting of dawn.
+None : 但是百合还是一直向我送画。这次她给我送的，是她所认为的《明天》——《黎明》。
+
+None
+None : 毎年、送られてくる絵を見ては、首を振った。
+None : Every year, she'd send me a painting, and every year I could only shake my head.
+None : 每年我看到送来的画时，都会摇头。
+
+None
+None : どうしても見たくて、でも見られなくて。暗い欲望も、明日を見たい望みも、何ひとつ手放せなくて。
+None : I wanted to see her vision so badly, but I never could. I was no further from that dark desire or my longing to see tomorrow.
+None : 我无论如何都想看到，但是我看不到。无论是阴暗的欲望，还是对明天的期望，我一个也无法放弃。
+
+None
+None : そして、私が愚かしい私に囚われているうちに、ゆり、あなたは死んでしまった。
+None : And while I was trapped by my own stupidity... you left me, Yuri.
+None : 然后，当我被愚蠢的自我囚禁着的时候，百合，你就这样死了。
+
+None
+None : もう二度と『明日』は見られない。
+None : I would never see 'tomorrow' again.
+None : “明天”再无天日。
+
+None
+None : そう思った。
+None : At least, that's what I thought.
+None : 我想。
+
+None
+None : そのはずだった。
+None : That's how it should have been.
+None : 本应如此的。
+
+None
+None : だけど……
+None : But now...
+None : 但是……
+
+None
+None : あの花咲く洞窟を登った先の、暗く細い穴を抜けた先の、光景。
+None : It's a painting of the view you see after climbing from the narrow passage up from that flowering cavern.
+None : 爬上那个开满花的洞穴，穿过昏暗狭窄的通道的，那个景色。
+
+None
+None : よく覚えている。
+None : I remember it well.
+None : 我记忆犹新。
+
+None
+None : 何度も何度もこの光景を、見た。
+None : I saw it time and time again.
+None : 那个景色我看了一遍又一遍。
+
+None
+None : 彼女の通った道行きを辿り、洞窟から出て、夜明けに白く光る川も見た。
+None : I walked the path she walked, left the cavern, and saw the river shining with the dawn's light.
+None : 沿着她所走过的路，从洞穴中出去，在黎明时我看到了那洁白发光的河流。
+
+None
+None : でも、それだけだった。
+None : But that's all.
+None : 但，仅此而已。
+
+None
+None : 何度見ても、それは私にとってはただの風景だった。
+None : No matter how many times I saw it, it was nothing more than simple scenery to me.
+None : 我看了无数遍，但那对我来说不过只是单纯的风景罢了。
+
+None
+None : 私には関係のないものだった。
+None : It had nothing to do with me.
+None : 这片风景跟我无关。
+
+None
+None : だから私には見えなかった。
+None : That's why I couldn't see it.
+None : 所以我看不到。
+
+None
+None : けれど――でも……どうして……？
+None : So then... why...?
+None : 不过——但是……为什么……？
+
+None
+None : どうして……
+None : Why...?
+None : 为什么……
+
+None
+None : これは、あなたが送ってくれたものと同じ場所の絵。
+None : This is a painting of the same place you painted for me.
+None : 这个地方，跟你所送来的画上所画的地方是一样的。
+
+None
+None : なのに、何かが違う。あなたの絵とは決定的に何かが……
+None : But something's different. Something is decidedly different.
+None : 有什么，有什么是不一样的。跟你所画的画有着决定性的某种不同……
+
+None
+None : あなたの声が聞こえる。
+None : I can hear your voice.
+None : 我能听到你的声音。
+
+None
+None : さようなら愛しい人。私は生きる。
+None : %i1Farewell to the one I love. I will live on.
+None : 永别了，亲爱的人。我将活下去。
+
+None
+None : ああ――
+None : Ah...
+None : 啊——
+
+None
+None : 私はたくさん間違って、たくさんの罪を犯して……あなたを深く傷つけた。
+None : I made so many mistakes. I sinned so greatly... and I hurt you so deeply.
+None : 我错得太多，犯下了太深的罪了……对你造成了太大的伤害。
+
+None
+None : それなのに、あなたは私を許してくれた。けれど、私は私を許せなかった。
+None : Even so, you forgave me. Yet, I still couldn't forgive myself.
+None : 可你却原谅了我。但是，我无法原谅我自己。
+
+None
+None : 今ならわかる。私は私を許すべきだった。
+None : But I understand now. I should have forgiven myself.
+None : 现在我明白了。我应该原谅我自己的。
+
+None
+None : そして、もう一度はじめたいといってくれた、あなたの望みを叶えるべきだった。
+None : I should have granted your wish that we start over again.
+None : 然后，实现你想要重新开始的愿望。
+
+None
+None : あなたのために、私を許すこと。それこそが私のできる償いだった。
+None : I should have forgiven myself for your sake. That would have been enough in recompense.
+None : 为了你，我要原谅自己。这是我所能做到弥补。
+
+None
+None : ごめんなさい。
+None : I'm so sorry.
+None : 对不起。
+
+None
+None : あなたを傷つけてごめんなさい。
+None : I'm sorry I hurt you so much.
+None : 很抱歉伤害了你。
+
+None
+None : こんなに私は醜いのに。こんなに私は愚かなのに。
+None : Though I'm such a hideous person... Though I'm still so foolish...
+None : 我是如此的丑陋。我是如此的愚蠢。
+
+None
+None : なのに、あなたは、いいえ、あなたたちは……私に、この光景を見せてくれるのね。
+None : You... and your loved ones now, have come to show me this view.
+None : 然而，你却，不，你们却……想要让我看到这片风景。
+
+None
+None : ゆり、ゆり……
+None : Yuri... Yuri...
+None : 百合、百合……
+
+None
+None : 光にむかって駆けていくあなたの背中が見えるわ。
+None : I can see your back as you dash toward the light.
+None : 我能看见朝着光奔去的你的背影。
+
+None
+None : あなたは、ただ望むままに走っていったのね。どこまでもどこまでも、思うがままに……
+None : You would always run however you pleased. Now you run into forever, with nothing holding you back...
+None : 你只是任由自己随心所欲地奔跑着。无论去到何处，都自在地……
+
+None
+None : 光の道を、光さす方へ
+None : On this road of light, where the light guides you...
+None : 沿着光路，向着光射来的方向
+
+None
+None : ゆり――
+None : Yuri...
+None : 百合——
+
+None
+None : あなたが託した想いが、今、目の前にある。
+None : The feelings you wanted to share with me are now right before me.
+None : 你所托付给我的心意，现在就在我的眼前。
+
+None
+None : 私……
+None : And now...
+None : 我……
+
+None
+None : 『明日』を……ようやく見ることができたわ。
+None : I'm finally able to see... a vision of 'tomorrow.'
+None : 感觉快要能看到……“明天”了。
+

@@ -1,0 +1,495 @@
+夏夏
+夏夏 : 「はあ～……なんか情報過多で、ちょっと頭がくらくらしてます」
+Natsuka : "Hahh... There's so much information to process that I'm getting dizzy."
+夏夏 : "哈～……信息太多，脑袋都有点发晕了"
+
+夏夏
+夏夏 : 「恋って難しいんですね……リルヤさん」
+Natsuka : "Love is so complicated, isn't it, Lilja-san?"
+夏夏 : "恋爱，还真是复杂呢……丽露娅小姐"
+
+リルヤ
+リルヤ : 「あいつらが特に面倒なだけだろう。まったく非効率の極みだ」
+Lilja : "%i1Their%id relationship is needlessly complicated. It's the height of inefficiency."
+丽露娅 : "只是她们两个太麻烦了吧。完美诠释了什么叫做低效率"
+
+夏夏
+夏夏 : 「あのーリルヤさん」
+Natsuka : "Umm, Lilja-san?"
+夏夏 : "那个，丽露娅小姐"
+
+リルヤ
+リルヤ : 「なんだ？」
+Lilja : "What?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「さっきまひるさんが言っていたきっかけって、あのカエル騒ぎのことですよね」
+Natsuka : "The 'chance encounter' Mahiru-san was talking about was when those frogs fell from the sky, wasn't it?"
+夏夏 : "刚刚真昼小姐说的契机，是那场青蛙雨吧"
+
+リルヤ
+リルヤ : 「どうしてそう思う？」
+Lilja : "Why do you think so?"
+丽露娅 : "为什么这么觉得？"
+
+夏夏
+夏夏 : 「まひるさんから話を聞いたこともありますが、最初からすこしだけ気になっていたような気もします」
+Natsuka : "She said something to me a while back, and it's been on my mind this whole time."
+夏夏 : "我听真昼小姐说过，而且最开始我就有些比较在意的地方"
+
+夏夏
+夏夏 : 「興味本位のウォッチにしては、撮影現場にいた女優さんがカエルを苦手だっていう声がずいぶん優しかったなあって……」
+Natsuka : "She said she was into celebrity gossip, which is why she knew the actress didn't like frogs, but when she spoke, there was this strange gentle quality to her voice."
+夏夏 : "她说过观察只是兴趣之一，但她说身在摄影现场的女演员讨厌青蛙时声音很温柔……"
+
+リルヤ
+リルヤ : 「印象論でしかなく、論理の欠片もないが、得てしてそういう印象が、真実に直結することもままある」
+Lilja : "That's just your impression—not a shred of logic to be found. Yet such intuitive impressions are often directly connected to the truth."
+丽露娅 : "只靠自己的印象，毫无逻辑，但这种印象，时常会联结真相"
+
+夏夏
+夏夏 : 「リルヤさんは最初から気づいてたんですね？　あのカエル騒ぎの時点で、あのときの女優さんがまひるさんと関係があるって」
+Natsuka : "You knew it all along, didn't you? The moment those frogs fell, you realized the actress had something to do with Mahiru-san."
+夏夏 : "丽露娅小姐您一开始就发现了吧？　在那场青蛙雨时，就已经发现女演员和真昼小姐有关系了吧"
+
+リルヤ
+リルヤ : 「なぜ、あのタイミングで絵を依頼してきたか気になったからな」
+Lilja : "I was curious why she requested a painting when she did."
+丽露娅 : "因为我有点在意，她为什么在那个时候委托了我画画"
+
+リルヤ
+リルヤ : 「まひるは実際、私の絵にも、金にも興味がなかった。あの部屋で何も変わらない時間をすごすことを良しとしていた」
+Lilja : "She was never interested in my paintings, nor in money. She was happy to spend all her time in her room without any excitement."
+丽露娅 : "真昼她对我的画也好，对钱也没有兴趣。她只要能在那个房间里过着一成不变的时光就足够了"
+
+リルヤ
+リルヤ : 「お前の見る世界、必要以上の情報が私に『光』をもたらすためには、必要な情報を得ることは最低条件だからな。だから、調べた」
+Lilja : "In order for you to gather information beyond what's necessary and bring me the 'light,' I needed the necessary information first. So, I did some research."
+丽露娅 : "我要从你看到的世界、超乎必要以上的信息中获得‘光芒’，最基本的前提条件是得到必要的信息。所以我去查了一下"
+
+リルヤ
+リルヤ : 「まひるはあの撮影現場にいた女優がカエルが苦手だといっていたが、ネット上で調べても彼女がカエルが苦手という情報は出てこなかった」
+Lilja : "Mahiru knew the actress disliked frogs, but I couldn't find even a hint of that on the internet."
+丽露娅 : "真昼说在那个摄影现场的女演员讨厌青蛙，但我在网上找了半天也没有出现那个女演员讨厌青蛙的消息"
+
+リルヤ
+リルヤ : 「だとしたら、まひるは件の女優がカエルが苦手だという情報をどこから手に入れたのか？」
+Lilja : "Given that, where could she possibly have gotten that information?"
+丽露娅 : "如此一来，真昼是怎么知道那个女演员讨厌青蛙呢？"
+
+リルヤ
+リルヤ : 「こうした疑問の筋道を考える場合、最初は単純に考えるのが良い」
+Lilja : "When musing on questions like that, it's best to keep your thoughts simple at first."
+丽露娅 : "思考这种问题的时候，一开始就应该从简单的推测着手"
+
+リルヤ
+リルヤ : 「つまりまひると女優――透月夜は、知り合いだった、しかも、かなり親しい友人……あるいは友人以上の関係だったという線だ」
+Lilja : "The most obvious answer would be that Mahiru and the actress—Togetsu Yoru—are personally acquainted, and that they're quite close... More than just friends, perhaps."
+丽露娅 : "也就是说真昼与女演员——透月夜其实是熟人，而且还是相当亲密的朋友……或是超乎朋友关系以上的关系这条线"
+
+リルヤ
+リルヤ : 「そこから調べを進めたらあとは簡単だった。夜とまひるは、かつて同じ大学に在籍し、ほとんど同じタイミングで大学を辞めていた」
+Lilja : "From there, it's easy to fill in the gaps with some additional research. Yoru and Mahiru were enrolled at the same university together, and they both dropped out around the same time."
+丽露娅 : "顺着这条线进行调查之后就简单了。夜与真昼曾就读同一所大学，而且几乎同时办理了退学手续"
+
+リルヤ
+リルヤ : 「そここという名義で、夜を撮った写真集を出し、ドローンを使って夜を撮影した動画をアップしていた」
+Lilja : "Mahiru, under the Sokoko moniker, was uploading photos and drone videos she took of Yoru around that time as well."
+丽露娅 : "然后她以马虎虎的名义上传拍摄了夜的相片集，而使用无人机拍摄的夜的视频也上传到了网上"
+
+リルヤ
+リルヤ : 「アカウントは既にないが、一度アップされた動画や写真は、残りつづけるものだ」
+Lilja : "Her account doesn't exist anymore, but once something has been uploaded to the internet, it will continue to exist there forever."
+丽露娅 : "虽然账户已经不存在了，但上传过的视频和照片都还留着"
+
+リルヤ
+リルヤ : 「良いか悪いかは置いておいて、今は誰もが気軽に拡散できるツールを手にしている」
+Lilja : "Putting aside the question of whether that's a good thing or not, the internet is a tool that allows anybody to spread information easily."
+丽露娅 : "先不论这是好是坏，现在谁手上都有能轻松扩散信息的手段"
+
+リルヤ
+リルヤ : （だからこそ、あの販促ＤＶＤの動画がアップロードされていなかったことにある種の感嘆を覚えたのだが……）
+Lilja : (That's exactly why I was astonished to discover that promo DVD of Yoru had never been uploaded online.)
+丽露娅 : （正因为如此，那个促销DVD的视频没有上传到网上一事，让我有点感慨……）
+
+リルヤ
+リルヤ : 「ストーカーの事件も、警察に繋ぎをつけるまでもなく、新聞ネットその他の情報だけで、必要な情報は入手できた」
+Lilja : "Regarding the stalker incident, I was able to obtain the necessary information from online newspapers and other readily available sources—there was no need to contact the police."
+丽露娅 : "那个跟踪狂事件也是，完全不需要靠警察的协助，光靠报纸和网络以及其他的情报源，就能轻松得到必要的信息"
+
+リルヤ
+リルヤ : 「前回は依頼人からの情報だけでほぼ必要な情報は入手できたが、私が欲しい必要な情報をまひるから引き出すのは、非効率的と判断した」
+Lilja : "For the last request, I was able to extract all the necessary information from the client herself, but this time I determined it would be too inefficient to try to obtain it all from Mahiru herself."
+丽露娅 : "上一次我光凭委托人提供的信息就几乎完成了准备工作，不过这次我认为，光从真昼嘴里套出我想要的信息，是相当没效率的"
+
+リルヤ
+リルヤ : 「もちろんまひるから聞く情報には意味があるがな。だが、ただの事実だけでは、私の『光』はもたらされない。まひるからの情報だけでもな」
+Lilja : "Of course, the information gained from Mahiru is meaningful, but the bare facts aren't enough to bring me the 'light'—even if they came straight from her."
+丽露娅 : "当然，从真昼嘴里问出的信息也是有意义的。但是，仅凭单纯的事实，是无法为我带来‘光芒’的。只有真昼提供的信息也无法办到"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "I see!"
+夏夏 : "是的！"
+
+リルヤ
+リルヤ : 「……ところで、夏夏」
+Lilja : "By the way, Natsuka..."
+丽露娅 : "……话说回来，夏夏"
+
+夏夏
+夏夏 : 「はい？」
+Natsuka : "What?"
+夏夏 : "嗯？"
+
+リルヤ
+リルヤ : 「空から、何か落ちてきているようだが」
+Lilja : "There seems to be something raining down from the sky."
+丽露娅 : "好像有什么东西，从天上掉下来了"
+
+夏夏
+夏夏 : 「えっ？　あっ、ほんとです！！」
+Natsuka : "Huh? Oh, you're right!!"
+夏夏 : "哎？　啊，真的耶！！"
+
+夏夏
+夏夏 : 「ああー！？　なんかいっぱい降ってきてますまさかまたカエル！？？　まずいです、天井を締めないと……！」
+Natsuka : "Ohh!? There's lots of stuff falling!? Don't tell me it's frogs again!? Oh no, we have to close the skylight...!"
+夏夏 : "哇啊啊！？　好像有不少东西掉下来了难道又是青蛙！？？　糟了，得赶快把天花板关上……！"
+
+夏夏
+夏夏 : 「――わあ！」
+Natsuka : "Whoa!"
+夏夏 : "——哇！"
+
+夏夏
+夏夏 : 「リルヤさん！　カエルじゃないです！　飴です！　キャンディです！　キラキラの宝石みたいな飴が降っています！！」
+Natsuka : "Lilja-san! They're not frogs! They're candy! Hard candy! They're all sparkly, like diamonds falling from the sky!!"
+夏夏 : "丽露娅小姐！　不是青蛙！　是糖！　糖果！　好多像宝石一样的糖掉下来了！！"
+
+リルヤ
+リルヤ : 「まひるだな」
+Lilja : "This must be Mahiru's doing."
+丽露娅 : "真昼干的吧"
+
+夏夏
+夏夏 : 「まひるさん？　あっ、もしかしてさっきいっていたお礼ってこれなんですかね！？」
+Natsuka : "Mahiru-san? Oh, she did say she had a little something for us! Could this be it!?"
+夏夏 : "真昼小姐？　啊，难道刚才她说的礼物就是指这个！？"
+
+夏夏
+夏夏 : 「すごいです！　いっぱいいっぱい降ってきます！　かき集められるくらいです……！！」
+Natsuka : "That's incredible! It just keeps raining candy! We could sweep them up together and swim in them...!"
+夏夏 : "好厉害！　好多好多糖掉下来！　都能堆成小山了……！！"
+
+夏夏
+夏夏 : 「ただいま戻りました！」
+Natsuka : "I'm back!"
+夏夏 : "我回来了！"
+
+夏夏
+夏夏 : 「はい、リルヤさん！！」
+Natsuka : "Here you go, Lilja-san!!"
+夏夏 : "来，丽露娅小姐！！"
+
+夏夏
+夏夏 : 「膝にいっぱい乗せました。すごく綺麗な飴です。宝石みたいです。リルヤさんの膝が宝石箱みたいになっちゃいました」
+Natsuka : "I put lots of candy in your lap. They're really pretty, like diamonds. Your lap looks like a jewelry box."
+夏夏 : "我把糖放在您的膝上了。这些糖都好漂亮。像一颗颗宝石呢。感觉丽露娅小姐的膝上像是宝石箱呢"
+
+夏夏
+夏夏 : 「個包装されてますから、プールに落ちた分もあとで拾ってきますね。ひとつ剥いて……はい、リルヤさんどうぞ」
+Natsuka : "They're individually wrapped, so I'll fish out the ones that fell into the pool later. Let me unwrap one for you... Here you go, Lilja-san."
+夏夏 : "这些糖是散装的，有些掉到泳池里了，那些我之后再去捡。先打开一个……来，丽露娅小姐，拿好哦"
+
+None
+None : 夏夏がリルヤの手のひらに宝石のような飴をひとつ乗せる。
+None : Natsuka places one of the sparkly, colorful candies in the palm of Lilja's hand.
+None : 夏夏往丽露娅的手里放了一块宝石一般的糖。
+
+夏夏
+夏夏 : 「おいしいです！　こんな綺麗でかわいいものが空から降ってくるのはいいですね。飴の雨が降るなんて、まるで童話の世界みたいです」
+Natsuka : "It's yummy! Isn't it wonderful how these cute and pretty candies just came raining from the sky like that? It's like something straight out of a fairy tale!"
+夏夏 : "很好吃哦！　这么漂亮又可爱的东西从天上掉下来，真是太美妙了。糖果雨，我们就好像在童话世界里一样！"
+
+夏夏
+夏夏 : 「お菓子の国ならばきっと、色とりどりの宝石の飴が降りますよね？　わたしが子どもだったら大喜びです。あ、今も大喜びしてますが！」
+Natsuka : "In the Land of Sweets, I bet it rains colorful candies every day! If I were a child, that would make me so happy! Oh, but I'm happy now, too."
+夏夏 : "要是在糖果王国的话，天上也会有五颜六色的宝石糖掉下来吧？　我要是小孩子的话肯定高兴坏了。啊，当然现在也很高兴！"
+
+リルヤ
+リルヤ : 「そうだな。美しい形だ」
+Lilja : "I agree. They're beautifully shaped."
+丽露娅 : "是啊，这形状很漂亮"
+
+None
+None : リルヤが、宝石の形をした飴の輪郭を確かめるように指を動かす。
+None : Lilja traces the contours of the candy Natsuka placed in her palm with her fingertips.
+None : 丽露娅用手指摸索着宝石形状的糖果的轮廓。
+
+リルヤ
+リルヤ : 「ハートのブリリアントカットだな」
+Lilja : "They're shaped like heart-cut diamonds."
+丽露娅 : "是心型的明亮式切割吧"
+
+リルヤ
+リルヤ : 「香りは、人工フレーバーの苺だな。味も人工のいわゆる苺味だな。自然の苺とはほど遠いが、これはこれで完成された味だ」
+Lilja : "It smells like artificial strawberry flavor. I bet that's exactly what it tastes like. It's a far cry from real, fresh strawberries, but it's a flavor that's been perfected in its own way."
+丽露娅 : "这香味，是草莓味的人工香料啊。味道也应该是人造的所谓草莓味吧。和自然界的草莓味道相差甚远，但这也是一种完成了的味道"
+
+リルヤ
+リルヤ : 「聴覚、嗅覚、触覚……視覚以外の感覚で、私はこの飴を感じることができる。だから、どんな形をしているのか容易に想像できる」
+Lilja : "My senses of hearing, smell, and touch allow me to experience the candy and imagine what it looks like without seeing it."
+丽露娅 : "听觉、嗅觉、触觉……我可以用视觉以外的感觉，去感受这个糖。所以我也可以很轻松地想象出来它是什么形状"
+
+リルヤ
+リルヤ : 「だが、私は飴が降ってきても、童話の世界のできごとを夢想はしない。それが私とお前の見る世界の違いだ」
+Lilja : "However, I don't dream of a fairytale world where candy rains down upon me. That's the difference between my world and yours."
+丽露娅 : "但是，就算有糖掉在了我的头上，我也无法去幻想童话世界。这就是你和我看到的世界的区别"
+
+夏夏
+夏夏 : 「わたしの方がきっと発想が単純なんでしょうね」
+Natsuka : "My thoughts must be a lot simpler than yours."
+夏夏 : "我肯定是想法更加单纯吧"
+
+リルヤ
+リルヤ : 「ある意味ではな。私ももちろん考えないわけではない。だが、お前が語るからこそ、その想像は鮮やかな色をもって私の心に迫る」
+Lilja : "In a way, perhaps. My head isn't completely empty. But the way you speak brings my imagination to life in vivid colors."
+丽露娅 : "某种意义上来说的确如此。当然，我也不是完全不会去幻想。但是，正因为有你的描述，那份想象才会带着鲜艳的颜色冲击我的心灵"
+
+夏夏
+夏夏 : 「リルヤさん……」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐……"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : 「リルヤさん、わたし今回ですごく自分の力不足を痛感しました。もっとおおきくなりたいってすごく思いました」
+Natsuka : "Lilja-san, I got really upset with myself for being so powerless this time. I wished that I could be a bigger help."
+夏夏 : "丽露娅小姐，在这次事件里，我深刻感觉到了自己能力的不足。我希望自己能够成长"
+
+夏夏
+夏夏 : 「もっとおおきくなるって、もちろん身長のことじゃないですよ？　そうじゃなくて……」
+Natsuka : "Oh, when I say 'bigger,' I'm not talking about literal size or height..."
+夏夏 : "当然，这个‘成长’，指的不是身高哦？　指的是……"
+
+夏夏
+夏夏 : 「リルヤさんと同じ高さから世界が見たいんです」
+Natsuka : "I mean, I wish I could look at the world on the same level as you."
+夏夏 : "我想要和你站在同样的高度看这个世界"
+
+リルヤ
+リルヤ : 「それは――」
+Lilja : "That's—"
+丽露娅 : "那是——"
+
+夏夏
+夏夏 : 「もちろん、すごい大それたことを言っているのは理解しているつもりですよ！？　でも、でも、そうなりたいんです、わたし！」
+Natsuka : "Oh, I know it's a really lofty idea I'm talking about, but I still wish I could!"
+夏夏 : "当然我也明白，自己说的话有多么狂妄自大哦！？　但是，但是，我希望自己能够成为那样的人！"
+
+夏夏
+夏夏 : 「今のわたしには見えないもの……それをわたしも見たいなって」
+Natsuka : "There's many things I can't see from where I stand right now... So I wanna see them."
+夏夏 : "我想要去看看……现在的我还看不到的东西"
+
+夏夏
+夏夏 : 「奇麗は汚い、汚いは奇麗。きっと世界は、宝石みたいに沢山の面を持っていて、見る角度によって綺麗になったり汚くなったりする」
+Natsuka : "Fair is foul, and foul is fair... I think the world has just as many sides to it as a diamond does, and it can look either beautiful or ugly depending on the angle you look at it from."
+夏夏 : "美即丑恶，丑即美。这个世界，肯定和宝石一样，有很多的面。观察的角度不同，它可能是美丽，可能是丑恶"
+
+夏夏
+夏夏 : 「まひるさんは、自分の恋心を醜いっていったけれど、わたしにはそう見えませんでした」
+Natsuka : "Mahiru-san said her love was ugly, but it didn't look like that to me."
+夏夏 : "真昼小姐说，自己的恋心非常丑陋，但我并不那么认为"
+
+夏夏
+夏夏 : 「でもどっちも本当だと思うんです。まひるさんの恋心は、醜くもあるけど美しくもある」
+Natsuka : "Both of our perspectives are valid, though. Mahiru-san's love is both ugly and beautiful."
+夏夏 : "其实我也觉得，两种说法都是正确的。真昼小姐的恋心，既是丑陋的也是美丽的"
+
+夏夏
+夏夏 : 「世界をもっとちゃんと見たいんです。そのうえで、わたしはこういう風に世界を見るんですって、言えるようになりたいんです」
+Natsuka : "So I want to have a better look at the world. Then, one day, I want to be able to explain what the world looks like to me exactly."
+夏夏 : "我想要看到更多世界的样貌。然后在此之上，说出我所看到的世界"
+
+夏夏
+夏夏 : 「だって、わたしは単純すぎるから！」
+Natsuka : "I mean, I'm too simple!"
+夏夏 : "因为我非常单纯嘛！"
+
+夏夏
+夏夏 : 「今はいいんですけど、でもいつかリルヤさんはつまらなくなっちゃう。飽きてしまう」
+Natsuka : "Maybe it's okay now, but I'm afraid you'll get bored of me, Lilja-san."
+夏夏 : "现在可能还没什么问题，但总有一天您会觉得我无聊，厌烦我"
+
+夏夏
+夏夏 : 「だって、リルヤさんは言いました。リルヤさんは自分自身に飽きているって、自分の合理性に飽きているって」
+Natsuka : "You said you got bored of %i1yourself%id for being too rational, after all."
+夏夏 : "因为丽露娅小姐说过。说对自己已经感到厌烦了，说对自己的合理性感到厌烦了"
+
+夏夏
+夏夏 : 「リルヤさん自身がリルヤさんを満足させられないなら、わたしだっていつかはそうなるはずです！」
+Natsuka : "If not even %i1you%id can satisfy your senses, then how could %i1I%id possibly be good enough!?"
+夏夏 : "既然连您自己都无法满足自己，那总有一天我也会落到同一个下场"
+
+夏夏
+夏夏 : 「わたしが世界を見る行為が、認識が、いつまでもワンパターンだったら、飽きちゃうと思うんです！」
+Natsuka : "If the way I look at the world always falls into the same pattern, I'm sure you're going to get bored with me!"
+夏夏 : "要是我对世界的观察、认知，永远都只有一种模式的话，我想您肯定会厌烦的！"
+
+夏夏
+夏夏 : 「リルヤさんがつまらなくならないように、リルヤさんが飽きないように、リルヤさんが楽しくなるように――」
+Natsuka : "I don't want you to get bored. I want you to enjoy yourself, which is why..."
+夏夏 : "为了不让丽露娅小姐您感到无趣，为了不让您感到厌烦，为了让您能感到开心——"
+
+夏夏
+夏夏 : 「わたしは世界を見たいんです。語りたいんです」
+Natsuka : "I want to go out and see the world and then talk about it!"
+夏夏 : "我想多见见这个世界，想多讲述讲述我眼中的世界"
+
+夏夏
+夏夏 : 「リルヤさんのいる場所と同じ高さで、同じ深さで世界を見ることができたら……わたしも楽しいなって思うんです」
+Natsuka : "I want to see the world from the same height and with the same depth as from where you stand... I think that would be fun."
+夏夏 : "要是我能在您那样的高度，以同样深刻的角度看这个世界……我应该也会觉得很开心吧"
+
+夏夏
+夏夏 : 「リルヤさんと同じ場所から世界を見たとしても、わたしが見たらそれは違う世界に、景色になるはずですから！」
+Natsuka : "Even if I could see the world from the same place as you, I'm sure I would see a different world and different scenery than you!"
+夏夏 : "因为就算我站在和您同样的地方看这个世界，我所看到的也肯定是不一样的世界、不一样的景色！"
+
+夏夏
+夏夏 : 「だからわたしはもっと色々な世界を見られるようになりますね」
+Natsuka : "That's why I want to be able to look at the world from all sorts of perspectives, and I'll do my best to learn how to."
+夏夏 : "所以我要努力去看到更多各种各样的世界"
+
+夏夏
+夏夏 : 「沢山のことを知れば知るほど、迷いも多くなると思います」
+Natsuka : "I'm sure that the more I learn, the more confused I'll get."
+夏夏 : "知道的事情越多，迷茫也会变多"
+
+夏夏
+夏夏 : 「今回の依頼で、夜さんの言葉とまひるさんの言葉だけでも、わたしはぐらぐらしちゃいましたから……」
+Natsuka : "Working on Mahiru's request, Yoru-san's and Mahiru-san's stories were already enough to make my head spin..."
+夏夏 : "在这次的委托里，光是夜小姐的话和真昼小姐的话，就已经把我搞得摸不着头脑了……"
+
+夏夏
+夏夏 : 「だからぐらぐらしないように、色々なことを考えて、色々なことを感じて、色々なことを知りたいです！！」
+Natsuka : "But that's why I want to learn—so that I won't get dizzy anymore when I think about lots of things and experience lots of feelings!"
+夏夏 : "所以为了今后不重蹈覆辙，我要去思考、去感受、去了解各种各样的事物！！"
+
+夏夏
+夏夏 : 「だって、世界は刻一刻と色を変えているから！　それをリルヤさんにいつだって新鮮な気持ちで、わたしの感動を、見せたいんです！」
+Natsuka : "The world changes colors every minute, after all! I want to show those changes to you while feeling refreshed, so that we can share the same excitement!"
+夏夏 : "因为世界是瞬息万变的！　我想把我在这个世界里的所想所感，总是第一时间告诉你！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「夏夏」
+Lilja : "Natsuka."
+丽露娅 : "夏夏"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah?"
+夏夏 : "我在！"
+
+リルヤ
+リルヤ : 「飴を食べるか？」
+Lilja : "Do you want some candy?"
+丽露娅 : "吃糖吗？"
+
+夏夏
+夏夏 : 「はいっ、食べます！」
+Natsuka : "I do!"
+夏夏 : "嗯，要吃！"
+
+夏夏
+夏夏 : 「んぐっ、もぐっ、んぐぐっ……！？　飴っ、口のなひゃっ、いっぱふぃになってまふぅ……！？」
+Natsuka : "Nom, nom, mmmm...!? My mouf is aww fiwwed wif candy!"
+夏夏 : "嗯，呣，嗯……！？　糖把，嘴里，塞满了……！？"
+
+リルヤ
+リルヤ : 「夏夏。世界はときに恐ろしく複雑だ。知れば知るほど、見えれば見えるほど、混乱し、太刀打ちできなくなる可能性もある」
+Lilja : "Natsuka, the world is a complicated place, terrifyingly so. The more you learn, and the more you see, the more confused you get. You may be biting off more than you can chew."
+丽露娅 : "夏夏，有些时候，世界是复杂得令人感到可怕的。知道的越多，能够看到的越多，更有可能产生混乱，无法直面这些"
+
+夏夏
+夏夏 : 「そふぇふぁ……わらひの口のなかにある飴みたいなものふぇふか？」
+Natsuka : "Fweh... wike da candy in mah mouf?"
+夏夏 : "这是……就像我嘴里这些糖吗？"
+
+リルヤ
+リルヤ : 「だがそれでも……私は、お前の成長に期待しよう」
+Lilja : "Still, I expect great growth from you."
+丽露娅 : "不过即便如此……我也会期待你的成长"
+
+夏夏
+夏夏 : 「えへへ、ありがとうござふぃますっ」
+Natsuka : "Hehehe, fwank you!"
+夏夏 : "嘿嘿，非常感谢"
+
+夏夏
+夏夏 : 「わたふぃもおかえししまふね……ちょっとまっふぇくらふぁい……いっぱいいっぱいある飴の山からひとつを……ん、これがいいです！」
+Natsuka : "Lemme give you some, too, just a sec... I'll pick one from the pile of candy here, and... Here, this one!"
+夏夏 : "我也要喂您吃一颗……请稍等一下……从这巨大无比的糖山里拿一颗……嗯，这颗不错！"
+
+夏夏
+夏夏 : 「これが一番きれいで、おいしそうな気がします！」
+Natsuka : "I feel like this is the prettiest and yummiest one!"
+夏夏 : "这是我觉得最好看，最好吃的一颗糖哦！"
+
+None
+None : リルヤが見えない目をみひらいて、それから笑みを浮かべる。
+None : A spark lights up in Lilja's unseeing eyes, and a smile forms on her lips.
+None : 丽露娅睁开了失明的双眼，接着浮现出了笑容。
+
+リルヤ
+リルヤ : 「……ああ、そうだな」
+Lilja : "Yes, I believe you."
+丽露娅 : "……嗯，是啊"
+
+夏夏
+夏夏 : 「リルヤさん、はい、あーんです」
+Natsuka : "Lilja-san, say 'ahhh!'"
+夏夏 : "丽露娅小姐，来，张嘴"
+
+リルヤ
+リルヤ : 「ん」
+Lilja : "Mm..."
+丽露娅 : "嗯"
+
+夏夏
+夏夏 : 「おいしいですか？」
+Natsuka : "Is it good?"
+夏夏 : "好吃吗？"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Yes..."
+丽露娅 : "嗯"
+
+None
+None : 夏夏がくれた飴が、リルヤの口のなかでほどけるように溶け、甘さが広がっていく。
+None : The candy Natsuka gave her slowly spreads its sweetness as it melts in Lilja's mouth.
+None : 夏夏给的糖果，在丽露娅的嘴里逐渐溶解，甜味扩散开来。
+
+None
+None : それは、先ほどリルヤが食べた苺と同じ味だった。
+None : It's an artificial strawberry flavor—the same as the one Lilja had earlier.
+None : 这和先前丽露娅自己吃的糖是同样的草莓味。
+
+None
+None : だが、その飴の味が、同じであって同じでないことを、リルヤはちゃんと知っている。
+None : However, Lilja knows that while it may be the same flavor, it tastes different this time.
+None : 但是丽露娅很清楚，味道虽然一样，但是也不一样。
+

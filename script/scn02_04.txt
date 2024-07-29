@@ -1,0 +1,655 @@
+夏夏
+夏夏 : （え、えーと……？？？？）
+Natsuka : (Ummm...?)
+夏夏 : （咦、咦……？？？？）
+
+夏夏
+夏夏 : （館の玄関でメイドさんに事情を説明したら、お庭に連れてこられて、そんでもってお茶することになっちゃったんですけど！？）
+Natsuka : (I explained to the maid who opened the door who I am and why I'm here, and then she showed me to the garden for tea with the lady of the house!)
+夏夏 : （跟门口的女仆小姐说明情况之后就被带到中庭，结果还喝上茶了！？）
+
+夏夏
+夏夏 : （こんな正式なお茶会ってはじめてなので、わたし、むちゃむちゃ緊張してますー！）
+Natsuka : (I've never been to a formal tea party like this before. I'm getting super nervous!)
+夏夏 : （我还是第一次参加这么正式的茶会，好紧张！）
+
+夏夏
+夏夏 : （リルヤさんとついでにりるりゃさんについても説明して、アプリでリルヤさんとお話もしてもかまわないって言ってもらいましたので、そこは一安心なのですが……）
+Natsuka : (I told them about Lilja-san and Li'l Ya-san, and they said they didn't mind me keeping the call connected, so that's a relief...)
+夏夏 : （跟委托人说明了丽露娅小姐以及丽露喵的情况之后，她说隔着应用与丽露娅小姐聊天也无所谓，这倒是让我放下心了……）
+
+夏夏
+夏夏 : （追い出されることはあっても、歓迎されるとは思ってなかったので、ちょっとびっくりです）
+Natsuka : (I was prepared to be driven away, but I wasn't prepared for %i1this!%id I'm surprised by this hospitality.)
+夏夏 : （不过还是吓了一跳。我有过被赶出门的经历，但没想到会被欢迎啊）
+
+真璃子
+上品そうな少女 : 「…………」
+Young Lady : "..."
+教养良好的少女 : "…………"
+
+夏夏
+夏夏 : （すごく上品そうな方ですね……リルヤさんとは違うタイプですが、お姫様みたいです）
+Natsuka : (She looks like a real lady... Her vibe is different from Lilja-san's, but she's like a princess.)
+夏夏 : （好有教养的女士……像是和丽露娅小姐不同风格的公主殿下）
+
+真璃子
+上品そうな少女 : 「空木夏夏さんでしたね。夏夏さんとお呼びしてよろしくて？」
+Young Lady : "Utsugi Natsuka-san, was it? May I call you Natsuka-san?"
+教养良好的少女 : "您就是空木夏夏小姐对吧。能叫您夏夏小姐吗？"
+
+夏夏
+夏夏 : 「あ、はい！　もちろんです！　ええと、あなたのお名前は……」
+Natsuka : "Oh, yes! Of course! Um, and your name's...?"
+夏夏 : "啊，可以！　这是当然！　那个，您的名字是……"
+
+真璃子
+上品そうな少女 : 「[はねがさき,2]羽ヶ崎[まりこ,2]真璃子と申しますわ。こんな山奥の館に、遠路はるばるよくいらしてくれましたわね、夏夏さん」
+Young Lady : "I'm Hanegasaki Mariko. Thank you so much for coming all the way out here, Natsuka-san."
+教养良好的少女 : "我叫羽崎真璃子。辛苦您远道而来访问这所深山洋馆，夏夏小姐"
+
+夏夏
+夏夏 : （羽ヶ崎！！　ということは、お姫様みたいどころか、本物の華族のお姫様ですね！！？）
+Natsuka : (Hanegasaki! I already thought she had a noble air about her, but she's a pretty much a princess from a noble family!!)
+夏夏 : （羽崎！！　也就是说，不是看上去像公主殿下，而是货真价实，华族的公主殿下啊！！？）
+
+夏夏
+夏夏 : 「いえ、こちらこそ、何の連絡もなく突然おじゃましたのにもかかわらず、こんな風に迎えてくださって、ありがとうございます」
+Natsuka : "The pleasure's all mine. Thank you so much for inviting me in even though I came without any notice."
+夏夏 : "不敢当，我这边才应该感谢您，在未打招呼的情况下能得到这样的迎接"
+
+真璃子
+真璃子 : 「貴女がこの館にいらした事情については、メイドから聞きましたわ」
+Mariko : "The maid has told me why you're here."
+真璃子 : "我从女仆那里听来的，说是您已经抵达这座洋馆了"
+
+真璃子
+真璃子 : 「不思議なこともあるものですわね……手紙なら配達が遅れる可能性もあるけれど、メールでしょう？」
+Mariko : "It's a strange thing, isn't it? Had it been a letter, there could have been a delay in delivery, but it was an email, you said?"
+真璃子 : "真是不可思议……书信的话有可能会有延迟，但那是电子邮件吧？"
+
+真璃子
+真璃子 : 「善乃はもう、この世からいなくなってしまったのに……」
+Mariko : "Yoshino is no longer with us, so..."
+真璃子 : "明明善乃已经不在这个世界上了……"
+
+夏夏
+夏夏 : 「善乃さんのこと、お悔やみ申しあげます」
+Natsuka : "I'm so sorry for your loss."
+夏夏 : "请您节哀顺变"
+
+真璃子
+真璃子 : 「ええ。久住善乃は、交通事故で儚くなりました」
+Mariko : "It was a traffic accident. Kuzumi Yoshino met an untimely end."
+真璃子 : "嗯。久住善乃因交通事故离开了人世"
+
+真璃子
+真璃子 : 「不幸は重なるものと言いますが、そのときに、私の妹も同乗しておりまして……一命は取り留めたものの、大怪我を負ってしまいましたの」
+Mariko : "Misfortunes never come singly. My younger sister was in the car with her... She survived, but she was seriously injured."
+真璃子 : "有道是祸不单行，交通事故发生之时，我的妹妹也在车上……尽管留得一命，但还是受了重伤"
+
+夏夏
+夏夏 : 「大怪我をですか……」
+Natsuka : "I'm so sorry to hear that..."
+夏夏 : "重伤吗……"
+
+真璃子
+真璃子 : 「ええ。それでも[みやこ,2]美彌子が一命を取り留めたのは、善乃がその身を挺して守ってくれたからだそうですわ」
+Mariko : "I was told Miyako survived because Yoshino risked her life to save her."
+真璃子 : "是啊。即便如此美弥子还是活了下来，善乃用身躯保护了她"
+
+真璃子
+真璃子 : 「久住家は、代々羽ヶ崎家に主治医として仕えており、元より非常に忠義に厚い家系でした」
+Mariko : "The Kuzumi family has served generations of Hanegasakis as our family doctors, and they have always been extremely loyal."
+真璃子 : "久住家，作为世世代代羽崎一族的主治医生，本就是于我们忠心耿耿的家系"
+
+真璃子
+真璃子 : 「何かあったときは何を犠牲にしても羽ヶ崎家に尽くさなくてはならないの、と、善乃も冗談交じりによく話しておりましたのよ」
+Mariko : "Yoshino often used to joke that if anything happened to us, she would sacrifice everything to save us."
+真璃子 : "善乃经常半开玩笑地说，要是出了什么事，不管牺牲什么都要向羽崎一族尽忠"
+
+真璃子
+真璃子 : 「今となっては、冗談事ではなくなってしまいましたが、私の大切な妹を守ってくれたこと、善乃にはとても感謝しておりますのよ」
+Mariko : "It's no longer a joke now. I'm tremendously grateful to Yoshino for protecting my dear little sister."
+真璃子 : "到现在已经不再是玩笑了，但对于保护了我重要的妹妹一事，我非常感激善乃"
+
+真璃子
+真璃子 : 「ですが、久住家の現当主は、このたびの事故で、娘の弔事よりも妹の怪我に非常な責任を感じ……」
+Mariko : "The current head of the Kuzumi family seems to feel responsible for Miyako's injuries, even though they lost a daughter as well..."
+真璃子 : "不过，久住家现任家主对这次事故，比起凭吊女儿更担心我的妹妹……"
+
+真璃子
+真璃子 : 「妹の静養のために、この久住家の別荘を使って欲しいと懇願されましたの」
+Mariko : "They practically begged us to come stay at the Kuzumi family's villa so my sister could rest and recuperate."
+真璃子 : "为了让我的妹妹休养，他说什么也要将这幢久住家的别墅留给我们当休养所"
+
+真璃子
+真璃子 : 「久住家からは、もっと沢山の看護師やお手伝いを用意させて欲しいとの申し出もありましたが……」
+Mariko : "They also insisted on sending more nurses and maids to help us during our stay, but..."
+真璃子 : "不过，虽然久住家说想提供更多的护士和佣人……"
+
+真璃子
+真璃子 : 「妹が事故のショックと怪我の影響で神経が過敏になっていることもあって、あまり人が多いのを嫌がりましたの」
+Mariko : "My sister gets nervous when there are too many people around. She still hasn't recovered from the shock of the accident."
+真璃子 : "但家妹因事件带来的冲击导致有点神经过敏，讨厌人多"
+
+真璃子
+真璃子 : 「ですから、こちらの家政婦が一人と、妹にずっと仕えていたメイドとこの別荘を管理している庭師の夫婦……」
+Mariko : "In total, we have a housekeeper, the maid who has served my sister all her life, and the maid's husband, the villa's gardener."
+真璃子 : "所以，这里只有保姆一人、照顾家妹的女仆一人以及管理这幢别墅的园艺师夫妇两位……"
+
+真璃子
+真璃子 : 「それから私たち姉妹だけで、ひっそり静養しておりましたのよ」
+Mariko : "It's just my sister, me, and the three staff members living here in peace and quiet."
+真璃子 : "加上我们姐妹，共计六人在这里静养"
+
+夏夏
+夏夏 : 「そんな大変な時期に来てしまって、すみません……」
+Natsuka : "I'm so sorry to have bothered you while you're going through such a difficult time."
+夏夏 : "不好意思，在这种时候前来叨扰……"
+
+真璃子
+真璃子 : 「いえ、かまわなくってよ？　妹も、すこし前に比べると調子が良くなってきてましてね、私も一安心しているところですの」
+Mariko : "It's no bother at all. My sister has been doing much better as of late, so things have finally calmed down for us both."
+真璃子 : "没事的，不要介意。家妹的状态比之前要好些了，我也稍微安下心来了"
+
+真璃子
+真璃子 : 「妹は元々、人見知りで、部屋にいるのが好きでしたし……」
+Mariko : "My sister has always been a shy girl. She prefers to stay in her room..."
+真璃子 : "家妹比较认生，喜欢待在房间里……"
+
+真璃子
+真璃子 : 「私も人目を気にせずにいられるのは随分と久しぶりですから、とても穏やかに暮らせておりますのよ」
+Mariko : "I'm glad to be away from the public eye for a while, myself. It's been a long time since I've been able to enjoy a peaceful life like this."
+真璃子 : "于我而言，对这种无需在意他人目光的生活甚是久违，相当惬意"
+
+夏夏
+夏夏 : （人目……事故のことで、いろいろな注目を集めてしまったのでしょうか……）
+Natsuka : (The public eye... Did the accident draw people's attention to them...?)
+夏夏 : （他人目光……肯定是因为事故受到了过多关注吧……）
+
+真璃子
+真璃子 : 「あら、いけませんわ。せっかく淹れた紅茶が冷めてしまうわね」
+Mariko : "My, if I keep on chattering to you like this, your tea is going to get cold. That would be a waste."
+真璃子 : "哎呀，这可不行。难得泡的红茶快凉了呢"
+
+夏夏
+夏夏 : 「そうですね、それではいただきます」
+Natsuka : "You're right. I'll have some then."
+夏夏 : "是呢，那我开动了"
+
+夏夏
+夏夏 : 「……あ、おいしい。それにすごくいい香りがします」
+Natsuka : "Oh, this is good. It smells really nice."
+夏夏 : "……啊，真好喝。而且有股很好闻的香味"
+
+真璃子
+真璃子 : 「ふふ、美味しいでしょう？　林檎の紅茶に、薔薇のジャムを入れておりますの」
+Mariko : "Hehe, it's lovely, isn't it? It's apple tea with some rose jam in it."
+真璃子 : "呵呵，很好喝对吧？　这是加入了玫瑰果酱的苹果红茶"
+
+真璃子
+真璃子 : 「妹の美彌子が気に入っていますから、我が家ではこればかりなのですのよ」
+Mariko : "It's my sister's favorite, so we always take our tea this way."
+真璃子 : "家妹美弥子很中意这种果酱，在家里做了一大堆呢"
+
+真璃子
+真璃子 : 「このジャムは、この庭の薔薇を使った手作りなのですよ。美彌子はちいさい頃から珍しい薔薇が好きでしたので」
+Mariko : "The jam is handmade using roses from this garden. Miyako has always loved unusual roses. She's taken great pleasure in growing them from a young age."
+真璃子 : "这种果酱，是用这里的玫瑰亲手制成的。美弥子从小就喜欢珍奇的玫瑰啊"
+
+真璃子
+真璃子 : 「ですから、この薔薇園にも庭師にお願いして、もともとあった薔薇に加えて、新たに美彌子のために珍しい薔薇を植えておりますの」
+Mariko : "I asked the gardener to plant some rare roses for Miyako in addition to the roses already here."
+真璃子 : "所以我们就拜托这个玫瑰园的园艺师，在原有玫瑰的基础上引入美弥子喜欢的珍奇玫瑰"
+
+真璃子
+真璃子 : 「新しい庭師は、とても薔薇に熱心で助かりますわ。前にいた庭師は、あまり薔薇に興味がなかったようでしたから……」
+Mariko : "I'm glad the new gardener is just as passionate about roses as she is. The previous one never seemed very interested..."
+真璃子 : "之前的园艺师对玫瑰并不是很感冒，幸好新来的特别上心"
+
+真璃子
+真璃子 : 「こうして咲いた薔薇は妹つきのメイドが美彌子の部屋に飾ったり、薔薇の花びらジャムを作ったりしておりますの」
+Mariko : "Miyako's maid uses the roses to decorate Miyako's room and to make rose petal jam."
+真璃子 : "于是服侍家妹的女仆会用盛开的玫瑰点缀美弥子的房间，或是用玫瑰花瓣做果酱"
+
+真璃子
+真璃子 : 「薔薇のおかげで、メイドと庭師は交流が多くて……ふふ、そのおかげでふたりが結婚してしまったときには驚きましたけどね」
+Mariko : "Thanks to those roses, the maid and the gardener grew closer... Hehe, I was surprised when I heard they were getting married because of them, though."
+真璃子 : "因为玫瑰，女仆和园艺师之间交流也多起来……呵呵，听到他们因此结婚的时候我还吓了一跳呢"
+
+夏夏
+夏夏 : 「そうなんですね！」
+Natsuka : "Wow, really!?"
+夏夏 : "是这么回事啊！"
+
+夏夏
+夏夏 : （哀しいことばかりだと気持ちが塞ぎますから、すこしでも明るい話題があるといいですね……）
+Natsuka : (It's easy to get depressed when lots of sad things happen at once, so it's nice to hear an uplifting story, too...)
+夏夏 : （光说些悲伤事情心情也难受，还是找点开心的话题吧……）
+
+夏夏
+夏夏 : 「こういうお茶をキャンプで飲めたら最高ですねえ」
+Natsuka : "I'd love to have tea like this every time I go camping."
+夏夏 : "要是能在露营的时候喝到这种茶就最棒了啊"
+
+真璃子
+真璃子 : 「まあ、そんなに気に入っていただけたなら、おわけいたしますわよ。準備してちょうだい」
+Mariko : "My, if you like it that much, why don't you let us share some with you? We can pack up some for you."
+真璃子 : "哎呀，您这么喜欢的话，就分您一些吧。麻烦准备一下"
+
+家政婦
+家政婦 : 「かしこまりました」
+Housekeeper : "I'll prepare some right away."
+保姆 : "明白了"
+
+夏夏
+夏夏 : 「わわわすみません、完全に催促しちゃいましたね……」
+Natsuka : "Oh my gosh, thank you so much! I didn't mean to sound greedy..."
+夏夏 : "哇哇哇不好意思，我没在催促的……"
+
+真璃子
+真璃子 : 「いいえ、お気になさらないで。多めにもたせますから、ぜひリルヤさんとも楽しんでくださいましね」
+Mariko : "Please don't worry about it. We have plenty, so you can take some home for Lilja-san as well."
+真璃子 : "没事的，请不要在意。您多拿点回去，和丽露娅小姐一起享受吧"
+
+リルヤ
+リルヤ : 『感謝する』
+Lilja : "I appreciate that."
+丽露娅 : "非常感谢"
+
+真璃子
+真璃子 : 「ええ、こちらこそよい機会をいただけて感謝しておりますわ」
+Mariko : "Please accept it as a token of my gratitude for the opportunity."
+真璃子 : "不用谢。我也非常感谢您能给我这样的机会"
+
+真璃子
+真璃子 : 「私、この不思議な訪いが、何かが変わるきっかけになってくれると思っておりますのよ」
+Mariko : "I believe that this mysterious incident and your visit will serve as the catalyst for some kind of change."
+真璃子 : "我呢，觉得这次各位的来访，肯定是转变的契机"
+
+夏夏
+夏夏 : 「何かが変わる……ですか？」
+Natsuka : "A kind of change?"
+夏夏 : "转变的契机……吗？"
+
+真璃子
+真璃子 : 「ええ」
+Mariko : "Yes."
+真璃子 : "没错"
+
+真璃子
+真璃子 : 「…………」
+Mariko : "..."
+真璃子 : "…………"
+
+真璃子
+真璃子 : 「……私たち姉妹はね、早くに両親を亡くしておりますの」
+Mariko : "My sister and I lost our parents when we were little."
+真璃子 : "……我们的双亲，很早之前就离世了"
+
+真璃子
+真璃子 : 「今でもご健勝であらせられる祖父母や年の離れた兄達のおかげで、何一つ不自由なく暮らしておりますけれど……」
+Mariko : "Thankfully, our grandparents are still in good health, so they and our older brothers took good care of us."
+真璃子 : "虽然多亏了目前仍然健在的祖父母以及年岁差距较大的哥哥们，我们能顺利活到现在……"
+
+真璃子
+真璃子 : 「それでも、お父様やお母様がいらっしゃらなくて哀しくて淋しくて、泣いて泣いて……」
+Mariko : "Still, we missed our father and mother an awful lot, and we cried and cried..."
+真璃子 : "但失去父母的我们仍旧悲伤寂寞，日夜以泪洗面……"
+
+真璃子
+真璃子 : 「幼い妹は、いっそお父様たちのところにいってしまいたいって、私に弱音を吐いたこともありましたのよ」
+Mariko : "My little sister would sometimes say she wanted to join them."
+真璃子 : "幼小的家妹，甚至对我说，想去父亲他们在的地方"
+
+真璃子
+真璃子 : 「そんな夜に、私は妹にこう言ったのです」
+Mariko : "On one of those nights, this is what I said to her..."
+真璃子 : "那天晚上，我对家妹这样说到"
+
+真璃子
+真璃子 : 「私たちが淋しいと泣けば、天国のお父様とお母様も哀しくなってしまわれる……」
+Mariko : "'Father and Mother in heaven would be sad to see us cry.'"
+真璃子 : "要是我们悲伤寂寞，在天国的父亲母亲也会感到悲伤……"
+
+真璃子
+真璃子 : 「ですから、私たちは後ろを振りかえらずに、前を見て生きていきましょうね、と」
+Mariko : "'So let's look forward to the future, instead of backward at the past.'"
+真璃子 : "所以，我们不能回头，应该面朝前方笔直前进"
+
+真璃子
+真璃子 : 「健気な妹は、私の言葉に頷いてくれました」
+Mariko : "Then, my sister gave me a determined nod."
+真璃子 : "家妹肯定了我这句话"
+
+真璃子
+真璃子 : 「私のそのときの言葉が、妹にとって大切な生きる指針になったのでしょうね。それから妹はよくその言葉を口にするようになりました」
+Mariko : "What I said that day must have resonated with her, because she often repeats those words back to me."
+真璃子 : "现在看来，我那时的话，成为了家妹重要的路标。从此以后家妹经常将这句话挂在嘴边"
+
+真璃子
+真璃子 : 「後ろを見ずに、前を見て生きていこうと。それが、私たち生きている者の務めだと」
+Mariko : "'Stop looking at the past, let's move forward. That's our duty as long as we're alive.'"
+真璃子 : "她说，不要回头，要向前看。这是我们生者的义务"
+
+真璃子
+真璃子 : 「私にとって妹の美彌子は、大事な大事なふたつとない宝物……ずっとふたり一緒でした。妹の存在に、私はどれだけ救われたことでしょう」
+Mariko : "My little sister Miyako is my treasure... We were always together. Her presence has always been a great comfort to me."
+真璃子 : "于我而言，美弥子是世间独一无二的宝物……我们始终在一起。而我也因为家妹的存在而被拯救过无数次"
+
+真璃子
+真璃子 : 「私は、美彌子さえいればよかったのですわ」
+Mariko : "As long as Miyako was with me, I felt like I could withstand anything."
+真璃子 : "我忠心地感谢美弥子能在我的身边"
+
+真璃子
+真璃子 : 「そう思って、甘やかしてしまったせいかしら？　とても甘えん坊さんになってしまって。ふふ、そこが可愛いのですけれど」
+Mariko : "Perhaps that's why I pampered her so much. She grew up a little spoiled. Hehe, but she's adorable that way."
+真璃子 : "估计是这样想着，过于惯着家妹了吧？　她变得特别爱撒娇。呵呵，当然，她的这点也很是可爱"
+
+夏夏
+夏夏 : 「わかります！　甘えん坊さんって可愛いですよねえ」
+Natsuka : "I get what you mean! Spoiled little kids are super cute."
+夏夏 : "我能理解！　爱撒娇的孩子是真的很可爱呢"
+
+夏夏
+夏夏 : 「わたしも、バイト先で園児の子たちから甘えられると、ぎゅって抱きしめ返したくなりますし！」
+Natsuka : "I work part-time at a kindergarten, and when the kids act spoiled, it makes me wanna give them a big hug!"
+夏夏 : "我在幼儿园打工的时候，小孩子向我撒娇我总会想着用力抱住他们呢！"
+
+真璃子
+真璃子 : 「ええ、ええ。そうですのよ。ちいさな子は愛おしいですわね」
+Mariko : "Yes, you're absolutely right. Small children are just so precious."
+真璃子 : "是啊，是啊。就是这样啊。小孩子是那么令人心生怜爱"
+
+真璃子
+真璃子 : 「妹も、ちいさな頃はさらに怖がり屋さんで、ひとりでトイレにもいけなかったくらいですのよ？」
+Mariko : "My sister used to be even more timid than she is now. She couldn't even go to the bathroom by herself."
+真璃子 : "家妹小时候更是个胆小鬼，一个人都去不了厕所哦？"
+
+真璃子
+真璃子 : 「とても繊細で、人見知りで、さみしがり屋で、いつも私の背中に隠れるようにして、私の後ろをついて歩いて……」
+Mariko : "She was so shy and sensitive, always clinging to me and hiding behind me."
+真璃子 : "她是那么纤细，又认生，怕寂寞，总是藏在我身后，跟在我背后……"
+
+真璃子
+真璃子 : 「そんな私たち姉妹の陰になり日向になり、ずっと寄り添っていましたのが、善乃でした」
+Mariko : "And Yoshino was always there for us, come rain or shine."
+真璃子 : "而为了我们这对姐妹，时而成为树荫，时而成为阳光，总是守候在我们身边的，就是善乃"
+
+真璃子
+真璃子 : 「妹と私と善乃は同じ年なこともあって、いつも三人一緒でしたのよ」
+Mariko : "Miyako, Yoshino, and I... We were all the same age, so we were always together."
+真璃子 : "家妹和我与善乃是同一年，我们始终三人在一起"
+
+夏夏
+夏夏 : 「同じ年……というと、真璃子さんと美彌子さんは双子なんですね？」
+Natsuka : "You're the same age as your sister? Do you mean that you and Miyako-san are twins?"
+夏夏 : "同一年……也就是说，真璃子小姐与美弥子小姐是双胞胎？"
+
+真璃子
+真璃子 : 「ええ、私と美彌子は双子ですわ。まるで鏡合わせのようにそっくりだって、言われておりますのよ」
+Mariko : "Yes, Miyako and I were born on the same day, and we're like mirror images of each other."
+真璃子 : "是的，我和美弥子是双胞胎。总是被别人说，我们俩长得像照镜子呢"
+
+真璃子
+真璃子 : 「善乃は久住家の者という立場以上の忠誠と愛情をもって、私たち姉妹に尽くしてくれましたわ」
+Mariko : "As a member of the Kuzumi family, Yoshino has shown us loyalty and dedication far beyond what would be expected of her."
+真璃子 : "善乃作为久住家的成员，对我们姐妹注入了过剩的忠诚与爱，尽力服侍我们"
+
+真璃子
+真璃子 : 「親戚の者には滅私奉公を地でいく前時代的な生き方だとよくからかわれましたし、学校では私たちの騎士様のようだと言われてましたわ」
+Mariko : "Her relatives used to tease her for it, saying that her loyalty was like that of a samurai from a bygone era, and at school they used to call her our knight in shining armor."
+真璃子 : "亲戚们总是用她那灭私奉公般的，落后时代的活法开玩笑，在学校她也经常被叫做我们的骑士"
+
+夏夏
+夏夏 : 「騎士様！　すごいかっこいい人だったんでしょうねえ」
+Natsuka : "A knight! She must have been very cool and strong!"
+夏夏 : "骑士大人！　肯定是非常帅的人吧"
+
+真璃子
+真璃子 : 「確かに表向きはそうだといってよろしかったですわ」
+Mariko : "She certainly acted like that whenever we were in public."
+真璃子 : "确实，在外面她总会带给人这种印象"
+
+真璃子
+真璃子 : 「善乃は、成績優秀で運動神経も抜群、趣味でフルマラソンを走り、学校ではフェンシング部に所属して国体に出ておりました」
+Mariko : "She was both intelligent and athletic—she had perfect grades and used to run full marathons as a hobby. She was also in the fencing club at school and competed at the national level."
+真璃子 : "善乃的成绩优秀运动神经超群，会因兴趣跑完全程马拉松，在学校加入了击剑部，还在国民体育大会亮了相"
+
+真璃子
+真璃子 : 「私の買い物のエスコートもそつなくこなして、一見すれば本当に執事か騎士のようでしたね」
+Mariko : "Whenever I went shopping, she'd insist on escorting me to carry my bags, so she really must have looked like a knight or a butler."
+真璃子 : "在我出门购物时也能完美陪同，看上去就像是真的管家或者骑士"
+
+真璃子
+真璃子 : 「『お前たちは、学校ではいつも注目の的だな』などと、兄たちによくからかわれておりましたわ」
+Mariko : "Our brothers teased us for always being the center of attention at school."
+真璃子 : "哥哥们总是调侃我们‘你们在学校是真的很引人注目啊’"
+
+真璃子
+真璃子 : 「ですが、私にとっての善乃は……同じ年の、どこにでもいる普通の女の子でしたわ」
+Mariko : "But to me, Yoshino was just... a friend. A normal girl my age."
+真璃子 : "但是，于我而言，善乃……只是个同龄的，随处可见的普通女孩啊"
+
+真璃子
+真璃子 : 「完璧じゃなくて、すこしだけおっちょこちょいで、すこしだけ思いこみの激しい……私たち双子の騎士様」
+Mariko : "She wasn't perfect by any means. She could be a bit clumsy, and she had a rich imagination... But she was always there for us—our knight in shining armor."
+真璃子 : "她并不完美，有些笨手笨脚，还有点死脑筋……是我们双胞胎的骑士大人"
+
+真璃子
+真璃子 : 「――――」
+Mariko : "..."
+真璃子 : "————"
+
+真璃子
+真璃子 : 「それでも、事故のとき、善乃は自らの使命を完璧に全うしました。本物の騎士のように、妹を守ってくれました」
+Mariko : "When the accident happened, she fulfilled her duty faultlessly. She protected my sister, like a real knight."
+真璃子 : "即便如此，发生事故的时候，善乃完美完成了自己的使命。就像真正的骑士一样，保护了家妹"
+
+真璃子
+真璃子 : 「ですから私たちは、善乃の分まで前を見て生きないといけないのです」
+Mariko : "That's why we have to keep moving forward and live our lives to the fullest—we owe it to Yoshino."
+真璃子 : "所以我们，必须连带着善乃的份朝前看，往前走"
+
+真璃子
+真璃子 : 「幸せにならないといけないのですわ。善乃はずっと、私たちの幸せを願っていましたから」
+Mariko : "We should be happy. I'm sure that's what Yoshino would have wanted."
+真璃子 : "我们必须得幸福下去。善乃她一直希望我们能够幸福"
+
+真璃子
+真璃子 : 「これまでは、善乃がずっと私たちの手をとってリードしてくれました。これからは、私が美彌子の手をとってリードしていかないと」
+Mariko : "Until now, Yoshino has been holding our hands and leading the way, but from here on out, it's my turn to lead Miyako."
+真璃子 : "至今为止都是善乃牵着我们的手前进。以后就该我牵着美弥子的手向前走了"
+
+真璃子
+真璃子 : 「後ろを見てばかりいては駄目なのですわ、前を見ていかなければ」
+Mariko : "I can't keep looking back at the past. I have to move forward into the future."
+真璃子 : "光是向后看不行，得朝前看啊"
+
+真璃子
+真璃子 : 「私たち、幸せになるんです。天国のお父様とお母様、そして善乃が見守っているのですから。前を見て、幸せにならないといけないんです」
+Mariko : "I'm sure we're going to be happy. Father and Mother, and now Yoshino, too, are watching over us from heaven. We have to move on with our lives and be happy."
+真璃子 : "我们要抓住幸福。因为天国里的父亲母亲，以及善乃都在看着的。我们必须向前看，得到幸福"
+
+真璃子
+真璃子 : 「それが、私たち生きている者の務めですから」
+Mariko : "That's the duty of those of us who are still alive."
+真璃子 : "这是，我们作为生者的义务"
+
+夏夏
+夏夏 : （幸せにならないといけない……ですか）
+Natsuka : (They %i1have to%id be happy... huh?)
+夏夏 : （不能不变得幸福……吗）
+
+夏夏
+夏夏 : 「真璃子さんは、依頼のメールに心当たりはありますか？」
+Natsuka : "Do you have any idea who sent that email, Mariko-san?"
+夏夏 : "真璃子小姐对委托邮件有印象吗？"
+
+真璃子
+真璃子 : 「あら、本当に善乃が天国から送ってくれたのかもしれなくてよ？　善乃らしいですわ。『わたしたち』の絵を描いて欲しいなんて」
+Mariko : "My, you don't think Yoshino really sent it from heaven? That sounds like something she'd do. She'd love for a painter to paint %i1us%id."
+真璃子 : "哎呀，说不定真是善乃从天国发送来的哦？　真有善乃的风格。委托两位画‘我们’的画呢"
+
+リルヤ
+リルヤ : 『『わたしたち』とは誰のことか、ミス真璃子には自明の理だと？』
+Lilja : "Is it clear to you who %i1us%id refers to in the email, Miss Mariko?"
+丽露娅 : "也就是说对真璃子女士而言，已经确定‘我们’是指谁了？"
+
+真璃子
+真璃子 : 「まあ、私たちは私たちでしょう？　他に何があるのでしょうか」
+Mariko : "Of course. It's %i1us%id—who else could it be?"
+真璃子 : "哎，我们当然是指我们啦？　还有别的意思吗"
+
+リルヤ
+リルヤ : 『依頼のメールには、小説の一節が書かれていた。『死によって完成される恋を、墓の中でも死ぬことのない恋を』……これに心当たりは？』
+Lilja : "The email also included a quote from a novel. '%i1She sang of the Love that is perfected by Death, of the Love that dies not in the tomb.%id'"
+丽露娅 : "委托邮件上还写着一段小说内容。‘她唱到了因死亡而变得更完美的爱，唱到了在坟墓中也不会死去的爱’……您对此有印象吗？"
+
+真璃子
+真璃子 : 「それは、ナイチンゲールと薔薇の花の物語ですわね。美彌子が子どもの頃に読んで欲しいとせがみましたので、よく覚えておりますわ」
+Mariko : "That's from %i1The Nightingale and the Rose%id. I remember it well—Miyako asked me to read it to her when we were younger."
+真璃子 : "那是夜莺与玫瑰吧。美弥子小时候总想让我给她读，记得很清楚呢"
+
+真璃子
+真璃子 : 「ちいさい頃から美彌子は、ナイチンゲールのような恋に憧れていました。恋は命にまさると。自分もそのように生きたいと」
+Mariko : "Since she was a little girl, Miyako has always longed to fall in love like the nightingale. She believed that love was more important than life itself. She wanted to live her life just like the nightingale."
+真璃子 : "美弥子小时候，憧憬像夜莺一样的恋爱。说是恋爱正可谓是生命。说是自己也想为此而活"
+
+リルヤ
+リルヤ : 『…………』
+Lilja : "..."
+丽露娅 : "…………"
+
+真璃子
+真璃子 : 「ともあれ、リルヤさんには、ぜひ幸せに笑っている私たちの肖像画を描いていただきたいものですわ」
+Mariko : "I would love for you to paint a portrait of us smiling happily together, Lilja-san."
+真璃子 : "总之，希望丽露娅小姐务必画出幸福微笑着的我们的肖像画呢"
+
+リルヤ
+リルヤ : 『幸せに笑っている私たちの肖像画、をか？』
+Lilja : "A portrait of you smiling happily together?"
+丽露娅 : "幸福微笑着的你们的肖像画，吗？"
+
+真璃子
+真璃子 : 「ええ。天国にいる大切な人たちが心配しないように、私たちは地上で前を見て生きていますってわかるように、ねえ素敵でしょう？」
+Mariko : "It would be a lovely way to show our loved ones in heaven that they don't have to worry about us, and that we're moving forward toward the future."
+真璃子 : "那是当然。为了让身处天国的、重要的人们不要担心，为了让他们明白我们在人间迈步向前，这很美妙吧？"
+
+真璃子
+真璃子 : 「って……ふふ、つい、りるりゃさんに話しかけてしまいますわね。りるりゃさんとリルヤさんは似ているのでしょう？」
+Mariko : "Hehe, I can't stop myself from looking at Li'l Ya-san when I speak. You mentioned that she looks a lot like Lilja-san?"
+真璃子 : "哎呀……呵呵，不自觉向丽露喵小姐聊上了呢。丽露喵小姐和丽露娅小姐很像呢"
+
+夏夏
+夏夏 : 「リルヤさんはもっともっと美人なんですけど、でも、できるだけ似せるように頑張りました！」
+Natsuka : "Lilja-san is a lot prettier, but I did my best to make Li'l Ya-san look like her!"
+夏夏 : "丽露娅小姐要更漂亮呢，不过我尽量努力让丽露喵也漂亮起来了"
+
+夏夏
+夏夏 : 「でもりるりゃさんはりるりゃさんで、似ているけど、やっぱり違う存在なんです」
+Natsuka : "Still, Lilja-san is Lilja-san, and Li'l Ya-san is Li'l Ya-san. They're different."
+夏夏 : "但是丽露喵是丽露喵，相似，但终究不是同一存在"
+
+夏夏
+夏夏 : 「この世界に生まれた存在は、どんなに似ていても完全に同じ存在はひとつとしていないんじゃないかなって、わたし、そう思っています！」
+Natsuka : "I don't think there are any two people in the world who are exactly the same, even if they look very similar on the outside."
+夏夏 : "我想啊，诞生在这个世界上的存在，哪怕看上去再怎么相似，但都不会是完全相同的存在"
+
+真璃子
+真璃子 : 「そうね、そうですわね。私と美彌子も鏡合わせのようにそっくりだと言われているけれど、同じ存在だと思ったことはないですもの」
+Mariko : "Yes, I agree. People often say that Miyako and I are like mirror images of each other, but we never thought of ourselves as being one and the same."
+真璃子 : "是啊，就是如此。在别人眼里我和美弥子是那么相似，但我从来没觉得和她是同样的呢"
+
+真璃子
+真璃子 : 「私ひとりだけなら、お父様とお母様が亡くなったと知ったとき、とても生きていけなかった」
+Mariko : "If I'd been on my own, I never would have been able to keep on living after I heard that Father and Mother passed away."
+真璃子 : "如果只有我一个人，那在父亲母亲去世的时候，孤身一人的我很难活下去"
+
+真璃子
+真璃子 : 「あのとき、同じ血を引く大切な妹がいたからこそ……こうして生きていられたのですから」
+Mariko : "I'm only alive right now because... I had my twin sister close to me the entire time."
+真璃子 : "正因为那时有与我继承了同一血脉的妹妹……我才能撑到今天"
+
+真璃子
+真璃子 : 「夏夏さんも、そんな大切な肉親はいらっしゃいますの？」
+Mariko : "Do you have any family you're close to like that, Natsuka-san?"
+真璃子 : "夏夏小姐有这样珍贵的血亲吗？"
+
+夏夏
+夏夏 : 「大切な家族、わたしもいました。姉です。ずっと側にいましたけれど、でも、今はリルヤさんのところにいます」
+Natsuka : "I did. I used to be very close with my older sister. We spent every day together. But now, I'm living with Lilja-san."
+夏夏 : "我也有重要的家人哦。是姐姐。之前一直在她身边，但是现在，我在丽露娅小姐旁边"
+
+真璃子
+真璃子 : 「まあ……お姉様の側にいたくなかったのですの？」
+Mariko : "My... You didn't want to stay with your sister anymore?"
+真璃子 : "哎呀……不想待在姐姐身边了吗？"
+
+夏夏
+夏夏 : 「できればずっと側にいたかったです。でも、姉が自由に生きてほしいって言ってくれたので、わたしは、自由に生きることにしました」
+Natsuka : "I would've loved to stay with her forever, but she told me to be free and live my life the way %i1I%id wanted, so I took her up on that."
+夏夏 : "如果可以，我想一直在姐姐身边。但是姐姐说希望我自由地活着，于是我选择了现在的生活"
+
+夏夏
+夏夏 : 「今はそんな風に言ってくれた姉に感謝しています」
+Natsuka : "Looking back on it, I'm really thankful she said that."
+夏夏 : "现在的我，很感激姐姐对我这样说"
+
+夏夏
+夏夏 : 「今のわたしは、リルヤさんの鳩として、色々なものを見て、色々なことを聞いていきたいと思っているので！」
+Natsuka : "Right now, I'm working as Lilja-san's dove, flying out into the world and telling her all about what I saw!"
+夏夏 : "现在的我，满脑子都是成为丽露娅小姐的白鸽，为她看，为她听！"
+
+真璃子
+真璃子 : 「まあ、夏夏さんが鳩ですの？」
+Mariko : "My, you're a... dove?"
+真璃子 : "哎呀，夏夏小姐是白鸽吗？"
+
+夏夏
+夏夏 : 「はい、リルヤさんはわたしのことをたまに鳩っていうんです。第三の鳩は、橄欖の葉を携えりって」
+Natsuka : "Yes! Lilja-san calls me that sometimes. She says I'm like the dove who always brings her olive leaves."
+夏夏 : "没错，丽露娅小姐偶尔会把我称作白鸽。说我是第三只白鸽，将为她衔回橄榄叶"
+
+真璃子
+真璃子 : 「まあ……そうなのですね」
+Mariko : "My... I see..."
+真璃子 : "哎呀……是这么一回事吗"
+
+真璃子
+真璃子 : 「夏夏さん、私たちが通っている学校はカトリックですのよ」
+Mariko : "Natsuka-san, we went to a Catholic school."
+真璃子 : "夏夏小姐，我们就读的学校，是天主教学校"
+
+真璃子
+真璃子 : 「ですから、ミサのときに神父様からのお話をよく聞きましたし、告解もしましたし、聖書のお勉強会もよくしておりましたの」
+Mariko : "We would go to mass and listen to the pastor, go to confession, and take Bible study classes."
+真璃子 : "因此，弥撒的时候神父经常会和我们聊天，会听取我们的忏悔，也会开办圣经的学习会"
+
+夏夏
+夏夏 : 「えと、つまり、第三の鳩と橄欖の葉は聖書に関係する話なんですか？」
+Natsuka : "Um, the story of the dove with the olive leaf is from the Bible, right?"
+夏夏 : "那个，也就是说，第三只白鸽与橄榄叶和圣经有关吗？"
+
+真璃子
+真璃子 : 「第三の鳩と橄欖の葉……つまりオリーブの葉は、ノアの洪水にまつわるお話ですわね」
+Mariko : "Yes, it's from the story about Noah's ark."
+真璃子 : "第三只白鸽和橄榄叶，出现在诺亚与洪水那里"
+
+真璃子
+真璃子 : 「神様が堕落した人間を滅ぼされた洪水……その洪水から唯一助かることを許されたノアは、洪水が引いた後、方舟から鳩を３回飛ばします」
+Mariko : "God, unhappy with the wickedness of the people, created a flood to destroy all of humanity, except for Noah and his family... When the flood receded, Noah sent out a dove from the ark three times."
+真璃子 : "上帝为了毁灭堕落的人类而降下了洪水……而诺亚是唯一能从洪水中生存下来的人。他在洪水退去后，从方舟里分三次，放出了三只白鸽"
+
+真璃子
+真璃子 : 「第一の鳩はすぐに戻ってきました。第二の鳩は橄欖の葉をくわえて戻ってきました。第三の鳩は二度と戻ってきませんでした」
+Mariko : "The first time it came back immediately. The second time it brought back an olive leaf. And the third time, the dove never returned."
+真璃子 : "第一只白鸽很快就回来了。第二只白鸽衔着橄榄叶飞了回来。第三只白鸽再也没有回来"
+
+真璃子
+真璃子 : 「面白いですわね。第三の鳩は本来、ノアの元に戻ってこなかったのに、リルヤさんの語る第三の鳩は、橄欖の葉を携えて戻ってくるのですね」
+Mariko : "It's interesting that, in the story, the dove does not return to Noah, but Lilja-san's dove always returns with an olive leaf."
+真璃子 : "很有趣呢。第三只白鸽明明并没有回到诺亚的身边，但丽露娅大人口中的第三只白鸽，却带回了橄榄叶呢"
+

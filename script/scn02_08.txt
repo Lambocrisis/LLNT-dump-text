@@ -1,0 +1,520 @@
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「………………」
+Natsuka : "..."
+夏夏 : "………………"
+
+夏夏
+夏夏 : （……うーん……眠れません……）
+Natsuka : (Ughh... I can't sleep...)
+夏夏 : （……嗯……睡不着……）
+
+夏夏
+夏夏 : （美彌子さんが来たとき、リルヤさんとの通話を切って、それからずっと切ったままで……）
+Natsuka : (I ended my call with Lilja-san when Miyako-san came, and we've been disconnected ever since...)
+夏夏 : （美弥子小姐来到这里之后，我挂了丽露娅小姐的电话，结果到现在我都没回拨过去……）
+
+夏夏
+夏夏 : （ひとりで考えても埒が明かないことはわかってるんですが……）
+Natsuka : (I know I can't solve everything on my own just by thinking, but...)
+夏夏 : （尽管一个人闷头思考估计也想不到什么东西……）
+
+夏夏
+夏夏 : 「美彌子さんの懺悔、美彌子さんの苦しみ、痛み……」
+Natsuka : "Miyako-san's guilt, her pain, her suffering..."
+夏夏 : "但美弥子小姐的忏悔，她的痛苦……"
+
+夏夏
+夏夏 : 「真璃子さんの想い……」
+Natsuka : "Mariko's feelings..."
+夏夏 : "美弥子小姐的想法……"
+
+夏夏
+夏夏 : 「善乃さんの遺した心……」
+Natsuka : "Yoshino-san's legacy..."
+夏夏 : "善乃小姐所留下的思念……"
+
+夏夏
+夏夏 : 「死者さんの気持ち……」
+Natsuka : "The ghost's wish..."
+夏夏 : "死者的想法……"
+
+夏夏
+夏夏 : 「死者さんの依頼にあった、わたしたちの絵の、わたしたち……」
+Natsuka : "The ghost requested a painting of 'us'... 'Us'..."
+夏夏 : "死者委托中所记载的，‘我们的画’中的‘我们’……"
+
+夏夏
+夏夏 : 「美彌子さんが最後にいった、私は私であることをやめないという言葉……」
+Natsuka : "Before she left, Miyako-san said she wouldn't stop being herself..."
+夏夏 : "以及美弥子小姐最后说的，我不会放弃我作为我这句话……"
+
+夏夏
+夏夏 : 「うう……ぐるぐるします……」
+Natsuka : "Ugh... My head is spinning..."
+夏夏 : "呜呜……眼睛都开始打转了……"
+
+夏夏
+夏夏 : 「ねえ、りるりゃさん……わたし、ちゃんとわかってるんでしょうか？　ちゃんと、見えているんでしょうか？」
+Natsuka : "Say, Li'l Ya-san... Am I really understanding things right? Am I looking at things properly?"
+夏夏 : "我说，丽露喵……我自己是清楚的吗？　我有看到真相吗？"
+
+夏夏
+夏夏 : 「ううーん……！！」
+Natsuka : "Hrmmmm...!!"
+夏夏 : "呜呜……！！"
+
+夏夏
+夏夏 : 「この館で見たこと、話したことから、わたしは何を見て、何を語り、何を望みます？」
+Natsuka : "I've seen a lot at this villa, and I've talked a lot, but what did I %i1really%id see and talk about? What do I really want?"
+夏夏 : "在这座洋馆里通过所见之物，所聊之事，我因此看到了写什么，谈论了些什么，在希望些什么？"
+
+夏夏
+夏夏 : 「まだわかりません！」
+Natsuka : "I don't know yet!"
+夏夏 : "还是不清楚啊！"
+
+夏夏
+夏夏 : 「ならわたしは今、何を気にしているのでしょうか？　リルヤさんと話さずに、ひとりでうんうん唸っているのはどうしてなんでしょう？」
+Natsuka : "Then what am I doing right now? Why am I moaning and groaning here all by myself instead of talking to Lilja-san?"
+夏夏 : "那么现在的我到底在意什么东西？　为什么我不和丽露娅小姐商量，而是一个人在这里念叨呢？"
+
+夏夏
+夏夏 : 「リルヤさんに聞けばきっとわたしを導いてくれます。これまでだってずっとそうしてくれました」
+Natsuka : "If I asked her, I'm sure she'd guide me toward the answer, just like she always does."
+夏夏 : "丽露娅小姐肯定会引导我找到答案。之前就是这样做的"
+
+夏夏
+夏夏 : 「でもわたし、もうちょっとだけ、このままひとりで考えてみたいんです……馬鹿の考え休むに似たりとはいいますが！　もうちょっと、もうちょっとだけ！」
+Natsuka : "But I want to try thinking by myself a bit longer... They say it's hard to tell a poor thinker from a sleeping one, but... Let me try just a little longer!"
+夏夏 : "但是我还想继续一个人想想看……都说笨人想不出好主意！　但我还想再试试，再试试！"
+
+夏夏
+夏夏 : 「うーん……」
+Natsuka : "Hmmm..."
+夏夏 : "嗯……"
+
+夏夏
+夏夏 : 「ううーん……」
+Natsuka : "Hmmmmmmm..."
+夏夏 : "呜呜……"
+
+夏夏
+夏夏 : 「うううううううーーーーーん！！」
+Natsuka : "Hrrrmmmmmmmmmmmm!!"
+夏夏 : "呜呜呜呜呜——！！"
+
+夏夏
+夏夏 : 「よし、決めました！」
+Natsuka : "All right, I've decided!"
+夏夏 : "好，决定了！"
+
+夏夏
+夏夏 : 「散歩にいきましょう、りるりゃさん！！　今夜は月も綺麗ですしね」
+Natsuka : "Let's go for a walk, Li'l Ya-san!! The moon is beautiful tonight."
+夏夏 : "去散散步吧，丽露喵！！　今天月亮也挺漂亮啊"
+
+夏夏
+夏夏 : 「秋の紅葉とお月様！　いいですよねえ、ちょっと寒いですが、夜の散歩にはもってこいの季節です！」
+Natsuka : "The fall foliage and the moon are such a wonderful pair. It's a little cold, but it's a great season for walks!"
+夏夏 : "秋天的红叶与大月亮！　真不错，稍微有点冷，不过这季节正适合晚上散步！"
+
+夏夏
+夏夏 : 「そうだ。もしリルヤさんも起きていたら……」
+Natsuka : "Oh, just in case Lilja-san is awake..."
+夏夏 : "对了。如果丽露娅小姐要是也醒了……"
+
+夏夏
+夏夏 : 「これはけっしてヒントをもらおうとかそういう魂胆じゃないですよ？　ただちょっとだけ、こう……声を聞きたいなあ……なんて」
+Natsuka : "I'm not going to ask her for hints or anything like that, okay? I just... really wanna hear her voice for a bit."
+夏夏 : "这可不是为了让丽露娅小姐给我提示哦？　只是想稍微……想听听她的声音……这样的"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「あーもう、だめだめです！！　完全にリルヤさんに頼ろうとしてるじゃないですか！！　もうちょっと頑張ろう！？　ね、わたし！」
+Natsuka : "Ahh, I'm hopeless! I've become completely reliant on Lilja-san! C'mon, girl, you can do better than that!"
+夏夏 : "啊真的是，我也太废柴了！！　这不就是在打算依靠丽露娅小姐吗！！　再加把劲行吗！？　我能再加把劲吗！"
+
+夏夏
+夏夏 : 「そうですねえ、他に気になることについて思い出してみましょうか。わたしは、他に何が気になったか？」
+Natsuka : "Let's see, was there anything else I noticed? Anything that caught my eye?"
+夏夏 : "我想想，还有其他令人在意的点吗。我还在意什么呢？"
+
+夏夏
+夏夏 : 「とにかく何でもいいから、わたしが気になることを……そう……気になること……」
+Natsuka : "Anything will do... Anything that made me curious... Right... Anything strange..."
+夏夏 : "反正什么都行，只要是我在意的事情……对……在意的事情……"
+
+夏夏
+夏夏 : 「そう、もう一度最初から思い出してみましょう……」
+Natsuka : "I know! I'll think it over one more time from the beginning..."
+夏夏 : "对，从头开始思考一下……"
+
+夏夏
+夏夏 : （最初から……美彌子さんのことを……まずは、そう……真璃子さんが話していた美彌子さんのこと……）
+Natsuka : (From the beginning... Okay, Mariko-san told me about Miyako-san...)
+夏夏 : （一开始……是在意美弥子小姐……首先是，没错……在意真璃子小姐口中的美弥子小姐……）
+
+夏夏
+夏夏 : （それから？　それから……）
+Natsuka : (And then...? And then...)
+夏夏 : （然后呢？　然后……）
+
+夏夏
+夏夏 : （踊っていた美彌子さん……）
+Natsuka : (The Miyako-san who was dancing...)
+夏夏 : （正在跳舞的美弥子小姐……）
+
+夏夏
+夏夏 : （夜中にキャンプに現れた美彌子さん……）
+Natsuka : (And the Miyako-san who showed up at my campsite that night...)
+夏夏 : （在深夜，美弥子小姐出现在我的帐篷旁边……）
+
+夏夏
+夏夏 : （ん……？）
+Natsuka : (Hmm?)
+夏夏 : （嗯……？）
+
+夏夏
+夏夏 : （あ、あれ……？）
+Natsuka : "H-Huh...?"
+夏夏 : （咦、咦……？）
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Ah!!"
+夏夏 : "！！"
+
+夏夏
+夏夏 : 「リルヤさん！！　リルヤさんわたし、見つけたかもしれません！」
+Natsuka : "Lilja-san!! Lilja-san, I think I found it!"
+夏夏 : "丽露娅小姐！！　丽露娅小姐我可能已经找到了！"
+
+夏夏
+夏夏 : 「とと、今はリルヤさんと繋がってなかったのでした。まずはメッセージをですね……リルヤさん、起きてますか！？」
+Natsuka : "Oops, Lilja-san can't hear me right now. I should message her... %i1Lilja-san, are you awake!?%id"
+夏夏 : "等等，我现在没在和丽露娅小姐通话。先是发消息吧……丽露娅小姐，你醒了吗！？"
+
+None
+None : ――起きているが？
+None : %i1I am.
+None : ——我醒着呢？
+
+夏夏
+夏夏 : 「早！」
+Natsuka : "That was fast!"
+夏夏 : "好快！"
+
+夏夏
+夏夏 : 「おわわわっ、一瞬で来ましたよ！？　はい！　はい、夏夏です！」
+Natsuka : "Whoaaa! She's calling immediately!? Hello! Natsuka here!"
+夏夏 : "哇哇哇哇，突然就打过来了！？　嗯！　这里是夏夏！"
+
+リルヤ
+リルヤ : 『どうした？』
+Lilja : "What's the matter?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「あのですねリルヤさん、ええとですね、わたし見えはじめたかもしれないんです、今回の依頼の、その、そう！　美彌子さんの――」
+Natsuka : "Well, you see, Lilja-san... I think I'm starting to get what's going on with this request! I mean, with Miyako-san's..."
+夏夏 : "听我说丽露娅小姐，就是说，我可能已经看清楚了，这次的委托，就是说，没错！　是美弥子小姐——"
+
+夏夏
+夏夏 : 「――？」
+Natsuka : "Huh?"
+夏夏 : "——？"
+
+夏夏
+夏夏 : （今、外で何か……？）
+Natsuka : (Did I hear something?)
+夏夏 : （外面好像有人……？）
+
+リルヤ
+リルヤ : 『夏夏、どうした？』
+Lilja : "Natsuka, what's wrong?"
+丽露娅 : "夏夏，怎么了？"
+
+夏夏
+夏夏 : 「外に誰かが……いるような……」
+Natsuka : "I think... there's somebody outside..."
+夏夏 : "外面好像……有人……"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : 「そこにいるのは誰ですっ」
+Natsuka : "Who's there?"
+夏夏 : "谁在那！"
+
+夏夏
+夏夏 : 「かあ！？」
+Natsuka : "Gahh!?"
+夏夏 : "啊！？"
+
+夏夏
+夏夏 : 「おおおおおおおおおおおおおおお！？　すべる、すべっすべるぅう、うわうわっうわわわわわわわわわわわわわわわわわわわわわわわわ」
+Natsuka : "Ahhhhhhhhhh! I'm sliiiiidiiiiiiiiiing! I'm sliding, I'm sliding! Awawawawawaaaaaah!!"
+夏夏 : "哦哦哦哦哦哦哦！？　好滑，要滑下去了要滑下去了，呜哇啊啊啊啊啊啊啊啊啊啊——"
+
+夏夏
+夏夏 : 「えっ」
+Natsuka : "Huh?"
+夏夏 : "咦"
+
+夏夏
+夏夏 : 「うそっ！？？？」
+Natsuka : "No way!!!"
+夏夏 : "不是吧！？？？"
+
+夏夏
+夏夏 : 「っ～～～～～～～～～！！！」
+Natsuka : "Eeeeeep...!!"
+夏夏 : "呜～～～～～～～～～！！！"
+
+リルヤ
+？？？ : 『……か……』
+??? : "...ka..."
+??? : "……夏……"
+
+夏夏
+夏夏 : （…………）
+Natsuka : (...)
+夏夏 : （…………）
+
+リルヤ
+？？？ : 『な……か……、……つか……』
+??? : "Na... ka... tsuka..."
+??? : "夏……夏夏……"
+
+夏夏
+夏夏 : （……ぁ、いま……）
+Natsuka : (Ah... I heard...)
+夏夏 : （……对了，刚才……）
+
+リルヤ
+？？？ : 『……か、……つか……』
+??? : "...ka... tsuka..."
+??? : "……夏，……夏……"
+
+夏夏
+夏夏 : （わたしの……なまえ……を……よぶ、声が……）
+Natsuka : (Someone's... calling my name...)
+夏夏 : （有人……在叫……我的名字……）
+
+リルヤ
+？？？ : 『……えるか……？　なつか……』
+??? : "...hear me? Natsuka..."
+??? : "……听见吗……？　夏夏……"
+
+夏夏
+夏夏 : 「……はい」
+Natsuka : "...Yeah."
+夏夏 : "……能听见"
+
+夏夏
+夏夏 : （りるりゃさんが……わたしを見てます……ああ、ごめんね……こんなに汚れてしまって……）
+Natsuka : (Li'l Ya-san... is looking at me... Ahh, I'm sorry... You're all dirty, poor thing...)
+夏夏 : （丽露喵……在看着我……这样啊，对不起……把你弄得这么脏……）
+
+リルヤ
+リルヤ : 『気づいたか？』
+Lilja : "Are you awake?"
+丽露娅 : "醒来了吗？"
+
+夏夏
+夏夏 : 「あの、ええと……どうして……リルヤさんと、連絡……」
+Natsuka : "Um, er... Why can I hear you...?"
+夏夏 : "那个，这个……为什么……我和丽露娅小姐……在联系……"
+
+夏夏
+夏夏 : 「ああ、そうか……アプリで話しはじめて……」
+Natsuka : "Oh, that's right... We started a call..."
+夏夏 : "对了……打开通话软件之后……"
+
+リルヤ
+リルヤ : 『状況は？　痛みは？　もちろん、話せないなら話さなくてもいい。助けは呼んだ。すぐに来るはずだ』
+Lilja : "What's the situation? Are you injured? If you can't talk, then don't talk. I've already called for help. It should arrive soon."
+丽露娅 : "现在是什么情况？　有什么地方痛吗？　说不出来就别说话了。我已经叫了救援，应该很快就到"
+
+夏夏
+夏夏 : 「大丈夫です、下が枯葉の山だったおかげですね……うあー……目に血が入って、ちょっと染みますねえ……」
+Natsuka : "I'm okay. I fell into a big pile of leaves, which saved me... Whoa... I got some blood in my eye. It stings..."
+夏夏 : "我没事。幸好下面是枯叶堆……呜啊……血进眼睛了，有点扎眼……"
+
+夏夏
+夏夏 : 「全身めちゃめちゃ痛くて、手とかぜんぜん動かせないですけど……でも、骨は折れてないみたいです……たぶん……」
+Natsuka : "My body hurts all over, and I can't move my hands at all... But I don't think I broke anything... I hope..."
+夏夏 : "浑身疼痛，手也完全动不了……不过骨头应该没断……吧……"
+
+リルヤ
+リルヤ : 『意外に冷静だな』
+Lilja : "You're unusually calm about this."
+丽露娅 : "你很冷静啊"
+
+夏夏
+夏夏 : 「痛みには慣れているからですかね……？　はは……」
+Natsuka : "Maybe it's 'cause I'm used to pain...? Haha..."
+夏夏 : "估计是我习惯疼痛了吧……？　哈哈……"
+
+夏夏
+夏夏 : 「すみません……久しぶりに落ちちゃって……」
+Natsuka : "I'm sorry... I haven't fallen this badly in a long time..."
+夏夏 : "不好意思……久违摔这么惨……"
+
+リルヤ
+リルヤ : 『そうだな、会った頃は落ちてばかりだったがな』
+Lilja : "That reminds me, you used to trip and fall regularly when we first met."
+丽露娅 : "是啊，刚和你认识那段时间，你天天摔啊"
+
+夏夏
+夏夏 : 「もう落ちないと思いますっていったのに……落ちちゃいました」
+Natsuka : "I thought I'd gotten better about that... But I'm afraid I fell again."
+夏夏 : "还以为不会再摔跤了……结果还是"
+
+リルヤ
+リルヤ : 『そういうこともある』
+Lilja : "It happens."
+丽露娅 : "也有这种时候吧"
+
+夏夏
+夏夏 : 「あー……」
+Natsuka : "Ahh..."
+夏夏 : "啊……"
+
+夏夏
+夏夏 : 「助け、呼んでくれてありがとうございます……」
+Natsuka : "Thank you for sending help..."
+夏夏 : "谢谢您帮我叫救援……"
+
+リルヤ
+リルヤ : 『かまわん、この程度のことなら、いくらでもする』
+Lilja : "It's fine. I'll do whatever is necessary in situations like this."
+丽露娅 : "不用谢，这点小事我随时能为你办到"
+
+夏夏
+夏夏 : 「りるりゃさん、汚れちゃいました……」
+Natsuka : "I got mud on Li'l Ya-san..."
+夏夏 : "我把丽露喵弄脏了……"
+
+リルヤ
+リルヤ : 『あとでいくらでもきれいにしてやれ。いつも私を磨いているようにな』
+Lilja : "You can simply wash her later, just like how you always take care of me."
+丽露娅 : "回头怎么都能洗干净的。就像你平时照顾我一样啊"
+
+夏夏
+夏夏 : 「はは……そうですねえ……というか、ちゃんと、スマホ、壊れずにいてよかったです……リルヤさんに、心配かけたら……」
+Natsuka : "Haha... You're right... Anyway... I'm glad my phone didn't break... I wouldn't want you to worry, Lilja-san..."
+夏夏 : "哈哈……也是啊……幸好手机没坏……要是让丽露娅小姐担心了……"
+
+リルヤ
+リルヤ : 『喋るのが辛いなら、あまり喋らなくていいんだぞ』
+Lilja : "If it hurts to talk, then don't talk so much."
+丽露娅 : "说不出话就别再说了，好好休息吧"
+
+夏夏
+夏夏 : 「いえ、なんだか喋っていたくて……枯葉は雪並に滑りやすいっていうのに、うっかりしてました……反省……」
+Natsuka : "No, I %i1want%id to talk... I should've known the leaves would be as slippery as snow... I was careless..."
+夏夏 : "不用，我就是想说说话……明明我知道枯叶比雪地还滑，但还是搞砸了……得反省一下……"
+
+夏夏
+夏夏 : 「はあ、月がきれいですねえ……月を見ながら、お散歩したら……色々と何か見えてくるかなって……思ったんですけど……」
+Natsuka : "Hahh, the moon really is beautiful... I thought I'd be able to clear my head and figure things out if I took a stroll while looking at the moon..."
+夏夏 : "哎，月亮好漂亮……要是能一边散步一边赏月……应该能看到什么东西的吧……"
+
+夏夏
+夏夏 : 「体、やっぱり痛いです……咄嗟に、枝につっこんだんですけど……枯葉だと、あんまりクッションにならないのかもですね……」
+Natsuka : "I'm pretty bruised up... I hit some branches and landed in a pile of leaves, but they're mostly dry and crunchy, so they don't make for much of a cushion..."
+夏夏 : "身体还是有点痛……虽然我一头扎进树枝丛中……但枯叶起不到什么缓冲效果啊……"
+
+夏夏
+夏夏 : 「あ、遠くにですが、足音が聞こえてきました……リルヤさんがいっていた、助けのひとでしょうか……よかった……」
+Natsuka : "Oh, I can hear footsteps in the distance... That must be who Lilja-san called for help... I'm glad..."
+夏夏 : "啊，有脚步声，不过有点远……是丽露娅小姐说的救援吗……太好了……"
+
+夏夏
+夏夏 : 「これで、リルヤさんに心配かけずに……済みます、ね……」
+Natsuka : "Now Lilja-san won't have to... worry anymore..."
+夏夏 : "这下丽露娅小姐就不用担心……了吧……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+善乃
+？？？ : 「はっ……はっ……はっ……」
+??? : "Hahh... Hahh... Hahh..."
+??? : "哈……哈……哈……"
+
+夏夏
+夏夏 : （誰かが走っている……）
+Natsuka : (Someone's running...)
+夏夏 : （有谁在奔跑……）
+
+夏夏
+夏夏 : （わたしをおぶって、必死に……ずっと走っている……）
+Natsuka : (They're carrying me... and running as fast as they can...)
+夏夏 : （背着我，拼命地……不停奔跑着……）
+
+夏夏
+夏夏 : （髪がひるがえって……耳の輪郭が月光に白く透けて……）
+Natsuka : (Their hair is fluttering in the wind... And their ears look white and transparent in the moonlight...)
+夏夏 : （那人的头发被风吹拂……耳朵在月光下白得透明……）
+
+夏夏
+夏夏 : （ああ、そうでした、今夜は月の明るい夜でした……）
+Natsuka : (Ahh, that's right... It's a bright, moonlit night...)
+夏夏 : （对了。今晚月亮很亮……）
+
+善乃
+？？？ : 「大丈夫だ、今度こそ、絶対に助けるから……」
+??? : "It's okay. This time, I'll definitely save you."
+??? : "没事的，这次绝对会救你的……"
+
+夏夏
+夏夏 : （そんな心配しなくて大丈夫ですよ。わたしは平気です、ちょっと、体が痛いだけで……）
+Natsuka : (You don't have to worry so much. I'm okay... Just a bit bruised...)
+夏夏 : （不用这么担心的。我没事的。只是身体稍微有点痛……）
+
+善乃
+？？？ : 「お願いします、どうか、このひとの命を助けてください、かみさま、かみさま、お願いします、かみさま、私はどうなってもかまわないんです、だから、だから……」
+??? : "Please, God, don't let this person die! God, please, I beg you! I don't care what happens to me, but please... Please..."
+??? : "求求您了，请救救这个人。上帝啊，上帝啊，求求您了。上帝啊，我怎么样都无所谓，所以、所以——"
+
+善乃
+？？？ : 「だから、頼む……死なないでくれ……――っ！」
+??? : "Please... Don't die, M—"
+??? : "所以求你了……别死啊——！"
+
+夏夏
+夏夏 : （……ああ）
+Natsuka : (Ahh...)
+夏夏 : （……原来如此）
+
+夏夏
+夏夏 : （大丈夫、大丈夫ですよ……わたしは、違いますから……）
+Natsuka : (It's okay... Don't worry... I'm not her...)
+夏夏 : （没事，没事的哦……我不是那样的……）
+
+夏夏
+夏夏 : （だから、そんなに泣かないでください……）
+Natsuka : (Please don't cry...)
+夏夏 : （所以不要哭成那样了……）
+
+夏夏
+夏夏 : （――さん）
+Natsuka : (...-san...)
+夏夏 : （——小姐）
+

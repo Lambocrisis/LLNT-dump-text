@@ -1,0 +1,275 @@
+夏夏
+夏夏 : 「掃除よーし！　お茶菓子よーし！　リルヤさんよーし！」
+Natsuka : "Cleaning, check! Tea and snacks, check! Lilja-san, check!"
+夏夏 : "卫生打扫干净了！　茶点准备好了！　丽露娅小姐也就绪了！"
+
+夏夏
+夏夏 : 「髪のセットも服装も完璧で、誰が見ても素敵なリルヤさんですよ」
+Natsuka : "Your hair and outfit are perfect. You're as cute as cute can be!"
+夏夏 : "丽露娅小姐的发型和服装也很完美，不论谁看到都会赞不绝口！"
+
+リルヤ
+リルヤ : 「いつでも私は完璧だがな」
+Lilja : "I always strive for perfection."
+丽露娅 : "我时时刻刻都很完美"
+
+夏夏
+夏夏 : 「もちろんですよ。いつでもリルヤさんは綺麗です、妖精のお姫様みたいです！」
+Natsuka : "Of course you do! Your beauty is unparalleled, like a fairy princess!"
+夏夏 : "那是当然。丽露娅小姐时时刻刻都很完美，就像妖精公主一样！"
+
+リルヤ
+リルヤ : 「……ふ」
+Lilja : "...Heh."
+丽露娅 : "……哼"
+
+夏夏
+夏夏 : 「あとは依頼人さんを待つばかりですね。お話できるの楽しみです」
+Natsuka : "Now we wait for the client. I can't wait to talk to her."
+夏夏 : "接下来只用等客人来访就行了吧。好期待和她在一起聊天呢"
+
+夏夏
+夏夏 : 「依頼の内容も素敵ですよね。結婚してからの新居に飾るために、思い出の場所を描いて欲しいって」
+Natsuka : "Her request is amazing. She wants you to paint a place from her memories to decorate the house she will be moving into after her marriage."
+夏夏 : "委托的内容也很棒呢。马上就要结婚，所以希望把回忆中的风景画成画，装饰在婚房里"
+
+夏夏
+夏夏 : 「なんだかとってもロマンティックですね」
+Natsuka : "Isn't that %i1so%id romantic?"
+夏夏 : "想想就好浪漫呢"
+
+リルヤ
+リルヤ : 「随分とご機嫌だな？　夏夏」
+Lilja : "You appear to be in high spirits, Natsuka."
+丽露娅 : "夏夏，你的心情真不错啊"
+
+夏夏
+夏夏 : 「そりゃもう！　わたしにとっては、はじめての依頼人さんですので、気合いも入るってものですよ、むんっ」
+Natsuka : "Well, yeah! It'll be my first time dealing with a client, so I wanna do my very best! Mmph!"
+夏夏 : "那可不！　这可是我的第一名委托人，肯定是要打起精神来的，嗯"
+
+リルヤ
+リルヤ : 「私にとってもはじめてだが？」
+Lilja : "It'll be my first client, too."
+丽露娅 : "我也是第一次接下别人的委托啊？"
+
+夏夏
+夏夏 : 「えっ、そうなんですか？」
+Natsuka : "Huh? Really?"
+夏夏 : "咦？　是这样吗？"
+
+リルヤ
+リルヤ : 「窓口になっているサイトから送られてくる依頼のメッセージは、悪戯や業者を除くと週に平均７３通」
+Lilja : "The average number of requests I receive per week via my website's contact page, excluding spam and phishing messages, is seventy-three."
+丽露娅 : "每周通过网站发送来的委托邮件，除去骚扰和业务邮件平均为73封"
+
+リルヤ
+リルヤ : 「しかし、私の琴線に触れる内容がそうそうあるわけもない」
+Lilja : "However, very few of those requests inspire me."
+丽露娅 : "但是，能入我法眼的委托可没那么多"
+
+リルヤ
+リルヤ : 「今回もそこまで気にいっているわけではないが……」
+Lilja : "This particular request was nothing out of the ordinary, either."
+丽露娅 : "而且这次接下来的委托我也不是特别在意……"
+
+リルヤ
+リルヤ : 「今回の依頼人は、何かを隠している。あるいは何かを怖れている。目を逸らそうとしている」
+Lilja : "However, it gave me the feeling that the client is hiding something. Perhaps she's afraid, or maybe it's something she's trying to avoid."
+丽露娅 : "但这次的委托人，隐藏了些什么。要不然就是惧怕些什么，并且打算逃避自己的恐惧"
+
+リルヤ
+リルヤ : 「しかも本人は気づいていない。その『何か』に興味を引かれた。だから直接会って、話を聞くことにした」
+Lilja : "Yet it seems the client herself isn't aware of that. I'm interested to find out what that %i1something%id is. That's why I decided to invite her over for a talk."
+丽露娅 : "甚至连她自己都没察觉到这些。我对她所隐瞒的东西产生了兴趣。所以打算和她见面，听她好讲一讲"
+
+リルヤ
+リルヤ : 「あらかじめ必要な情報は、既に手に入れてある」
+Lilja : "I've already obtained all the necessary information."
+丽露娅 : "所有需要的信息，我已经事先拿到手了"
+
+夏夏
+夏夏 : 「わたしにも送ってくださったプロフィール的なやつですよね？」
+Natsuka : "You mean the profile you sent me earlier?"
+夏夏 : "就是之前也给我发过的，那个像是档案一样的东西吧？"
+
+夏夏
+夏夏 : 「[かすがい,2]春日衣[ゆう]優さん、２５歳、独身。都内のお菓子メーカーに勤務。婚約者さんと同棲中で、結婚間近。なんだか履歴書みたいですね」
+Natsuka : "Kasugai Yuu-san, twenty-five years old, single. She works for a confectionery manufacturer in Tokyo. She lives with her significant other, and they're planning to get married soon... This kinda reads like a résumé."
+夏夏 : "春日衣优小姐，25岁，未婚。在东京都内的零食制造商工作。目前与婚约者同居，即将结婚。好像简历一样呢"
+
+夏夏
+夏夏 : 「他にも色々書いてありましたけど。出身地とか、どこを卒業したとか、今はどこに住んでいるとか、ＳＮＳのアカウントとか」
+Natsuka : "It's got everything there is to know about her—where she's from, what schools she went to, her current address, and even her socials."
+夏夏 : "此外还写了不少其它信息，比如出生地、毕业学校、家庭住址，社交平台账号之类的"
+
+リルヤ
+リルヤ : 「膨大な情報群からお前にとって必要な情報だけを送ったから、それでも、ごく一部でしかないがな」
+Lilja : "It's only a small selection from a vast pool of information. I chose to only show you the information you will need."
+丽露娅 : "发给你的是从众多情报中筛选出来你必须知道的信息而已，只了占一小部分"
+
+夏夏
+夏夏 : 「文章やボイスチャットでずっとやりとりしてましたもんね」
+Natsuka : "You've been messaging and voice calling her for quite a while, haven't you?"
+夏夏 : "您一直有通过邮件和语音和她进行互动呢"
+
+リルヤ
+リルヤ : 「ああ。そうして私が手にしたのは、依頼人の情報の集合体。私は、その情報群体に底流する情報を聞いた」
+Lilja : "Correct. That's how I was able to put together the client's basic profile. I also asked her about her background and gathered some other pertinent information."
+丽露娅 : "没错。因此我入手的，是委托人情报的汇总。而我问的，是深层的信息"
+
+リルヤ
+リルヤ : 「その情報からみえてくる世界は、けっして悪くなかった。だが、インスピレーションを刺激されるほどではなかった」
+Lilja : "That information gave me a glimpse into a new world, and it wasn't a bad one by any means. However, it still didn't inspire me."
+丽露娅 : "透过这些看到的世界，并不能说坏。但它并不能激发我的灵感"
+
+リルヤ
+リルヤ : 「私が求めているのは、常に必要以上の情報だ」
+Lilja : "What I'm after is information %i1beyond%id what's strictly necessary."
+丽露娅 : "我所需要的，常常是超出必须的信息"
+
+リルヤ
+リルヤ : 「夏夏。お前の目と足に頼るこの手法は、実に非合理で、非効率的だ」
+Lilja : "Natsuka, I'm relying on your eyes and legs in order to obtain information. It's a highly irrational and inefficient method."
+丽露娅 : "夏夏。为此依靠你的眼与腿，过于不合理，也没有效率"
+
+リルヤ
+リルヤ : 「しかし、そうすることが、私の求める『光』を得るための最短距離になるのは、既に実証済みだ」
+Lilja : "However, it's also been proven to be the quickest method for me to obtain the light I seek."
+丽露娅 : "不过，想要获得我所寻求的‘光芒’，这样做是最快的。而且已经得到了证实"
+
+リルヤ
+リルヤ : 「だから、お前が気になることを好きに聞くといい。お前が、この依頼から引き出す情報に期待している」
+Lilja : "Therefore, you should ask the client whatever questions are on your mind. I believe that will be how we'll be able to extract the most valuable information from her."
+丽露娅 : "所以，只要是你在意的问题，就尽量提出来吧。我很期待你能从这个委托中发掘出更多信息"
+
+リルヤ
+リルヤ : 「そこにこそ、インスピレーションの源泉が――世界を新たに照らす『光』がある」
+Lilja : "That will be the source of my inspiration, the light that will illuminate the world anew."
+丽露娅 : "你发掘出的情报里，蕴藏着灵感的源泉——使世界焕然一新的‘光芒’"
+
+夏夏
+夏夏 : 「責任重大ですね、がんばります！」
+Natsuka : "I guess there's no pressure then! I'll do my best!"
+夏夏 : "责任重大呢，我会努力的！"
+
+夏夏
+夏夏 : 「それにしても、依頼人の優さんは、一体、どんなことを隠しているんでしょうか？」
+Natsuka : "What sorta stuff do you think she could be hiding?"
+夏夏 : "不过，这位委托人优小姐到底藏了些什么秘密呢？"
+
+リルヤ
+リルヤ : 「さあな。まだ不確定な事項に関して、想像を巡らすことはしないよ。無意味だし、非合理だからな」
+Lilja : "I haven't a clue. It's meaningless to speculate when so many factors remain uncertain."
+丽露娅 : "这我就不知道了。不要去臆测还没能确定下来的事物。没有意义，也不合理"
+
+リルヤ
+リルヤ : 「もちろん、お前はいくらでも想像して語るが良い」
+Lilja : "You're free to let your imagination run wild and speculate all you want, however. Let's hear what's on your mind."
+丽露娅 : "当然，你无所谓，把你想到的都说出来就行"
+
+夏夏
+夏夏 : 「それってわたしのお喋りが、リルヤさんのインスピレーションを生み出すからですよね？」
+Natsuka : "Do you think my mindless babble will help you find some inspiration, Lilja-san?"
+夏夏 : "也就是说，我的话能给丽露娅小姐带来灵感吧？"
+
+リルヤ
+リルヤ : 「そうだ。９９．９パーセントは役に立たない情報だがな」
+Lilja : "I do, even if 99.9 percent of it is useless information."
+丽露娅 : "没错。虽然99.9\%都会是没用的信息"
+
+リルヤ
+リルヤ : 「しかし、０．１パーセントの確率で手に入るインスピレーションならば、非常に高い確率といえよう」
+Lilja : "However, if the remaining 0.1 percent will inspire me, then it's a chance worth taking."
+丽露娅 : "但是，哪怕只有0.1％的概率能得到灵感，就已经很不错了"
+
+リルヤ
+リルヤ : 「人間は私にとって永遠の謎だ……非合理で、非効率的。だが……」
+Lilja : "Humans remain an eternal mystery to me... We're irrational and inefficient... However..."
+丽露娅 : "人类对我来说永远是个谜……不合理、没效率。但……"
+
+夏夏
+夏夏 : 「だからこそ、面白い、ですか？」
+Natsuka : "That's what makes us so interesting, right?"
+夏夏 : "但正因此才有趣，对吗？"
+
+リルヤ
+リルヤ : 「いや？　人間など大して面白くはない」
+Lilja : "Not really. Humans aren't all that interesting."
+丽露娅 : "怎么可能。人类可不是那么有趣的"
+
+夏夏
+夏夏 : 「へ？　だったらどうして、依頼人さんから話を聞くんですか？」
+Natsuka : "Huh? Then what made you decide to take on this client?"
+夏夏 : "咦？　那你为什么会去听委托人说话呢？"
+
+リルヤ
+リルヤ : 「自然は美しい。驚異があり、究極の調和がある」
+Lilja : "In nature, there's beauty, wonder, and ultimate harmony."
+丽露娅 : "大自然很美。既有鬼斧神工的瑰丽，又有相生相息的和谐"
+
+リルヤ
+リルヤ : 「それに比べれば人間は、洪水の後の泥土に等しい」
+Lilja : "Compared to that, humans are like the muck that remains after a flood."
+丽露娅 : "与之相比，人类就如同洪水过境后的泥土"
+
+リルヤ
+リルヤ : 「しかし泥土には泥土の意味がある。そして、そこにある[かんらん,1]橄欖の葉を拾ってくることこそが、お前の役目だ」
+Lilja : "But muck also has its purpose. It is your job to find the olive leaf among the muck and bring it to me."
+丽露娅 : "但泥土也有作为泥土的意义。而你的任务，就是从泥土中，捡起飘落在那里的橄榄叶"
+
+リルヤ
+リルヤ : 「お前には広がる約束の虹以上の光景を、見せてもらいたいものだ」
+Lilja : "I want to show you a spectacle even more dazzling than the first rainbow ever witnessed."
+丽露娅 : "希望你展现给我的景象里，有的不仅仅是期待之中的彩虹"
+
+夏夏
+夏夏 : 「まかせてください！　頑張ります！」
+Natsuka : "You can count on me! I'll do my best!"
+夏夏 : "包在我身上！　我会努力的！"
+
+リルヤ
+リルヤ : 「そろそろ、来るぞ」
+Lilja : "She's here."
+丽露娅 : "她快到了"
+
+夏夏
+夏夏 : 「えっ？」
+Natsuka : "Huh?"
+夏夏 : "咦？"
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Oh!!"
+夏夏 : "！！"
+
+夏夏
+夏夏 : 「リルヤさん！　今のはどうしてわかったんですか！？　まさか、靴音が聞こえたんですか？」
+Natsuka : "Lilja-san, how did you know!? Could you hear her footsteps or something?"
+夏夏 : "丽露娅小姐！　您是怎么知道的！？　难道是听到脚步声了？"
+
+リルヤ
+リルヤ : 「勘だ」
+Lilja : "No, it was my sixth sense."
+丽露娅 : "凭直觉"
+
+夏夏
+夏夏 : 「勘！！　す、すごいです！！」
+Natsuka : "What!? Th-That's incredible!!"
+夏夏 : "直觉！！　好、好厉害！！"
+
+リルヤ
+リルヤ : 「嘘だ」
+Lilja : "Just kidding."
+丽露娅 : "怎么可能"
+
+夏夏
+夏夏 : 「うそぉ！？」
+Natsuka : "What!?"
+夏夏 : "骗我的吗！？"
+
+リルヤ
+リルヤ : 「時計を見ろ。時間だよ」
+Lilja : "Look at the clock. It's time."
+丽露娅 : "你看时钟。时间到了"
+

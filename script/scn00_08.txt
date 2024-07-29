@@ -1,0 +1,835 @@
+夏夏
+夏夏 : 「空！」
+Natsuka : "The sky..."
+夏夏 : "蓝天！"
+
+夏夏
+夏夏 : 「でっかーい！　空がめちゃめちゃでかいですね。でかいというか広いんですけど、でっかーいって感じです！！」
+Natsuka : "It's so big! I'd forgotten just how big the sky really is! Well, I mean, I knew it was big, but %i1this%id big!?"
+夏夏 : "好大呢！　天空好大。虽然用宽广来形容更好，但还是好大！！"
+
+夏夏
+夏夏 : 「ものすごい見晴らしの良い駅なんですね。すごいなあ……この世界に、空とわたしと優さんしかいないような錯覚に陥りそうです」
+Natsuka : "The vast, open views from this station are amazing... It feels like we're the only people in the world underneath this big blue sky."
+夏夏 : "这车站的视野很开阔呢。好厉害啊……感觉这个世界里只有天空，我以及优小姐"
+
+夏夏
+夏夏 : 「あ、りるりゃさんもいますし、リルヤさんも聞いてますけれど！」
+Natsuka : "Oh, but Li'l Ya-san is here, and Lilja-san is listening in, too!"
+夏夏 : "啊，不过还有丽露喵在，丽露娅小姐也能听到我们说话！"
+
+夏夏
+夏夏 : 「学校はどっちにあるんですか？」
+Natsuka : "Which way was your old school?"
+夏夏 : "学校在哪边呢？"
+
+優
+優 : 「学校は山の方ね。分校だったから校舎もちいさくて、わたしたちの世代でもだいぶ生徒はすくなかったわ」
+Yuu : "Over that way, toward the mountains. The building was pretty small since it was just a branch school and there weren't that many students."
+优 : "学校在山那边呢。因为是分校所以教学楼也很小，哪怕在我们那年，学生也特别少"
+
+優
+優 : 「わたしと友達は使っていたけれど、電車の本数がすくなすぎて、この駅を使う生徒もすくなかったわね」
+Yuu : "My friends and I were among the few students who actually used this stop. The train only runs through here a few times a day."
+优 : "我和我朋友经常坐电车，但每天没几班，在这个车站等车的学生也很少"
+
+優
+優 : 「校舎は木造でね、古くて寒くて暑くて……でも、大好きだったわ」
+Yuu : "The old school building was made of wood. It was freezing in the winter and scorching in the summer... But I loved it there."
+优 : "教学楼是木制的，又老，冬天冷夏天热……不过，我非常喜欢它"
+
+優
+優 : 「校舎にも思い出は沢山あるけれど、でも、わたしにはやっぱりこの駅のホームが一番思い出深いわね」
+Yuu : "I made a lot of good memories at school, but... my dearest memories are of the time we spent here on this platform."
+优 : "我对教学楼有不少的回忆，不过对我而言，最怀念的还是这个车站的月台"
+
+夏夏
+夏夏 : 「いいですね。思い出の駅。この駅の景色は、優さん的には昔とあまり変わらないですか？」
+Natsuka : "So it really %i1is%id the station of your memories... Does the scenery around here still look the same as it did back then?"
+夏夏 : "真不错呢。回忆中的车站。这个车站的风景，在优小姐看来和以前没多大变化吗？"
+
+優
+優 : 「ええ。びっくりするくらい何も変わってないわ」
+Yuu : "Yes. I'm surprised to see that it hasn't changed a bit."
+优 : "是的，它没有任何变化，让我非常惊讶"
+
+優
+優 : （本当に、まるで時間が昔に戻ってしまったみたい……何も変わらない光景……）
+Yuu : (It really feels like I've traveled back in time... It looks exactly the same...)
+优 : （感觉好像真的回到了过去……这毫无变化的风景……）
+
+夏夏
+夏夏 : 「それならよかったです！　それでは、まずは写真を撮りますね～」
+Natsuka : "I'm glad to hear that! Now then, let's take some photos!"
+夏夏 : "那就太好了！　那么，我们先来拍几张照片吧～"
+
+優
+優 : 「記念撮影？　りるりゃさんも一緒に撮る？」
+Yuu : "You mean of all of us together? Should Li'l Ya-san be in them, too?"
+优 : "纪念照？　要把丽露喵小姐也拍进去吗？"
+
+夏夏
+夏夏 : 「りるりゃさんは、昔の景色には存在しないので今は撮りません」
+Natsuka : "Li'l Ya-san doesn't exist in your memories of this place, so let's leave her out."
+夏夏 : "丽露喵不应该存在于过去的风景里，所以这次就算了"
+
+リルヤ
+リルヤ : 『写真は必要な情報のひとつだからな。できるだけ余計な情報を排除するように指示してある』
+Lilja : "Photos are part of the necessary information. I've instructed Natsuka to omit any unnecessary components from them."
+丽露娅 : "照片也是必要的信息之一。我对夏夏说过，要尽量排除多余的信息"
+
+リルヤ
+リルヤ : 『必要以上の情報は、夏夏が担当するからな』
+Lilja : "Natsuka has full authority when gathering information %i1beyond%id what's necessary."
+丽露娅 : "而超出必须以上的信息，就是夏夏需要去收集的东西了"
+
+優
+優 : 「必要以上の情報？」
+Yuu : "Information beyond what's necessary?"
+优 : "超出必须以上的信息？"
+
+夏夏
+夏夏 : 「簡単にいうと、絵を描くのに必要なプラスアルファですね。ですよね？　リルヤさん」
+Natsuka : "To put it simply, it's that 'something extra' that'll allow Lilja-san to make her paintings truly special. Isn't that right?"
+夏夏 : "简单来说，就是绘画所必须的加分项吧。没错吧？　丽露娅小姐"
+
+リルヤ
+リルヤ : 『シンプルすぎるが、間違いでもない』
+Lilja : "That's quite the simplification, but it's not wrong."
+丽露娅 : "过于简单了，不过也没说错"
+
+夏夏
+夏夏 : 「絵も好きですけど、写真もいいですよね。絵は描けませんが、写真なら撮れますし。撮ってて面白いですし」
+Natsuka : "I like paintings, but photos are also nice. Since I'm not very good at painting, I take pictures instead. It's fun!"
+夏夏 : "我喜欢绘画，但照片也很不错呢。我不擅长画画，但是拍照还是能办到的。而且我也很喜欢拍照"
+
+夏夏
+夏夏 : 「あと、今は撮りませんが、りるりゃさんの初陣ですので、あとでこっそり撮影したいですね」
+Natsuka : "I won't do it now, but since this is Li'l Ya-san's first outing, I'll secretly take a photo of her later."
+夏夏 : "还有，尽管我现在不会拍照，但这可是丽露喵的首次亮相，等会偷偷拍两张好了"
+
+リルヤ
+リルヤ : 『こっそりって誰に対するこっそりだ？　私も彼女も聞いているぞ』
+Lilja : "It's not much of a secret when you announce it to the world like that."
+丽露娅 : "偷偷拍，你是要背着谁偷偷拍？　我和她都听到你说了哦"
+
+夏夏
+夏夏 : 「そういえばそうですね。では堂々と後で撮るとここに宣言します！」
+Natsuka : "Oh yeah, you're right. Then I'll not-so-secretly take one of her later!"
+夏夏 : "这么说好像也是啊。那我一会就堂堂正正拍两张！"
+
+夏夏
+夏夏 : 「でもまずは、やるべきことをやっちゃいます。さーどんどん撮っていきますよ～」
+Natsuka : "For now, though, let's do what we came here to do. I'll take lots of pictures!"
+夏夏 : "不过还是先把该做的都做了吧。要拍个够了哦～"
+
+夏夏
+夏夏 : 「あっ、優さんこっちにベンチがありますね！　水色のどこでも見かけるタイプのベンチですね。これも昔からあったんですか？」
+Natsuka : "Ah, Yuu-san, there's some chairs over here. They're blue, plastic chairs—the kind you see everywhere. Have these always been here?"
+夏夏 : "啊，优小姐，这里有长椅呢！　是那种到处都有的水蓝色长椅呢。这也是以前就有的吗？"
+
+優
+優 : 「そうよ。だいぶ色褪せて傷だらけになっているけれど、それ以外は、何も変わっていないわ」
+Yuu : "Yes. The color has faded, and they're all scratched up, but aside from that, they're exactly the same."
+优 : "是哦。虽然褪色了，而且很多地方都有伤痕，不过其他地方完全没有任何变化呢"
+
+夏夏
+夏夏 : 「しかしこれだけ見晴らしがよいと、冬は風が吹いて寒そうですね」
+Natsuka : "The wide-open fields look nice, but I bet the wind makes it really cold here in the winter."
+夏夏 : "但是车站视野这么好，冬天吹风肯定会特别冷吧"
+
+優
+優 : 「そうなのよ。冬もそうだけど、このあたりは突風がよく吹くのよね」
+Yuu : "Yes, it does. Not just in the winter—sudden gusts can hit you at any time here."
+优 : "是哦。冬天自不必说，就连夏天，这附近也常会刮起阵风"
+
+優
+優 : 「わたし、おっちょこちょいでね、それでよく色々なものを飛ばしていたのよ。それを運動神経のよい友達がキャッチしてくれたりしたわ」
+Yuu : "I mentioned that I'm clumsy, right? I used to let stuff get blown away by the wind all the time. My friend was a lot more athletic than me, and she'd always try to catch it."
+优 : "我以前很冒失的，自己的东西总会被阵风吹走。每次都是运动神经优秀的朋友帮我把东西拿回来的"
+
+優
+優 : 「本当に懐かしいわね……こんな風に誰もいない駅のホームで、友達と色んな話をしたわ」
+Yuu : "That really takes me back... Talking with friends on this empty platform..."
+优 : "真怀念呢……在这个无人的车站，在月台上，我和朋友像这样聊了不少呢"
+
+優
+優 : 「……ふふ」
+Yuu : "Hehe..."
+优 : "……呵呵"
+
+夏夏
+夏夏 : 「ん！？　またその笑顔ですね、何か聞きたくなっちゃう笑顔です！」
+Natsuka : "Hmm!? There's that smile again. That smile of yours makes me wanna ask all sorts of questions!"
+夏夏 : "嗯！？　又是这个笑容，让我好在意！"
+
+優
+優 : 「ああ、ごめんなさい。ちゃんと立派なベンチもあるのに、ホームに寝転がって空を見ていたなあって……」
+Yuu : "Oh, I'm sorry... I was just remembering about how we used to lie down on the platform all the time, even though there were chairs."
+优 : "喔，不好意思。只是想起以前明明有这么好的长椅，我们还是躺在月台上看天空……"
+
+夏夏
+夏夏 : 「ホームに寝転がってですか？　いいですね。あとでわたしもやってみたいです！」
+Natsuka : "You'd lie down on the ground? That sounds nice. I wanna try that, too!"
+夏夏 : "躺在月台上吗？　真不错。等下我也想试试！"
+
+優
+優 : 「アスファルトだって暑いのに、どうしてあんなことしたのかしら？　でもあの頃は、全然気にならなかったのよ」
+Yuu : "The concrete was really hot in the summer, so I wonder why we did it... At the time, it didn't bother us at all."
+优 : "沥青明明都那么烫了，为什么我们当时会躺在地上呢？　但是那时候我们完全不在意这些"
+
+優
+優 : 「目の前に広がる一面の青空を見ながら、色々な話をしたわ」
+Yuu : "We'd talk about all sorts of things while gazing up at the vast sky like that."
+优 : "我们躺在地上，眺望着辽阔无垠的蓝天，有一搭没一搭地聊着"
+
+優
+優 : 「空の雲がソフトクリームに見えるとか、イルカに見えるとか、そんな話をしたり、飴を食べ合ったり、台詞の練習をしたり……」
+Yuu : "Sometimes we'd talk about how the clouds looked like ice cream cones, or like dolphins... We'd eat candy together, and we'd practice saying our lines..."
+优 : "讨论天上的云是像冰激凌还是海豚，聊着天吃着糖，或者练习下台词……"
+
+夏夏
+夏夏 : 「飴って、優さんの好きなあのドロップスですか？」
+Natsuka : "By candy, do you mean those drops you like so much?"
+夏夏 : "糖是优小姐喜欢吃的那种硬糖吗？"
+
+優
+優 : 「そうよ。わたしは辛いのが苦手だから、青い飴はあの子が食べてくれた。台本を持っているあの子の口に、わたしが飴を放り込んだ」
+Yuu : "Yes. I don't care for spicy things that much, so my friend would eat the blue, mint-flavored ones for me. I'd toss them into her mouth while her hands were occupied with the script book."
+优 : "是呢。我不是很喜欢吃刺激性的食物，所以蓝色的糖果一直是她吃的。在她对着剧本对台词的时候，我把糖塞进她嘴里"
+
+優
+優 : 「あの子は青い飴ばかり食べたがるから、わたしはそのうち青い飴だけ別にとっておくようになったのよ」
+Yuu : "She only wanted the blue ones, so I'd always save those for her."
+优 : "她总是吃蓝色的糖果。所以渐渐的，我开始把蓝色的糖果单独拣出来了"
+
+優
+優 : 「缶をふたつ用意してね、ひとつは青い飴ばかり。あの子のための特別な缶……」
+Yuu : "I carried two cans with me—one for me, and one for the blue ones specially for her."
+优 : "我会准备两个糖罐，其中一个是为了她准备的，只装着蓝色糖果的糖罐……"
+
+夏夏
+夏夏 : 「この青い空の下で食べる青い飴かあ……空を食べている気分になれそうです！」
+Natsuka : "Eating blue candies under the blue sky... It must've felt like you were eating the sky itself!"
+夏夏 : "在蓝天下品尝的蓝色糖果吗……有种在品味天空的感觉呢！"
+
+優
+優 : 「ふふ、詩的ね」
+Yuu : "Hehe, that's so poetic."
+优 : "呵呵，真有诗意呢"
+
+夏夏
+夏夏 : 「台本ってことは、優さん演劇部だったんですか？」
+Natsuka : "You mentioned practicing lines—were you in the drama club, Yuu-san?"
+夏夏 : "您刚刚提到剧本，优小姐您是戏剧社的人吗？"
+
+優
+優 : 「いいえ、学園祭の演目だったの。受験で忙しいのに、伝統的に３年生がやることになっていたわ。本当に大変だったけど、でも楽しかった」
+Yuu : "No, but we did a play for the school festival. It was tradition for the third-years to do a play even though we were busy studying for exams. It was hectic, but also really fun."
+优 : "不是哦，那个剧本是为学园祭准备的。明明还要准备考，但学校传统是让三年级学生负责。说实话那段时间很忙，但是很开心"
+
+夏夏
+夏夏 : 「どんな劇をしたんですか？」
+Natsuka : "What kind of play was it?"
+夏夏 : "演的是什么剧呢？"
+
+優
+優 : 「ロミオとジュリエットよ。わたしがジュリエットだったから、友達が一緒に台本の練習をしてくれたのよ」
+Yuu : "%i1Romeo and Juliet%id. I played Juliet, so I asked my friend to help me practice my lines."
+优 : "是罗密欧与朱丽叶哦。我的角色是朱丽叶，所以朋友就陪我一起练习"
+
+夏夏
+夏夏 : 「ロミオとジュリエット……哀しい話ですね」
+Natsuka : "%i1Romeo and Juliet%id... That's a sad story, isn't it?"
+夏夏 : "罗密欧与朱丽叶……是个悲剧吧"
+
+優
+優 : 「あら、夏夏ちゃんも知っているのね？　映画を見たのかしら？　それとも舞台を？」
+Yuu : "My, do you know it, Natsuka-chan? Did you see one of the movies? Or did you watch the stage play?"
+优 : "哎呀，夏夏你知道吗？　是看的电影？　还是舞台剧？"
+
+夏夏
+夏夏 : 「映画ですね。姉と一緒に見ました。すごくふるーい映画でした」
+Natsuka : "One of the movies. I watched it with my older sister. It looked pretty old."
+夏夏 : "是电影吧。当初和姐姐一起看的。是部很老的电影"
+
+優
+優 : 「わたしが見たのはそれよりは新しいけど、でもわたしが生まれるより前だったわね。舞台が現代で、面白かったわ」
+Yuu : "The one I saw was newer, but it was still made before I was born. It reinterpreted the story to take place in the modern age. It was really interesting."
+优 : "我看的版本要比你看的新一些，不过仍比我出生年份早呢。我那部背景是现代，特别有意思呢"
+
+優
+優 : 「夏夏ちゃんも、生きていた方がいい派？」
+Yuu : "Are you also part of the crowd who thinks it would've been better if they'd survived?"
+优 : "夏夏也觉得，他们最后活着要更好些？"
+
+夏夏
+夏夏 : 「派とかはわかりませんが、できれば生きていて欲しいですねえ」
+Natsuka : "I don't know about any 'crowd,' but I think it would've been nice if they had lived."
+夏夏 : "说不太明白，不过要说的话还是活着好吧"
+
+優
+優 : 「わたしは、ロマンティックで好きなのだけど……でも、高校のときの友達も生きていた方がいいっていっていたわね」
+Yuu : "I think the original story is more romantic, so I like it... But back in high school, my friend also said it would've been better if they survived."
+优 : "我呢，虽然很中意这种很浪漫的结局……不过，高中时候的朋友也觉得他们活着会更好些"
+
+優
+優 : 「ひどいのよ？　あんな話が好きだなんて、子どもっぽいって笑うんだから。あの子だって大概ロマンチストだったのに……」
+Yuu : "She was so mean about it, too! She called me childish for liking a story like that, but she was a hopeless romantic herself..."
+优 : "你知道吗，她真的好过分的哦？　说会喜欢那个故事的还是小孩子，然后还笑我呢。明明她也是个浪漫主义者……"
+
+夏夏
+夏夏 : 「仲良しだったんですね、その子と」
+Natsuka : "It sounds like you were really good friends."
+夏夏 : "您跟您朋友关系很好吧"
+
+優
+優 : 「そうね。あの子と色々な話をしたわ」
+Yuu : "You're right. We talked about almost anything."
+优 : "是吧。我和她聊了不少东西呢"
+
+優
+優 : 「暑いとか、アイスがおいしいとか、夏服のスカートが重たいとか、夏が好きとか嫌いとか、でも夏休みは好きとか……」
+Yuu : "About the weather, what ice cream we liked, about our uniform skirts being too thick in the summer, whether we liked summer at all... We both liked summer vacation..."
+优 : "像是天气有多热，冰棒有多好吃，夏季校服的裙子有多难受，另外还有虽然夏天又喜欢又讨厌，不过还是喜欢更多一些之类的……"
+
+優
+優 : 「ほんと、そんなたわいのない話ばかり……」
+Yuu : "Thinking back, we mostly just talked about a lot of nonsense..."
+优 : "真的，全是些毫无营养的话题……"
+
+優
+優 : 「ああそうそう。この前リバイバル上映をしてたから、見に行ったのよ」
+Yuu : "That reminds me, I went to see that movie again at a revival house the other day."
+优 : "喔对了对了。之前电影重映，我还去看了"
+
+優
+優 : 「一緒に見にいったひとは、ロミオとジュリエットは好きでも嫌いでもないっていってたわね」
+Yuu : "The person I went with didn't have much of an opinion about %i1Romeo and Juliet%id."
+优 : "陪我一起去看电影的人说，自己不喜欢罗密欧与朱丽叶这个故事，但也不讨厌"
+
+優
+優 : 「……ただ、ああいう愚かしさこそが若さの特権だって」
+Yuu : "...Only that foolishness like that is the privilege of youth."
+优 : "……只觉得，那种愚蠢只是属于年轻人的专利"
+
+夏夏
+夏夏 : 「愚かしさ、ですか」
+Natsuka : "Foolishness, huh?"
+夏夏 : "愚蠢，吗"
+
+優
+優 : 「ええ、わたしもそう思うわ。今、ここに立っているとすごく感じるわ。あの頃の自分のことを……」
+Yuu : "Yes, and I agree with them. Now that I'm standing here, I realize just how foolish I used to be..."
+优 : "没错，我也是这样想的。现在我站在这里，很能理解这一想法。曾经的自己呢……"
+
+優
+優 : 「たわいない話ばかりっていったけど、真面目な話もしたのよ、悩んでいることもたくさん話したわ」
+Yuu : "We mostly talked about nothing, but we had serious conversations, too. We'd talk to each other about our worries."
+优 : "总是聊些没营养的话题，虽然认真的话题也有聊过，也聊了不少自己的烦恼"
+
+優
+優 : 「学校のこと、受験のこと、家族のこと、人間関係の悩み……恋の話」
+Yuu : "School, exams, family, friends... Love..."
+优 : "学校、考试、家人、人际关系带来的烦恼……以及恋爱话题"
+
+優
+優 : 「でも今となっては、そんな真面目な話もどれもちっぽけなことばかり」
+Yuu : "Thinking back on it, all of our problems back then seem so insignificant."
+优 : "不过现在看来，那些认真的话题也不过是一堆琐事"
+
+優
+優 : 「でも、あの頃のわたしたちは、今思い返せばひどく些細なことが、どうしようもなく切実だった……」
+Yuu : "At the time, though, we sincerely felt like they were matters of grave importance..."
+优 : "但是，对那时的我们而言，现在回首望去不值一提的琐事，是那么的迫切"
+
+優
+優 : 「相手のリボンをこっそり交換してしまうのもそうだけど、冷静に考えたら絶対にしちゃだめなのに……」
+Yuu : "Secretly exchanging your uniform ribbon with someone else's was one of those things... Thinking about it calmly, it's objectively a bad thing to do..."
+优 : "像是偷偷换掉对方的缎带这种事，明明只要冷静想一想就知道绝对不可以这么做的……"
+
+優
+優 : 「そのときはそれを、どうしてもそれをしないといけないって思い込むのよ、もうそれしかないって」
+Yuu : "Still, at the time, we felt compelled to do it, as if it would be the end of the world if we didn't."
+优 : "但当时的我们，一根筋认死理地觉得无论如何都得这样做，只有这一个做法可选"
+
+夏夏
+夏夏 : 「ちいさな閉じた世界にいると、外から見たらすごくくだらなく見えることが、すごく重大だったりしますよね」
+Natsuka : "When you live in a small, closed-off world, even the most trivial things can seem very important, I see."
+夏夏 : "在那狭小又封闭的世界里，那些从外面看去毫无意义的事情，却是那么重要"
+
+優
+優 : 「ええ。わたしもそうだったわ……」
+Yuu : "Yes. It was definitely like that for me..."
+优 : "没错，那时的我也是如此……"
+
+夏夏
+夏夏 : 「よし、いっぱい撮れました」
+Natsuka : "All right, I took lots of photos."
+夏夏 : "嗯，拍了不少照片呢"
+
+優
+優 : 「すごく手際がいいのね」
+Yuu : "You're so handy with a camera."
+优 : "拍得真好"
+
+夏夏
+夏夏 : 「バイトで写真家のアシスタントをしてたことがありまして。そのときに、めちゃくちゃ鍛えられました」
+Natsuka : "I used to have a part-time job as a photographer's assistant. I gained a lot of valuable experience there."
+夏夏 : "我之前有给摄影师当过助手呢。那时没少被锻炼"
+
+夏夏
+夏夏 : 「あ、ちょっと待ってくださいね。むこうの会社にデータを送るので」
+Natsuka : "Just a moment, please. I'll send this data to the company."
+夏夏 : "啊，稍等一下。我要把照片数据发到公司那里"
+
+優
+優 : 「会社？」
+Yuu : "What company?"
+优 : "公司？"
+
+夏夏
+夏夏 : 「このデータから、半立体の画像を印刷するんです。リルヤさん、質感印刷の特許をとって会社をやってるんですよ」
+Natsuka : "We're gonna turn the photos into tactile graphics. Lilja-san owns a patent for tactile graphics and runs a company that produces them."
+夏夏 : "使用这些数据，可以印刷出半立体图片。丽露娅小姐有质感印刷技术的专利，还以此开了家公司呢"
+
+夏夏
+夏夏 : 「印刷した画像面に触れることで、そこに撮られた映像がわかるって、すごいですよね」
+Natsuka : "It's amazing that you can 'see' the captured images by touching a tactile graphic, isn't it?"
+夏夏 : "只要用手去摸印刷出来的图片表面，就能够知道里面有什么内容，可厉害了呢"
+
+リルヤ
+リルヤ : 『経営は肉親にまかせているがな』
+Lilja : "I leave the management of the business to my relatives, though."
+丽露娅 : "公司是交给我的亲戚打理的"
+
+優
+優 : 「絵を描くだけじゃないのね。本当にすごいわ」
+Yuu : "So you're not just a painter? You're incredible!"
+优 : "原来丽露娅小姐不止会画画呢。真厉害"
+
+夏夏
+夏夏 : 「そうなんです！　リルヤさんは本当にすごいんです」
+Natsuka : "She really is! Lilja-san's amazing!"
+夏夏 : "是的！　丽露娅小姐是特别厉害的"
+
+優
+優 : 「ふふ、リルヤさんのことが大好きなのね」
+Yuu : "Hehe, you really love her, don't you?"
+优 : "呵呵，你是真喜欢丽露娅小姐呢"
+
+夏夏
+夏夏 : 「はい！　すごく尊敬してますし、大好きですね」
+Natsuka : "Yes, I do! I admire her and love her!"
+夏夏 : "那是当然！　我很尊敬她，也最喜欢她了"
+
+優
+優 : 「そんな風に素直に言えるなんて、素敵な関係ね」
+Yuu : "It's lovely how you can be so upfront about that."
+优 : "能这么脱口而出，你们的关系真好呢"
+
+夏夏
+夏夏 : 「えっへへ～、素敵だっていわれちゃいましたね、リルヤさん！」
+Natsuka : "Ehehe! She called us lovely, Lilja-san!"
+夏夏 : "嘿嘿嘿，她说我们关系真好呢，丽露娅小姐！"
+
+リルヤ
+リルヤ : 『この流れでは、そう言わざるを得ないだろう。私も、良い関係を築いていることを否定する理由はないがな』
+Lilja : "I believe it's just the natural flow of the conversation that led her to say that. However, I won't deny that we've built a good relationship."
+丽露娅 : "顺着你的话也只能这样说吧。不过我也觉得，我们之间有着很不错的关系"
+
+優
+優 : 「ふふ、いいわね」
+Yuu : "Hehe, how nice."
+优 : "呵呵，真不错"
+
+優
+優 : 「夏夏ちゃんも写真を撮り終えたし、すこし休みましょうか。何か飲み物を買ってくるわ。こういうの、昔みたいで楽しいし」
+Yuu : "If you're done taking photos, why don't we take a break, Natsuka-chan? I'll go buy us some drinks. It'll be just like back in the day."
+优 : "既然夏夏已经拍完照片了，要不稍微休息一会吧。我去买点饮料。这样做感觉像回到了以前，有点开心呢"
+
+夏夏
+夏夏 : 「わたしが買ってきますよ！　……と、言いたいところですが、優さんの方が土地勘はありますもんね」
+Natsuka : "Oh, I'll buy them! Then again... I'm afraid I have no idea where to go, so maybe it %i1is%id better if you go."
+夏夏 : "我去买吧！　……不过还是让优小姐去吧，您要更认路一些"
+
+優
+優 : 「そうそう。ここはお姉さんに任せて。何を飲む？」
+Yuu : "Right. Let me handle this. What would you like?"
+优 : "没错没错。就包在姐姐身上。你想喝什么？"
+
+夏夏
+夏夏 : 「おまかせします！」
+Natsuka : "You can choose for me!"
+夏夏 : "您买什么我喝什么！"
+
+優
+優 : 「ふふ、わかったわ」
+Yuu : "Hehe, all right."
+优 : "呵呵，明白啦"
+
+夏夏
+夏夏 : 「は～しかし暑いですね……」
+Natsuka : "Hahh... It sure is hot today..."
+夏夏 : "啊～不过真的好热啊……"
+
+夏夏
+夏夏 : 「本当にちいさな駅ですね。人気はない、電車も来ない」
+Natsuka : "This station really %i1is%id small. There's nobody around, and not a single train has come by since we arrived."
+夏夏 : "这个车站真的小。没人来，电车也不过来"
+
+夏夏
+夏夏 : 「ホームも狭いから、こうやって、軽く歩くと……」
+Natsuka : "The platform isn't very long either, so if you start walking..."
+夏夏 : "月台也很小，像这样跑两步……"
+
+夏夏
+夏夏 : 「すぐに行き止まります。あとは空の下に線路がつづくばかりです」
+Natsuka : "...You hit the end almost immediately. From here, it's just the train tracks stretching out beneath the blue sky."
+夏夏 : "很快就跑到尽头了。接着就只有在蓝天下延伸至尽头的轨道"
+
+夏夏
+夏夏 : 「うーん……」
+Natsuka : "Hmm..."
+夏夏 : "嗯……"
+
+リルヤ
+リルヤ : 『どうした？』
+Lilja : "What's the matter?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「あ、いやあ、ちょっと小腹が減りましたねえ」
+Natsuka : "Oh, I'm just getting a little hungry."
+夏夏 : "啊，没事，就是有点小饿了"
+
+リルヤ
+リルヤ : 『動物的だな』
+Lilja : "How primal..."
+丽露娅 : "跟个动物一样"
+
+夏夏
+夏夏 : 「人はご飯を食べられるあいだは大丈夫なんですよ！」
+Natsuka : "If you can still eat, that means you're still okay!"
+夏夏 : "人肚子饿了顺从下本能有什么问题嘛！"
+
+夏夏
+夏夏 : 「もちろん緊急用の食料は持ってきていますが、思い出の駅で持ち出すのもなんか雰囲気を壊しちゃう気がするので……どうしましょう」
+Natsuka : "Of course, I brought some emergency rations, but I'm worried it would ruin the mood of this rustic little station if I pulled them out now... What should I do?"
+夏夏 : "我肯定是带了应急食品的，不过在这个充满回忆的车站拿出应急食品感觉很坏气氛啊……怎么办呢"
+
+リルヤ
+リルヤ : 『飴でも舐めたらどうだ？』
+Lilja : "Why don't you have some candy?"
+丽露娅 : "要不吃点糖？"
+
+夏夏
+夏夏 : 「はっ！　リルヤさん天才ですね！」
+Natsuka : "Oh! Lilja-san, that's genius!"
+夏夏 : "哦！丽露娅小姐真是天才！"
+
+リルヤ
+リルヤ : 『その評価は受け入れない方が非合理だから、受け入れよう』
+Lilja : "It would be irrational for me to deny that, so I accept your assessment."
+丽露娅 : "不接受你这个评价是不合理的，我就承认自己是天才吧"
+
+夏夏
+夏夏 : 「確か、この辺に缶入りドロップスを入れて……ありました！」
+Natsuka : "I think I had a tin of candy drops in here... Got it!"
+夏夏 : "记得我把罐装硬糖放这里了……啊有了！"
+
+夏夏
+夏夏 : 「せっかくですから、この空の下で寝っ転がって……」
+Natsuka : "I'll try lying down on the platform and looking up at the sky while I eat them..."
+夏夏 : "难得来一次，像这样倒在地上仰望天空……"
+
+夏夏
+夏夏 : 「うわ、アスファルトが本当に熱いです。鉄板の上のお肉になったみたいです」
+Natsuka : "Whoa, the asphalt really %i1is%id scorching hot. I feel like a piece of meat on the grill."
+夏夏 : "哇，沥青真的好烫。感觉自己像是铁板上的肉一样"
+
+夏夏
+夏夏 : 「でも空はすごくきれいですね。視界全部が真っ青です。空に落ちていくみたいですね。そして、ここで取り出したるは……」
+Natsuka : "But the sky is beautiful. My entire field of vision is filled with blue. It looks so close that I could touch it. Now, I'll get a..."
+夏夏 : "但是天空真的很漂亮。一眼望去全是蓝色。感觉天空像要塌下来了一样。然后，在这里该拿出来的是……"
+
+夏夏
+夏夏 : 「じゃーん青い飴です！　この飴を空にかざすと……本当に空の一部みたいですね」
+Natsuka : "Ta-dah! It's a blue candy! If I hold it up against the sky, it looks like it's a part of it."
+夏夏 : "锵，蓝色硬糖哦！　将这个举起来，透过它看向天空……真的感觉这糖像天空的一部分"
+
+夏夏
+夏夏 : 「この飴って本当にすごく綺麗ですよね。宝石みたいにキラキラしています。ミント味って人を選びますが、わたしは嫌いじゃないです」
+Natsuka : "This candy really is beautiful. It sparkles like a diamond if you hold it up to the light. The mint flavor isn't for everyone, but I don't mind it."
+夏夏 : "这款糖真好看呢。像是宝石一般闪闪发光。薄荷味有点挑人，不过我是不介意的"
+
+夏夏
+夏夏 : 「ということで、いただきます！」
+Natsuka : "On that note, down the hatch!"
+夏夏 : "那么，我就开吃啦！"
+
+夏夏
+夏夏 : 「うーんスッとして甘いです。甘さよりもスッとした感じが勝るから、甘いもの苦手なひとも食べられるのわかりますねー……」
+Natsuka : "Mmm, it's a little sweet, and it's very refreshing. I get why people who normally don't like sweets would like these..."
+夏夏 : "嗯，又甜又清凉呢。不过甜味都被清凉感给掩盖掉了，不喜欢吃甜食的人应该也会喜欢吃吧……"
+
+夏夏
+夏夏 : 「暑いけど、口のなかはひんやり……」
+Natsuka : "It may be hot outside, but the candy feels cold in my mouth..."
+夏夏 : "天气很热，但是嘴里凉凉的……"
+
+夏夏
+夏夏 : 「……でも、暑い」
+Natsuka : "I'm still hot, though."
+夏夏 : "……但还是好热"
+
+夏夏
+夏夏 : 「真っ青な空と、線路。世界にわたししかいなくなっちゃったみたいです。いえ、りるりゃさんもリルヤさんもいるんですが」
+Natsuka : "It feels like there's nothing in the world but me, the blue sky, and the train tracks. No, wait, Li'l Ya-san and Lilja-san are here too, of course."
+夏夏 : "蔚蓝的天空与延伸开的轨道。总感觉全世界只有我一个人了一样。不，我知道丽露喵和丽露娅小姐还在的"
+
+夏夏
+夏夏 : 「そういえば、この線路の先ってどうなってるんでしょうか」
+Natsuka : "I wonder what's at the end of these tracks..."
+夏夏 : "说起来，这条轨道的尽头是什么呢"
+
+リルヤ
+リルヤ : 『ミス優が学校に通っていた時点で、３つ先の駅は既に廃駅になっている。廃駅には引き込み線があるが、そちらは廃線になっている』
+Lilja : "When Miss Yuu went to school here, the three stations beyond this one were already abandoned. There's a dead-end spur that leads to them, but there's no use for them anymore."
+丽露娅 : "优女士在入学之际，这之后的三个车站已经废弃了。虽然那些车站有支线，但那些支线自然也已经停运了"
+
+夏夏
+夏夏 : 「廃線……つまり、その先は行き止まりなんですね」
+Natsuka : "They're abandoned...? That means it's basically a dead end beyond this station, right?"
+夏夏 : "停运……也就是说这前面是走不通的吗"
+
+夏夏
+夏夏 : 「でも、こうして見ていると、どこまでもつづいているみたいに見えますね。行ってみたいです」
+Natsuka : "It looks as though the tracks go on forever and ever... I'd love to see what the end of the line looks like."
+夏夏 : "不过，从这里望去，感觉轨道一直在延伸呢。我想过去看看"
+
+リルヤ
+リルヤ : 『行ってみたらどうだ？』
+Lilja : "Why don't you go there?"
+丽露娅 : "那你去看看吧？"
+
+夏夏
+夏夏 : 「いいですね。優さんが戻ってきたら誘ってみます。引き込み線の先に何があるかとか、考えるとわくわくしますね！」
+Natsuka : "Great idea! When Yuu-san gets back, I'll ask her if she wants to go. I'm getting excited just thinking about what lies at the end of these tracks!"
+夏夏 : "行哦。等优小姐回来了我带她一起去看看。想想支线前面有什么，我就很激动呢！"
+
+夏夏
+夏夏 : 「走って行きたいです！　どこまでもどこまでも！」
+Natsuka : "I want to run on them—run as far as I can!"
+夏夏 : "我真想跑下去！　一直一直跑下去！"
+
+優
+優 : 「夏夏ちゃん～おまたせ～」
+Yuu : "Natsuka-chan, I'm back!"
+优 : "夏夏～久等啦～"
+
+夏夏
+夏夏 : 「あ、優さん！　こっちでーす！」
+Natsuka : "Oh, Yuu-san! I'm over here!"
+夏夏 : "啊，优小姐！　我在这里！"
+
+優
+優 : 「……！」
+Yuu : "Oh...!"
+优 : "……！"
+
+優
+優 : 「ダメよ！　そっちにいったら！」
+Yuu : "No! You can't go that way!"
+优 : "不行！　不能去那边！"
+
+夏夏
+夏夏 : 「えっ？」
+Natsuka : "Huh?"
+夏夏 : "咦？"
+
+夏夏
+夏夏 : 「おわあ！？」
+Natsuka : "Awawah!?"
+夏夏 : "哇！？"
+
+リルヤ
+リルヤ : 『夏夏？　ミス優？　どうした？』
+Lilja : "Natsuka? Miss Yuu? What happened?"
+丽露娅 : "夏夏？　优女士？　怎么了？"
+
+夏夏
+夏夏 : 「すみません～わたしがバランス崩しちゃって……優さん、大丈夫ですか？」
+Natsuka : "I'm sorry... I lost my balance. Yuu-san, are you okay?"
+夏夏 : "抱歉～我没站稳摔倒了……优小姐，您没事吧？"
+
+優
+優 : 「大丈夫よ、わたしこそごめんなさい。でも、あっちは、危ないから……駄目なのよ」
+Yuu : "I'm fine. I'm sorry for startling you, but... you really can't go that way. It's dangerous."
+优 : "我没事，我才应该道歉。不过，那边很危险的……不可以往那边走的"
+
+夏夏
+夏夏 : 「危ないんですか？　崖崩れとかで通行止めになっているとか？」
+Natsuka : "Dangerous? Is there a cliff up ahead or something?"
+夏夏 : "危险？　是因为塌方什么的导致禁止通行了？"
+
+優
+優 : 「そうじゃないけれど、とにかく危ないのよ。行っては駄目なの。そうよ……あそこには……」
+Yuu : "No, but it's still dangerous. You can't go there... There's something..."
+优 : "不是这回事，但是很危险的。不能去。是啊……在那里……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「むこうには、何があるんですか？　優さん」
+Natsuka : "What's there, Yuu-san?"
+夏夏 : "在那边有什么呢？　优小姐"
+
+優
+優 : 「学校に伝わる……おまじないが、あって」
+Yuu : "There's a magic spell that was passed down among the students..."
+优 : "我们学校流传过一个……魔咒"
+
+夏夏
+夏夏 : 「おまじない？」
+Natsuka : "A... magic spell?"
+夏夏 : "魔咒？"
+
+優
+優 : 「そう、学校に代々伝わっていた。あの廃駅の廃線の先にあった。あの頃から、もうどこにもいけない終点だった。だから……」
+Yuu : "Yes, our seniors told us about it. The tracks beyond those abandoned stations were already a dead end back then, so..."
+优 : "没错，校内届届相传的魔咒。就在那座废弃车站的支线尽头。从那时候开始，那里就是无法继续前进的终点了。所以……"
+
+優
+優 : 「…………」
+Yuu : "..."
+优 : "…………"
+
+優
+優 : 「ねえ……夏夏ちゃん」
+Yuu : "Say, Natsuka-chan..."
+优 : "我说……夏夏"
+
+優
+優 : 「どうして、わたし気にせずにいられたのかしら？」
+Yuu : "Why wasn't I bothered?"
+优 : "为什么，我没能注意到呢？"
+
+夏夏
+夏夏 : 「え……？」
+Natsuka : "Huh...?"
+夏夏 : "咦……？"
+
+優
+優 : 「どうして？　どうして、さっきまで思い出せないことを、気にせずにいられたの……？」
+Yuu : "Why wasn't I bothered by the fact that I couldn't remember...?"
+优 : "为什么？　为什么我刚刚都没想起来的事，我能一直没注意到呢……？"
+
+夏夏
+夏夏 : 「何をですか？　何が思い出せないんですか？」
+Natsuka : "What? What can't you remember?"
+夏夏 : "是什么呢？　您想不起什么了？"
+
+優
+優 : 「友だちの、顔」
+Yuu : "My friend's face."
+优 : "我朋友的，面容"
+
+優
+優 : 「このホームでずっと話していた、友だちの顔。ずっと一緒にいたのに。一緒に学校に通って、遊んで、電車に乗って、おしゃべりして……」
+Yuu : "We spent so much time hanging out together at this station, yet I can't remember what she looked like. We went to school together, played together, rode the train together, and we talked all the time..."
+优 : "就是我刚刚一直对你说的，朋友的长相。明明我们一直都在一起。一起上学，一起玩闹，一起搭电车，一起聊天……"
+
+優
+優 : 「大切な時間だったのに、あんなに大事な友だちだったのに。わたし、ずっとあのキラキラした時間がつづけばいいって……」
+Yuu : "That time with her meant so much to me... The world looked so bright back then, and I never wanted those times to end."
+优 : "明明那段时光如此珍贵，明明那个朋友是那么重要。我一直希望那段闪闪发光的时光永远不要结束……"
+
+優
+優 : 「なのにどうして？　どうして、なぜ、どうして……？」
+Yuu : "So why... Why couldn't I...?"
+优 : "但是为什么呢？　为什么，为什么、为什么……？"
+
+優
+優 : 「わたし、そう、わたしすごく苦しくて、だからわたし……」
+Yuu : "I... It hurts so much... So I..."
+优 : "我。没错，我那时候很痛苦，所以我……"
+
+優
+優 : 「思い出せない……」
+Yuu : "I can't remember..."
+优 : "想不起来……"
+
+優
+優 : 「このままじゃ、わたし、ここまで来た意味が……」
+Yuu : "And if I don't remember now, there's no meaning in coming all the way here..."
+优 : "这样下去，我来这里还有什么意义呢……"
+
+優
+優 : 「でも、この先に行ってはいけないの……だって、だって……」
+Yuu : "I know I can't go beyond that point... Because I... I..."
+优 : "不过，不能再往前走了……因为、因为……"
+
+優
+優 : 「そうよ、わたし……埋めたの……」
+Yuu : "That's right... I buried it..."
+优 : "对了，我……我埋起来了……"
+
+夏夏
+夏夏 : 「優さん！」
+Natsuka : "Yuu-san!"
+夏夏 : "优小姐！"
+
+夏夏
+夏夏 : 「だめですよ、ホームのそんなところから降りちゃ！　危ないですよ！　電車が来るかもしれないのに！」
+Natsuka : "You can't go down onto the tracks! It's dangerous! What if a train comes!?"
+夏夏 : "这可不行的，不要从月台上跳下去！　很危险的！　万一电车来了怎么办！"
+
+優
+優 : 「でも、わたし、わたし……こうやって……」
+Yuu : "But I... This is how I..."
+优 : "但是，我、我……像这样……"
+
+優
+優 : 「みんなやっていたわ。こうやって線路の果てまで歩いて……」
+Yuu : "Everyone did it... We'd walk to the end of the tracks..."
+优 : "大家都这样做过。像这样慢慢走到轨道的尽头……"
+
+優
+優 : 「だめよ、わたし、行きたくない。思い出したくない……逃げ出したい……だってあのとき苦しくて……！」
+Yuu : "I can't... I don't want to go... I don't want to remember... I want to get out of here... I don't want to feel that pain again...!"
+优 : "不行的，我不想过去。不想回想起来……好想逃避……因为那时我是那么痛苦……！"
+
+夏夏
+夏夏 : 「優さん、しっかりしてください……！」
+Natsuka : "Yuu-san, please! Snap out of it...!"
+夏夏 : "优小姐，你冷静一下……！"
+
+優
+優 : 「何かを、埋めたのよ。わたし、大切なものを、埋めた」
+Yuu : "I buried something... Something precious..."
+优 : "我把某样东西埋了起来。我把自己重要的东西，埋了起来"
+
+夏夏
+夏夏 : 「何を埋めたんですか？」
+Natsuka : "What did you bury?"
+夏夏 : "您把什么埋起来了？"
+
+優
+優 : 「わたしの……わたしは、失った……自分で、埋めた」
+Yuu : "Something... Something I lost... I buried it myself..."
+优 : "我亲手……把我的……失去的东西，给埋起来了"
+
+夏夏
+夏夏 : 「優さん！？　優さんしっかりしてください！　優さん、優さん！」
+Natsuka : "Yuu-san!? Yuu-san, stay with me! Yuu-san! Yuu-san!"
+夏夏 : "优小姐！？　优小姐，您振作一点！　优小姐、优小姐！"
+
+夏夏
+夏夏 : 「優さーん！！！」
+Natsuka : "Yuu-saaaaan!!!"
+夏夏 : "优小姐——！！"
+

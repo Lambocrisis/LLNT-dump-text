@@ -1,0 +1,1325 @@
+夏夏
+夏夏 : 「よく寝ましたー！」
+Natsuka : "Wow, I slept great!"
+夏夏 : "睡得真好——！"
+
+夏夏
+夏夏 : 「さあ、今日から頑張りますよ！　リルヤさんの新しい目と足としてお役に立ってみせます！」
+Natsuka : "Let's greet the day all bright eyed and bushy-tailed! I'll show Lilja-san just how useful I can be as her new eyes and legs!"
+夏夏 : "好，从今天开始要加油了！我要作为丽露娅小姐的新的眼睛和腿帮上忙！"
+
+夏夏
+夏夏 : 「リルヤさんのお役に立つこと……それは、リルヤさんが絵を描く気になれるように語ること……」
+Natsuka : "And the way to do that... is to tell her about something that will make her want to paint."
+夏夏 : "要为丽露娅小姐帮上忙……也就是说，要讲述出能让丽露娅小姐想画成画的事情……"
+
+夏夏
+夏夏 : 「リルヤさんの魂の目が開くこと……それは、リルヤさんが感動すること……で、合ってますよね？」
+Natsuka : "Something that will open the eyes of her soul... Something that will touch her heart... I think that's it, right?"
+夏夏 : "让丽露娅灵魂的眼睛睁开……也就是说，要让丽露娅小姐感动……这样想，对不对呢？"
+
+夏夏
+夏夏 : 「それって、どうすればいいんでしょうか？　わたしが、ものすごーく感動しながら語ればいいんでしょうかね？」
+Natsuka : "How do I even do that? Do I just have to tell her about something when I'm super emotional about it?"
+夏夏 : "然后，怎么做才好呢？只要我充满激情地讲述出来就好了吗？"
+
+夏夏
+夏夏 : 「――おおっと」
+Natsuka : "Oh, hey!"
+夏夏 : "——哎呀"
+
+夏夏
+夏夏 : （バイトの連絡ですね。なになに？　急に穴ができて困っているなんとかならないか、ですか……）
+Natsuka : (Something from work... Let's see what it is. They're suddenly understaffed and need someone to fill in...)
+夏夏 : （是兼职的消息。我看看？是说突然缺人能不能帮忙想想办法……吗）
+
+夏夏
+夏夏 : 「ううーん、リルヤさんの新しい目と足になりますって宣言した直後に、いきなりバイトで出かけるのも、気が引けますけど……」
+Natsuka : "Hmmm... I dunno how I feel about hopping off to work right after declaring myself as Lilja-san's new eyes and legs, but..."
+夏夏 : "算了，都宣布说要成为丽露娅小姐新的眼睛和腿了，实在是没脸突然说自己要去做兼职了……"
+
+夏夏
+夏夏 : 「でも、困っているならできれば駆けつけたい、です」
+Natsuka : "If there's someone in need, I wanna help them."
+夏夏 : "不过，遇到有人有困难的话要尽量提供帮助，才行"
+
+夏夏
+夏夏 : 「うーん……」
+Natsuka : "Hmm..."
+夏夏 : "嗯……"
+
+夏夏
+夏夏 : 「よし、決めました」
+Natsuka : "All right, I've made up my mind."
+夏夏 : "好，我决定了"
+
+夏夏
+夏夏 : 「今の雇い主はリルヤさんですから、まずは相談です！　ほうれんそうです！」
+Natsuka : "Lilja-san's my current employer, so I'll ask her first! That's just common business protocol!"
+夏夏 : "现在我的雇主是丽露娅小姐，首先要跟她商量！做好报联商才行！"
+
+リルヤ
+リルヤ : 「かまわない。基本お前の行動は自由だといった。出かけるときに連絡だけいれろ」
+Lilja : "I don't mind. I told you that you should mostly be free to do as you please. I just ask that you let me know when you're leaving the house."
+丽露娅 : "无所谓。我说过你的行动基本是自由的。出门的时候跟我说一声就好"
+
+夏夏
+夏夏 : 「ありがとうございます！」
+Natsuka : "Thank you very much!"
+夏夏 : "谢谢您！"
+
+リルヤ
+リルヤ : 「２度の説明はあまりにも非効率的だから、次はないと思え」
+Lilja : "It's terribly inefficient to have to tell you this twice, so note that this will be the last time I do."
+丽露娅 : "让我说明两次实在是太没效率了，记好了，没有下次了"
+
+夏夏
+夏夏 : 「かしこまりました！　ではちょっといってきますね！」
+Natsuka : "Roger that! I'll be heading out for a bit then!"
+夏夏 : "好的！那我去去就回！"
+
+夏夏
+夏夏 : 「ただいま帰りました～！」
+Natsuka : "I'm hoooome!"
+夏夏 : "我回来了～！"
+
+リルヤ
+リルヤ : 「今日は、川に落ちたのか」
+Lilja : "You fell in a river today, didn't you?"
+丽露娅 : "今天是掉到河里面了吗"
+
+夏夏
+夏夏 : 「ど、どうしてそれを！？　一応、日光で乾かしてきたんですが！？」
+Natsuka : "H-How did you know!? I totally dried myself off in the sun!"
+夏夏 : "您、您是怎么知道的？！我可是在太阳底下晒干了才回来的啊？！"
+
+リルヤ
+リルヤ : 「においでわかる」
+Lilja : "I can tell by the smell."
+丽露娅 : "闻味道就知道"
+
+夏夏
+夏夏 : 「いやあ今日は色々盛りだくさんな日でして……なんか、わらしべ長者みたいな？　話していいですか？」
+Natsuka : "Well, you won't believe the day I've had! I kinda feel as lucky as the Straw Millionaire, actually! Would you like to hear about it?"
+夏夏 : "哎呀今天发生的事情实在是太丰富多彩了……感觉就像是稻草富翁那样的？可以让我讲讲吗？"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Tell me."
+丽露娅 : "好"
+
+夏夏
+夏夏 : 「まずバイトで豪邸の池をさらったんですね」
+Natsuka : "Okay, so first I was helping clean up a pond at this big, stately mansion, right?"
+夏夏 : "首先我兼职去给一个豪宅的池塘做清淤"
+
+夏夏
+夏夏 : 「そこで、転びかけたバイトの子を助けようとして、わたしが池のヘドロに頭からつっこんでしまい、どろんこ状態になりました」
+Natsuka : "But then one of the girls working there almost fell in, and when I went to save her, I went tumbling headfirst into the pond instead!"
+夏夏 : "然后我准备扶住快要摔倒的同事的时候，一头栽进池子里的淤泥里，搞得满身都是泥"
+
+夏夏
+夏夏 : 「泥はその場のホースでざっくり洗い流したんですが、落ちきれない分はあとで落とせばいいか～ってことで、そのまま帰ることにしました」
+Natsuka : "I hosed off as much mud as I could while I was there, and I figured I could get whatever didn't come off later when I went home."
+夏夏 : "身上的泥当时用软管喷出来的水简单洗掉了一些，我想没洗掉的等之后再洗掉就行了～于是我就打算这样直接回来"
+
+夏夏
+夏夏 : 「助けた子にめっちゃ感謝されて嬉しかったです！」
+Natsuka : "The girl I saved was %i1so%id super thankful! I was thrilled!"
+夏夏 : "被我扶住的同事特别感谢我，好开心！"
+
+夏夏
+夏夏 : 「それから、近道だと思って公園を通って帰ろうとしたところに、公園の池に帽子を落としてしまった女の子の泣き声を聞きまして……」
+Natsuka : "So then, I went through a park 'cause I thought it would be a shortcut home, and I heard this little girl crying 'cause her hat fell in the pond at the park."
+夏夏 : "之后，我想着走近路于是选择穿过公园回来，路上，我听到有个女孩子因为帽子掉到了公园的池塘里在哭……"
+
+夏夏
+夏夏 : 「濡れついでだってことで、池の帽子を拾って女の子に届けました」
+Natsuka : "I figured I was already muddy anyway, so I waded in and got her hat out for her."
+夏夏 : "反正我已经一身湿了，就把池塘里的帽子捡起来还给了女孩子"
+
+夏夏
+夏夏 : 「これもめっちゃ感謝されて嬉しかったです！」
+Natsuka : "And she was super grateful, so I was super happy!"
+夏夏 : "这件事人家也很是感谢我，好开心！"
+
+夏夏
+夏夏 : 「そのあと、川を段ボールで流されている子猫がいたので、川に飛び込みまして……」
+Natsuka : "And then after that, I found these poor little kitties that had gotten swept down a river in a cardboard box, so I jumped in to save them..."
+夏夏 : "再之后，有几只装在纸箱里的小猫被河水冲走了……"
+
+夏夏
+夏夏 : 「川の水のおかげで頭から足先まで綺麗になりました！　猫ちゃんも助かってめっちゃ嬉しかったです！」
+Natsuka : "Luckily, the river water washed all the mud off of me! And I was so glad I managed to save those little kitties too."
+夏夏 : "多亏了河水我从头到脚全都洗干净了！而且还帮到了小猫，太开心了！"
+
+夏夏
+夏夏 : 「子猫ちゃんたちは、知り合いのレスキューに届けようとしたんですが……」
+Natsuka : "I went to go take them to a rescuer I knew..."
+夏夏 : "在我将小猫们送去我认识的动物救援团队的路上……"
+
+夏夏
+夏夏 : 「途中でバイトで知り合った、猫ちゃん大好きなおばあちゃんに預けることになりました」
+Natsuka : "But then I ran into one of my work colleagues, and we decided to give them to a nice old lady who adores cats."
+夏夏 : "遇到了我以前兼职认识的，特别喜欢猫的老奶奶，就把猫给她了"
+
+夏夏
+夏夏 : 「そのおばあちゃんはちょっと前に猫ちゃんとお別れしたので、すごく感謝されました！」
+Natsuka : "She'd had to say goodbye to her kitty a while ago, so she was overjoyed."
+夏夏 : "这位老奶奶前不久才跟自己家的小猫告别，所以特别感谢我！"
+
+夏夏
+夏夏 : 「いっぱい感謝してもらって、すごいラッキーな日でしたね！」
+Natsuka : "Everyone was so, so thankful to me, so I felt like the luckiest girl ever!"
+夏夏 : "今天被好多人感谢了，真的是特别幸运的一天啊！"
+
+リルヤ
+リルヤ : 「何ひとつわらしべ長者になっていない。むしろ雨ニモマケズだろう」
+Lilja : "I thought the Straw Millionaire received something for his efforts. This is far more like %i1Be Not Defeated by the Rain%id. You received nothing in return, yet you were happy with it."
+丽露娅 : "没有一件事像稻草富翁的。比如说更像不畏风雨吧"
+
+夏夏
+夏夏 : 「おお……？　そういえば確かに？」
+Natsuka : "Oh! Hey, you're right!"
+夏夏 : "是吗……？好像确实是啊"
+
+夏夏
+夏夏 : 「なんかどんどん色々なことがあって……」
+Natsuka : "It was just a series of crazy events..."
+夏夏 : "感觉各种事情接连不断地发生……"
+
+夏夏
+夏夏 : 「わたしにできることをしたら、どんどん感謝された日だったので、なんかわらしべ長者みたいだなあって思ったんですよね」
+Natsuka : "And I just thought that everything I did wound up with all sorts of people thanking me, which made me feel like a million bucks!"
+夏夏 : "我做了我力所能及的事情后，依次被别人感谢，我感觉这样的一天好像是稻草富翁一样啊"
+
+夏夏
+夏夏 : 「でもいわれてみたら全然ちがいますね！　でも雨ニモマケズさんほど立派でないので！」
+Natsuka : "But I guess you're right! I'm not %i1nearly%id as amazing as the person in %i1Be Not Defeated by the Rain%id, though!"
+夏夏 : "不过被您这样一说好像完全不一样！但是也觉得自己没有不畏风雨里面那样那么了不起！"
+
+リルヤ
+リルヤ : 「作者は宮沢賢治だ」
+Lilja : "Miyazawa Kenji was his name."
+丽露娅 : "作者是宫泽贤治"
+
+夏夏
+夏夏 : 「リルヤさんって、日本の知識についてもめっちゃ知ってますよね、もしかして日本生まれですか？」
+Natsuka : "Wow, you know a ton about Japanese culture and stuff, Lilja-san! Were you born here?"
+夏夏 : "丽露娅小姐，对于日本真的很了解呢。难道您是在日本出生的吗？"
+
+リルヤ
+リルヤ : 「違う。最近になって日本に来た」
+Lilja : "No, I only recently moved here."
+丽露娅 : "不是。我最近才来日本"
+
+夏夏
+夏夏 : 「そうなんですね！」
+Natsuka : "Huh! Never woulda guessed!"
+夏夏 : "这样啊！"
+
+夏夏
+夏夏 : 「あ、そういえば、最後におばあちゃんから大福をもらいましたよ。手作りだそうです。食べますか？」
+Natsuka : "Oh, by the way! I got some %i1daifuku%id from the last old lady. It's handmade and everything! Would you like some?"
+夏夏 : "啊，话说，在最后老奶奶给我送了大福。她说是她亲手做的。您要吃吗？"
+
+リルヤ
+リルヤ : 「食べない」
+Lilja : "No, I'm fine."
+丽露娅 : "不吃"
+
+夏夏
+夏夏 : 「きっとおいしいですよ。あんこも手作りだっていってましたし！」
+Natsuka : "It'll be tastyyy! She said the red bean paste was handmade, too!"
+夏夏 : "肯定很好吃的。她跟我说豆馅也是她自己做的！"
+
+夏夏
+夏夏 : 「リルヤさんの服にも落ちないように粉ははたきますし、なにより大福ってすべすべで本当にきもちがいいんですよね……もちはだ」
+Natsuka : "I'll wipe 'em down for you so the powder doesn't get on your clothes. %i1Daifuku%id is nice and smooth, so the outside feels really nice."
+夏夏 : "为了不让粉掉到丽露娅小姐的衣服上我会把粉拍掉的，而且光溜溜的大福吃起来口感真的很好哦……俗话都说肌肤像做大福的面皮一样光滑"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「そうだな」
+Lilja : "I see."
+丽露娅 : "对了"
+
+夏夏
+夏夏 : 「食べますか？」
+Natsuka : "Do you want some?"
+夏夏 : "您要吃了吗？"
+
+リルヤ
+リルヤ : 「昨日の反省から、私の絵が描けない問題は、お前という発信器ではなく私という受信器に原因があるのではないかと、考えたのだが」
+Lilja : "When I reflected on yesterday, the reason I couldn't paint wasn't because of the transmitter that is you, but because of the receiver that is me."
+丽露娅 : "昨天反思过后，我一直在想，我画不出画的原因，并不在于信号源的你而在于接收器的我身上"
+
+夏夏
+夏夏 : 「えっ、えっ？」
+Natsuka : "Uh... Whuh?"
+夏夏 : "啊、哎？"
+
+リルヤ
+リルヤ : 「端的にいえば、私の感覚と感受性の問題だ」
+Lilja : "In other words, it's a problem of my senses and receptiveness."
+丽露娅 : "说得直白点，就是我的感觉和感受性的问题"
+
+リルヤ
+リルヤ : 「お前はいつでも見ているだけでなく、食べて、触れて、嗅いで、聞いて、視覚以外の感覚器を十全に使い、全身で感動している」
+Lilja : "You don't simply see things. You taste them, feel them, smell them, listen to them. You use every one of your senses and feel with your whole body."
+丽露娅 : "你不仅只是看着，还一直在吃着、触摸着、闻着、听着，充分用上视觉以外的感受器，通过全身感动着"
+
+リルヤ
+リルヤ : 「確かに私は、視覚を失ってから、それ以外の感覚をなおざりにしてきたと反省をした。錆びた感覚で何を感じるというのか」
+Lilja : "I suppose I've neglected the rest of my senses since losing my sight. I have lost what I'm meant to feel using them."
+丽露娅 : "确实我在失去视觉后，忽视了除视觉以外的其他感觉。靠着已经锈去的感觉又能感受到什么呢？"
+
+夏夏
+夏夏 : 「え、でも、リルヤさん、臭いに敏感ですよね？　今日も、わたしが川に落ちたのすぐに気づきましたし」
+Natsuka : "Huh? But you're like, %i1really%id sensitive to smells! I mean, you were even able to tell I fell into a river today!"
+夏夏 : "哎，但是，丽露娅小姐，对味道很敏感吧？今天也是，马上就能闻出来我掉到过河里"
+
+リルヤ
+リルヤ : 「それは事実であって、感嘆ではない」
+Lilja : "That's noticing an objective fact. That's not %i1feeling%id anything."
+丽露娅 : "那是事实，并不是感慨"
+
+夏夏
+夏夏 : 「なるほど！」
+Natsuka : "Oooh! Now I get it!"
+夏夏 : "原来如此！"
+
+夏夏
+夏夏 : 「わかりました！　つまりリルヤさんはこれから、食べて、触れて、嗅いで、聞いてを、全力で楽しむことですね！」
+Natsuka : "Okay! So you want to taste, feel, smell, and hear everything more so you can enjoy it more!"
+夏夏 : "我知道了！也就是说丽露娅小姐今后，要通过吃、触摸、闻、听，充分享受对吧！"
+
+夏夏
+夏夏 : 「はっ、まさかリルヤさんはそのために、わたしにお風呂に入れといわずに、川のにおいを感じつづけた……？」
+Natsuka : "Oh! But wait, is that why you didn't tell me to hurry up and take a bath? So you could get some emotional connection with the smell of the river?"
+夏夏 : "啊！难道说丽露娅小姐就是因此，才没有让我去洗澡，来感受河流的味道吗……？"
+
+リルヤ
+リルヤ : 「違う」
+Lilja : "No."
+丽露娅 : "不是"
+
+リルヤ
+リルヤ : 「お前の新鮮な感嘆を、損なわぬようにしただけだ。お前の感嘆は、今の私には、参考にするに足るものだからな」
+Lilja : "I simply wanted to keep the impressions of what happened today fresh for you. Your feelings on the world around you are what I use for reference now."
+丽露娅 : "我只是想要你新鲜的感慨不要有折损。你的感慨，对现在的我来说，是足以作为参考的"
+
+夏夏
+夏夏 : 「なるほど！　確かに感動とか感嘆って新鮮さが大事ですよね」
+Natsuka : "Ooooh! You're right! It really %i1is%id best to get your impressions and feelings out right away!"
+夏夏 : "原来如此！确实感动和感慨的新鲜程度是很重要的呢"
+
+リルヤ
+リルヤ : 「ということで、私は視覚以外の感覚と感受性を鍛え直すことにする」
+Lilja : "Which means I need to train the rest of my senses to be more receptive."
+丽露娅 : "因此，我决定要重新锻炼自己视觉之外的感觉和感受性"
+
+夏夏
+夏夏 : 「わかりました！　何からしますか？　ご飯にしますか？　お風呂にしますか？　それとも……」
+Natsuka : "Got it! So what should we do first? Do you want to eat? Or have a bath? Or maybe..."
+夏夏 : "好的！要从什么事开始呢？先吃饭吗？先洗澡吗？还是说……"
+
+リルヤ
+リルヤ : 「そうだな、まずは――」
+Lilja : "You know, I think..."
+丽露娅 : "是啊，那就先——"
+
+リルヤ
+リルヤ : 「風呂だろう？」
+Lilja : "It's time for a bath."
+丽露娅 : "洗澡吧？"
+
+夏夏
+夏夏 : 「わたしですかー！？」
+Natsuka : "Why me!?"
+夏夏 : "原来是给我洗吗——？！"
+
+リルヤ
+リルヤ : 「泥を川で落としただけのものが目の前にあるんだ。合理的に考えて、洗うのはお前だろう？」
+Lilja : "%i1You're%id the one who fell in the river. Rationally speaking, you're the one who should be bathing."
+丽露娅 : "我眼前就有一个只用河水清洗过身上的泥的家伙。合理考虑的话，该洗的就应该是你吧？"
+
+夏夏
+夏夏 : （いやですが、ちょっとばかり恥ずかしいんですが！　あ、でも、リルヤさんは目が見えないので恥ずかしがる必要もない……？）
+Natsuka : (Yeah, but like, it's embarrassing! Oh, though I guess it shouldn't be, since it's not like Lilja-san can see me or anything...)
+夏夏 : （哎呀不过，还是有点害羞啊！啊，不过，丽露娅小姐眼睛又看不见好像也没必要害羞……？）
+
+夏夏
+夏夏 : （そういう問題ではない？　いやそういう問題で合ってます？？）
+Natsuka : (But that's not the problem! Or... maybe it is?)
+夏夏 : （是这种问题吗？不对就是这种问题吧？？）
+
+リルヤ
+リルヤ : 「お前の裸は私からは見えないのだから安心すると良い」
+Lilja : "You don't need to worry. I can't see you naked."
+丽露娅 : "我看不到你身体的你放心就好"
+
+夏夏
+夏夏 : （やっぱそういう問題でいいんですかね～！？）
+Natsuka : (%i1Argh!%id That is %i1so%id the problem!)
+夏夏 : （要是是这种问题就好了啊～？！）
+
+リルヤ
+リルヤ : 「ほらおとなしくしろ」
+Lilja : "Sit still for me."
+丽露娅 : "好了不要乱动"
+
+夏夏
+夏夏 : 「はいー……」
+Natsuka : "Okay..."
+夏夏 : "好的……"
+
+夏夏
+夏夏 : （う、うまい……！　これはもうプロです、シャンプーのプロ！）
+Natsuka : (Wh-Whoa...! She's like a shampoo pro or something!)
+夏夏 : （好、好舒服……！这已经算是大师了吧，上沐浴露的大师！）
+
+夏夏
+夏夏 : （いい感じのところをいい感じにゴシゴシと……）
+Natsuka : (She's massaging me right where it feels best...)
+夏夏 : （对着舒服的地方恰到好处地搓揉……）
+
+夏夏
+夏夏 : （この適度なマッサージ感が……）
+Natsuka : (It's just right...)
+夏夏 : （这种舒适的按摩一样的感觉……）
+
+夏夏
+夏夏 : （ああ～……きもちいひ～……）
+Natsuka : (Oooh... It feels so nice...)
+夏夏 : （啊～……太舒服了～……）
+
+リルヤ
+リルヤ : 「良いようだな」
+Lilja : "It seems I'm doing a good job."
+丽露娅 : "看来你挺享受啊"
+
+夏夏
+夏夏 : 「はひ～きもちいいでふ～」
+Natsuka : "You shure are... It feelsh amazhing..."
+夏夏 : "是呀～好舒服呀～"
+
+リルヤ
+リルヤ : 「なるほど……確かに、自分の頭を洗うのとは異なる感覚を得られる。これはいい刺激になる」
+Lilja : "I see... So it feels different from washing your own hair. This might be rather inspirational."
+丽露娅 : "原来如此……确实能得到跟自己洗头时不同的感觉。这也是个很好的刺激"
+
+リルヤ
+リルヤ : 「確かに私の暮らしは、私が最も暮らしやすいように最適化されている。それは快適ではあるが、極めてストレスがすくない」
+Lilja : "I've made my life here as streamlined as I can. While that makes it much more pleasant, it also removes far too much stress."
+丽露娅 : "为了让我自己生活得更便捷，我确实对生活进行过了最优化。这样确实很舒适，但是负担实在是太少了"
+
+リルヤ
+リルヤ : 「ストレスも少なすぎると逆にストレスになるという。私は、凪のような暮らしをしすぎたのだ」
+Lilja : "Strangely enough, it's said that having no stress at all can actually be quite stressful. I've made my life too easy."
+丽露娅 : "负担过少反而成为了负担。我风平浪静地生活太长时间了"
+
+リルヤ
+リルヤ : 「お前との暮らしは、適度なストレスと感覚受容の訓練において最も効率的であり、魂の目をひらく最短距離になり得る可能性を秘めている」
+Lilja : "Living with you is a most efficient way to apply a suitable amount of stress while honing my senses as well. Therein lies the potential to awaken my soul as quickly as possible."
+丽露娅 : "跟你一起生活，对于适当的负担和感受感官的训练来说是最有效率的，而且其中藏有能够使我灵魂的眼睛睁开的最小路径的可能性"
+
+リルヤ
+リルヤ : 「急がば回れという警句があることは知っているが、私には時間がない」
+Lilja : "I know they say haste makes waste, but unfortunately, I don't have time to spare."
+丽露娅 : "虽然我知道有句话叫欲速则不达，但我没有那么多时间"
+
+リルヤ
+リルヤ : 「しかしその時間がないという焦燥によって、私は間違いを犯した。選択を誤ったのだ」
+Lilja : "Yet in my rush to get there, I made a terrible mistake. I made the wrong choices."
+丽露娅 : "可我却因为没有时间而焦躁，导致自己犯了错。这是因为我选择错了"
+
+リルヤ
+リルヤ : 「間違いを犯すこと自体は問題ではない。その後の反省と対処こそが重要だ。だから、私は、今こうして他者の髪を洗っている」
+Lilja : "It's not a problem to make mistakes. What's important is how you reflect upon and cope with them afterward. And that's why I'm now washing another person's hair."
+丽露娅 : "犯错本身没有问题。在犯错后的反省和措施才是最重要的。所以，我现在才会这样洗着别人的头发"
+
+夏夏
+夏夏 : 「時間が、ですか？」
+Natsuka : "So what's this about time?"
+夏夏 : "时间，吗？"
+
+リルヤ
+リルヤ : 「そうだ、簡単にいえば〆切だ」
+Lilja : "To put it bluntly, I'm on a deadline."
+丽露娅 : "是的，简单来说就是快到截稿日期了"
+
+夏夏
+夏夏 : 「〆切！　それは……重要ですね！？」
+Natsuka : "Whoa! That's like, %i1really%id important!"
+夏夏 : "截稿日期！这个……很重要啊？！"
+
+リルヤ
+リルヤ : 「実感がこもっているな」
+Lilja : "Ah, so you're familiar, then?"
+丽露娅 : "看来你身有体会啊"
+
+夏夏
+夏夏 : 「はい、〆切直前のマンガ家さんちに飯スタントにいったこともありますので！　あの緊迫した空気、すごかったです……」
+Natsuka : "Totally! I helped cook and stuff for a manga artist right before their deadlines! The tension in the air was incredible..."
+夏夏 : "是的，我以前去过临近截稿的漫画家的家中代做过饭！当时那个紧张的空气、实在是太吓人了……"
+
+夏夏
+夏夏 : 「その方は、〆切明けに美容院にいってシャンプーしてもらうのが最高だっていってましたが、その気持ちがわかるきがします～……は～」
+Natsuka : "When they'd finish, they'd go to a salon and have their hair shampooed. They said it was the best feeling ever. I think I know how they feel now... Hahh..."
+夏夏 : "那位漫画家跟我说，没有比在截稿后去美容院让人帮忙洗头更棒的事情了，感觉能理解她的想法啊～……啊～"
+
+リルヤ
+リルヤ : 「他人にしてもらうのはそんなに良いものなのか」
+Lilja : "It feels that good to have your hair washed by another person?"
+丽露娅 : "让别人来帮忙洗头就那么舒服吗？"
+
+夏夏
+夏夏 : 「はい、すんごい気持ちいいですよ。わたしは自分でするよりも、気持ちがいいです」
+Natsuka : "Oh, you %i1bet%id it does. It's way better than when I do it myself."
+夏夏 : "是的，非常舒服。比我自己洗的时候要舒服"
+
+リルヤ
+リルヤ : 「そうか、なるほど、こことかこことかか？」
+Lilja : "I see. So how about this? Is this good?"
+丽露娅 : "这样啊，原来如此，按这里或者这里这样？"
+
+夏夏
+夏夏 : 「ああ～～～しゅごいです～～～～天国みたいです～～～」
+Natsuka : "Aaah... It'sh sho good... I'm in heaven..."
+夏夏 : "啊～～～好舒服～～～～感觉要升天了～～～"
+
+リルヤ
+リルヤ : 「ふ……なるほど、理解できる気がする」
+Lilja : "Heh... I see. I think I understand now."
+丽露娅 : "哼……原来如此，感觉能理解了"
+
+夏夏
+夏夏 : 「え、なにがですか？　人にしてもらう気持ちよさですか？」
+Natsuka : "Understand what? How good it feels to have someone else wash your hair?"
+夏夏 : "哎？理解什么？让别人洗头的感觉吗？"
+
+リルヤ
+リルヤ : 「いや犬を飼う者の気持ちだ」
+Lilja : "No. How a dog owner might feel."
+丽露娅 : "不是，是养狗的人的感觉"
+
+夏夏
+夏夏 : 「わんこ！！　わたし犬！！」
+Natsuka : "A dog owner!? Are you calling me a dog!?"
+夏夏 : "狗狗！！我是狗啊！！"
+
+夏夏
+夏夏 : 「まあわんこは可愛いので、わかる気はしますが……もちろん、ねこちゃんも、うさちゃんも、はむちゃんも可愛いですが……」
+Natsuka : "Well, dogs are pretty cute, so I guess I get it... Oh, but cats and rabbits and hamsters and stuff are really cute, too..."
+夏夏 : "哎呀狗狗也挺可爱的，能理解吧……当然，小猫、小兔子、小仓鼠也都很可爱……"
+
+リルヤ
+リルヤ : 「なるほどな。人間よりも動物を愛するものの気持ちはわかる。動物たちはひたむきな愛をくれる、と、信じやすい」
+Lilja : "I see how it is. I can understand those who prefer animals over people as well, given that animals can provide unconditional love."
+丽露娅 : "原来如此。我能理解比起人来说更爱动物的人的感觉了。动物们的爱忠心不二，所以容易信任"
+
+夏夏
+夏夏 : （リルヤさんはいつも難しいことを考えてますね……）
+Natsuka : (Lilja-san's always thinking about such deep stuff...)
+夏夏 : （丽露娅小姐时刻都在考虑着复杂的问题呢……）
+
+リルヤ
+リルヤ : 「さあ、これで仕舞いだ。目を閉じろ。湯をかけるぞ」
+Lilja : "I think it's time to wrap this up. Close your eyes. I'm going to wash the shampoo out now."
+丽露娅 : "好，洗完了。闭上眼睛，我要倒水了"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Okay!"
+夏夏 : "好的！"
+
+リルヤ
+リルヤ : 「お前は先ほどいった。ご飯にしますか、お風呂にしますか、と」
+Lilja : "You asked me earlier whether I wanted food or a bath."
+丽露娅 : "你刚刚说，先吃饭，还是先洗澡"
+
+リルヤ
+リルヤ : 「確かに食は、クオリティ・オブ・ライフにおいて、非常に重要なウェイトを占める。ということで――」
+Lilja : "Food does indeed hold a lot of weight with regard to one's quality of life. And therefore..."
+丽露娅 : "确实，食物作为生活质量的体现，具有举足轻重的地位。所以——"
+
+リルヤ
+リルヤ : 「できたぞ、食べるといい」
+Lilja : "Your meal is served. Eat up."
+丽露娅 : "做好了，吃吧"
+
+夏夏
+夏夏 : 「今度もわたしが食べる方ですか！？　ていうか、すごい豪華な料理ですけど、これ全部リルヤさんが作ったんですか！？」
+Natsuka : "Wait, you're feeding me again!? And this is a %i1super%id-fancy meal! Did you make it all yourself, Lilja-san!?"
+夏夏 : "这次我还是只负责吃吗？！而且这么丰盛的饭菜，全都是丽露娅小姐做的吗？！"
+
+リルヤ
+リルヤ : 「湯煎して皿に並べるのが料理といえるのかは、議論の分かれるところだろうが……」
+Lilja : "There's certainly a debate to be had about whether heating and plating a meal counts as cooking."
+丽露娅 : "只是用开水烫了之后盛到盘里能算做菜吗，这应该是比较有争议的地方吧……"
+
+リルヤ
+リルヤ : 「現代社会の多種多様な職業と環境、時間のない人々の生き方を加味し、私としては是の方に回ろう」
+Lilja : "But given the diversity of jobs and environments in modern society and the various lifestyles that leave people with far too little time, I suppose it would count."
+丽露娅 : "现代社会人的职业和环境多种多样，能够给没有时间的人的生活增加风味，我的话会站在肯定的一方"
+
+夏夏
+夏夏 : 「いやだってすんごい綺麗に並んでますよ、これはもうプロです！　プロ並みの並べ方です！」
+Natsuka : "Well, I mean, this is like, gourmet-level plating! Like, you could totally stand with the pros!"
+夏夏 : "哎呀您摆盘摆得也那么精美，这简直可以说是专业水平了！专业的摆盘方式！"
+
+夏夏
+夏夏 : （本当に目が見えないとは思えないんですけど！？）
+Natsuka : (It's hard to believe she can't see when it looks this good!)
+夏夏 : （完全没法想象她的眼睛看不见东西啊？！）
+
+夏夏
+夏夏 : 「リルヤさんも食べますか？」
+Natsuka : "Are you gonna eat any, Lilja-san?"
+夏夏 : "丽露娅小姐也吃吗？"
+
+リルヤ
+リルヤ : 「お前は、何かといえば私に食べさせようとするな」
+Lilja : "You'll force me to eat whether I agree to it or not, right?"
+丽露娅 : "我对你唯一的要求就是别想着要喂我吃"
+
+夏夏
+夏夏 : 「食べると元気が出ませんか？」
+Natsuka : "Well, doesn't eating make you feel better?"
+夏夏 : "吃了东西后不就有精神了吗？"
+
+リルヤ
+リルヤ : 「出ない」
+Lilja : "No."
+丽露娅 : "不会有"
+
+夏夏
+夏夏 : 「ええ！？　そうなんですか！？」
+Natsuka : "It doesn't!?"
+夏夏 : "哎？！这样的吗？！"
+
+リルヤ
+リルヤ : 「お前の世界観だけで、全ての人間の価値観を語れると思うなよ」
+Lilja : "You shouldn't assume that your views and experiences are universal."
+丽露娅 : "别用你的世界观来谈论世界上所有人的价值观"
+
+夏夏
+夏夏 : 「確かにそうですね、勉強になります！」
+Natsuka : "You know, you're right. I learned something new today!"
+夏夏 : "您说得有道理啊，谨记于心！"
+
+夏夏
+夏夏 : 「それでは、いただきます！」
+Natsuka : "Well, guess I'll eat up, then!"
+夏夏 : "那我就开动了！"
+
+夏夏
+夏夏 : 「……（ぱくっ）」
+Natsuka : "Homph!"
+夏夏 : "……（啊呜）"
+
+夏夏
+夏夏 : 「！！！！？？？？？？？？？？」
+Natsuka : "Mmmmmm!!?"
+夏夏 : "？？？？？？？？？？！！！！"
+
+夏夏
+夏夏 : 「なんですかこれ！？　すっごいおいしいんですが！！　わけがわからないくらいおいしいんですが！？？？」
+Natsuka : "What is this!? This is the best thing I've ever tasted! It's so good that I don't even know how to describe it!"
+夏夏 : "这是什么？！这也太好吃了吧！！好吃得离谱啊？？？！"
+
+リルヤ
+リルヤ : 「それは冷凍食品だな、電子レンジでできる」
+Lilja : "It was just frozen food. I simply heated it up in the microwave."
+丽露娅 : "这是速冻食品，我用微波炉做的"
+
+夏夏
+夏夏 : 「わたしの知っているレンチンと別次元なんですが！？？？？！　異次元のレンチンなんですが！！？」
+Natsuka : "This is %i1nothing%id like the frozen food I've had before! It's like from another dimension or something!"
+夏夏 : "这跟我熟知的微波食品完全不在一个次元啊？？？？！！难道是来自其他次元的微波食品吗？！！"
+
+夏夏
+夏夏 : 「はひ～～～しゅごい～～～～ほっぺたが落ちましゅ～～～！！」
+Natsuka : "Ohhhh myyyy %i1god!%id It'sh sho good! It'sh jusht melting in mah mouf!"
+夏夏 : "哇啊～～～太好吃了～～～～好吃得要命啊～～～！！"
+
+夏夏
+夏夏 : 「全然わたしの作ったものよりもおいしい！！　こんなの知ってるなら、人間の作ったご飯なんてどうでもよくなりますねえ」
+Natsuka : "It's better than anything I've ever cooked! I don't think a human-cooked meal could ever compare to something like this!"
+夏夏 : "比我做的东西好吃得太多啦！！要是大家能尝到这些菜，人类做的饭菜就什么都不是了啊"
+
+夏夏
+夏夏 : 「あっいやこの冷凍食品もどなたかが作ったものなのですが、とにかく、わたしよりも美味しいのは事実です！」
+Natsuka : "Oh, wait! Somebody definitely cooked this at some point, but that's beside the point! It's way better than my own cooking!"
+夏夏 : "啊不过这个速冻食品也是哪个人类做的呢，总之，比我做的好吃是事实！"
+
+夏夏
+夏夏 : 「ああ～～～かなしい～～～～でもおいひい～～～」
+Natsuka : "Aaahh, that's so sad! Oh, but it's soooo tastyyyy!"
+夏夏 : "啊啊～～～好伤心～～～～但是好好吃～～～"
+
+リルヤ
+リルヤ : 「ふむ……なるほど、な」
+Lilja : "Hmmm... I see."
+丽露娅 : "哦……原来如此啊"
+
+リルヤ
+リルヤ : 「料理は視覚はもちろん、味覚、聴覚、触覚、嗅覚の五感をフル活用する体験を得られる。確かに感覚を鍛えるには最適解だろう」
+Lilja : "Meals are something you can experience fully with all five senses. It certainly would be most suitable for training them all up."
+丽露娅 : "不仅是视觉，味觉、听觉、触觉、嗅觉五感全部都能在饭菜中体验得到。确实是最适合用来锻炼感觉的啊"
+
+リルヤ
+リルヤ : 「私はお前が今、感嘆と共に食べている食事を、あまりにも当たり前に摂りすぎていた」
+Lilja : "I've been tasting the very same food you were emoting over as though it were nothing more than a given."
+丽露娅 : "对于你带着感慨吃下的这些饭菜，我曾认为只是些再普通不过的东西"
+
+リルヤ
+リルヤ : 「今後は美味しいという事実だけでなく、食の喜びをもって食するようにしよう」
+Lilja : "Rather than focusing on the single fact that it is delicious, I'll try to experience the joy of eating it next time."
+丽露娅 : "今后我也带着享受食物的心情，而不是只是为了体验美味这一事实来用餐吧"
+
+夏夏
+夏夏 : 「こっちもおいしい～これもおいしい～～～！！　いくらでも食べられますぅ～～～！！」
+Natsuka : "Oooh, this one's good too! And so is this one! I don't think I could ever get full of this!"
+夏夏 : "这个也好好吃～那个也好好吃～～～！！感觉不管来多少我都能吃得下～～～！！"
+
+夏夏
+夏夏 : 「こっちのお皿はどんなかな～」
+Natsuka : "I wonder how this one's gonna taste?"
+夏夏 : "这边这盘味道怎么样呢～"
+
+夏夏
+夏夏 : 「！！！！！　これ、これは最高においしいです！！　これまでのも美味しかったですが、これはものすごいおいしいです！！　しゅごい！」
+Natsuka : "Oh. My. %i1Gosh!%id This one's the tastiest of all so far! They were all amazing, but this one's on another level! It'sh amazhing!"
+夏夏 : "！！！！！这个，实在是太好吃了！！刚刚吃的也很好吃，但是这个特别好吃啊！！太厉害了！"
+
+リルヤ
+リルヤ : 「ああ、今月の新製品だな。私もまだ食べていない」
+Lilja : "Ah, that's this month's special. I haven't tried it yet."
+丽露娅 : "嗯，这个是这个月的新产品。我都还没有吃过"
+
+夏夏
+夏夏 : 「ええっだったら食べましょう、リルヤさんも！」
+Natsuka : "Aww, you should then, Lilja-san!"
+夏夏 : "哎？那要不一起吃吧，丽露娅小姐！"
+
+夏夏
+夏夏 : 「はい、どうぞ！」
+Natsuka : "Here ya go!"
+夏夏 : "来，请用"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「はっ、すみません！　つい夢中になっちゃって……思わず、フォークで、はい、あーんを……！！」
+Natsuka : "Oh! I'm so sorry! I was so in the moment, I just... put my fork up and... was like, say ahh..."
+夏夏 : "啊，抱歉！我太沉醉了……下意识就，用叉子这样，递上前喂……！！"
+
+リルヤ
+リルヤ : 「いや、いい。これもまた経験だ」
+Lilja : "No. It's fine. This is just another new experience."
+丽露娅 : "算了，没事。这也是一种经历"
+
+リルヤ
+リルヤ : 「あ」
+Lilja : "Ah."
+丽露娅 : "啊"
+
+夏夏
+夏夏 : （おお……リルヤさんが口を開いて、私からのご飯を待ってます！　なんか餌付けに成功したみたいで感激しますね……）
+Natsuka : (Ohh... Lilja-san opened her mouth! She's ready and waiting for me to feed her! I feel like I just befriended a wild animal!)
+夏夏 : （哇……丽露娅小姐张着嘴，等着我给她喂饭！感觉有种投喂成功的感动啊……）
+
+リルヤ
+リルヤ : 「何か、よからぬ事を考えていないか？」
+Lilja : "You were just thinking something %i1wildly%id inappropriate, weren't you?"
+丽露娅 : "你是不是在想什么不礼貌的事？"
+
+夏夏
+夏夏 : 「いえ！　全然！　ちっとも！」
+Natsuka : "Who, me!? Nonono! Never!"
+夏夏 : "没有！完全没有！一点都没有！"
+
+リルヤ
+リルヤ : 「なら、早くしろ」
+Lilja : "Then hurry it up."
+丽露娅 : "那就快点"
+
+夏夏
+夏夏 : 「はい！　それでは、どうぞ」
+Natsuka : "Okay! Then open wide!"
+夏夏 : "好的！那，请用"
+
+リルヤ
+リルヤ : 「……（ぱく）」
+Lilja : "Homph."
+丽露娅 : "……（啊呜）"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "……"
+
+夏夏
+夏夏 : （どきどきどきどき）
+Natsuka : (My heart is pounding so hard...!)
+夏夏 : （扑通扑通扑通扑通）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "……"
+
+リルヤ
+リルヤ : 「うまい、な」
+Lilja : "It's... quite good."
+丽露娅 : "挺好吃、的"
+
+夏夏
+夏夏 : 「！」
+Natsuka : "Yes!"
+夏夏 : "！"
+
+夏夏
+夏夏 : 「それはよかったです、えへへ！」
+Natsuka : "I'm so glad! Hehe!"
+夏夏 : "真是太好了，哎嘿嘿！"
+
+リルヤ
+リルヤ : 「食事は、ある程度のバリエーションを食べ尽くしたと思っていたが……お前と食べるのは、妙に新鮮だな」
+Lilja : "I've had my fill of many types of food... but eating alongside you is a strangely fresh experience."
+丽露娅 : "我以为我已经把食物的味道都尝得差不多了……没想到跟你一起吃，味道居然会变得这么新鲜"
+
+夏夏
+夏夏 : 「そうですね、ご飯は、何を食べるかも大事ですが、誰と食べるかもけっこう大事だと思いますので！」
+Natsuka : "Right!? Obviously, %i1what%id you're eating is super important, but I think eating it %i1with%id someone is just as important!"
+夏夏 : "是啊，我觉得吃饭，吃什么当然很重要，但是最重要的还是跟谁一起吃！"
+
+夏夏
+夏夏 : 「わたしは、リルヤさんとご飯を一緒に食べられて、すごく嬉しくて、楽しいです！！　だからご飯もすごく美味しいです！」
+Natsuka : "I'm so glad I get to eat with you! I'm having a great time! And that's why the food is even better than ever!"
+夏夏 : "我啊，能跟丽露娅小姐一起吃饭，非常的开心，非常的快乐！！所以饭也变得特别好吃了！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「そうだな。私も悪くない」
+Lilja : "You're right. It's not bad at all."
+丽露娅 : "是啊。我也觉得不错"
+
+夏夏
+夏夏 : 「リルヤさん、明日の朝ごはんは、わたしが作りますので、一緒に食べませんか？」
+Natsuka : "I'm gonna make breakfast tomorrow. Would you like to eat with me, Lilja-san?"
+夏夏 : "丽露娅小姐，明天的早餐我来做，要不要一起吃？"
+
+リルヤ
+リルヤ : 「許可する。一定の水準に達した料理以外を食べることは、私の感覚受容器への刺激になるだろう」
+Lilja : "I'll allow it. I think it may be good stimulation for my receptors to try eating outside of the standards I've set for myself."
+丽露娅 : "允许了。食用不及一定水平的料理，也会对我的感受器产生刺激吧"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "好的！"
+
+夏夏
+夏夏 : 「フレンチトーストとかいいですかね？」
+Natsuka : "How does French toast sound?"
+夏夏 : "法式吐司怎么样？"
+
+リルヤ
+リルヤ : 「カルダモンプッラ」
+Lilja : "Cardamom pulla."
+丽露娅 : "豆蔻卷"
+
+夏夏
+夏夏 : 「カ、カルダモン……プッラ？」
+Natsuka : "Cardawhatsit?"
+夏夏 : "豆、豆蔻……卷？"
+
+リルヤ
+リルヤ : 「私の故郷のパンだ。作れるか？」
+Lilja : "It's a type of bread from my home country. Can you make it?"
+丽露娅 : "这是我故乡的面包。做得了吗？"
+
+夏夏
+夏夏 : 「はじめて聞きましたが、リルヤさんのリクエストでしたら、今から調べてめっちゃ練習します！」
+Natsuka : "I've never heard of it until now, but since it's a special request from you, I'm gonna research and practice my butt off!"
+夏夏 : "我第一次听说，不过既然是丽露娅小姐的请求，我现在就去查一下做法然后拼命练习！"
+
+リルヤ
+リルヤ : 「それならいい」
+Lilja : "No, that's quite all right."
+丽露娅 : "那就算了"
+
+夏夏
+夏夏 : 「ええっそんな、頑張りますので！」
+Natsuka : "Aww, boo! I promise I'll do my best!"
+夏夏 : "哎……这怎么行，我会加油的！"
+
+リルヤ
+リルヤ : 「そんな付け焼き刃でなくていいといっている。お前が普段作り慣れたものを私に食べさせるといい」
+Lilja : "I'm saying I'd prefer not to try an amateur's attempt. I'd rather you feed me something you're more familiar with cooking."
+丽露娅 : "我是说不用你做这种临阵磨枪的东西。做你平常做习惯的东西让我吃就行了"
+
+夏夏
+夏夏 : 「じゃあ、どうしましょう？」
+Natsuka : "So... what should I do then?"
+夏夏 : "那，我要怎么做？"
+
+リルヤ
+リルヤ : 「そうだな。普段、お前がひとりで食べているものをいただくとするか。それもまた新しい刺激になるだろう」
+Lilja : "Well, why don't you cook me what you would usually eat by yourself? That ought to be an interesting new experience for me."
+丽露娅 : "我想想。就做你平常一个人吃的东西给我吃就好了。这也会成为新的刺激吧"
+
+夏夏
+夏夏 : 「えっ、わたしが普段食べているのって、白ごはんと、出汁なしお味噌汁とか、干し野菜とか、おばあちゃんかよって感じなんですが！？」
+Natsuka : "Uh... Well, I usually just eat white rice and miso without any fish stock, or sundried veggies and stuff. Y'know, the kinda stuff grandmas eat."
+夏夏 : "哎……我平常吃的东西，都是像白米饭、没有高汤的味增汤、蔬菜干，这些老奶奶才会吃的东西哦？！"
+
+リルヤ
+リルヤ : 「何か問題でも？　不味いのか？」
+Lilja : "Is that a problem? Does it taste bad?"
+丽露娅 : "有什么问题吗？不好吃？"
+
+夏夏
+夏夏 : 「いえおいしいです。特にお弁当の塩おにぎりとか、おいしいな～ってしみじみします」
+Natsuka : "No, it's good! Especially the salted rice balls I make for lunch. They're so tasty, you feel it with your whole soul!"
+夏夏 : "不，很好吃。特别是当做便当的盐饭团，每次我都打心里觉得太好吃啦～"
+
+リルヤ
+リルヤ : 「ならそれでいい。作ってみせろ」
+Lilja : "Then that's what I want. Make some for me."
+丽露娅 : "那就好。做吧"
+
+夏夏
+夏夏 : 「わっわかりました！　じゃあ、普段使っているお米とかお水とかお塩とかお鍋で炊く方がいいですね」
+Natsuka : "Y-You got it! So you want me to use the usual rice, water, salt, and pot I use to make it too, right?"
+夏夏 : "好的！那我就用我平时用的米、水、盐还有锅来做可以吧"
+
+夏夏
+夏夏 : 「下宿に戻って持ってきますね！」
+Natsuka : "Then I'll go back to the boardinghouse and grab 'em!"
+夏夏 : "我回出租房把东西拿过来！"
+
+夏夏
+夏夏 : 「おはようございます！　それではご飯、作りますね！」
+Natsuka : "Good morning! Time to make some tasty rice!"
+夏夏 : "早上好！那我开始做饭了！"
+
+夏夏
+夏夏 : 「まずはお米を炊きます！　これが、普段使っているカセットコンロとお鍋です！」
+Natsuka : "First things first, I've gotta prepare the rice in question! This is the portable stove and pot I usually use to make it!"
+夏夏 : "我先煮米饭！这个是我平常用的卡式炉！"
+
+夏夏
+夏夏 : 「これさえあれば、どこでも食べられるのでありがたいですね～」
+Natsuka : "I love it because you can eat anywhere in the whole wide world as long as you have this!"
+夏夏 : "只要有这个的话，在哪里都能吃上东西～"
+
+夏夏
+夏夏 : 「キャンプ用のコンパクトなカセットコンロはほんとーにかっこいいんですが」
+Natsuka : "The super tiny ones they make for camping are really cool, too!"
+夏夏 : "野营用的小型卡式炉真的很酷"
+
+夏夏
+夏夏 : 「でも乗せられるお鍋が限られて、たくさんのお米が炊けないので、わたしはこのサイズです」
+Natsuka : "But those limit the kinds of pots you can use with them, and you can't make as much rice, so I prefer this size."
+夏夏 : "但是受尺寸限制大锅架不上去，煮不了很多的米，所以我就用这个尺寸的了"
+
+夏夏
+夏夏 : 「おかげで、どんどんマイリュックが巨大化しますが、あまり困ってないです。こう見えてけっこう力持ちなので！」
+Natsuka : "Though it's definitely expanded the size of my backpack, it doesn't bother me all too much. I might not look it, but I've got some muscle on me!"
+夏夏 : "因此我的帆布包越来越大了，不过也不要紧。别看我这样，我可是很有力气的哦！"
+
+夏夏
+夏夏 : 「このお鍋に、下宿から汲んできた水道水とお米を入れて、カチッと火をつけて……炊きはじめです！」
+Natsuka : "Anyway, now I put the rice and some tap water from the boardinghouse into the pot, flick the fire on... and now we're cooking with gas!"
+夏夏 : "往这口锅里，倒入从我出租房那取来的水和米，咔嚓点火……饭就开始煮了！"
+
+夏夏
+夏夏 : 「弱火で大丈夫ですし、途中で蓋をあけても大丈夫ですよ。あ、このへんの知識は、図書館の本で仕入れました！」
+Natsuka : "You can cook it on low heat, and you can even lift the lid while it's still cooking with no issue. Oh, I actually learned all this from some books I found at the library!"
+夏夏 : "小火慢煮就行，煮到一半掀开盖子也没关系哦。啊，这些知识，是我在图书馆的书上学到的！"
+
+夏夏
+夏夏 : 「スマホを手に入れる前は、本当に図書館にはお世話になりましたねえ」
+Natsuka : "I had to rely on the library a lot before I got my hands on a smartphone."
+夏夏 : "在有手机之前，图书馆真的帮了我很多忙"
+
+夏夏
+夏夏 : 「は！　今更なんですが、塩おにぎりができたら呼べばよかったですね？　今からでもそうしますか？」
+Natsuka : "Oh! Shoot, should I have waited till the rice balls were all done before I called for you? I can still do that if you want!"
+夏夏 : "啊！现在说可能有点晚了，是不是等盐饭团做好了再叫您更好？现在您先回去也行"
+
+リルヤ
+リルヤ : 「かまわない」
+Lilja : "I don't mind."
+丽露娅 : "没事"
+
+リルヤ
+リルヤ : 「固有の事象にまつわる物語は、認識にダイレクトに影響する」
+Lilja : "Hearing people's stories about how something affects them is sure to have a direct impact on one's understanding."
+丽露娅 : "跟司空见惯的事物相关的话题，会直接影响到人的认识"
+
+リルヤ
+リルヤ : 「感嘆を効率的に想起するためにも、お前の塩おにぎりについて色々語ってみせろ。普段、語っているようにな」
+Lilja : "In order to efficiently manifest an emotional connection, I'd like you to tell me all sorts of stories about these rice balls. Just narrate as you usually do."
+丽露娅 : "为了能更高效地回想起感慨，你围绕着你的盐饭团讲讲吧。就像你平常讲话那样"
+
+夏夏
+夏夏 : 「わかりました！　では普段どおりにつれづれにお話させていただきますね！」
+Natsuka : "Got it! Then I'll tell you all about them, no bells and whistles!"
+夏夏 : "好的！那我就像平常那样想到啥说啥了！"
+
+夏夏
+夏夏 : 「今回はリスナーがリルヤさんだけなので、気兼ねなく話せて楽しいですね」
+Natsuka : "Since you're my only listener, I don't have to hold back either! That's pretty fun!"
+夏夏 : "因为这次的听众只有丽露娅小姐一人，我能够无所顾虑地讲太开心了"
+
+夏夏
+夏夏 : 「ｗｅｂラジオだと全世界に発信するデータなので、さすがに個人情報とかはあんまり話せないですからね～」
+Natsuka : "When I was uploading stuff online, I couldn't exactly talk about any kind of personal information since it was going out to the whole wide world, y'know?"
+夏夏 : "网络电台会广播到全世界，像我的隐私什么的实在是没法说呢～"
+
+夏夏
+夏夏 : 「えーと何から話しましょうか。そうだ。このカセットコンロについてお話しましょう」
+Natsuka : "Let's see, what should I start with? Oh! Lemme tell you about my portable stove!"
+夏夏 : "嗯——从哪里开始讲呢。对了。就讲这个卡式炉的事吧"
+
+夏夏
+夏夏 : 「これはなんと公園でやっていたフリマで困っている方のお手伝いをしたら、１００円で購入できました！」
+Natsuka : "You won't believe it, but I actually got this for 100 yen as thanks for helping someone out at a flea market they were having at the park."
+夏夏 : "您肯定想不到这个是我在公园的跳蚤市场上帮助了一位需要帮助的人后，只用了一百日元就买下来的！"
+
+夏夏
+夏夏 : 「ボンベもついていたので本当にお得でしたね」
+Natsuka : "They even gave me gas canisters for it too! It was such a steal!"
+夏夏 : "连气罐都一起给我了真的是太赚了"
+
+夏夏
+夏夏 : 「下宿にはガスが通ってないのでこのカセットコンロは重宝しています。家賃に水道代も込みなんですよ～すごいですよね！」
+Natsuka : "We don't get gas at the boardinghouse, so this portable stove was a godsend. Oh, but water's included in the rent over there, so that's pretty great!"
+夏夏 : "我住的地方没有通燃气，所以这个卡式炉就成了我的宝贝。房租里还包了水费～很厉害吧！"
+
+夏夏
+夏夏 : 「電気は契約してますけれど、電気使う機器はスマホ以外にないので、けっこうお安く暮らせていると思います」
+Natsuka : "We have electricity too, but the only electric thing I own is my smartphone, so it's pretty cheap to live there when all's said and done."
+夏夏 : "电费要我自己交，不过我用的电子设备只有手机，所以我在生活上的花费非常少"
+
+夏夏
+夏夏 : 「スマホがないとバイトの登録もままならないので、スマホはアルバイターの必須アイテムですね！」
+Natsuka : "You can't sign up for jobs and stuff without a phone, so it's a must-have for a part-timer like me!"
+夏夏 : "没有手机的话连找兼职都变得特别不方便，所以手机是兼职必须要用到的道具哦！"
+
+夏夏
+夏夏 : 「大家さんのおかげで契約できて、助かりました」
+Natsuka : "I was really thankful the landlady helped me sign up for a plan."
+夏夏 : "多亏有房东帮助，我才能把手机卡给办了"
+
+夏夏
+夏夏 : 「バイトをしまくっていると、家には帰って寝るだけなので、お風呂がなくても、トイレが共同でも、あまり困らないんですよね」
+Natsuka : "When I'm full up with work, I pretty much only go home to sleep, so it's not a big deal that there's only a shared toilet and no bath."
+夏夏 : "兼职做得多了，回到家就只剩睡觉了，即使没地方洗澡，共用卫生间，也没什么不方便的"
+
+夏夏
+夏夏 : 「銭湯は高いのですが、銭湯の掃除のバイトをしてまして、バイト代から差し引きでお風呂を使わせてもらったりしています」
+Natsuka : "Public baths are expensive, but I have a deal with one I clean that takes the cost out of my paycheck in exchange for letting me use their bath instead."
+夏夏 : "去澡堂洗澡很贵，不过我也有在做清扫澡堂的兼职，用部分工资抵扣就可以洗澡了"
+
+夏夏
+夏夏 : 「あと、シンクはあるので、水で絞ったタオルで体を拭いてますね！　節約あるあるです！」
+Natsuka : "Oh, and I have a sink, so I can just wipe myself down with a wet towel! That's pretty great for saving money too!"
+夏夏 : "还有，住的地方有洗手台，我会用打湿后拧干的毛巾擦身子！可节约了！"
+
+夏夏
+夏夏 : 「天井の照明もつけてないんですが、さすがに何もないと不便なので、ソーラー電池のランタンを使ってます。太陽さまさまです！」
+Natsuka : "There's no ceiling light or anything, but I can't just go without light, right? So I have a solar-powered lantern. It's like, yeah! Praise the sun!"
+夏夏 : "天花板上也没有装灯，什么都没有还是很不方便的，所以我用了太阳能电池的提灯。感谢太阳！"
+
+夏夏
+夏夏 : 「キャンプ用品ってほんと、色々便利でありがたいです！」
+Natsuka : "Camping goods are sooo convenient for all sorts of things, so I'm really grateful for them!"
+夏夏 : "露营用品是真的便利啊，多亏有它们啊！"
+
+夏夏
+夏夏 : 「ちなみに三畳一間で、女性ばっかりのアパートなんですけど、生活のサイクルが合わなくて、近所づきあいがないのが残念ですねえ」
+Natsuka : "Oh, by the way, my place is about five square meters, and it's an all-girls' apartment. Unfortunately, our schedules don't really match up all that well, so I don't get many chances to talk with my neighbors or anything."
+夏夏 : "顺带一提一间房只有三坪，住着的都是女性，但是作息都跟我不一样，所以很遗憾住的地方附近没有我的熟人"
+
+夏夏
+夏夏 : 「あ、でも、夜の工事現場のバイトとかしていて、休憩のときにお話すると、似たような下宿で生活してる方もいてですね」
+Natsuka : "Oh, but I have a job at a construction site at night, so I get to talk to some people who live in a similar boardinghouse during my breaks."
+夏夏 : "啊，不过我晚上在施工现场做兼职的时候，休息的时候跟别人聊天后得知，跟我一样跟人合租生活的人也是有的呢"
+
+夏夏
+夏夏 : 「その方は、将来設計のために、月のバイト代はほとんど貯金してるっていってました」
+Natsuka : "They're all putting most of their monthly paychecks into savings for their future and stuff."
+夏夏 : "那个人为了今后的保障，每个月赚到的钱基本全都存起来了"
+
+夏夏
+夏夏 : 「あ、わたしはですね、お金は全部実家に仕送りしています。おかげでほとんど手元に残らなくって……えへへ」
+Natsuka : "Oh, I send all of mine to my family, though. I don't really have a whole lot to spare for myself... Hehe."
+夏夏 : "啊，我的话，钱都寄回老家了。所以手头基本不剩多少钱……哎嘿嘿"
+
+夏夏
+夏夏 : 「仕送りするのが、わたしが一人暮らしをつづけていい条件だったので」
+Natsuka : "I send my checks home because I wouldn't be allowed to live on my own otherwise."
+夏夏 : "寄钱是让我一个人生活下去的条件"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「今の生活は、実家にいた頃よりも大変なことも多いですが、でも楽しいです。自由ってこんな感じかな～ってなります」
+Natsuka : "I know my life right now can be a lot more difficult than it was back home, but I'm enjoying myself. It's like, wow! This is what freedom feels like!"
+夏夏 : "现在的生活，相比于在老家的时候艰难得多了，不过很开心。有种这就是自由吧～的感觉"
+
+リルヤ
+リルヤ : 「自由か」
+Lilja : "Freedom, you say?"
+丽露娅 : "自由吗"
+
+夏夏
+夏夏 : 「はい。家を出たのは、自由になるためなので。以前の生活もすごく大事でしたが、今のひとりの生活もとてもいいなって思います」
+Natsuka : "Yeah. I left my house so I could be free. My experiences before are still important to me, but I think the ones I have by myself are really great."
+夏夏 : "是的。我离开家就是为了自由。以前的生活我也很珍惜，现在自己一个人的生活我也觉得很好"
+
+夏夏
+夏夏 : 「リルヤさんにも会えましたし！」
+Natsuka : "And I got to meet you because of it too!"
+夏夏 : "而且还认识了丽露娅小姐！"
+
+リルヤ
+リルヤ : 「そうか」
+Lilja : "I see."
+丽露娅 : "是吗"
+
+夏夏
+夏夏 : 「とかなんとか話しているうちに炊けたみたいですよ！　蓋をあけて……うん、いい感じです。あとは蒸らして……」
+Natsuka : "And would ya look at that! The rice is all done now! Let's open the lid and... Oh, that looks great. Now we just gotta let it cook in the steam..."
+夏夏 : "说着这些话的时候饭好像已经煮好了！打开盖子看看……嗯，刚刚好。然后再焖一下……"
+
+夏夏
+夏夏 : 「はい、塩おにぎりの完成です！　どうぞ！」
+Natsuka : "Here you go! Salted rice balls! Enjoy!"
+夏夏 : "好，盐饭团完成了！请用！"
+
+リルヤ
+リルヤ : 「……ほのあたたかいな」
+Lilja : "...They're still quite warm."
+丽露娅 : "……感觉得到热气啊"
+
+リルヤ
+リルヤ : 「（ぱく）」
+Lilja : "Homph."
+丽露娅 : （啊呜）
+
+リルヤ
+リルヤ : 「（もぐもぐもぐ……）」
+Lilja : "*munch* *munch*..."
+丽露娅 : （咀嚼……）
+
+夏夏
+夏夏 : 「わたしもいっただきまーす！　はむっ！　もぐもぐもぐっ！」
+Natsuka : "I'm gonna chow down too! Homph! *munch* *munch*..."
+夏夏 : "我也开动了！啊呜！吧唧吧唧吧唧！"
+
+リルヤ
+リルヤ : （炊き加減は悪くない。だが水の質、米、塩……事実だけで判定すれば、けっして上等なものではない。だが……）
+Lilja : (It's definitely been cooked enough. However, the water quality, the rice, the salt... If I'm going by the facts alone, none of it is much to write home about. However...)
+丽露娅 : （火候正好。不过用的水质、米、盐……只从事实上判断的话，并不是很高级的东西。但是……）
+
+夏夏
+夏夏 : 「ん～！　おいしいです！　炊きたてのお米はやっぱりいいですね！」
+Natsuka : "Mmm! It's so good! Rice really is best when it's freshly made!"
+夏夏 : "嗯～！好好吃！刚煮好的米就是好吃啊！"
+
+リルヤ
+リルヤ : （不思議と……）
+Lilja : (Strangely enough...)
+丽露娅 : （真不可思议……）
+
+夏夏
+夏夏 : 「この塩おにぎりはですね、家を出てはじめて自分で作って食べた料理なんですよ」
+Natsuka : "These rice balls were actually the first thing I ever cooked by myself after leaving home."
+夏夏 : "这个盐饭团，是我离开家后自己第一次做的食物"
+
+夏夏
+夏夏 : 「家を出て、なんとか下宿が決まって。カセットコンロとお鍋、お米と水と塩をゲットして。お米の炊き方を調べて、炊いて」
+Natsuka : "I left home and found myself a boardinghouse somehow. Then I got all the ingredients and my portable stove. I looked up how to cook it, and then I just... did it."
+夏夏 : "从家里出来后，租了房子。在得到卡式炉、锅、米、水和盐后，查了查怎么煮米后，就自己试着煮了"
+
+夏夏
+夏夏 : 「はじめてだったから、ちょっと焦げちゃいましたけど……」
+Natsuka : "It was my first time, so I wound up burning it a bit..."
+夏夏 : "因为是第一次煮，煮得有点焦了……"
+
+夏夏
+夏夏 : 「あつあつのご飯に塩をふってにぎっただけの塩おにぎりなのに、すごくおいしかったなあ……」
+Natsuka : "But even though it was just fresh rice with salt I'd packed into a ball, it was so tasty..."
+夏夏 : "明明盐饭团只是在热米饭上撒上盐然后捏成的，却非常好吃……"
+
+リルヤ
+リルヤ : 「お前にとっての、自由の味だったんだな」
+Lilja : "Then that would be the taste of freedom for you, wouldn't it?"
+丽露娅 : "对你来说，这就是自由的味道吧"
+
+夏夏
+夏夏 : 「！」
+Natsuka : "Oh!"
+夏夏 : "！"
+
+夏夏
+夏夏 : 「そうですね、そのとおりです。わたしの自由の味です！」
+Natsuka : "Yeah, you're right. It was the taste of freedom!"
+夏夏 : "是啊，您说的对。是属于我的自由的味道！"
+
+リルヤ
+リルヤ : 「そうか」
+Lilja : "I see."
+丽露娅 : "是吗"
+
+リルヤ
+リルヤ : 「（ぱく）」
+Lilja : "Homph."
+丽露娅 : （啊呜）
+
+リルヤ
+リルヤ : 「（もぐもぐもぐ……）」
+Lilja : "*munch* *munch*..."
+丽露娅 : （咀嚼……）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「うまいな」
+Lilja : "It's quite delicious."
+丽露娅 : "挺好吃的啊"
+
+夏夏
+夏夏 : 「はい！　おいしいです！」
+Natsuka : "Yeah! It sure is!"
+夏夏 : "嗯！好好吃！"
+
+夏夏
+夏夏 : 「は～……」
+Natsuka : "Phew..."
+夏夏 : "啊～……"
+
+夏夏
+夏夏 : 「今日も一日、とっても楽しかったですねえ」
+Natsuka : "Today was another fun day."
+夏夏 : "今天一天，实在是太开心了"
+
+夏夏
+夏夏 : 「朝ごはんのあとは、また急なバイトをしにいって」
+Natsuka : "I had a sudden job I had to get to after breakfast."
+夏夏 : "吃完早餐后，又去做了紧急的兼职"
+
+夏夏
+夏夏 : 「それから午後は行きたかった場所まで軽く自転車で出かけて、帰ったらリルヤさんにその場所のお話をして……」
+Natsuka : "Then I got to go on a light bike ride to a place I wanted to see in the afternoon, and then I got to tell Lilja-san all about it when I got home..."
+夏夏 : "然后下午骑着自行车悠闲地去到了自己想去的地方，回来之后跟丽露娅小姐讲了在那里发生的事情……"
+
+夏夏
+夏夏 : （外出先で水を張った田んぼに自転車ごとおっこちたので、またリルヤさんに洗ってもらって……）
+Natsuka : (Though I did fall off my bike and into a rice paddy, and Lilja-san had to bathe me again...)
+夏夏 : （在出游的地方我连人带自行车都栽到了蓄满水的田里，又让丽露娅小姐帮我洗了个澡……）
+
+夏夏
+夏夏 : （てゆか、わたし落っこちすぎでは！？　ちゃんとあやまって田んぼの状態は直してきましたが、ほんと農家の方すみません……）
+Natsuka : (I feel like I'm falling like, %i1way%id too much though! I apologized to the farmer and fixed the paddy and everything, but I still feel bad...)
+夏夏 : （话说，我是不是太容易栽跟头了？！虽然我诚恳地道歉后把田地恢复了原状，但是对那户农家还是深感抱歉……）
+
+夏夏
+夏夏 : 「ついきれいな景色を見ると感激してぼうっとよそ見しちゃうんですよね……ほんと、気をつけたいです」
+Natsuka : "Here I was, just enjoying the lovely scenery and I just... spaced. Man, I really need to pay more attention."
+夏夏 : "看到漂亮的风景后就会感动得发呆注意不到周围的路……真的，得多加小心才行啊"
+
+夏夏
+夏夏 : （それはそれとして、今日の風景もとってもきれいでしたねえ……リルヤさんも楽しそうに聞いてくれましたし）
+Natsuka : (Well, that aside, it really was a lovely sight... Lilja-san seemed to like hearing about it too.)
+夏夏 : （摔跤的事就先放在一边，今天看到的风景是真的漂亮啊……丽露娅小姐听的时候看上去也很开心）
+
+夏夏
+夏夏 : 「ふあ……眠いですね……お布団お布団……」
+Natsuka : "Fwahh... I'm so exhausted... Let's get the futon out..."
+夏夏 : "呼哇……好困啊……被褥被褥……"
+
+夏夏
+夏夏 : （おふとんあったかいです……ふわふわです……）
+Natsuka : (The futon's so nice and warm... And soooo fluffy and soft...)
+夏夏 : （被窝好暖和啊……软绵绵的……）
+
+夏夏
+夏夏 : （こんなに楽しくて嬉しいだけの毎日が送れるなんて、ほんと夢みたいです……）
+Natsuka : (I never thought every day could be so fun and exciting... If this is a dream, I never want to wake up...)
+夏夏 : （每天都能这样开心快乐，简直跟做梦一样……）
+
+夏夏
+夏夏 : （リルヤさんも、すこしでも楽しいって思ってくれているんでしょうか？　だったらすごく嬉しいんですが……）
+Natsuka : (I wonder if Lilja-san's having fun too. I'd be so happy if she were...)
+夏夏 : （丽露娅小姐应该多少也觉得开心吧？如果是这样的话我也很开心……）
+
+夏夏
+夏夏 : 「リルヤさん……」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐……"
+
+夏夏
+夏夏 : （リルヤさん、あれから一度もわたしに課題を出さないんですよね……今は、生活に集中したいってことなんでしょうか……）
+Natsuka : (Lilja-san hasn't asked me to do anything after all that... I guess she just wants to focus on her everyday life for now...)
+夏夏 : （从那之后没有再给我出过题了呢……感觉是想要集中精力在现在的生活上……）
+
+夏夏
+夏夏 : （でも、時間がないっていってましたし、わたしも何かお役に立てるように……）
+Natsuka : (But she said she didn't have any time, and I want to be useful to her...)
+夏夏 : （不过，她也说过她没有多少时间了，我能不能帮上她的忙呢……）
+
+夏夏
+夏夏 : （色々な場所に出かけて、色々なものを見て、たくさん感動するようにして……）
+Natsuka : (I've been going all sorts of places, seeing all sorts of things, and feeling all sorts of emotions...)
+夏夏 : （去到各种各样的地方，看各种各样的东西，经历很多的感动……）
+
+夏夏
+夏夏 : （そうですね……）
+Natsuka : (Let's see...)
+夏夏 : （是啊……）
+
+夏夏
+夏夏 : （今日見た景色以上の……そう、世界で一番きれいなものを……）
+Natsuka : (I wanna tell Lilja-san all about places even better than what I saw today...)
+夏夏 : （我要把比今天看到的景色还要……没错，世界上最美丽的东西……）
+
+夏夏
+夏夏 : （リルヤさんに語りたい……です）
+Natsuka : (About... the most beautiful things in the world...)
+夏夏 : （讲给丽露娅小姐……听）
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "Zzz..."
+夏夏 : "…………"
+

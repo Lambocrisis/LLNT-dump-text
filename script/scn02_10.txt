@@ -1,0 +1,925 @@
+夏夏
+夏夏 : 「静かですね……」
+Natsuka : "It's so quiet..."
+夏夏 : "真安静……"
+
+夏夏
+夏夏 : 「生徒のみなさんが帰ってしまうと、学校ってこんなにひっそりするんですね」
+Natsuka : "I never realized how desolate a school feels after all the students have gone home."
+夏夏 : "学生都回去了，学校自然鸦雀无声啊"
+
+夏夏
+夏夏 : 「ついさっきまで、生徒さんたちとたくさんお話していたギャップもあるんですが」
+Natsuka : "It was filled with talking and laughter until moments ago, when I was talking to the students, so the contrast makes it seem even quieter."
+夏夏 : "明明刚刚还有很多学生在聊天的"
+
+リルヤ
+リルヤ : 『収穫はあったな』
+Lilja : "It sounds like you've had a fruitful day."
+丽露娅 : "看来是有收获了啊"
+
+夏夏
+夏夏 : 「はい、思った以上にいろいろ話を聞けましたね！」
+Natsuka : "Yes! I learned even more than I was hoping for!"
+夏夏 : "是的，听他们聊了不少！"
+
+リルヤ
+リルヤ : 『私が聞いているのもまったくかまわず、実に[かまびす]囂しかった』
+Lilja : "It was evident from your ebullient conversations that nobody minded me listening in."
+丽露娅 : "那些人连我在听他们说话都不知道，太喧嚣了"
+
+夏夏
+夏夏 : 「か、かまびす？」
+Natsuka : "E-Ebullient?"
+夏夏 : "喧、喧嚣？"
+
+リルヤ
+リルヤ : 『かしましいともいう』
+Lilja : "It means very energetic and loud."
+丽露娅 : "也可以说是喧闹"
+
+夏夏
+夏夏 : 「なるほど！？　リルヤさんは日本語もよく知ってるんですね。国語の先生だってなれそうです」
+Natsuka : "I see! You know so many difficult words, Lilja-san! You could be a language teacher!"
+夏夏 : "是这样啊！？　丽露娅小姐这么懂日语啊。都能当国语老师了"
+
+リルヤ
+リルヤ : 『非合理性と非効率と衝動の塊のような子どもらとすごすのは、なかなかに苦痛であろうな。逆にお前は向いていそうだ』
+Lilja : "The idea of spending %i1that%id much time with children, who are masses of irrationality, inefficiency, and impulsiveness, sounds absolutely exhausting. I think you'd be better suited for it."
+丽露娅 : "但与那些毫不合理，满载冲动的小孩子们生活，是真的难受。不过你应该很适合"
+
+夏夏
+夏夏 : 「教えられるものがあればいいんですが！　まずは勉強しようかなあ」
+Natsuka : "I wish I knew anything worth teaching! Maybe I could start studying something."
+夏夏 : "有能教的东西才行吧！　我还得学习呢"
+
+夏夏
+夏夏 : 「オンラインで勉強もできますが、リルヤさんに教えてもらうのも手かな～？　なんて！」
+Natsuka : "I know there's online courses I could take, but maybe you'd be willing to teach me, Lilja-san! Teehee!"
+夏夏 : "现在在网上也能学习，让丽露娅小姐教我也是一种手段吧～？　什么的！"
+
+リルヤ
+リルヤ : 『やる気があるなら教えてやらないこともないぞ』
+Lilja : "If you're motivated to learn, then I wouldn't mind teaching you a thing or two."
+丽露娅 : "你要想学我也不是不能教你"
+
+夏夏
+夏夏 : 「えっ本当ですか？　やりますやります頑張ります！！　めちゃめちゃやりますのでよろしくお願いします！」
+Natsuka : "Huh!? Really? I'll do my best! I promise I'll be the best student you can imagine, so please teach me!"
+夏夏 : "咦真的吗？　我要学我想学！！　我会很努力学习的！"
+
+リルヤ
+リルヤ : 『わかったから、そんなに大きな声を出すな。お前の声はもともと通るのに、講堂のせいでよく反響する』
+Lilja : "Fine, but would you quiet down? Your ringing voice reverberates through the whole auditorium."
+丽露娅 : "我知道了，所以别那么大声。你的声音本来就很大，再加上这里是讲堂，会有回声的"
+
+夏夏
+夏夏 : 「は、はい……！」
+Natsuka : "O-Okay...!"
+夏夏 : "好、好的……！"
+
+夏夏
+夏夏 : 「そうでした。講堂にいるんでした。こういう空間は、なんていうんでしょうね……ひとことでいえば、レトロ建築なんでしょうか？」
+Natsuka : "You're right, I forgot I was still in the auditorium. There's something about spaces like these... Something... retro, I guess?"
+夏夏 : "对了，我们在讲堂里。这种地方该怎么说呢……一言蔽之，就是复古建筑吗？"
+
+夏夏
+夏夏 : 「昭和の昔からずっと建っていた由緒正しい建物って感じです。もしかしたら、昭和以前かもしれませんが」
+Natsuka : "It looks like a historical building that's been here since at least the Showa period, or maybe even longer than that."
+夏夏 : "有种从昭和保留至今的，有历史的感觉。说不定还是在昭和之前建造的"
+
+夏夏
+夏夏 : 「天井が高くて、全体的に古いですが、窓も床もぴかぴかに磨かれています。ここでいろいろな行事がおこなわれたんでしょうねえ」
+Natsuka : "But despite how old it looks, the high ceiling, the windows, and the floor all look squeaky clean. It must be well taken care of. Imagine all the events that have been held here..."
+夏夏 : "天花板挺高的，整体来看也很古老，但窗户和地板都擦得闪闪发亮。应该是在这里开办了不少活动吧"
+
+夏夏
+夏夏 : 「入学式や卒業式、始業式や終業式……学園祭、そして後夜祭」
+Natsuka : "Entrance ceremonies and graduations, assemblies at the beginning and end of each semester, school festivals... And proms..."
+夏夏 : "入学典礼和毕业典礼，开学讲话与期末讲话……学园祭，以及后夜祭"
+
+夏夏
+夏夏 : 「そう、後夜祭！」
+Natsuka : "Right, the prom!"
+夏夏 : "对了，后夜祭！"
+
+夏夏
+夏夏 : 「いやー……ほんと皆さん、いろいろな話をしてくれました」
+Natsuka : "Whew... Everyone had so much to tell me about the prom."
+夏夏 : "唉……各位真的对我说了不少的事情"
+
+夏夏
+夏夏 : 「クラスメイトさんたちだけじゃなくて、それこそ学校中の皆さんが、真璃子さんたちに注目してたんですねえ」
+Natsuka : "Mariko-san and the others weren't just popular among their classmates—the whole student body seems to know who they are."
+夏夏 : "没想到不光是在班上，在整个学校里，真璃子小姐她们都那么受瞩目"
+
+リルヤ
+リルヤ : 『そうだな。個人情報への配慮もなく、次から次へとあふれるようにうわさ話に花が咲いたな。おかげで理解できたではないか？』
+Lilja : "I suppose so. Everyone seemed to enjoy gossiping about them without any regard for their privacy. Now you understand the situation, don't you?"
+丽露娅 : "是啊。完全不在乎他人的隐私，一个话题接着一个话题聊得挺多。不过你不也因此理解了吗？"
+
+夏夏
+夏夏 : 「う――はい。リルヤさんがいってた、わたしが精神的におこちゃまだっていってたことは、よーくわかりました……」
+Natsuka : "Uh... Yeah. I get why you said that I'm still just a little kid..."
+夏夏 : "呜——是的。我明白为什么丽露娅小姐说我精神年龄还是小孩子了……"
+
+夏夏
+夏夏 : 「というか、皆さんよく見てますよね？？？？　その、真璃子さんたちの、あれやこれやな関係性や心情の、とっても細かいところまで……」
+Natsuka : "I'm surprised everyone was watching them so closely. Everyone seemed to know all the juicy details of their relationships with each other..."
+夏夏 : "应该说，大家是真的很关注她们啊？？？　就是，有关真璃子小姐她们这样那样的关系和情绪，连那么微小的地方都……"
+
+リルヤ
+リルヤ : 『古今東西老若男女を問わず、常に注目される人物と言うのは、衆目に曝され、民草のゴシップの餌食になるものだ』
+Lilja : "No matter where in the world or when, notable figures are the subject of gossip, regardless of gender or age."
+丽露娅 : "古往今来不问东西无关男女老少，受人瞩目本身，就是将自己暴露在众目睽睽之下，成为大家的谈资一事"
+
+夏夏
+夏夏 : 「はい……」
+Natsuka : "Yeah..."
+夏夏 : "没错……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「……真璃子さんは、妹の美彌子さんを何よりも愛していたけれど、でも、善乃さんにほのかな想いを寄せていたんですね」
+Natsuka : "Mariko-san loved her sister more than anyone... But it seems she had feelings for Yoshino-san as well."
+夏夏 : "……真璃子小姐深爱自己的妹妹美弥子小姐，但同时也对善乃小姐产生了情愫"
+
+リルヤ
+リルヤ : 『そしてミス善乃もまたミス真璃子に友情以上の気持ちを抱いていた』
+Lilja : "And Miss Yoshino wanted more than a mere friendship with Miss Mariko."
+丽露娅 : "而善乃女士对真璃子女士抱有友情以上的感情"
+
+リルヤ
+リルヤ : 『しかし、ミス美彌子もまたミス善乃への恋情を抱えていた』
+Lilja : "However, Miss Miyako also harbored romantic feelings toward Miss Yoshino."
+丽露娅 : "但是，美弥子女士同时对善乃女士抱有恋爱感情"
+
+夏夏
+夏夏 : 「真璃子さんは、美彌子さんの恋の成就を願っていました」
+Natsuka : "Mariko-san wished for Miyako-san's love to be fulfilled."
+夏夏 : "真璃子小姐，希望美弥子小姐的恋爱能得到结果"
+
+夏夏
+夏夏 : 「だから真璃子さんは。善乃さんの気持ちに気づかないふりをした……そして、真璃子さん自身の気持ちも表には出さなかった」
+Natsuka : "So Mariko-san pretended she didn't notice Yoshino-san's affections toward her... And she hid her own feelings as well."
+夏夏 : "所以真璃子小姐对善乃小姐的感情熟视无睹……同时，她也不会将自己的感情透露出来"
+
+リルヤ
+リルヤ : 『まあ、第三者には丸わかりのようだったがな』
+Lilja : "It was probably obvious to any observer, though."
+丽露娅 : "不过，在旁人看来实在是过于好懂了"
+
+夏夏
+夏夏 : 「そうですねえ。そんなにわかるものなんですねえ……」
+Natsuka : "It seems like you just can't hide certain things..."
+夏夏 : "是啊。就是有这么好懂啊……"
+
+リルヤ
+リルヤ : 『恋は盲目とはよくいったものだ』
+Lilja : "They do say that 'love is blind,' after all."
+丽露娅 : "恋爱会使人盲目"
+
+夏夏
+夏夏 : 「でも、善乃さんが不安定になっていった理由は、やっぱりよくわからなくて……罪悪感なのかなってことは想像できるのですが」
+Natsuka : "I still don't get what caused Yoshino-san to grow unstable, though... Was it guilt? That's the only reason I can think of."
+夏夏 : "但是，我果然还是不太明白为什么善乃小姐精神不稳定……虽然能感觉可能是因为罪恶感"
+
+リルヤ
+リルヤ : 『そこまで難しい話ではない。ミス善乃はミス真璃子に愛されることに、喜びを感じてしまったのだろう』
+Lilja : "It's not that difficult. Miss Yoshino was happy to be on the receiving end of Miss Mariko's affections."
+丽露娅 : "也没多复杂。善乃女士被真璃子女士所爱，感到了喜悦吧"
+
+夏夏
+夏夏 : 「喜びを……」
+Natsuka : "Happy..."
+夏夏 : "喜悦……"
+
+リルヤ
+リルヤ : 「しかしその喜びは同時に苦しみを生み出した」
+Lilja : "At the same time, that happiness caused her pain."
+丽露娅 : "但是伴随喜悦产生的，是痛苦"
+
+リルヤ
+リルヤ : 「ミス真璃子の自分に向けられた愛情は、本来、妹であるミス美彌子にむけられているものだから」
+Lilja : "The love Miss Mariko showed her was not intended for Miss Yoshino herself, but rather for her sister, Miss Miyako."
+丽露娅 : "真璃子女士对自己的爱，本是作为妹妹的美弥子女士所应得的"
+
+リルヤ
+リルヤ : 「ミス善乃は、非常に真面目な人間だ。それはこれまでのお前の想像からも、先ほどまでのクラスメイト諸氏らの証言からも容易にうかがえる」
+Lilja : "Miss Yoshino is a serious, hardworking person. She's exactly what you imagined her to be, and her classmates' testimonies prove it."
+丽露娅 : "善乃女士是很认真的人。而佐证这点的不光是你的想象，刚刚与她们的同学聊天时也可以得出这个结论"
+
+リルヤ
+リルヤ : 「同時に聡明な人間でもある。ミス善乃は、妹の自分への想いはもちろんのこと、姉の自分への想いにも気づいていたのだろう」
+Lilja : "Meanwhile, she's also intelligent. Naturally, she would have been aware of both sisters' affections toward her."
+丽露娅 : "她同时也相当聪明。善乃女士不光察觉到了美弥子女士对她的感情，估计也察觉到了真璃子女士对自己的感情吧"
+
+リルヤ
+リルヤ : 「そしてミス真璃子が、最愛の妹のために、自分への想いを決して表に出さないことも、ミス善乃は理解していた」
+Lilja : "Miss Yoshino also understood that Miss Mariko was trying to hide her feelings for her beloved sister's sake."
+丽露娅 : "而善乃女士她也知道，为了自己最爱的妹妹，真璃子女士绝不会表现出自己的感情"
+
+リルヤ
+リルヤ : 「そんな気持ちを理解していたからこそ、ミス善乃は、ミス真璃子への気持ちを明かすことを善しとしなかったのだろう」
+Lilja : "Precisely because Miss Yoshino understood those feelings, she decided to hide her own feelings from Miss Mariko."
+丽露娅 : "正因为理解这一切，善乃女士才不会对真璃子女士袒露自己的真心"
+
+リルヤ
+リルヤ : 「なのに、ミス善乃は、双子の妹の死によって、本来ならけっして得られるはずのない姉からの愛情を受ける立場に陥ってしまった」
+Lilja : "However, the death of the younger sister placed Miss Yoshino in a position to receive Miss Mariko's love in Miss Miyako's stead."
+丽露娅 : "但是善乃女士由于妹妹的死，得到了本来绝不可能得到的，接受姐姐爱意的立场"
+
+リルヤ
+リルヤ : 「そのミス真璃子の愛情は、本当なら妹に注がれる愛情だ。なのにミス善乃は騙して得た愛情に、喜びを感じてしまった」
+Lilja : "She knew that Miss Mariko's love wasn't meant for %i1her%id, yet Miss Yoshino took pleasure in being on the receiving end of it, even though she obtained it through deceptive means."
+丽露娅 : "真璃子女士带给她的爱意，本是应该倾注给妹妹的。但善乃女士面对这份因欺骗而得到的爱，感到了喜悦"
+
+リルヤ
+リルヤ : 「――そんな状況は、ミス善乃にとって、天国と地獄を同時に味わうようなものだろうな」
+Lilja : "Miss Yoshino must have felt as if she was in heaven and hell at the same time."
+丽露娅 : "——这对善乃女士而言，简直就像是同时身处天堂与地狱一样"
+
+リルヤ
+リルヤ : 「恋はただでさえそれに罹患した人間の情緒を不安定にさせ、理性を打ち砕き、混乱のただなかで愚行に走らせる」
+Lilja : "Love can destabilize the emotions of those who are afflicted with it. It shatters reason and leads to folly in the midst of confusion."
+丽露娅 : "恋爱本就能使人情绪失常，无法保持理性，在混乱之中做蠢事"
+
+リルヤ
+リルヤ : 「それに加えて、忠誠を誓った家の娘であるミス美彌子を自らの過失で喪った悔悟の情、自分だけ生き残ってしまった自責、ミス真璃子を騙している罪悪感――」
+Lilja : "She likely felt guilty for having lost Miyako, the daughter of the family she pledged her loyalty to, surviving the accident herself, and for having deceived Miss Mariko..."
+丽露娅 : "而这要是再加上因自己的过失导致效忠的家族中双胞胎之一的美弥子女士失去性命的懊悔之情，自己独活的自责，以及欺骗真璃子女士的罪恶感——"
+
+リルヤ
+リルヤ : 「さすがにこれだけそろえば、人一倍己を律することのできるミス善乃であっても、不安定になっていったのも不思議はなかろう」
+Lilja : "Adding all of that up, it's no wonder a person—even someone as disciplined as Miss Yoshino—would grow unstable."
+丽露娅 : "再怎么自律的善乃女士，面对这些也必将变得精神失常吧"
+
+夏夏
+夏夏 : 「はー……」
+Natsuka : "Hahh..."
+夏夏 : "哈……"
+
+夏夏
+夏夏 : 「すごい、すごいです、リルヤさん！　きっとそうだと思います！」
+Natsuka : "You're incredible, Lilja-san! I'm positive that you're right!"
+夏夏 : "好厉害，好厉害啊丽露娅小姐！　应该就是这样！"
+
+夏夏
+夏夏 : 「すごいなあ、大人の世界ですね……。本当にわたしが、ただのおこちゃまな案件でした」
+Natsuka : "The world of grown-ups sure is complicated... I really am nothing but a little kid in comparison."
+夏夏 : "好厉害啊，真是成年人的世界啊……看来只是我不够成熟而已"
+
+夏夏
+夏夏 : （みんなわたしよりも年下なんですけどね～！？）
+Natsuka : (Everyone involved is younger than me, though...!)
+夏夏 : （虽然我比大家都年长啊～！？）
+
+リルヤ
+リルヤ : 『お前がそのあたりの人の機微に疎いことはよくわかっている』
+Lilja : "I'm painfully aware that you're not very sensitive to the subtleties of the human condition."
+丽露娅 : "我知道你对这方面比较生疏"
+
+夏夏
+夏夏 : 「ううっ、すこしずつ頑張って成長していきたいです！」
+Natsuka : "Aww... I'll do my best to grow up bit by bit!"
+夏夏 : "呜呜，我还是会努力学习成长的！"
+
+夏夏
+夏夏 : 「それにしても、善乃さんがそんな気持ちでいるなら、ますます手術なんてさせちゃいけませんね。本当に心が壊れてしまいます」
+Natsuka : "Anyway, if Yoshino-san really feels that way, then I don't think she should go through with the surgery. I'm afraid that it would break her heart."
+夏夏 : "但话又说回来，要是善乃小姐是这样的心情，那就更不该让她做手术了吧。她的内心会彻底坏掉的"
+
+夏夏
+夏夏 : 「そのためにわたしができることは一つ。リルヤさんに『光』をもたらすことです」
+Natsuka : "There's only one thing I can do to stop her, which is to bring you the 'light' you need, Lilja-san."
+夏夏 : "为此我能做到的事情只有一件。那就是为丽露娅小姐带来‘光芒’"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「わたしがこの学校に来たのは、学校の皆さんから真璃子さんたちの話を聞くためでしたが、もうひとつ理由がありました」
+Natsuka : "I came here in order to ask the students about Mariko-san and the other girls, but there's actually another reason."
+夏夏 : "我来到这座学校，不光是为了问这里的学生有关真璃子小姐她们的事情，其实还有一个理由"
+
+夏夏
+夏夏 : 「それは、この講堂でした」
+Natsuka : "It's this auditorium."
+夏夏 : "那就是，这间讲堂"
+
+夏夏
+夏夏 : 「わたし、今回は、たくさんの情報を手に入れました。自分でも集めて、リルヤさんからも聞いて……」
+Natsuka : "I managed to gather a lot of information this time. Some of it I gathered by myself, and some I heard from you, Lilja-san..."
+夏夏 : "这次我获得了很多的信息。有自己听说的，也有丽露娅小姐告诉我的……"
+
+夏夏
+夏夏 : 「手に入れた情報から、善乃さんや真璃子さんの気持ちに、すこしでも近づこうとしてきました」
+Natsuka : "Thanks to all that information, I feel like I've gotten closer to understanding Yoshino-san and Mariko-san's feelings."
+夏夏 : "籍由这些信息，我距离善乃小姐与真璃子小姐的心情，稍微近了一步"
+
+夏夏
+夏夏 : 「リルヤさんは最初の頃、わたしに多くの情報を見せてくれませんでした」
+Natsuka : "At first, you never gave me a lot of information."
+夏夏 : "丽露娅小姐从一开始并没有给予我过多的信息"
+
+夏夏
+夏夏 : 「それはわたしが大量の情報のなかで迷子になってしまって、橄欖の葉をリルヤさんにもたらせないからで、それは正解だったんです」
+Natsuka : "I think you were right. If I got too much information at once, I would get lost, and I wouldn't be able to bring you your olive leaf anymore."
+夏夏 : "是因为害怕我被过多的信息扰乱，导致无法衔回橄榄叶，这是没错的"
+
+夏夏
+夏夏 : 「だっていつもわたしは、依頼人さんたちの強い想いにぐるぐるして、途方に暮れて、リルヤさんに導いてもらっていましたから」
+Natsuka : "I'd always sympathize with the client too much, and I'd get lost in the details until you guided me onto the right path."
+夏夏 : "因为我被委托人们的强烈思念弄得晕头转向，走投无路，还劳烦丽露娅小姐进行了思维引导"
+
+夏夏
+夏夏 : 「でも、リルヤさんは、今回、わたしにいっぱい情報を教えてくれました」
+Natsuka : "But this time, you did give me a lot of information."
+夏夏 : "但是这次，丽露娅小姐给予了我很多的信息"
+
+夏夏
+夏夏 : 「それは、わたしがあふれるような情報のなかでも迷わず、きっと橄欖の葉を持ってくると信じてくれたからだと思うんです」
+Natsuka : "That must be because you believed I wouldn't get lost in the vast sea of information and would bring you the olive leaf without fail."
+夏夏 : "那是因为，丽露娅小姐相信我不会被这些信息所扰乱，能为自己衔回橄榄叶"
+
+夏夏
+夏夏 : 「ならばわたしは、リルヤさんのその信頼に応えたい。以前はできなかったことも、今ならできる。絶対にできると信じたいんです！」
+Natsuka : "If that's the case, then I want to live up to your expectations. I couldn't do it before, but now I can. I want to believe that I can!"
+夏夏 : "那么我也想回应丽露娅小姐对我的期待。以前做不到，但现在肯定能行。我想相信我自己！"
+
+夏夏
+夏夏 : 「この講堂。ここで後夜祭がおこなわれます。その後夜祭は、ここの生徒さんたちにとって特別なものです」
+Natsuka : "This auditorium is where the annual prom is held. It's a very special occasion for the students here."
+夏夏 : "在这间讲堂里，会举办后夜祭。而对于这里的学生而言，后夜祭是很特殊的"
+
+夏夏
+夏夏 : 「赤いドレスを着て、花冠をかぶって、好きなひとと踊る……」
+Natsuka : "They wear red dresses and crowns of roses, and they dance with the ones they love..."
+夏夏 : "身穿赤红的礼服，戴着花冠，与喜欢的人翩翩起舞……"
+
+夏夏
+夏夏 : 「今から、わたしは、それをします」
+Natsuka : "So, that's exactly what I will do."
+夏夏 : "而现在，我也要这样做"
+
+夏夏
+夏夏 : 「だから、リルヤさん。わたしと踊ってくれますか？　後夜祭のワルツを一緒に。わたしがリードしますから」
+Natsuka : "Lilja-san, will you dance with me? Let's dance the waltz at the prom together. I'll do my best to lead you."
+夏夏 : "所以，丽露娅小姐，能和我跳一支舞吗？　一起在后夜祭上跳华尔兹。我会引导您的"
+
+リルヤ
+リルヤ : 『お前が私に『光』をもたらすために、お前にしか見えない世界を見るためにか？』
+Lilja : "Is that necessary in order for you to bring me light and show me a world I otherwise can't see?"
+丽露娅 : "这是你为了给我带来‘光芒’，让我看到你眼中的世界吗？"
+
+夏夏
+夏夏 : 「もちろんそれもありますけど……」
+Natsuka : "That's part of it too, of course..."
+夏夏 : "也有这一方面……"
+
+夏夏
+夏夏 : 「実は、真璃子さんや善乃さんから話を聞いたとき、後夜祭でリルヤさんと踊れたら素敵だなって、ちらっとですが思ったんです」
+Natsuka : "But when I heard Mariko-san and Yoshino-san talk about the prom, I thought it would be really nice if I could dance with you at prom too, Lilja-san."
+夏夏 : "其实，在我听了真璃子小姐与善乃小姐所说的之后，有那么一瞬间，在想要是能在后夜祭与丽露娅小姐跳舞会有多好"
+
+夏夏
+夏夏 : 「だから、わたしと踊りましょう。リルヤさん。ふたりぼっちの後夜祭ですが、リルヤさんとなら、わたしはとっても楽しいです」
+Natsuka : "Come on, dance with me, Lilja-san! It'll be a prom for just the two of us, but I'm sure it'll be fun."
+夏夏 : "能和我跳一支舞吗，丽露娅小姐。这里只有我们两人，但光是如此，我就已经特别开心了"
+
+リルヤ
+リルヤ : 『…………』
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 『そうだな』
+Lilja : "All right."
+丽露娅 : "也是啊"
+
+夏夏
+夏夏 : 「はい！　それでは、リルヤさん――お手をどうぞ」
+Natsuka : "Yay! Then, Lilja-san, please give me your hand."
+夏夏 : "没错吧！　那么丽露娅小姐——伸出手来吧"
+
+リルヤ
+リルヤ : 『ふ、生意気だな。お前が私をリードするのか』
+Lilja : "Heh, you're so confident. Are you going to lead me?"
+丽露娅 : "哼，真是自大啊。就你也能引导我吗"
+
+夏夏
+夏夏 : 「もちろんリルヤさんでもいいんですが、どうしますか？」
+Natsuka : "Oh, if %i1you%id want to lead, then I'm fine with that too. Which would you prefer?"
+夏夏 : "丽露娅小姐想换边的话也不是不行，要换吗？"
+
+リルヤ
+リルヤ : 『ワルツはお前にまかせよう。私は別のリードをする』
+Lilja : "The waltz is %i1your%id specialty, so I'll leave it to you. I can take the lead in other things."
+丽露娅 : "华尔兹就交给你吧。我来负责引导其他的"
+
+夏夏
+夏夏 : 「別のリード――ですか？」
+Natsuka : "Lead... in other things?"
+夏夏 : "其他的——吗？"
+
+リルヤ
+リルヤ : 『そうだ。お前にはよく効くだろう。目を閉じろ、夏夏』
+Lilja : "Yes. Why don't we do this? Close your eyes, Natsuka."
+丽露娅 : "没错。应该会对你很有效果。夏夏，闭上眼吧"
+
+夏夏
+夏夏 : 「こう、ですか？」
+Natsuka : "You mean like this?"
+夏夏 : "像这样，吗？"
+
+リルヤ
+リルヤ : 『――私たちは、ミス真璃子たちが通っている聖ドロテア女子高等学校の生徒だ』
+Lilja : "Yes. Imagine that we're students at St. Dorothea Girls' High School, where Miss Mariko and the other girls go to school."
+丽露娅 : "——我们与真璃子女士她们一样，是就读于圣多萝西娅女子高等学校的学生"
+
+リルヤ
+リルヤ : 『学園祭のすべての企画が終了し、後夜祭がはじまる。私はお前にワルツを申し込まれ、それを受けた』
+Lilja : "The school festival has successfully come to an end, and the prom is about to begin. You've asked me to dance the waltz with you, and I've accepted."
+丽露娅 : "在学园祭的所有项目结束后，后夜祭开始了。我接受了你的邀请，一起跳起了华尔兹"
+
+夏夏
+夏夏 : 「それは、ものすごい栄誉なことですね……？」
+Natsuka : "That is... a great honor, isn't it?"
+夏夏 : "这很光荣吧……？"
+
+リルヤ
+リルヤ : 『どうしてそう思う？』
+Lilja : "Why do you think so?"
+丽露娅 : "为什么你会这样想？"
+
+夏夏
+夏夏 : 「だってリルヤさんは、絶対に真璃子さんみたいな学校の人気者になるに決まってますから」
+Natsuka : "Because I'm sure you'd be the most popular girl in the entire school, just like Mariko-san."
+夏夏 : "要是丽露娅小姐在这里就读，肯定会有不输真璃子小姐的人气吧"
+
+リルヤ
+リルヤ : 『ならばお前は、善乃のように私の騎士になるのか？』
+Lilja : "And you're going to be my knight, like Yoshino?"
+丽露娅 : "那么你是想像善乃那样，充当我的骑士吗？"
+
+夏夏
+夏夏 : 「うーん、善乃さんみたいに騎士になるのは無理かもしれませんが、でも、リルヤさんの側にいたいなあと思いますね！」
+Natsuka : "Hmm, I don't think I could be a knight as cool as Yoshino-san, but I think I'd want to stay by your side the whole time, Lilja-san!"
+夏夏 : "嗯，像善乃小姐那样的骑士我估计办不到，但我很想在丽露娅小姐身边待着！"
+
+リルヤ
+リルヤ : 『ああ。私もお前が側にいることを望もう』
+Lilja : "I wouldn't want it any other way."
+丽露娅 : "这样啊。那我也希望你能在我的身边"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Okay!"
+夏夏 : "好的！"
+
+リルヤ
+リルヤ : 『後夜祭のダンスがはじまろうとしている。生徒たちは、講堂で輪になっている。赤いドレスを着て、薔薇の花冠をつけている』
+Lilja : "The dance is about to begin. The students have gathered in a circle in the auditorium. They're all wearing red dresses and crowns of roses."
+丽露娅 : "后夜祭即将迎来舞蹈的时光。学生们在讲堂里围成了一圈。大家穿着赤红的礼服，戴着玫瑰花冠"
+
+リルヤ
+リルヤ : 『彼女たち自体が花であり、彼女たちが作る踊りの輪は花冠のようだ』
+Lilja : "The girls themselves are flowers, and when they dance in a circle, they become a crown."
+丽露娅 : "起舞的她们，像是一朵朵鲜花；围成一圈的她们，仿佛一簇花冠"
+
+夏夏
+夏夏 : 「わたしもリルヤさんも、赤いドレスを着て薔薇の花冠をつけて、みんなと同じ輪に並んでいます」
+Natsuka : "Lilja-san and I are wearing red dresses and wearing rose crowns too, and we're part of the circle."
+夏夏 : "而我和丽露娅小姐，也身着赤红色的礼服，点缀着玫瑰花冠，与大家并肩组成了圆"
+
+リルヤ
+リルヤ : 『お前の前には、私が立っている。同時に、お前の前には、双子が立っている』
+Lilja : "I'm standing in front of you, and the twins are there, too."
+丽露娅 : "在你的面前，是我。但同时在你面前的，是一对双胞胎"
+
+夏夏
+夏夏 : 「――わたしの前にいるのは、リルヤさん……。同時に、真璃子さんと美彌子さん……」
+Natsuka : "Lilja-san's in front of me... As well as Miyako-san and Mariko-san..."
+夏夏 : "——在我面前的，是丽露娅小姐……同时也是，真璃子小姐与美弥子小姐……"
+
+リルヤ
+リルヤ : 『そうだ。お前は空木夏夏であり、久住善乃である。お前の相手はリルヤ・メリであり、羽ヶ崎の双子である』
+Lilja : "That's right. You're Utsugi Natsuka, but you're also Kuzumi Yoshino. Your dance partner is Lilja Meri, who is also the Hanegasaki twins."
+丽露娅 : "没错。你既是空木夏夏，也是久住善乃。而握住你的手的既是丽露娅·梅莉，也是羽崎家的双胞胎"
+
+夏夏
+夏夏 : 「わたしは、夏夏。夏夏であると同時に、善乃」
+Natsuka : "I'm Natsuka... and Yoshino-san."
+夏夏 : "我是夏夏。同时也是善乃小姐"
+
+リルヤ
+リルヤ : 『さあ、ワルツをはじめよう』
+Lilja : "Now, let's waltz."
+丽露娅 : "来，开始起舞吧"
+
+夏夏
+夏夏 : （わたしは夏夏。夏夏であると同時に善乃）
+Natsuka : (I'm Natsuka, but at the same time I'm Yoshino.)
+夏夏 : （我是夏夏。身为夏夏，同时也是善乃）
+
+夏夏
+夏夏 : （今夜は後夜祭、音楽が鳴って、わたしと彼女たちは踊りはじめる。彼女たちは――他の誰よりも綺麗だ）
+Natsuka : (It's the night of the prom. The music begins, and we start dancing. The twins are the prettiest girls in the room.)
+夏夏 : （现在是后夜祭，音乐响起，我与她们翩翩起舞。她们的美貌——胜过我见过的任何人）
+
+夏夏
+夏夏 : （くるりくるりと回るわたしたち。幸せだ。とても幸せだ。わたしたちは、幸せの時間をすごしている）
+Natsuka : (We twirl round and round. Oh, how happy we are. We're having the happiest time of our lives.)
+夏夏 : （我们不断旋转。我们很幸福。非常幸福。我们正共度这无比幸福的时间）
+
+夏夏
+夏夏 : （こうして一緒に踊る時間、ときどき目が合う、触れあえる。そんな、大切な瞬間）
+Natsuka : (Sometimes our eyes meet and we touch each other. Every moment is so precious.)
+夏夏 : （我们起舞。时而对上目光，时而相互触碰。在这美妙的时光里）
+
+夏夏
+夏夏 : （ああ――ずっとこのまま、この時間がつづけばいいのに）
+Natsuka : (Ahh, I wish we could stay together in these moments forever.)
+夏夏 : （啊——要是这一刻，能一直持续下去就好了）
+
+夏夏
+夏夏 : （でもいつか音楽は終わり、ワルツの時間は終わってしまう）
+Natsuka : (But eventually, the music will stop, and the waltz will come to an end.)
+夏夏 : （但音乐终将停止，舞蹈也会结束）
+
+夏夏
+夏夏 : （でもわたしたちは約束する。また来年も、同じようにまた踊ろうと。その未来をわたしたちは疑いもしなかった）
+Natsuka : (Then, we make a promise to dance together again next year. None of us had any doubts about whether that future would really come or not.)
+夏夏 : （不过我们已经相互约定。明年再一起，在这里跳这支舞。我们不会怀疑，我们无法抵达这样的未来）
+
+夏夏
+夏夏 : （でも）
+Natsuka : (But...)
+夏夏 : （但是）
+
+夏夏
+夏夏 : （でも――）
+Natsuka : (But...!)
+夏夏 : （但是——）
+
+夏夏
+夏夏 : （だめだった）
+Natsuka : (It didn't come.)
+夏夏 : （我们不会抵达了）
+
+夏夏
+夏夏 : （もう二度と、あの時間は戻らない）
+Natsuka : (A moment like this never came again.)
+夏夏 : （这段时光一去不复还）
+
+夏夏
+夏夏 : （帰りたい。あの頃に帰りたい）
+Natsuka : (I want to go back... Back to that time...)
+夏夏 : （好想回去。想回到这一刻）
+
+夏夏
+夏夏 : （楽しかったあの頃に。わたしたちが笑っていられたあの頃に）
+Natsuka : (Back to that fun time, when we could still laugh together.)
+夏夏 : （好想回到开心的这一时光。回到我们还能笑出来的这一时光）
+
+夏夏
+夏夏 : （かみさま……かみさま、どうかお願いします）
+Natsuka : (God... God, please, I beg you...)
+夏夏 : （上帝啊……上帝，求求你）
+
+夏夏
+夏夏 : （私はどうなってもいいのです。ですから――どうか、彼女を）
+Natsuka : (I don't care what happens to me, but please... Please...)
+夏夏 : （我不计一切代价。所以请你——）
+
+夏夏
+夏夏 : （彼女を、助けて）
+Natsuka : (Save %i1her%id...)
+夏夏 : （救救她吧）
+
+夏夏
+夏夏 : 「――！！」
+Natsuka : "Ah...!!"
+夏夏 : "——！！"
+
+夏夏
+夏夏 : 「今、わたしが見たのは、三人の過去、そして……願い」
+Natsuka : "I just... saw the three girls' past, and... Yoshino-san's wish."
+夏夏 : "刚刚我所看到的，是三人的过去，以及……愿望"
+
+夏夏
+夏夏 : 「かみさまへの願いは叶わず、美彌子さんは逝ってしまった。そうして、真璃子さんも、善乃さんも、苦しんでいる」
+Natsuka : "Her wish didn't come true, and Miyako-san passed away. Mariko-san and Yoshino-san were left behind. They're suffering."
+夏夏 : "向上帝祈求的愿望未能被听取，美弥子小姐去世了。结果真璃子小姐和善乃小姐都非常痛苦"
+
+夏夏
+夏夏 : 「どこにもいけず、哀しみに囚われている。このままでは全てが壊れるとわかっていても、どうにもなれずにいる」
+Natsuka : "They can't move on. They're trapped by their grief. They know that they can't go on like this, but there's nothing they can do about it."
+夏夏 : "她们无处可去，被悲伤的锁链所囚禁。即使她们知道这样下去会毁掉一切，但无计可施"
+
+夏夏
+夏夏 : 「だから真璃子さんは、リルヤさんに絵を依頼した」
+Natsuka : "That's why Mariko-san requested Lilja-san's painting."
+夏夏 : "所以真璃子小姐，向丽露娅小姐发出了委托"
+
+リルヤ
+リルヤ : 「ミス真璃子は、ある夜、混乱し錯乱したミス善乃の譫言から、ひとつの事実を手に入れた。それは、妹であるミス美彌子の最後の願いだ」
+Lilja : "Miss Mariko gained one truth from Miss Yoshino's delirium that night—the last wish of her sister, Miss Miyako."
+丽露娅 : "真璃子女士在某一天晚上，从精神错乱的善乃女士的话中，得到了一个事实。那就是作为自己妹妹的美弥子女士最后的愿望"
+
+リルヤ
+リルヤ : 「ミス善乃は、死に瀕した妹から願いを託された」
+Lilja : "Miss Miyako entrusted Miss Yoshino with her last wish in her final moments."
+丽露娅 : "善乃女士从濒死的她那里，听取了这个愿望"
+
+リルヤ
+リルヤ : 「このまま妹である自分が死ねば、姉は自分の後を追いかねない。だから、どうか姉のために、妹になって生きて欲しいと――」
+Lilja : "If Miss Mariko lost her sister, she might try to follow... That's why Miss Miyako asked Miss Yoshino to %i1become%id her and take her place—for her sister's sake."
+丽露娅 : "要是身为妹妹的自己去世了，作为姐姐的真璃子女士估计会选择自杀。所以希望善乃女士为了自己的姐姐，以自己的身份活下去——"
+
+リルヤ
+リルヤ : 「自分の送迎車が引き起こした事故で逝ってしまったミス美彌子の最後の切なる願い、それを叶えようとしている幼なじみの悲壮な決意……」
+Lilja : "So, weighed down by guilt, because it was her family's driver that had caused the accident, Miss Yoshino made the brave but tragic decision to fulfill Miss Miyako's dying wish."
+丽露娅 : "在自己家安排的车辆中出了车祸，失去生命前美弥子女士所托付的最后的愿望，而为了实现这个愿望，自己的儿时玩伴作出了过于悲壮的觉悟……"
+
+リルヤ
+リルヤ : 「そして、幼なじみが常に抱いている、守らなくてはならなかった者を守れなかった自分への自責と、生き残ったことへの罪悪感……」
+Lilja : "She felt responsible for having failed to protect her dear childhood friend and guilty for having survived the accident herself."
+丽露娅 : "再加上这名儿时玩伴对未能保护好该保护的人所产生的自责，以及独活的罪恶感……"
+
+リルヤ
+リルヤ : 「それを知った上で、自分は大丈夫だから、妹としてではなく幼なじみとして生きて欲しいと、ミス真璃子はいえずにいる」
+Lilja : "Meanwhile, Miss Mariko, who is aware of Miss Yoshino's circumstances, is unable to tell Miss Yoshino that she's okay, and that she wants Miss Yoshino to live her own life again."
+丽露娅 : "知晓这一切的真璃子女士，希望儿时玩伴不是作为自己的妹妹，而是作为久住善乃活下去，自己没问题。但她并没有说出来"
+
+リルヤ
+リルヤ : 「それは、ミス善乃が何よりもひた隠しにしたかった秘密を、ミス真璃子が既に気づいていることを、知られてしまうからだ」
+Lilja : "If she did that, Miss Yoshino would realize that her biggest secret, the one she'd been desperately trying to hide, had already been found out."
+丽露娅 : "而那是因为，善乃女士已经察觉到，真璃子女士已经察觉到自己费尽心机想要保护的秘密本身了"
+
+リルヤ
+リルヤ : 「ミス善乃は、自分の責任でミス美彌子が死んでしまったと考えている。それは事実ではないが、ミス善乃にとっては真実だ」
+Lilja : "Miss Yoshino feels responsible for Miss Miyako's death. Of course, she's not responsible, but to Miss Yoshino, it's the truth."
+丽露娅 : "善乃女士把美弥子女士的死归结在自己身上。这不是事实，但对于她而言就是无可动摇的真实"
+
+リルヤ
+リルヤ : 「ミス真璃子が妹の死を知っているという事実は、追い詰められて張り詰めた幼なじみの心を壊してしまう決定打になりかねない」
+Lilja : "It might break Miss Yoshino's heart if she found out Miss Mariko already knows her sister is dead."
+丽露娅 : "要是让善乃女士知道，真璃子女士知道了自己妹妹的死，那她的内心很难不会被彻底击垮"
+
+リルヤ
+リルヤ : 「だが、このままミス善乃が手術をしてしまっても、ミス善乃の心はゆっくりとだが確実に壊れていくだろう」
+Lilja : "However, if Miss Yoshino went through with the surgery, surely it would slowly break her heart as well."
+丽露娅 : "不过，如果善乃女士就这样接受手术，那她的内心也终有一天会坏掉吧"
+
+リルヤ
+リルヤ : 「大切な妹を喪った上に、幼なじみを喪うことまではできない。しかし、真実を告げても破滅、告げなくても破滅しか見えない」
+Lilja : "Miss Mariko couldn't bear to lose her dear childhood friend %i1and%id her sister. It would break them both. The same would apply if Miss Mariko told Miss Yoshino the truth. Damned if you do, damned if you don't."
+丽露娅 : "已经失去妹妹的姐姐，不能再失去自己的儿时玩伴。但揭露真相会迎来毁灭，不揭露等待她们的也是破灭"
+
+リルヤ
+リルヤ : 「ミス真璃子は、完全に身動きが取れない状態に陥っていた」
+Lilja : "Miss Mariko is completely trapped. She can't do anything."
+丽露娅 : "真璃子女士，已经被彻底困住了"
+
+リルヤ
+リルヤ : 「――だからこそ、ミス真璃子は私の絵にすがったのだ。一縷の望みをかけて、まるで神に願うかのように」
+Lilja : "That's why she's clinging to the hope that my painting will change something. She's clinging on to that sliver of hope as if she's praying to God."
+丽露娅 : "——因此真璃子女士将目光投向了我的绘画。为了抓住唯一一根救命稻草，仿佛像对上帝祈求一般"
+
+夏夏
+夏夏 : 「神様に……」
+Natsuka : "Praying..."
+夏夏 : "向上帝……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「は～……」
+Natsuka : "Hahh..."
+夏夏 : "哈～……"
+
+夏夏
+夏夏 : 「神様ってほんとケチですよね」
+Natsuka : "God's really stingy, isn't he?"
+夏夏 : "上帝是真的很小气啊"
+
+リルヤ
+リルヤ : 『ケチ』
+Lilja : "Stingy?"
+丽露娅 : "小气"
+
+夏夏
+夏夏 : 「ケチですよ、もう！　だってどれだけお願いしても、本当に叶えて欲しいことって叶えてくれないじゃないですか」
+Natsuka : "He is! He never seems to grant people's dearest wishes, no matter how much they pray."
+夏夏 : "是小气啊，真的是！　因为不管怎么祈求，都不会实现真正想要实现的愿望吧"
+
+夏夏
+夏夏 : 「神様だったらわたしたちにできないこと叶えて欲しいんですよね！？　もうすごい勢いでガンガンと！　バンバンと！」
+Natsuka : "If he's really a god, he should be doing all sorts of amazing things we humans couldn't accomplish on our own! Use those superpowers already!"
+夏夏 : "如果是上帝，就该实现我们做不到的事情吧！？　而且还该狠狠地实现！"
+
+夏夏
+夏夏 : 「でも、神様ってきっとそういう存在じゃないんですよね……は～」
+Natsuka : "But... That's not what God is all about, is it? Hahh..."
+夏夏 : "但是，上帝肯定不是这样的吧……唉～"
+
+夏夏
+夏夏 : 「だから、神様ってめっちゃいじわるだと思います。でも神様だって、そんなこと言われても困るって考えているかもしれないですよね」
+Natsuka : "I think God's a big bully. Maybe God doesn't like it when I think that, but... Y'know?"
+夏夏 : "所以，在我看来上帝是真的坏心眼。但是在上帝看来，被我这么说也会很头疼吧"
+
+夏夏
+夏夏 : 「そもそも神様、存在してないし！　いやどうなんでしょう？」
+Natsuka : "God doesn't even really exist! Or does he...?"
+夏夏 : "而且上帝也不存在吧！　等等，到底如何呢？"
+
+夏夏
+夏夏 : 「日本人ってすぐに神様いないとかいいますけど自分の手ではどうにもならないことに対して何かよくわかんないけどそのへんにいるはずのすごいものに助けてくださいって祈る気持ちは持ってるんですよ！！」
+Natsuka : "Japanese people are quick to say there's no gods, but whenever they're faced with something beyond their control, they immediately start praying for help from these supernatural creatures that may or may not even exist!"
+夏夏 : "日本人经常把不存在神明挂在嘴边但面对自己无可奈何的事情总会把希望寄托于周围存在的超自然力量来祈求获得帮助吧！"
+
+夏夏
+夏夏 : 「結局、自分の願いを叶えるのは自分なんですよね？　でも、自分だけではどうにもならないことだっていっぱいあるんです！！」
+Natsuka : "In the end, maybe the only one who can make your wishes come true is yourself! But there's lots of things you can't do anything about by yourself!!"
+夏夏 : "说到底，能实现自己愿望的还是自己吧？　但是光靠自己办不到的事情也有很多！！"
+
+夏夏
+夏夏 : 「だから真璃子さんは助けて欲しいって、リルヤさんに依頼のメールを出した」
+Natsuka : "That's why Mariko-san sent you that email, because she was reaching out for help."
+夏夏 : "所以真璃子小姐为了求助，向丽露娅小姐发出了委托"
+
+夏夏
+夏夏 : 「死者の名前を騙ってでも、リルヤさんに興味を引いてもらえるように頑張った」
+Natsuka : "She was so desperate to catch your attention that she even signed the name of someone who was supposed to be dead."
+夏夏 : "哪怕利用了死者的名义，也努力吸引丽露娅小姐的兴趣"
+
+夏夏
+夏夏 : 「それは、大切な幼なじみの心を守るためです」
+Natsuka : "But she did it to protect the heart of her dear childhood friend."
+夏夏 : "而这一切，都是为了保护珍重的儿时玩伴的内心"
+
+夏夏
+夏夏 : 「遠くにいってしまった妹は戻らないけれど……でも目の前で苦しんでいる幼なじみを救いたいって、願ったからなんです」
+Natsuka : "There's no way to get her sister back... But her childhood friend is still here, so she wishes for nothing more than saving her."
+夏夏 : "尽管妹妹去了远方再也回不来了……但她还是许愿，想要拯救面前痛苦的儿时玩伴"
+
+夏夏
+夏夏 : 「……神様は願いを叶えてくれない。過去には戻れない」
+Natsuka : "'God won't grant her wish, and she can't go back to the past...'"
+夏夏 : "……上帝不会实现愿望。人也回不到过去"
+
+夏夏
+夏夏 : 「過去を振りかえっても、立ち止まってもしかたないとか聞きますけど、立ち止まっちゃうことって、ってそんなに悪いことなんでしょうか？」
+Natsuka : "You often hear that it's pointless to keep dwelling on the past, but is it really such a bad thing?"
+夏夏 : "听说回顾过去，驻足不前毫无意义，但驻足不前真的有这么恶劣吗？"
+
+夏夏
+夏夏 : 「わたしにはどうしてもそうは思えないんです」
+Natsuka : "I don't see it that way."
+夏夏 : "我无法苟同"
+
+夏夏
+夏夏 : 「走れない……動けない……そんなときは、思い切り立ち止まればいいんです。戻りたい過去に、ずっと立ち止まっていればいいんです」
+Natsuka : "If you can't run... If you can't move at all, it's okay to stop and do nothing. It's okay to keep living in the past if you want that moment to continue forever."
+夏夏 : "跑不了了……动弹不得……在这种时候，驻足不前又有什么不好。在希望回到的过去中，驻足不前也挺好的"
+
+夏夏
+夏夏 : 「でもそのときは、過去に逃げ込む自分を責めるんじゃなくて、そんな自分たちを許して欲しいんです」
+Natsuka : "I don't want people to hate themselves for wanting to escape to a better time. I want them to cut themselves some slack."
+夏夏 : "但这时候，不要责备逃避到过去的自己，而是该原谅那个自己"
+
+夏夏
+夏夏 : 「楽しかったあの頃を、ねえあの頃は楽しかったね……って、懐かしく、愛おしく、思って欲しいんです！」
+Natsuka : "I want them to think back fondly to the fun times they've had with nostalgia and love!"
+夏夏 : "面对那开心的过去，像老朋友一样怀念，珍惜，回忆起来！"
+
+夏夏
+夏夏 : 「もちろん、立ち向かうときには立ち向かう必要があります。逃げたければ逃げればいいです」
+Natsuka : "Of course, sometimes you have to stand up and fight. But if you want to run away, it's okay to do that, too."
+夏夏 : "当然，该面对现实就直面它。想逃避它就逃避开"
+
+夏夏
+夏夏 : 「きっと、いろんな人がいるんです。逃げるひと、歩き出すひと、立ち向かうひと、過去の楽しかったことを思い出して生きていくひと……」
+Natsuka : "There's all sorts of people in the world—people who run away, people who move on, people who fight, people who fondly look back to the past as they keep living..."
+夏夏 : "而这里面，肯定有很多选择了不同选项的人。有选择逃避的人，有选择向前的人，有直面现实的人，也有在甘美的回忆中生活的人……"
+
+夏夏
+夏夏 : 「いていいんです。当たり前です。だってみんな違う人間なんですから。だから、色々な方法があっていいはずなんです」
+Natsuka : "And that's okay. Everyone's different, so of course they act different, too. There are just as many ways of coping as there are people in the world."
+夏夏 : "肯定是有的。这是理所当然的。因为大家都不一样。所以有无数种方法也是应该的"
+
+夏夏
+夏夏 : 「だとしたらわたしは、善乃さんの願いを叶えたい。帰りたいっていっていた、善乃さんの想いを」
+Natsuka : "That's why I want to fulfill Yoshino-san's wish. She said she wanted to go back."
+夏夏 : "如果是这样，那我想实现善乃小姐的愿望。想实现善乃小姐她那希望回到过去的愿望"
+
+夏夏
+夏夏 : 「真璃子さんと善乃さん、そして美彌子さんに、三人で踊って欲しい。そしてふたりには、踊っていた頃を思い出して欲しいんです」
+Natsuka : "I want Mariko-san and Yoshino-san to dance together with Miyako-san, and I want the two of them to remember those fun times."
+夏夏 : "我想让真璃子小姐与善乃小姐，以及美弥子小姐三人一同起舞。同时也希望，能让她们两人回想起跳舞时那份心情"
+
+夏夏
+夏夏 : 「ふたりが過去を振りかえったとき、ただただ哀しむだけじゃなくて、あの頃のように心から楽しいって思えたら、そうしたら……」
+Natsuka : "When they look back, I hope they'll feel more than sadness—I want them to be as happy as they were back then..."
+夏夏 : "要是两人回顾过去，发现不只是悲伤，而是像过去那样内心充满欢愉，这样的话……"
+
+夏夏
+夏夏 : 「美彌子さんを、過去から連れ出せるはずなんです」
+Natsuka : "I think that's how we can stop Miyako-san from becoming a part of the past forever."
+夏夏 : "就能把美弥子小姐，从回忆里带出来"
+
+夏夏
+夏夏 : 「美彌子さんはふたりのなかでずっと生きてくれるはずなんです」
+Natsuka : "Miyako-san will live on forever inside of the other girls' hearts."
+夏夏 : "美弥子小姐肯定是活在她们两人里面的"
+
+夏夏
+夏夏 : 「あの頃だけじゃない。この先も、三人で踊ることができるんです」
+Natsuka : "Then they'll be able to dance together, the three of them, in the future as well."
+夏夏 : "不光是那一刻。从此以后，三人也能一同起舞"
+
+夏夏
+夏夏 : 「どんな景色だって、一緒に見られるはずなんです。春の桜も、夏の花火も、秋の紅葉も、冬のイルミネーションだって」
+Natsuka : "They'll be able to see everything together, from the cherry blossoms in spring and the fireworks in summer, to the foliage in fall and the illuminations in winter."
+夏夏 : "不管是怎样的景色，都能三人一起欣赏。春天的樱花也好，夏天的烟花也好，秋天的红叶也好，冬天的霓虹也好"
+
+夏夏
+夏夏 : 「だからリルヤさん、あの頃の三人を描いてください。善乃さんの帰りたい場所を描いてください」
+Natsuka : "Please, Lilja-san, I want you to paint the three girls as they were back then. Please paint the place that Yoshino-san wants to go back to."
+夏夏 : "所以丽露娅小姐，请你画出那时候的三人吧。画出善乃小姐想回到的那里"
+
+夏夏
+夏夏 : 「わたしが見たい、いいえ、わたしが見た世界、わたしに見えた『わたしたち』の絵はこれです」
+Natsuka : "I want to see it... No, I've already seen it. I want you to 'paint us' in the world that I saw."
+夏夏 : "我想看到的，不对，我所看到的世界，我所看到的‘我们’的画就是这样"
+
+夏夏
+夏夏 : 「神様は願いを叶えてくれないけれど、過去には戻れないけれど、でもリルヤさんがいます」
+Natsuka : "God won't grant their wishes, and they can't go back to the past, but... you're here for them, Lilja-san."
+夏夏 : "就算上帝不曾实现人的愿望，就算无法回到过去，但还有丽露娅小姐在"
+
+夏夏
+夏夏 : 「帰りたいあの頃へ戻れるたったひとつのやり方を、リルヤさんはその手にもっているんです」
+Natsuka : "You hold the key to the past—a way for the girls to return to those fun times."
+夏夏 : "在丽露娅小姐的手中，有着能让她们回到那一刻的，唯一一把钥匙"
+
+夏夏
+夏夏 : 「絵を見ることでわたしたちは、絶対に戻れない場所へ戻れる。絶対にいけない場所にたどり着けるんです」
+Natsuka : "By looking at a painting, it's possible to go back to a place you otherwise can't return to. You can make the impossible possible."
+夏夏 : "而看到画的我们，肯定能回到已经回不到的那一刻。肯定能抵达已经无法到达的那个地方"
+
+リルヤ
+リルヤ : 『私に、神になれと？』
+Lilja : "You want me to become God?"
+丽露娅 : "你是想让我成为上帝吗？"
+
+夏夏
+夏夏 : 「リルヤさんは人間ですよ？　だからこそ、神様には叶えることができない願いを叶えられるんです」
+Natsuka : "No, Lilja-san, you're human. That's why you're able to grant the wishes God can't."
+夏夏 : "丽露娅小姐只是人类哦？　但正因为如此，才能实现上帝所无法实现的愿望"
+
+リルヤ
+リルヤ : 『そうだな。私との取引は、神に願うよりも効率的だ』
+Lilja : "You're right that it's definitely more efficient to make a deal with me than it is to pray to God."
+丽露娅 : "没错。与我的交易，可比向上帝祈求要更有效率"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "是的！"
+
+夏夏
+夏夏 : 「このままじゃ永遠に喪われたままになってしまうんです。美彌子さんも、善乃さんも喪われてしまう」
+Natsuka : "If we don't do anything, the past will be lost forever, as will Miyako-san and Yoshino-san."
+夏夏 : "这样下去，她们就会永远失去一切。美弥子小姐也好，善乃小姐亦然"
+
+夏夏
+夏夏 : 「だって、誰も他の人の代わりにはなれないから。代わりなんてできないんです」
+Natsuka : "Nobody can be replaced. Nobody can replace another person."
+夏夏 : "因为没有人能代替另一个人。是没法代替的"
+
+夏夏
+夏夏 : 「だから取り戻さないといけないんです！　善乃さんから善乃さんを取り戻さないといけないんです！」
+Natsuka : "That's why we have to bring Yoshino-san back... Bring her back to her real self!"
+夏夏 : "我们必须夺回来！　从善乃小姐那里，把善乃小姐夺回来！"
+
+リルヤ
+リルヤ : 「いいだろう」
+Lilja : "All right."
+丽露娅 : "好吧"
+
+リルヤ
+リルヤ : 「我が鳩は、橄欖の葉を携えり！　あとは――私の仕事だ」
+Lilja : "My little dove has brought me an olive leaf! It's now my turn to take care of the rest."
+丽露娅 : "我的白鸽，已将橄榄叶衔回！　剩下的——就是我的工作了"
+

@@ -1,0 +1,940 @@
+リルヤ
+リルヤ : 「……なんて顔をしてるんだ」
+Lilja : "...That's quite the face."
+丽露娅 : "……你这是什么表情"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「見たんだな」
+Lilja : "You saw them, didn't you?"
+丽露娅 : "你看到了吗"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「そうか」
+Lilja : "Right."
+丽露娅 : "这样啊"
+
+リルヤ
+リルヤ : 「あの頃の私の絵は、完璧だっただろう？」
+Lilja : "My paintings back then were perfect, weren't they?"
+丽露娅 : "我那个时候的画，很完美吧?"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「これまで見たことのない絵でした……あんな絵が、この世界に存在するなんて……って。あんな……あんな絵を……」
+Natsuka : "I've never seen paintings like that before... I never knew such beautiful paintings could even exist... They were so... To think that..."
+夏夏 : "我至今为止都没见过那样的画……真没想到，那样的画会存在于世上。画出……画出那些画的……"
+
+夏夏
+夏夏 : （あんな絵を、描いていたリルヤさんが……）
+Natsuka : (To think that Lilja-san was the one who painted them...)
+夏夏 : （画出这些画的丽露娅小姐……）
+
+夏夏
+夏夏 : （今は――）
+Natsuka : (But now...)
+夏夏 : （现在却——）
+
+リルヤ
+リルヤ : 「……ふ」
+Lilja : "...Heh."
+丽露娅 : "……呵"
+
+リルヤ
+リルヤ : 「そうだ。あんな絵を描いていた私が、今は白い牢獄に囚われている」
+Lilja : "That's right. I painted those pictures. And now I'm trapped in a prison of white."
+丽露娅 : "是啊。画出那些画的我，现在却被囚禁在白色的监狱之中"
+
+リルヤ
+リルヤ : 「お前は、かつての私の絵を見ることで、今の私の絶望を見たのだろう？　あんな絵が描けていた人が、今は何も見えないなんて――と」
+Lilja : "Seeing those paintings must have made you see the anguish of my present state. How terrible it is that someone who could paint such incredible pictures now has no sight."
+丽露娅 : "你在看到了我曾经的画后，也能感受到我现在的绝望了吧？曾经画出那样的画的人，现在却什么也看不见"
+
+リルヤ
+リルヤ : 「その憐憫こそが、私がこの地で独り生きることを選んだ理由だった」
+Lilja : "The pity you're feeling right now is exactly why I decided to come live all the way over here by myself."
+丽露娅 : "正因为会有这样的怜悯，我才选择了一个人在这里生活"
+
+夏夏
+夏夏 : 「――！」
+Natsuka : "Oh!"
+夏夏 : "——！"
+
+リルヤ
+リルヤ : 「いい。別にいい。お前だけじゃない。誰もがそう思う」
+Lilja : "It's fine. I don't care. You're not the only one. Everyone feels the same way."
+丽露娅 : "没事。无所谓的。不只有你会这样。谁都会这样想的"
+
+リルヤ
+リルヤ : 「私のかつての絵を見て、そう思わないことなど不可能なのだ。だからいい。私がそれを――お前に私の絵を見せることを、選んだのだから」
+Lilja : "It'd be impossible not to feel that way after seeing my old paintings. So it's fine. I was the one who decided to let you see them."
+丽露娅 : "看到了我曾经的那些画，不这样想是不可能的。所以没关系的。毕竟是我选择了让你看我的画的"
+
+リルヤ
+リルヤ : 「かつての私は、神から預かった目で世界を見ていた」
+Lilja : "Back then, I saw the world through eyes bestowed on me by God."
+丽露娅 : "曾经的我，用上帝寄存在我身上的眼睛观察这个世界"
+
+リルヤ
+リルヤ : 「世界は美しかった。あまりに世界が美しいから、私は私という認識のフィルタを通す必要すらなかった」
+Lilja : "The world was so beautiful. It was so beautiful, I didn't think it had to be filtered through my perception of it."
+丽露娅 : "世界很美丽。实在是太美丽了，所以甚至不需要通过我自己的认知这一滤镜去观察"
+
+リルヤ
+リルヤ : 「私の絵を見る前、誰もがそんなことは不可能だといった。だが、私はそれができていると知っていた」
+Lilja : "Most believed that was impossible until they saw my paintings. But I knew I could do it."
+丽露娅 : "在看到我的画之前，谁都觉得这是不可能的。但是，我知道我能做得到"
+
+リルヤ
+リルヤ : 「何よりも私の描く絵がその証左となった。不可能だという人間も、私の絵を見たあとは沈黙した」
+Lilja : "My paintings were proof of that. Even those who declared it impossible were silenced the moment they laid eyes on my paintings."
+丽露娅 : "因为我的画即是证据。那些说着不可能的人，在看到我的画后都沉默了"
+
+リルヤ
+リルヤ : 「人間に不可能なことができるのはなぜだ？　私は自問自答し、きっとこの目は、神のものなのだろうと結論づけた」
+Lilja : "How could a mere human do the impossible? Thinking long and hard on it, I came to the conclusion that my eyes must have been the eyes of God."
+丽露娅 : "为什么我能够做到别人所认为的不可能的事情？　我向自己发问，得出了我的眼睛属于上帝的结论"
+
+夏夏
+夏夏 : 「神様からのギフト……」
+Natsuka : "As in... a gift from God."
+夏夏 : "上帝的恩赐……"
+
+リルヤ
+リルヤ : 「かつて、絵における私の世界はシンプルだった。世界における真実が、常にシンプルなように」
+Lilja : "In the past, the world in my paintings was always so simple. The way all simple facts in this world are."
+丽露娅 : "曾经，我的绘画世界非常单纯。世界的真相总是如此简单"
+
+リルヤ
+リルヤ : 「見たままの世界を、ただカンヴァスに写し取るだけでよかった」
+Lilja : "All I had to do was take the world I saw and copy it onto my canvas."
+丽露娅 : "只需要把我所看到的世界画在画布上就好了"
+
+リルヤ
+リルヤ : 「だから――私は」
+Lilja : "And that's why..."
+丽露娅 : "所以我——"
+
+リルヤ
+リルヤ : 「人としての魂の目を開く必要もなかった」
+Lilja : "I never had to awaken the eyes of my soul."
+丽露娅 : "没有必要打开作为人的灵魂的眼睛"
+
+リルヤ
+リルヤ : 「今は、ただ白い闇の中にいる」
+Lilja : "Now, I'm living in a world of pure white."
+丽露娅 : "现在，我处在纯白的黑暗中"
+
+リルヤ
+リルヤ : 「荒廃した白い世界。白い闇……何も見えない、何も感じない」
+Lilja : "A wasted world of white. A white nothingness. A place where I can see nothing and feel nothing."
+丽露娅 : "荒芜的白色世界。纯白的黑暗……什么也看不见，什么也感受不到"
+
+リルヤ
+リルヤ : 「何の色もない」
+Lilja : "There is no color."
+丽露娅 : "什么颜色都没有"
+
+リルヤ
+リルヤ : 「そんな世界の中で私はただ、息をしているだけだった」
+Lilja : "And in this vast emptiness, the most I could do is breathe."
+丽露娅 : "在这样的世界中，我仅仅只是在呼吸而已"
+
+リルヤ
+リルヤ : 「息をして、食べて、眠る」
+Lilja : "I'd breathe. I'd eat. I'd sleep."
+丽露娅 : "呼吸，进食，睡眠"
+
+リルヤ
+リルヤ : 「また起きて、息をして、食べて、眠る」
+Lilja : "Then I'd awaken, breathe, eat, and sleep."
+丽露娅 : "然后醒来，呼吸，进食，睡眠"
+
+リルヤ
+リルヤ : 「ただそれだけの日々」
+Lilja : "It was like that every day on repeat."
+丽露娅 : "不断重复这样的日子"
+
+リルヤ
+リルヤ : 「そんな日々を送るであろう私を、私を愛するゆえに哀れむ者たちから守るため、私の尊厳を守るために、この暮らしを選んだ」
+Lilja : "If this was the path my life would take, I chose to live like this to spare me from the pity of the people who loved me. To protect my own dignity."
+丽露娅 : "为了守护过着这样的生活的我，以及因为爱着我而感到哀伤的人们，为了守护我的尊严，我选择了现在的生活"
+
+リルヤ
+リルヤ : 「そうしてこの部屋で、ただ息をしているだけの、生きていても死んでいても変わらない暮らしをはじめた」
+Lilja : "I started living here in this house, doing nothing more than surviving. It would have been all the same whether I was alive or dead."
+丽露娅 : "于是我开始在这个房间里过上了只是呼吸着，是死是活都没有区别的生活"
+
+リルヤ
+リルヤ : 「結論は最初から出ていた」
+Lilja : "Logically, my answer had already been laid out for me."
+丽露娅 : "我最开始就已经得到结论了"
+
+リルヤ
+リルヤ : 「生きていても死んでいても変わらない日々ならば、合理的に考えて、死んでも同じだろう」
+Lilja : "If it didn't matter whether I was alive or dead, then death would have been the most rational choice."
+丽露娅 : "既然每一天是死是活都没有区别，合理思考的话，和死了没有什么区别"
+
+リルヤ
+リルヤ : 「――だが、私には約束があった。祖母との約束が」
+Lilja : "But I had a promise to fulfill. The promise I made with my grandmother."
+丽露娅 : "——但是，我还有一个约定。还有一个跟外婆的约定"
+
+リルヤ
+リルヤ : 「祖母が死ぬ前に私に託した約束が、今の私を生かしている」
+Lilja : "That promise my grandmother left me is what has kept me alive."
+丽露娅 : "外婆在死前托付给我的约定，让现在的我活了下去"
+
+リルヤ
+リルヤ : 「約束を叶えたら、死ぬつもりだった」
+Lilja : "And once that promise was fulfilled, I planned to die."
+丽露娅 : "原本决定当这个约定实现后，我就去赴死"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「なのに……」
+Lilja : "However..."
+丽露娅 : "但是……"
+
+リルヤ
+リルヤ : 「不思議だな……」
+Lilja : "It's so strange..."
+丽露娅 : "真不可思议啊……"
+
+リルヤ
+リルヤ : 「お前が私の前に現れて……」
+Lilja : "Once you showed up..."
+丽露娅 : "你出现在了我的面前……"
+
+リルヤ
+リルヤ : 「気づいたら、そんな風に考える時間も減っていた」
+Lilja : "Before I even knew it, I rarely even thought about dying."
+丽露娅 : "当我回过神来时，思考这些事情的时间也减少了很多"
+
+リルヤ
+リルヤ : 「今も、生きる理由など、どこにもないのに」
+Lilja : "Even though I still have no real reason to live."
+丽露娅 : "明明我现在，也没有活下去的理由"
+
+夏夏
+夏夏 : 「リルヤさん……」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐……"
+
+夏夏
+夏夏 : 「リルヤさん、手を握っていいですか？」
+Natsuka : "Lilja-san, may I hold your hand?"
+夏夏 : "丽露娅小姐，我可以握住您的手吗？"
+
+リルヤ
+リルヤ : 「……ああ」
+Lilja : "...Yes."
+丽露娅 : "……嗯"
+
+夏夏
+夏夏 : 「リルヤさん、手におでこをつけていいですか？」
+Natsuka : "Do you mind if I put it against my forehead, Lilja-san?"
+夏夏 : "丽露娅小姐，可以把手放在额头上吗？"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Go ahead."
+丽露娅 : "嗯"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （リルヤさんの手、冷たい。冷たいけど、でも、生きている）
+Natsuka : (Lilja-san's hand is so cold. Yet, you can still feel life within her.)
+夏夏 : （丽露娅小姐的手，好冷。虽然很冷，却是活生生的）
+
+夏夏
+夏夏 : （生きていてくれている。リルヤさんは、今、ここにいる）
+Natsuka : (She's staying alive. Lilja-san is here, right now.)
+夏夏 : （她活着。丽露娅小姐，现在就这里）
+
+夏夏
+夏夏 : （リルヤさんありがとう。生きてくれてありがとうございます。お祖母様のために、生きることを選んでくれてありがとうございます）
+Natsuka : (Thank you, Lilja-san. Thank you for being alive. Thank you for choosing to live for your grandmother's sake.)
+夏夏 : （谢谢您丽露娅小姐。谢谢您活着。谢谢您为了外婆选择了活下去）
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : （リルヤさん、リルヤさん……）
+Natsuka : (Lilja-san... Lilja-san...)
+夏夏 : （丽露娅小姐、丽露娅小姐……）
+
+夏夏
+夏夏 : （リルヤさんがいる世界は……お姉ちゃんが死んだあとのわたし……あの頃のわたし……わたしは……）
+Natsuka : (The world Lilja-san's in right now... And the one I was in after my sister passed... Back then, I... I...)
+夏夏 : （丽露娅小姐所处的世界……跟姐姐死后的我……那个时候的我……我……）
+
+夏夏
+夏夏 : 「どうして生きなくちゃいけないのか、わからない」
+Natsuka : "I don't know why I have to keep on living."
+夏夏 : "我不知道人为什么一定要活着"
+
+夏夏
+夏夏 : 「お姉ちゃんが死んだあと、お姉ちゃんのため以外に、生きる理由がわからない……」
+Natsuka : "After my sister died, I didn't have any reason to live. I'd been living for her."
+夏夏 : "姐姐死后，我不知道除了姐姐以外的活着的理由……"
+
+夏夏
+夏夏 : 「でも約束があったから、わたしも……生きた」
+Natsuka : "The only reason I kept living was because of a promise I made to her."
+夏夏 : "但是因为有着约定，所以我也……活下来了"
+
+夏夏
+夏夏 : 「そんなわたしに、この世界で生きなくちゃいけない理由なんていえない……いえないんです」
+Natsuka : "I can't say exactly why someone like me %i1has%id to live in this world... I really can't."
+夏夏 : "这样的我，说不清楚人为什么一定要在这个世界上活着……我说不清"
+
+夏夏
+夏夏 : 「でも、わたし、ひとつだけわかったんです」
+Natsuka : "But there's one thing I know now."
+夏夏 : "但是，只有一件事我是明白的"
+
+夏夏
+夏夏 : 「リルヤさんに、生きてほしいって」
+Natsuka : "It's that I want you to live, Lilja-san."
+夏夏 : "我希望丽露娅小姐活下去"
+
+リルヤ
+リルヤ : 「なぜだ？」
+Lilja : "And why is that?"
+丽露娅 : "为什么？"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「わからないけど……わからないけど……」
+Natsuka : "I can't know for certain... I can't."
+夏夏 : "我不知道……虽然我不知道……"
+
+夏夏
+夏夏 : 「でも……」
+Natsuka : "But..."
+夏夏 : "但是……"
+
+夏夏
+夏夏 : 「リルヤさんは本当は生きたいから」
+Natsuka : "It's because deep down inside, you really %i1want%id to live."
+夏夏 : "因为丽露娅小姐其实是很想活下去的"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+夏夏
+夏夏 : 「お祖母様の約束だけじゃなくて」
+Natsuka : "It's not just because you made that promise to your grandmother."
+夏夏 : "不仅仅是为了跟外婆的约定"
+
+夏夏
+夏夏 : 「もう一度、絵を描きたいと思っているから」
+Natsuka : "It's because you want to paint again."
+夏夏 : "我希望您，再一次拿起画笔画画"
+
+夏夏
+夏夏 : 「わかんないけど、そう思うんです」
+Natsuka : "I don't %i1know%id that, but I can %i1feel%id it."
+夏夏 : "不知道为什么，但我就是这样想的"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+夏夏
+夏夏 : 「でも、リルヤさんが生きていても死んでいても同じだっていう言葉も、本当で……」
+Natsuka : "But you meant it when you said it would be the same whether you were alive or dead..."
+夏夏 : "不过，丽露娅小姐说的自己是死是活都没有区别的那些话，也都是实话……"
+
+夏夏
+夏夏 : 「それに、これは、わたしのわがままでもあるんです」
+Natsuka : "And I know part of this is me being selfish."
+夏夏 : "而且，这也算是我的任性的地方"
+
+夏夏
+夏夏 : 「わたしのなかにわたしが生まれたから、わたしはわがままを抱くようになっちゃったんです」
+Natsuka : "I think this selfishness developed inside me once I started being my own person."
+夏夏 : "我诞生于我的自我之中，所以我也变得任性了"
+
+夏夏
+夏夏 : 「お姉ちゃんがこの世界からいなくなったときには、お姉ちゃんが望んだことだから……って思ったのに」
+Natsuka : "When my sister left this world, I thought it was okay because it was what she wanted..."
+夏夏 : "我在姐姐离开这个世界的时候，还以为这些都是姐姐所希望的……"
+
+夏夏
+夏夏 : 「お姉ちゃんに関しては今でも変わらずそう思うのに……なのに……リルヤさんには生きて欲しいんです」
+Natsuka : "I'm pretty sure I still feel that way about my sister... But with you... I want %i1you%id to live, Lilja-san."
+夏夏 : "关于姐姐的事现在我也保持相同的想法……但……但我还是希望丽露娅小姐活下去"
+
+夏夏
+夏夏 : 「あなたに、ただ、あなたに……」
+Natsuka : "All I want... More than anything..."
+夏夏 : "只有你，只有你……"
+
+夏夏
+夏夏 : 「生きて……ほしい、ん、です……っ……」
+Natsuka : "Is... for you... to live..."
+夏夏 : "我只想要……你……活下去……"
+
+夏夏
+夏夏 : 「……っ」
+Natsuka : "..."
+夏夏 : "……"
+
+リルヤ
+リルヤ : 「……夏夏」
+Lilja : "...Natsuka."
+丽露娅 : "……夏夏"
+
+リルヤ
+リルヤ : 「夏夏、泣くな」
+Lilja : "Natsuka, don't cry."
+丽露娅 : "夏夏，别哭了"
+
+夏夏
+夏夏 : 「泣いてないです。かなしいのは、リルヤさんだから」
+Natsuka : "I'm not crying. You're hurting worse than I am."
+夏夏 : "我没哭。因为伤心的是丽露娅小姐才对"
+
+リルヤ
+リルヤ : 「かつて、お前には神様と混沌しかなかったのだろう」
+Lilja : "I believe, in the past, all that existed in your world was your god and chaos."
+丽露娅 : "曾经，对你而言只有上帝和混沌"
+
+リルヤ
+リルヤ : 「お前は、神の抱きしめる卵という楽園のなかで生きていた」
+Lilja : "You lived in your god's embrace, in an egg called paradise."
+丽露娅 : "你曾在上帝所怀抱的蛋中乐园里生活着"
+
+リルヤ
+リルヤ : 「卵の中のお前は、神様と自我を切り分ける言葉を必要としない」
+Lilja : "Within that egg, you had no need to differentiate between you and your god."
+丽露娅 : "在蛋中的你，并不需要话语来区分上帝和自我"
+
+リルヤ
+リルヤ : 「昨日も、今日も、明日も、切り分ける必要のない世界で、動物にも似た混沌の日々を送っていたのだろう」
+Lilja : "You had no need to differentiate between concepts like yesterday, today, or tomorrow. You lived a structureless existence, akin to the animals."
+丽露娅 : "你就是在这样一个不需要区分昨天、今天和明天的世界中，像动物一样度过了混沌的每一天吧"
+
+リルヤ
+リルヤ : （――そしてその楽園は、地獄という名を持つだろう）
+Lilja : (...Though that paradise could also be called hell itself.)
+丽露娅 : （——而这个乐园的名字，应该叫做“地狱”吧）
+
+リルヤ
+リルヤ : （お前が抱く混沌を、無垢と呼ぶ人間もいるだろう）
+Lilja : (There are some who might call that structureless life "untainted.")
+丽露娅 : （也许有人会把你所怀抱的混沌，称作天真吧）
+
+リルヤ
+リルヤ : （だが私はその混沌を無垢とは決して呼ぶまい）
+Lilja : (But I would never. Under any circumstances.)
+丽露娅 : （但我绝不会把这种混沌称为天真）
+
+リルヤ
+リルヤ : 「お前は、紛れもなく幸せだったのだろう。だが神は死に、お前は楽園から出た」
+Lilja : "I can imagine how blessed you must have felt. But when your god died, you were thrust out of paradise."
+丽露娅 : "毫无疑问你当时肯定很幸福吧。所以上帝死了，而你从乐园中出来了"
+
+リルヤ
+リルヤ : 「何もわからないまま、混沌の内面のまま、この世界をさまよっていた」
+Lilja : "Without knowing why, without any structure, you were forced to wander this world."
+丽露娅 : "一无所知地，还跟在混沌中一样，而世界却颠覆了"
+
+リルヤ
+リルヤ : 「そして私という存在に出会った。お前の神に良く似た存在を。だが、お前は私を神の代替物にしなかった」
+Lilja : "And then you met me. And I resembled your god so very closely. But you wouldn't use me to replace the god you once knew."
+丽露娅 : "然后你遇到了我。跟你的上帝非常相似的这一存在，但你却没有把我当做上帝的替代。"
+
+リルヤ
+リルヤ : 「お前は私を人間として扱った。それは何故だ？」
+Lilja : "You treated me as a human. Why is that?"
+丽露娅 : "而是把我当做人来看待。这是为什么呢？"
+
+夏夏
+夏夏 : 「それは……」
+Natsuka : "It's..."
+夏夏 : "那是……"
+
+夏夏
+夏夏 : 「それは、リルヤさんがはじめてわたしを人間として扱ってくれたから。だから、リルヤさんは、ずっとリルヤさんなんです」
+Natsuka : "It's because you were the first person to ever treat %i1me%id as a human being. So you'll always just be plain Lilja-san to me."
+夏夏 : "那是因为，丽露娅小姐是第一个把我当做人来看待的人。所以，丽露娅小姐，才一直都是丽露娅小姐"
+
+夏夏
+夏夏 : 「でも……ときどき、お姉ちゃんを重ねてしまっていますね」
+Natsuka : "But... Sometimes, I do compare you to my sister."
+夏夏 : "但是……有的时候，还是会和姐姐重叠在一起"
+
+夏夏
+夏夏 : 「リルヤさんとお姉ちゃんは全然違うのに、すみません」
+Natsuka : "Even though you're nothing alike. I'm so sorry."
+夏夏 : "明明丽露娅小姐跟姐姐是完全不同的人，对不起"
+
+リルヤ
+リルヤ : 「かまわない」
+Lilja : "I don't mind."
+丽露娅 : "没事"
+
+リルヤ
+リルヤ : 「むしろそれを素直に言えるなら、問題はない」
+Lilja : "In fact, I'd say you being able to honestly voice those thoughts is proof there's no problem."
+丽露娅 : "不如说既然你能坦率地说出来，就没有问题"
+
+夏夏
+夏夏 : 「そうなんですか？」
+Natsuka : "You really think so?"
+夏夏 : "是这样的吗？"
+
+リルヤ
+リルヤ : 「そうだ」
+Lilja : "I do."
+丽露娅 : "是的"
+
+リルヤ
+リルヤ : 「いつでも人生で出会った最初の傷が、不完全なイデアとして心に留まる」
+Lilja : "The first pain one experiences in life will always remain in their heart as an imperfect Form."
+丽露娅 : "人生所遇到的第一个伤痕，总会作为不完整的理念留在心中"
+
+リルヤ
+リルヤ : 「イデアは全きものである以上、この言葉はあらかじめ自己矛盾を内包する。故に、人そのものだ」
+Lilja : "Ideas and Forms are meant to be perfect, so that is in and of itself a contradiction. Humans are the same way."
+丽露娅 : "而理念应是完整的存在，这句话在说出来之前就已经包含了矛盾。因此，这正是人本身"
+
+リルヤ
+リルヤ : 「人は最初に出会った原風景たる不完全なイデアを追いかけるために、残りの人生を費やす者が大半だ」
+Lilja : "I'd say a majority of people are willing to waste the rest of their lives chasing after the imperfect Form that was their first formative memory."
+丽露娅 : "大多数人会花费余生去追逐最初遇到的原始而不完整的理念"
+
+リルヤ
+リルヤ : 「不完全なイデアを抱えて、暗い洞窟をさまよう……」
+Lilja : "Wandering that dark cave, with only imperfect Forms to guide them..."
+丽露娅 : "怀抱着不完整的理念，彷徨在黑暗的洞穴中……"
+
+リルヤ
+リルヤ : 「残りの人生で出会うすべての新しいものに、不完全なイデアの影を重ねて……」
+Lilja : "Always overlaying every new encounter with the shadow of their Form..."
+丽露娅 : "余生所遇见的所有新事物，都会和不完整的理念的影子重叠……"
+
+夏夏
+夏夏 : 「残りの人生で出会うすべての新しいものに……」
+Natsuka : "Comparing %i1every%id new encounter...?"
+夏夏 : "余生所遇见的所有新事物……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「でも、それってなんだか勿体ないですね？」
+Natsuka : "That feels like a waste, don't you think?"
+夏夏 : "但是，这样的话不是很浪费吗？"
+
+リルヤ
+リルヤ : 「勿体ない、か」
+Lilja : "What do you mean?"
+丽露娅 : "浪费，吗"
+
+夏夏
+夏夏 : 「はい。せっかくなら新しいものは新しいものとして感じたいです。それの方が楽しそうじゃないですか」
+Natsuka : "Well, I'd want to treat whatever new encounter as something altogether new. It's more fun that way, y'know?"
+夏夏 : "是的。难得有新的事物就应该以看待新事物的眼光去感受它们。这样才更有乐趣不是吗？"
+
+リルヤ
+リルヤ : 「そうだな……違いない」
+Lilja : "Yes... You're not wrong."
+丽露娅 : "是啊……你说得没错"
+
+夏夏
+夏夏 : 「うーん……どうしたら、その不完全なイデアから解放されるんでしょう？」
+Natsuka : "Umm... So then, how are you supposed to free yourself from this 'imperfect Form' thing?"
+夏夏 : "嗯……要怎么做，才能从这不完整的理念中解放出来呢？"
+
+リルヤ
+リルヤ : 「恋だ」
+Lilja : "Through love."
+丽露娅 : "去恋爱"
+
+夏夏
+夏夏 : 「恋！」
+Natsuka : "Love!?"
+夏夏 : "恋爱！"
+
+リルヤ
+リルヤ : 「ああ。私もまだ真実の理解には達していないが、祖母がいっていた。恋をしなさいと。天上の愛ではなく地上の恋を」
+Lilja : "Yes. Though I have not truly come to realize the truth behind it, my grandmother said as much. She told me that I must find love—not the omniscient, heavenly sort of love, but the kind felt on Earth, from human to human."
+丽露娅 : "是的。虽然对这个答案我还没有达到真正的理解，不过这是外婆告诉我的。她跟我说去恋爱吧。上天之爱不如凡间之恋"
+
+リルヤ
+リルヤ : 「祖母は、神様の見る世界を写し取るだけじゃつまらないから、さっさとその目を捨てろと私にいっていた」
+Lilja : "She told me that simply copying the world as God sees it was terribly boring, and that I should throw those heavenly eyes away."
+丽露娅 : "外婆跟我说，只是把上帝所看到的世界画下来也太无聊了，快点把那双眼睛舍弃掉吧"
+
+リルヤ
+リルヤ : 「くりかえし、くりかえし、飽きもせずに……」
+Lilja : "And she told me that over and over... Never tiring of that message."
+丽露娅 : "说了一遍又一遍，不厌其烦地……"
+
+祖母
+祖母 : 「ねえ、リルヤ」
+Grandmother : "Listen, Lilja."
+祖母 : "丽露娅呀"
+
+祖母
+祖母 : 「あなたにはさっさと地上の人間になって欲しいのよ。そんな目はさっさと捨てておしまいなさい」
+Grandmother : "I want you to become a human like the rest of us. You must learn to rid yourself of those eyes."
+祖母 : "我希望你能尽快化作地上的人类。快把那双眼睛舍弃掉吧"
+
+祖母
+祖母 : 「『[ウォーカー・オブ・エデン,5]楽園の逍遙者』なんて、そんな恥ずかしい名前で呼ばれている場合じゃないでしょ？」
+Grandmother : "You don't want a silly nickname like Eden Walker now, do you?"
+祖母 : "现在不是你该被称为‘乐园的逍遥者’的时候吧？"
+
+祖母
+祖母 : 「神の目を持ち、神の庭園を逍遙する存在なんて。あなたは人間なのに」
+Grandmother : "One with the eyes of God, wandering around his paradise alone. You're human, Lilja."
+祖母 : "你身为人类，却拥有上帝的双眼，逍遥在上帝庭院里"
+
+祖母
+祖母 : 「私は神のレンズ越しの世界じゃなくて、あなたの世界が見たいのよ」
+Grandmother : "I don't want to see the world through God's eyes. I want to see %i1your%id world."
+祖母 : "我想看到的不是透过上帝的透镜的世界，而是你的世界啊"
+
+母親
+母親 : 「国の宝に対して、そんな暴言を吐くのはお母様だけですよ」
+Mother : "You're the only one in the world who can say such disparaging things toward a national treasure, you know that?"
+母亲 : "能对国家的瑰宝说出这种荒唐话的人也就只有妈妈您了"
+
+祖母
+祖母 : 「だって、ねえ？　神様の愛なんてつまらないわ。天上の愛より、地上の恋よ」
+Grandmother : "Well, you know how it is. God's love is so much more boring compared to the love we feel here on earth."
+祖母 : "你想啊，上帝的爱也太无趣了吧。上天之爱不如凡间之恋啊"
+
+母親
+母親 : 「お母様ったらまたそれですか？」
+Mother : "Are you really going to go on about that again?"
+母亲 : "哎呀妈妈您怎么又说这个？"
+
+祖母
+祖母 : 「何度だっていうわよ。広大な神の庭園の無数の花々は、人の手には余るわ」
+Grandmother : "I'll say it as many times as I have to. All those infinite flowers in God's vast garden are far too plentiful for humans to hold."
+祖母 : "不管说几遍我都还会再说的。上帝开阔的庭院中的无数鲜花，对于人类的两手来说实在是太多了"
+
+祖母
+祖母 : 「人はね、心に花を飾る花瓶がある程度で十分なの」
+Grandmother : "All we need is enough to fill the vase in our hearts."
+祖母 : "人啊，只要有能够装饰心中的花瓶的那几枝花就已经够了"
+
+祖母
+祖母 : 「人だけが、限界を知る。神も、動物も知らない限界を」
+Grandmother : "Humans are the only ones with such a limit. Neither God nor the animals know of this."
+祖母 : "只有人才知道界限。上帝和动物都是不知道界限的"
+
+祖母
+祖母 : 「その限界が、その境界が、人を恋に生かすのよ」
+Grandmother : "That limit... That boundary is exactly what makes love bloom within us."
+祖母 : "那些界限，那些限制，才使人陷入恋爱"
+
+祖母
+祖母 : 「花瓶に生けられた花こそが、あなたという人間そのもの」
+Grandmother : "And the flower that fills that vase is what makes you the human you are."
+祖母 : "在花瓶中插上的花，才是你这个人本身"
+
+祖母
+祖母 : 「花瓶に水を、そして花を」
+Grandmother : "All it needs is a little water and a flower."
+祖母 : "往花瓶中注入水，然后插入花"
+
+祖母
+祖母 : 「リルヤ。あなたを人にしてくれる存在が、早く現れるといいわね」
+Grandmother : "Oh, Lilja... I hope someone comes to make you human soon."
+祖母 : "丽露娅。真希望能让你变为人的人，能早点出现啊"
+
+夏夏
+夏夏 : 「なんか……すごい人だったんですね」
+Natsuka : "Your grandmother... was really something else, huh?"
+夏夏 : "感觉……她可真是厉害啊"
+
+リルヤ
+リルヤ : 「そうだな。天衣無縫とはああいう人のことをいうのだろう」
+Lilja : "Yes, she was. I'd say if perfection had a name, it would be hers."
+丽露娅 : "是啊。天衣无缝说的就是这样的人吧"
+
+リルヤ
+リルヤ : 「地上の恋というのは、天上の愛との対比であり、恋だけが絶対ではないと解釈している」
+Lilja : "I interpreted her words to mean that earthly love is not unconditional, as heavenly love is."
+丽露娅 : "凡间的恋跟上天的爱是一种对照，我也理解恋并不是绝对的"
+
+リルヤ
+リルヤ : 「祖母のいう恋……それは、人としての喜びをもたらすもの」
+Lilja : "The love she spoke of... is what brings us joy."
+丽露娅 : "外婆所说的恋……那是对人来说能够带来喜悦的东西"
+
+リルヤ
+リルヤ : 「誰かへの恋が、友情が、人としての愛が、花瓶の花になる」
+Lilja : "The love or friendship we feel for each other, from one human being to another, is what becomes the flower within our vase."
+丽露娅 : "对某人的爱慕、友情、或者对其他人的爱，会化作花瓶中的花"
+
+リルヤ
+リルヤ : 「花瓶という名の人の心に」
+Lilja : "The vase we call a human heart."
+丽露娅 : "在被称作花瓶的，人的心中"
+
+リルヤ
+リルヤ : 「夏夏、お前は私の花だ」
+Lilja : "Natsuka. You are my flower."
+丽露娅 : "夏夏，你是我的花"
+
+リルヤ
+リルヤ : 「お前はあまりにもちいさな花でしかないが……それでも毎日、お前は私を楽しませている」
+Lilja : "Though you are still merely a tiny flower... you still bring me so much joy each day."
+丽露娅 : "你是一枝非常小的花……但即使如此，你每天也都能让我感到快乐"
+
+リルヤ
+リルヤ : 「くだらなく、ばかばかしい、だが私の知らない方法で」
+Lilja : "In such ridiculous, silly ways that I've never known before."
+丽露娅 : "用让人哑口无言的、荒唐的，但却是我不知道的方式"
+
+リルヤ
+リルヤ : 「お前は、生まれたての赤ん坊のようだ」
+Lilja : "You're like a baby who's just been born."
+丽露娅 : "你就像是刚出生的婴儿一样"
+
+リルヤ
+リルヤ : 「何もわからないまま、なのに泣きもせず、この世界を歩いている。泣かないどころか、楽しげだ」
+Lilja : "Though you hardly understand anything about this world, you continue to walk through it without tears. Instead, you face it with excitement."
+丽露娅 : "什么都不懂，但却不会哭泣，就这样在这个世界上走着。这么开心的事，我又怎么会哭呢"
+
+リルヤ
+リルヤ : 「お前の感動は、世界をはじめて見る喜びに満ちている」
+Lilja : "You are filled with the joy of someone experiencing the world for the first time."
+丽露娅 : "你的感动，充满了你第一次看到这个世界的喜悦"
+
+リルヤ
+リルヤ : 「しかし、人は喜びだけには生きられない」
+Lilja : "But people can't live with joy alone."
+丽露娅 : "但是，人并非是只靠喜悦而活着的"
+
+リルヤ
+リルヤ : 「嫉妬、憎悪、執着、悲哀――それらもまた人としての感情であり、それこそが花瓶に一生消せない傷を作り出す」
+Lilja : "Jealousy. Hatred. Obsession. Sorrow. Those emotions are also distinctly human. They may leave scars on one's vase that will never fade."
+丽露娅 : "嫉妒、憎恨、执念、悲伤——这些也都是人的感情，而它们则会使花瓶产生一生无法抹除的伤痕"
+
+リルヤ
+リルヤ : 「人は、どうしても花瓶に刻まれた傷ばかりを見てしまう。それが、人を昨日という名の傷の虜囚にする」
+Lilja : "People tend to focus only on the blemishes left on their vase, trapping them in the world of yesterday."
+丽露娅 : "人总是只顾去看印在花瓶上的伤痕。这就使得人成为‘昨天’这一伤痕的囚徒"
+
+リルヤ
+リルヤ : 「……私も白縫も、昨日に囚われたままだ」
+Lilja : "...That goes for myself and Shiranui as well."
+丽露娅 : "……我和白缝，都被昨天囚禁住了"
+
+リルヤ
+リルヤ : 「私はかつて見えていた神の世界に、白縫は祖母との確執に囚われて、何も見えない」
+Lilja : "I am a prisoner to God's world—the world I once saw—and Shiranui remains trapped within her enmity with my grandmother. Neither of us can see beyond that."
+丽露娅 : "我被曾经看到的上帝的世界囚禁了，而白缝则是被同外婆的争执囚禁了，什么都看不到"
+
+リルヤ
+リルヤ : 「不完全なイデアが目の前の事象に重なり、見えていても見えない」
+Lilja : "We can't help but overlay that incomplete Form before whatever events befall us. Even if the truth stares us in the face, we cannot see it."
+丽露娅 : "不完整的理念跟眼前的事物重叠，怎么看都看不到"
+
+リルヤ
+リルヤ : 「だが、夏夏」
+Lilja : "But Natsuka..."
+丽露娅 : "但是，夏夏"
+
+リルヤ
+リルヤ : 「私にも白縫にも見えない明日を、お前なら見い出せるかもしれない」
+Lilja : "I think you may be able to uncover the future Shiranui and I are unable to see."
+丽露娅 : "我和白缝都看不到的明天，说不定能由你来找出"
+
+リルヤ
+リルヤ : 「だから、夏夏、私はお前の明日を見たい」
+Lilja : "So please, Natsuka. I want to see the vision of tomorrow you see."
+丽露娅 : "所以，夏夏，我想看到你的明天"
+
+夏夏
+夏夏 : 「わたしの明日……」
+Natsuka : "My own tomorrow..."
+夏夏 : "我的明天……"
+
+リルヤ
+リルヤ : 「そうだ。そのために、夏夏、私にお前が見たものを語ってくれ」
+Lilja : "That's right. I want you to keep telling me all about the things you see."
+丽露娅 : "是的。所以，夏夏，把你看到的东西讲述给我吧"
+
+リルヤ
+リルヤ : 「お前は、白縫と出会って、何を思った？　何を感じた？」
+Lilja : "What did you think when you met Shiranui? What did you feel?"
+丽露娅 : "你遇到白缝后，想了什么？感受到了什么？"
+
+夏夏
+夏夏 : 「わたし……」
+Natsuka : "I..."
+夏夏 : "我……"
+
+夏夏
+夏夏 : （あのとき……何を感じたんでしょう？　何を見たんでしょう？）
+Natsuka : (What %i1did%id I feel back then? What did I see?)
+夏夏 : （那个时候……我感受到了什么？看到了什么？）
+
+夏夏
+夏夏 : 「お墓――」
+Natsuka : "A grave."
+夏夏 : "坟墓——"
+
+夏夏
+夏夏 : 「お墓の前で待っているひと、です」
+Natsuka : "I saw a person standing before a grave."
+夏夏 : "我看到了在坟墓前守着的人"
+
+夏夏
+夏夏 : 「黒いドレスのせいかもしれません。でもそれだけじゃなくて……」
+Natsuka : "It could've been because of the black dress, but I don't think that's all."
+夏夏 : "她好像是穿着黑色的连衣裙。但不仅如此……"
+
+夏夏
+夏夏 : 「わたしが近づいたとき、振りかえった白縫さんの表情、誰かを求めていて……」
+Natsuka : "When I approached her, Shiranui made an expression like she was hoping it would be someone..."
+夏夏 : "当我接近她的时候，转过头来的白缝小姐的表情，就像是在寻求着谁……"
+
+夏夏
+夏夏 : 「まるで、昔見た映画の、空っぽのお墓の前で待っているひとみたいだ、って」
+Natsuka : "It was like in a movie I saw a while back, with a person waiting in front of an empty grave."
+夏夏 : "仿佛是，我以前看到的电影中的，守在空墓前的人一样"
+
+夏夏
+夏夏 : 「死んだっていう知らせは届いて、お墓はあるけど死んだのは信じてなくて、だから……」
+Natsuka : "How even though she was told that person had died and she stood before their grave, she didn't believe they were really dead..."
+夏夏 : "收到死讯，虽然墓碑已经立在了那里但却不相信人已离去，所以……"
+
+夏夏
+夏夏 : 「わたし、何をいってるんでしょう？　でもそんなイメージが湧きあがって。どうして？　ああ、そう。そうです」
+Natsuka : "Oh jeez, what am I going on about? I mean, that's the feeling I got from it all. I wonder why? Wait... Actually, I know."
+夏夏 : "我在说什么呢？但就是有种印象浮现出来。为什么？哦，没错。是的"
+
+夏夏
+夏夏 : 「だってわたし……そう、わたし見たんです」
+Natsuka : "Because I remember... I remember seeing her."
+夏夏 : "因为我……对，我看到了"
+
+夏夏
+夏夏 : 「一瞬だけ、動きかけた白縫さんの唇を」
+Natsuka : "It was just for a split second, but I saw her lips move."
+夏夏 : "在那一瞬间，欲言又止的白缝小姐的嘴唇"
+
+夏夏
+夏夏 : 「あれは名前です。そうです、ゆりって」
+Natsuka : "She was saying a name. And that name was Yuri."
+夏夏 : "那是人的名字。对，她想说‘百合’"
+
+リルヤ
+リルヤ : 「そうか」
+Lilja : "I see."
+丽露娅 : "这样啊"
+
+リルヤ
+リルヤ : 「よく見つけてきた、夏夏」
+Lilja : "That's quite the finding, Natsuka."
+丽露娅 : "观察得真仔细啊，夏夏"
+
+リルヤ
+リルヤ : 「ならば、私が語るべきことを語ろう。必要な情報をな」
+Lilja : "Then there's something I think I need to tell you. Something very important."
+丽露娅 : "那我也讲讲我该说的东西。把你需要的信息告诉你"
+
+リルヤ
+リルヤ : 「お前はそこから何をするかを考えてくれ」
+Lilja : "And afterward, I want you to think about what you'll do."
+丽露娅 : "你要从中思考出该如何行动"
+
+夏夏
+夏夏 : 「よくわかりました、リルヤさん」
+Natsuka : "I understand completely, Lilja-san."
+夏夏 : "我明白了，丽露娅小姐"
+
+夏夏
+夏夏 : 「それならば、やることはひとつですよリルヤさん」
+Natsuka : "If that's the case, then there's only one thing %i1to%id do."
+夏夏 : "这样的话，我要做的就只有一件事了，丽露娅小姐"
+
+夏夏
+夏夏 : 「お手伝いします。リルヤさんがお祖母様の約束を守るために、白縫さんに『明日』を見せるために」
+Natsuka : "I'll help. I'll do it to help you keep the promise you made to your grandmother, and to show Shiranui-san that there is a tomorrow."
+夏夏 : "我来帮忙。为了让丽露娅小姐能够遵守跟外婆的约定，为了能让白缝小姐看到《明天》"
+
+夏夏
+夏夏 : 「でも、それだけじゃないんです」
+Natsuka : "But that's not all."
+夏夏 : "但是，我要做的不仅如此"
+
+夏夏
+夏夏 : 「わたしは、あなたの生きる理由を絶対に見つけます」
+Natsuka : "I am going to find a reason for you to live."
+夏夏 : "我绝对会找到让您活下去的理由的"
+
+夏夏
+夏夏 : 「だって、わたしはあなたの新しい目と足だから」
+Natsuka : "Because I'm your new eyes and legs."
+夏夏 : "因为我是您新的双眼和双腿"
+
+夏夏
+夏夏 : 「わたしは、わたしの『明日』を見つけてきます」
+Natsuka : "I'm going to find my own tomorrow."
+夏夏 : "我要去找出我的‘明天’"
+
+夏夏
+夏夏 : 「リルヤさんが、それを見たいといってくれたから」
+Natsuka : "Because you said you wanted to see it, Lilja-san."
+夏夏 : "因为丽露娅小姐您跟我说想要看到"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Yes, I do."
+丽露娅 : "好"
+
+リルヤ
+リルヤ : 「お前の言葉を信じよう」
+Lilja : "I put my faith in your words, then."
+丽露娅 : "我相信你说的话"
+

@@ -1,0 +1,465 @@
+善乃
+善乃 : （――白い、世界）
+Yoshino : (A white world...)
+善乃 : （——纯白一片的世界）
+
+善乃
+善乃 : （ここは画家の家だという。この白く長い廊下を通って、むかう先には、一枚の絵があるという）
+Yoshino : (This is the painter's home. At the end of this long, white hallway lies a gallery where only one painting is on display.)
+善乃 : （这里是画家的住宅吧。通过这条白色长廊，最终抵达的地方，说是安置了一幅画）
+
+善乃
+善乃 : （それは真璃子が依頼した一枚の絵、『わたしたち』の絵）
+Yoshino : (It's the painting Mariko requested. The painting of "us.")
+善乃 : （那是真璃子所委托的绘画，即‘我们’的画）
+
+善乃
+善乃 : （真璃子が先に見て、とても気に入った様子だった）
+Yoshino : (Mariko has already seen it. She seems to like it very much.)
+善乃 : （真璃子看过后，非常中意）
+
+善乃
+善乃 : （助手が館まで運ぶといっていたそうだが、少し時間がかかるというから、私もここまで見に行くと告げた）
+Yoshino : (The assistant offered to bring the painting to the villa, but that would take some time, so I told her I would come to see it here.)
+善乃 : （说是要让助手运送这幅画到洋馆里，不过要花些时间，我就也提出在画家家中观看）
+
+善乃
+善乃 : （真璃子があれだけ気に入っていた絵に、興味が出たのだ）
+Yoshino : (I'm curious to see the painting that Mariko likes so much.)
+善乃 : （能让真璃子那么中意的画，也煽动了我的好奇心）
+
+善乃
+善乃 : （興味だけじゃない。おそらく、私は早く諦めたいのだと思う）
+Yoshino : (It's not just curiosity, I'm also ready to resign myself to my fate.)
+善乃 : （不光是为了好奇心。估计我也是打算快些时候放弃吧）
+
+善乃
+善乃 : （真璃子のいう『わたしたち』の絵は、真璃子と美彌子の絵だ。善乃の死後、ふたりで生きていくための決意を込めた絵のはずだ）
+Yoshino : (Mariko's painting of "us" only includes Mariko and Miyako. It's meant to help her strengthen her resolve to move on and keep living with just the two of them.)
+善乃 : （真璃子所说的，‘我们’的画，是真璃子与美弥子的肖像画。那应该是一幅能让两人在善乃死后坚定意志的绘画）
+
+善乃
+善乃 : （その絵を見れば、私は美彌子になることへの迷いを消せると思ったのだ。きっと私は、美彌子なのだと思える。そうして善乃は消える）
+Yoshino : (Seeing the painting should be enough to persuade me to become Miyako. I'll be able to convince myself that I really %i1am%id Miyako now. And then I can erase Yoshino forever.)
+善乃 : （她肯定会觉得，我看了那幅画，一定会下定决心彻底扮演美弥子吧。肯定会让她觉得我是美弥子。而善乃就这样消失不见）
+
+善乃
+善乃 : （……外出を好まない美彌子がヴェールで顔を隠した姿で外に出たがるのを、真璃子が不審に思う様子はなかった）
+Yoshino : (Mariko didn't seem to find it strange that Miyako would go out even though she's still hiding her face with a veil.)
+善乃 : （……真璃子并没有对平时不喜欢外出的美弥子用面纱遮脸后变得喜欢外出一事产生疑惑）
+
+善乃
+善乃 : （真璃子は聡明で潔癖な人だ。もし私に不審を感じたら、すぐに追求するだろう。そうすれば、速やかに私の正体は暴かれる）
+Yoshino : (Mariko's intelligent and fastidious. If she thought anything was suspicious, she would have investigated it immediately. Then my true identity would have been revealed.)
+善乃 : （真璃子很聪明，而且有精神洁癖。要是我有奇怪的举动，肯定会马上来质问我吧。到时候我的身份就会被曝光）
+
+善乃
+善乃 : （だが真璃子はそうしない。だから大丈夫。だからばれていない。きっときっと大丈夫なのだ）
+Yoshino : (But Mariko hasn't done anything like that, so it's fine. I'm sure she hasn't figured it out.)
+善乃 : （但真璃子并没有这样做。所以没事的。一定不会暴露。绝对绝对没问题的）
+
+善乃
+善乃 : （――本当はもうよくわからない。混乱して自分が自分でないような時間も増えた）
+Yoshino : (I'm not even sure who I am myself anymore. I rarely feel like I'm "Yoshino" anymore lately.)
+善乃 : （——其实我也快搞不懂了。产生错乱，我不再是我的时间感觉也增多了）
+
+善乃
+善乃 : （だからこそ早く終わらせたい。手術をして、美彌子になってしまいたい）
+Yoshino : (So I want to get this over with quickly. I want to get the surgery and really become Miyako.)
+善乃 : （所以得快点结束。做完手术，让我成为真正的美弥子）
+
+善乃
+善乃 : （私が美彌子になってしまえば、何もかもが終わる）
+Yoshino : (Once I've turned into Miyako, everything will be over.)
+善乃 : （只要我成为了美弥子，一切都会结束）
+
+善乃
+善乃 : （真璃子だって、まさか久住家が、美彌子の死を隠すために娘を戸籍から抹消し、手術で顔を変えようとしているとは思うまい）
+Yoshino : (Mariko would never think that the Kuzumi family would erase their own daughter from the family tree and surgically alter her face to cover up Miyako's death.)
+善乃 : （真璃子应该也不会想到，久住家为了隐藏美弥子的死，居然抹去了亲生女儿的户籍档案，还打算通过手术换脸）
+
+善乃
+善乃 : （ああ――目の前に扉がある。この扉の向こうに、『わたしたち』の絵が待っている。それは、私の死を告げる絵だ）
+Yoshino : (Ahh, the door is right in front of me. Behind this door, the painting of "us" is waiting. It's the painting that spells my death.)
+善乃 : （啊啊——眼前有扇门。在这扇门后面，有‘我们’的画在等着我。那是宣告我死亡的画）
+
+善乃
+善乃 : （その絵はとても素晴らしいものだと、真璃子がいっていた）
+Yoshino : (Mariko said that it was a wonderful painting.)
+善乃 : （真璃子说，那幅画很美妙）
+
+善乃
+善乃 : （天才画家の描くその絵は、見る人間の世界を変えるという）
+Yoshino : (The genius painter's paintings have the power to change the world of anyone who sees them.)
+善乃 : （说是天才画家所描绘的画，能改变看客身处的世界）
+
+善乃
+善乃 : （『わたしたち』の絵。美彌子と真璃子の肖像画）
+Yoshino : (A portrait of "us"—of Miyako and Mariko.)
+善乃 : （‘我们’的画。美弥子与真璃子的肖像画）
+
+善乃
+善乃 : （あの部屋で待っている真璃子が、私の隣で『わたしたち』の絵よとささやく）
+Yoshino : (Mariko, who is waiting in that room, will stand next to me and say, "Look, it's us.")
+善乃 : （在那个房间里等着我的真璃子，对我轻言‘这是我们的画’）
+
+善乃
+善乃 : （それでいい。それで私は消える。私の未練も、私の絶望も、私の喜びも。そのすべてを）
+Yoshino : (It's for the best this way. I'll be able to disappear, along with my regrets, despair, and happiness.)
+善乃 : （这就够了。我因此而消失。我的遗憾，我的绝望，我的喜悦。这一切都将消失）
+
+善乃
+善乃 : （ああ……私はずっと私のことばかり考えている）
+Yoshino : (Ahh... I keep thinking about myself.)
+善乃 : （唉……我总是在想我自己）
+
+善乃
+善乃 : （もういなくなってしまった美彌子を悼むことなく、美彌子を喪った哀しみに浸ることもない。そんな私の醜さが、私を苛みつづける）
+Yoshino : (Instead of mourning Miyako or dwelling on the sorrow of her loss, I keep thinking about myself. That's the ugly side of myself that continues to torment me.)
+善乃 : （不为已经离开了的美弥子哀悼，也不曾沉浸在失去美弥子的悲伤中。我的丑恶，苛责着我的内心）
+
+善乃
+善乃 : （美彌子、美彌子……。私たちは、どうしてこんなことになってしまったのだろうね）
+Yoshino : (Miyako... Miyako... How did we end up like this?)
+善乃 : （美弥子，美弥子……为什么我们会变成这样呢）
+
+善乃
+善乃 : （私はもっと美彌子と真璃子のために、何の疑いもなくこの身を捧げることができると思っていたのに、信じていたのに）
+Yoshino : (I believed that I could dedicate my entire being to Miyako and Mariko, yet...)
+善乃 : （明明为了美弥子和真璃子，我能甘愿献身而出的，我是相信如此的）
+
+善乃
+善乃 : （美彌子。お前はいった。死ぬ間際に、お前はいった）
+Yoshino : (Miyako... Just before you died, you said to me...)
+善乃 : （美弥子。你对我说过。在死之前，你对我说过）
+
+美彌子
+美彌子 : 『お姉様は、私が死んだらきっと生きていけない。だからお願い、姉を助けて。美彌子になって、お姉様と生きて』
+Miyako : ("My sister won't be able to keep living without me. Please, you have to save her. Become "Miyako" and stay with her.")
+美弥子 : ‘姐姐大人在我死后，肯定会觉得活不下去。所以求求你，救救姐姐。成为我，和姐姐一起活下去’
+
+善乃
+善乃 : （真璃子を救うために、美彌子になって生きて欲しい。それがお前の遺言だった）
+Yoshino : (You wanted me to become you in order to save Mariko. That was your last wish.)
+善乃 : （为了拯救真璃子，希望我成为美弥子活下去。这是你的遗言）
+
+善乃
+善乃 : （私はそれを叶えるために、こうして美彌子として生きているというのに）
+Yoshino : (I tried my best to fulfill it. I'm now living Miyako's life.)
+善乃 : （而我正是为了实现这句遗言，才像这样打算作为美弥子活下去）
+
+善乃
+善乃 : （――死によって完成される恋を、墓の中でも死ぬことのない恋を）
+Yoshino : (%i1She sang of the Love that is perfected by Death, of the Love that dies not in the tomb.%id)
+善乃 : （她唱到了因死亡而变得更完美的爱，唱到了在坟墓中也不会死去的爱）
+
+善乃
+善乃 : （私の死によって、真璃子への恋は完成されるはずだった）
+Yoshino : (My death was supposed to have perfected my love for Mariko.)
+善乃 : （由我的死，她对真璃子的爱将会得到成全）
+
+善乃
+善乃 : （私は愚かだった。私は私を過信していた。もっと立派な人間だと思い込んでいた）
+Yoshino : (I've been a fool. I've been overconfident. I thought I was a much better person than this.)
+善乃 : （我太蠢了。我太过相信自己。一直以为自己是了不起的人）
+
+善乃
+善乃 : （美彌子としてでも、真璃子に愛されることが、こんなにも辛く、こんなにも喜びに満ちているのだと想像できなかった）
+Yoshino : (I never imagined how happy it would make me to be loved by Mariko, even as "Miyako," or how much it would hurt.)
+善乃 : （我没想到，哪怕是作为美弥子，被真璃子所爱，竟是如此痛苦，又充满喜悦）
+
+善乃
+善乃 : （ああ――美彌子。せめて今、本当のお前を思い出したいのに）
+Yoshino : (Oh, Miyako... I want nothing more than to remember the real you right now.)
+善乃 : （唉——美弥子。我明明想就算是现在，也能回想起真正的你）
+
+善乃
+善乃 : （帰りたいあの頃を思い出しそうとしても、三人で笑っていた頃を思い出そうとしても……）
+Yoshino : (But when I try to remember those fun times... to go back to when we were smiling together, the three of us...)
+善乃 : （就算回想起想要回到的那个时候，就算想要回想起三个人欢笑的时候……）
+
+善乃
+善乃 : （美彌子――お前の笑顔だけは、どうしても思い出すことができないんだ。どうしても、死ぬ間際の顔しか思い出せないんだ）
+Yoshino : (Miyako... I can't remember what your smile looked like. The only image that fills my mind is that of your face before you died.)
+善乃 : （美弥子——只有你的笑容，我怎么都回想不起来。无论如何，我都只能回想起你死前的表情）
+
+善乃
+善乃 : （私の手がのびる。私の手がノブを掴む。ドアが開き、そして、私の目がその絵を――）
+Yoshino : (My hand is reaching for the doorknob on its own. The door's opening, and before me is the painting...)
+善乃 : （我伸出了手。握住了门把。打开房门，映入我眼帘的画是——）
+
+None
+None : 笑い声が聞こえた。
+None : I hear laughter.
+None : 我听到了笑声。
+
+None
+None : 私と、美彌子と、真璃子の笑い声だ。
+None : Miyako, Mariko, and I are laughing together.
+None : 是我，美弥子和真璃子的笑声。
+
+None
+None : 歌いさざめくような声。
+None : Our voices sing and bustle.
+None : 歌唱着，吵闹着。
+
+None
+None : 踊る私たち。
+None : We're dancing.
+None : 我们翩翩起舞。
+
+None
+None : 少しだけぎこちない美彌子のステップ、何ひとつ迷いのない完璧な真璃子のステップ。
+None : Miyako's steps are a bit clumsy, while Mariko's are perfect and confident.
+None : 美弥子的舞步稍微有些僵硬。而真璃子的舞步是那么完美。
+
+None
+None : 輝くような笑顔、赤いドレス、薔薇の花冠。
+None : Radiant smiles. Red dresses. Crowns of roses.
+None : 闪耀的笑容，赤红的礼服，还有玫瑰制成的花冠。
+
+None
+None : そんなふたりをエスコートする私。
+None : I'm escorting the twins.
+None : 以及引导二人的我。
+
+None
+None : 後夜祭で三人で踊った。
+None : We dance together at the prom.
+None : 我们三人在后夜祭起舞。
+
+None
+None : あの頃の私には、私たちには、喜びしかなかった。
+None : I was so happy. We were so happy.
+None : 那时候的我，那时候的我们，内心只有欢喜。
+
+真璃子
+真璃子 : 『ねえ、私たち、また来年もこうして踊りましょうね』
+Mariko : "Let's dance together again next year."
+真璃子 : "‘明年，我们三人也一起这样跳舞吧’"
+
+美彌子
+美彌子 : 『ええ、三人でまた踊りましょう』
+Miyako : "Yes, it'll be the three of us again."
+美弥子 : "‘没错，三个人一起’"
+
+善乃
+善乃 : 『ああ、もちろんだ。真璃子、美彌子』
+Yoshino : "Of course, Mariko, Miyako."
+善乃 : "‘那是当然。真璃子，美弥子’"
+
+真璃子
+真璃子 : 『来年も再来年もよ？　それだけじゃないわ。卒業しても、ずっと一緒よ。私たち、ずっとこうして三人でいましょうね』
+Mariko : "We'll go together again next year, and the year after. That's not all, though. After we graduate, let's stay together forever, okay?"
+真璃子 : "‘后年也要来哦？　而且不光是这样。就算毕业，我们也要在一起。我们三人要永远在一起哦’"
+
+善乃
+善乃 : 「ああ……」
+Yoshino : "Yes..."
+善乃 : "那是当然……"
+
+None
+None : 私の口から知らず声が漏れた。
+None : I hear my own voice spill from my mouth.
+None : 从我的嘴里发出了未曾听过的声音。
+
+None
+None : ずっと昨日から目を背けようとしてきた。すべて目を背けて……美彌子として生きようとした。
+None : All this time, I've been trying to turn my back on the past. I've been looking away from everything... and trying to live as Miyako.
+None : 我一直逃避过去。一直逃避……打算成为美弥子活下去。
+
+None
+None : 美彌子はいない。だけど、私は幸せにならなくてはいけない。美彌子の分も生きて、真璃子を幸せにしなくてはいけない。
+None : Miyako's not here anymore, but I still have to keep being happy. I have to live for her sake. I have to make sure Mariko is happy, too.
+None : 美弥子已经不在了。但是，我必须得幸福。要连着美弥子那一份，与真璃子幸福生活下去才行。
+
+None
+None : でもどうしてだろう。私はうまく生きられなくなって。
+None : So why can't I do it properly? Why can't I live this way?
+None : 但是为什么呢。我没法正常活下去了。
+
+None
+None : 思い出すべきじゃないあの頃のことばかりを求めるようになって。
+None : Why do I keep pining for a past I'm not supposed to remember?
+None : 开始向不该回忆起的那时候不断索求。
+
+None
+None : なのに、あの頃の喜びは哀しみに塗りつぶされ、美彌子の笑顔を思い出せなくなって。
+None : Why does the sorrow overshadow the joy of those days? Why can I no longer remember Miyako's smile?
+None : 但是，那时候的喜悦却被悲伤所掩盖，自己也回想不起美弥子的笑容。
+
+None
+None : でも、今、私は……絵を一目見た瞬間、帰りたかったあの頃にいた。
+None : The moment I see the painting, I'm transported to the past—back to those days I've been wanting to return to.
+None : 但是现在，我……看到了那幅画的瞬间，就身处在想要回到的那个时候。
+
+None
+None : ああ、そうだね。美彌子。お前は、そんな顔をして笑っていたね。
+None : Yes, that's it, Miyako... That's what your smile looked like when you laughed.
+None : 原来如此啊。美弥子，原来你的笑容是这样的啊。
+
+善乃
+善乃 : 「美彌子……」
+Yoshino : "Miyako..."
+善乃 : "美弥子……"
+
+None
+None : ――誰かが、私の肩に手をふれた。
+None : Somebody places their hand on my shoulder.
+None : ——有人用手触碰了我的肩头。
+
+善乃
+善乃 : 「……ぁ」
+Yoshino : "Ah..."
+善乃 : "……啊"
+
+None
+None : 私はうまく声が出せないでいる。
+None : I try to talk, but the words won't come out.
+None : 我发不出声音。
+
+None
+None : お姉様……と呼べずにいる。
+None : I should respond to my "sister"... But I'm struggling to call her that.
+None : 没法叫她姐姐大人……
+
+真璃子
+真璃子 : 「もう、いいの。いいのよ……」
+Mariko : "It's okay now... You've done enough..."
+真璃子 : "够了。已经够了……"
+
+真璃子
+真璃子 : 「――善乃」
+Mariko : "Yoshino..."
+真璃子 : "——善乃"
+
+None
+None : 私の唇が何度か動いて、震える声が唇から漏れる。
+None : My lips tremble as I squeeze out my voice.
+None : 我的嘴唇开合了数次，发出颤抖的声音。
+
+善乃
+善乃 : 「いつから――気づいて……？」
+Yoshino : "When... did you realize?"
+善乃 : "你什么时候——发现的……？"
+
+真璃子
+真璃子 : 「最初からよ。私が妹を間違えるものですか」
+Mariko : "Right away. I would never mistake someone else for my own sister."
+真璃子 : "一开始就发现了。我怎么会弄错自己的妹妹呢"
+
+None
+None : ああ、そのとおりだ……貴女が最愛の妹を間違えるはずがない。
+None : Oh... She's right. She loved her sister so dearly. She would recognize her anywhere.
+None : 啊，正是如此……你不会弄错自己最爱的妹妹。
+
+善乃
+善乃 : 「真璃子、すまない……。私は、美彌子を、貴女の妹を守ることができなかった」
+Yoshino : "Mariko, I'm sorry... I failed to protect Miyako, your sister."
+善乃 : "真璃子，对不起……我没能保护好美弥子，没能保护好你的妹妹"
+
+善乃
+善乃 : 「だから、私は、美彌子の願いを叶えるために、貴女が美彌子の後を追わないようにするために、こうして……美彌子に……」
+Yoshino : "I did this to fulfill Miyako's wish... She wanted me to, so that you wouldn't try to go after her..."
+善乃 : "所以我为了实现美弥子的愿望，为了不让你选择自杀，就像这样……扮演美弥子……"
+
+真璃子
+真璃子 : 「ええ。貴女が美彌子の遺した願いを、必死になって叶えようとしているのは痛いほどわかっていましたわ……」
+Mariko : "I'm painfully aware that you were trying to fulfill Miyako's last wish..."
+真璃子 : "嗯。我真的很清楚，你是想拼命完成美弥子的遗愿……"
+
+真璃子
+真璃子 : 「だから私も、何も言えずにおりました……」
+Mariko : "That's why I didn't say anything until now."
+真璃子 : "所以我至今为止，什么都没有说……"
+
+真璃子
+真璃子 : 「でもね、善乃」
+Mariko : "But Yoshino..."
+真璃子 : "但是啊，善乃"
+
+真璃子
+真璃子 : 「貴女は、美彌子にはなれないのです。決してなれないのです。なのに、貴女は美彌子になろうとして、貴女自身を殺そうとしていた」
+Mariko : "You can never truly become Miyako. You can't replace her, yet you tried to kill yourself in order to become her."
+真璃子 : "你无法成为美弥子。这是绝对不可能的。然而你却打算成为美弥子，打算扼杀掉自己"
+
+真璃子
+真璃子 : 「このまま私に、美彌子と善乃をふたりとも喪えというのですか？」
+Mariko : "Do you want me to spend the rest of my life mourning the loss of %i1both%id of you?"
+真璃子 : "你是想让我同时失去美弥子和善乃这两个人吗？"
+
+善乃
+善乃 : 「――っ……！」
+Yoshino : "Mmgh...!"
+善乃 : "——呜……！"
+
+善乃
+善乃 : 「真璃子……すまない、本当に、すまない……でも、私はどうしても……美彌子の願いを……」
+Yoshino : "Mariko... I'm sorry... I'm really sorry... I just wanted... to grant Miyako's wish..."
+善乃 : "真璃子……对不起，真的对不起……但是我怎么都想……完成美弥子的愿望……"
+
+真璃子
+真璃子 : 「ええ、わかっております……わかっておりますわ……でも、もういい、もういいのです……善乃」
+Mariko : "It's okay. I know... I know why you did it... But you don't have to keep it up anymore... Yoshino."
+真璃子 : "嗯，我知道的……我是知道的……但是已经够了，已经够了啊……善乃"
+
+真璃子
+真璃子 : 「美彌子は天国にいってしまった。でもね、善乃……貴女と美彌子の愛が、私を生かしてくれました。だからもう大丈夫なのですわ」
+Mariko : "Miyako has gone to heaven, but... Yoshino, it's both your and Miyako's love that has allowed me to keep going. I'm okay now."
+真璃子 : "美弥子去了天国。但是啊善乃……你和美弥子的爱，让我活了下来。所以我已经没问题了"
+
+真璃子
+真璃子 : 「だから、貴女は貴女に戻りましょう？」
+Mariko : "Can you please go back to being yourself?"
+真璃子 : "所以，你也做回你自己吧？"
+
+善乃
+善乃 : 「真璃子……」
+Yoshino : "Mariko..."
+善乃 : "真璃子……"
+
+真璃子
+真璃子 : 「ねえ、善乃。『わたしたち』の絵は美しいでしょう？　私も、美彌子も、善乃も笑っている。楽しかったわね。嬉しかったわね」
+Mariko : "Look, Yoshino. The portrait of 'us' is beautiful. You, me, and Miyako are all smiling. We had so much fun at the prom, didn't we?"
+真璃子 : "听我说，善乃。‘我们’的画很棒吧？　我和美弥子，善乃都在笑着。很开心吧。很高兴吧"
+
+真璃子
+真璃子 : 「あの美しい日々がずっとつづくと思っていたわね」
+Mariko : "I always believed those beautiful days would go on forever."
+真璃子 : "会让我们觉得，那段快乐的时光会一直持续下去"
+
+善乃
+善乃 : 「はい……はい……っ」
+Yoshino : "Yes... Yes..."
+善乃 : "是的……是的……"
+
+真璃子
+真璃子 : 「私たち、やっと美彌子の笑顔を思い出すことができたわね？」
+Mariko : "We're finally able to remember Miyako's smile now, aren't we?"
+真璃子 : "我们现在，总算能回想起美弥子的笑容了吧？"
+
+善乃
+善乃 : 「はい……っ」
+Yoshino : "Yes..."
+善乃 : "是的……"
+
+真璃子
+真璃子 : 「私たち、やっと美彌子の死を悼むことができるわね……？」
+Mariko : "We're finally able to accept Miyako's death and grieve for her properly, aren't we?"
+真璃子 : "我们现在，总算可以哀悼美弥子的死了吧……？"
+
+善乃
+善乃 : 「……っ、はい……」
+Yoshino : "Nngh... Yes..."
+善乃 : "……是的……"
+
+善乃
+善乃 : 「うっうう……ううう……っ……美彌子、美彌子ぉおお……ごめん、本当にごめん、守れなくてごめん……叶えられなくてごめん！」
+Yoshino : "Wahh... Wahh...! Miyako... Miyakooo... I'm sorry... I'm so sorry I couldn't protect you... I'm sorry I couldn't fulfill your wish!"
+善乃 : "呜呜呜……呜呜呜……美弥子、美弥子……对不起，真的对不起，对不起，我没有保护好你……没有实现你的愿望！"
+
+善乃
+善乃 : 「あ、ああ……うあああああああああああああああああっ！！」
+Yoshino : "Ahh, ahhh... Wahhhhhhhhhhhhhhhhhhhhhhh!"
+善乃 : "啊、啊……呜啊啊啊啊啊啊啊啊啊！！"
+

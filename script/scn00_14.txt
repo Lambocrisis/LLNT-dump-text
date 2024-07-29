@@ -1,0 +1,495 @@
+夏夏
+夏夏 : 「ただいまかえりましたー！」
+Natsuka : "I'm back!"
+夏夏 : "我回来啦！"
+
+リルヤ
+リルヤ : 「おかえり」
+Lilja : "Welcome home."
+丽露娅 : "欢迎回来"
+
+夏夏
+夏夏 : 「いやー、優さんのウエディングドレス姿めっちゃくちゃきれいでしたよ！　いい天気だったので青空によく映えてました！」
+Natsuka : "Yuu-san looked so gorgeous in her wedding dress! The weather was great, too! She looked so beautiful beneath the blue sky!"
+夏夏 : "哎呀，优小姐穿婚纱的样子也太漂亮了吧！　而且天气也不错，真的很衬蓝天白云呢！"
+
+夏夏
+夏夏 : 「リルヤさんも来られたらよかったのにって、優さんがいってましたよ」
+Natsuka : "She said she would've loved having you there, too."
+夏夏 : "优小姐还说，要是丽露娅小姐能去就好了呢"
+
+リルヤ
+リルヤ : 「私は基本的に外出はしない」
+Lilja : "I rarely go out."
+丽露娅 : "我基本上不会出门"
+
+夏夏
+夏夏 : 「あ、そうそう。その発言を勘違いしてたそうですよ、優さん」
+Natsuka : "Yeah, I know you told her that before, but I think she misunderstood."
+夏夏 : "啊，对了对了。对这句话，优小姐好像有误会呢"
+
+リルヤ
+リルヤ : 「せいぜい車椅子が原因だとでも思ってたのだろう」
+Lilja : "She assumed it's because I'm in a wheelchair?"
+丽露娅 : "她肯定是觉得我坐轮椅才不打算出门的吧"
+
+夏夏
+夏夏 : 「ですです」
+Natsuka : "Exactly."
+夏夏 : "没错没错"
+
+夏夏
+夏夏 : 「優さん、リルヤさんの目が見えないのにずっと気づいてなかったそうで、わたしが説明したらすごくびっくりしてました」
+Natsuka : "I guess she never realized that you can't see. She was really surprised when I told her."
+夏夏 : "优小姐一直不知道丽露娅小姐眼睛看不见，我对她说明的时候还吓了一跳呢"
+
+リルヤ
+リルヤ : 「相手の声から目の位置を算出して、そこに目を向けるようにしているからな。そう簡単に見破らせはしないさ」
+Lilja : "Whenever I'm talking with someone, I turn my eyes toward their voice. Most people probably never notice."
+丽露娅 : "我会根据对方的声音计算出眼睛的位置，然后尽量面朝那个位置。很难被人看穿的"
+
+夏夏
+夏夏 : 「事故に遭って、怖い思いをしたから外に出たくないのかな……って心配してた、ともいってましたね」
+Natsuka : "She was worried that you were too scared to go outside because you'd been injured in an accident..."
+夏夏 : "她还说……是不是以前遭遇过事故，导致不想出门"
+
+リルヤ
+リルヤ : 「ミス優は見たいものだけ見たがる傾向にあるからな……その誤認も、むべなるかな、だ」
+Lilja : "Miss Yuu has a tendency to see only what she %i1wants%id to see... I suspect that's the cause of her misunderstanding."
+丽露娅 : "优女士总会容易相信那些自己愿意相信的事物啊……她会搞错也在情理之中"
+
+リルヤ
+リルヤ : 「私がこうなったのは、事故ではなく病が原因だからな。ミス優の想像するような、トラウマレベルの事故は経験していない」
+Lilja : "I'm not like this as the result of an accident—it's an illness. Miss Yuu may have imagined some sort of tragic event, but I've experienced nothing of the sort."
+丽露娅 : "我会这样，不是因为事故，而是疾病。我并没有遭遇过优女士所设想的那种，会让人产生心理阴影的事故"
+
+リルヤ
+リルヤ : 「それより、お前こそ驚いただろう？」
+Lilja : "Anyway, you're the one who had a real surprise today, weren't you?"
+丽露娅 : "其实，你才应该惊讶的吧"
+
+夏夏
+夏夏 : 「そうです！　えっ、リルヤさんは、どうしてわかったんですか！？　びっくりでしたよもうー！」
+Natsuka : "You're right! Wait, how did you know, Lilja-san!? I had no idea!"
+夏夏 : "是啊！　咦，丽露娅小姐为什么会明白啊！？　我都吓一大跳呢！"
+
+夏夏
+夏夏 : 「まさか婚約者さんもとい結婚相手さんが、初恋の相手だなんて、しかも！　今の友人さんと同じひとだなんて！」
+Natsuka : "To think that Yuu-san's partner was actually her first crush from high school! And also her current best friend!"
+夏夏 : "没想到她的婚约者，也就是她的结婚对象，居然是自己的初恋，而且！　还是她现在的朋友！"
+
+夏夏
+夏夏 : 「三人ばらばらだと思っていたのに同一人物だなんて、わたしちょっと混乱しちゃいましたよ」
+Natsuka : "I thought they were three different people, so when it turned out that they were one and the same, I was really shocked!"
+夏夏 : "我以为这三位是不同的人，但没想到居然是同一位，真是一头雾水啊"
+
+リルヤ
+リルヤ : 「それと、高校時代の友達もだな」
+Lilja : "She's also her friend from high school."
+丽露娅 : "而且，还是她高中时代的朋友啊"
+
+夏夏
+夏夏 : 「そうですね！　今の結婚相手と友人さんと、昔の初恋相手と友達は全員同じ！」
+Natsuka : "That's right! Her current partner and best friend, her crush, and her friend from high school were all the same person!"
+夏夏 : "正是如此！　现在的结婚对象与朋友，居然就是曾经的初恋对象与朋友！"
+
+リルヤ
+リルヤ : 「合理的に考えて、そうなるだろう？」
+Lilja : "Logically speaking, wasn't that the only possible conclusion?"
+丽露娅 : "合理思考，差不多就是这个结果吧？"
+
+夏夏
+夏夏 : 「それがリルヤさんのいっていた必要な情報なんですね？」
+Natsuka : "Was that the 'necessary information' you kept mentioning, Lilja-san?"
+夏夏 : "这就是丽露娅小姐所说的必要的信息吗？"
+
+夏夏
+夏夏 : 「わたしにとっては不要だっていってましたけど、かなり混乱してるので、できたら色々と教えていただきたいのですが～～！？」
+Natsuka : "You said it was unnecessary to me, but I was super confused. I wish you would've explained that all to me!"
+夏夏 : "您对我说这些都是我不需要知道的信息，所以得知这些后我一片混乱呢。可以的话能对我好好说明一下吗～～！"
+
+リルヤ
+リルヤ : 「今となっては言っても言わなくても問題ない情報だが、何が知りたい」
+Lilja : "At this point, there's no reason to withhold anything. What do you want to know?"
+丽露娅 : "到现在这些信息你知不知道都无所谓了，不过，你想问什么呢"
+
+夏夏
+夏夏 : 「ええとまずは……いつ、婚約者さんが女性だって気づいたんですか？」
+Natsuka : "Well, first of all... When did you realize that Yuu-san's partner was a woman?"
+夏夏 : "嗯那首先是……您什么时候察觉到婚约者的性别是女性的？"
+
+リルヤ
+リルヤ : 「制服が２着来た時点で確定した。友人から借りたといっていたが、制服など気軽に借りられるものではないだろう？」
+Lilja : "When we received those two school uniforms. She said she'd borrowed one from a friend, but uniforms are personal items—you wouldn't casually lend one to just any friend."
+丽露娅 : "优女士送来两套校服时我就已经确定了。说是从朋友那里借来的，但校服可不是那么容易借到的东西吧？"
+
+リルヤ
+リルヤ : 「苦労して手に入れた様子もなかった。だとしたらその友人は、かなり親しい人間だということになる」
+Lilja : "She seemed to have no trouble obtaining a spare one, which means that the 'friend' she borrowed it from must have been quite close to her."
+丽露娅 : "没看她花多少功夫就拿到了。那么这位所谓的朋友，应该和她相当亲密"
+
+リルヤ
+リルヤ : 「もちろんそれだけでは、婚約者が女性という推論は導き出せない。決定打は、青いリボンだ。あの青いリボンは、ミス優のものだった」
+Lilja : "Naturally, that isn't enough information to conclude that it was her partner. The decisive clue was the blue ribbon. That ribbon was Miss Yuu's."
+丽露娅 : "不过仅凭这些还不能推断出婚约者的性别为女性。决定因素，是那条蓝色的缎带。那条蓝色缎带，是优女士的物品"
+
+夏夏
+夏夏 : 「えっ！？　でも優さんのリボンは、缶に入れて埋めてあるんじゃ！？　ていうかどうやって優さんのリボンだってわかったんですか？」
+Natsuka : "Huh!? But didn't Yuu-san put her ribbon inside of a tin and bury it!? Why would you think that it's hers?"
+夏夏 : "咦！？　但是优小姐的缎带不是装进盒子里埋掉了吗！？　而且您为什么知道那是优小姐的缎带呢？"
+
+リルヤ
+リルヤ : 「リボンにイニシャルの刺繍がしてあった。触れた時点でわかったよ」
+Lilja : "The ribbon had initials embroidered on it. I noticed them the moment I touched it."
+丽露娅 : "缎带上有绣着她名字的首字母。摸到缎带的时候我就发现了"
+
+夏夏
+夏夏 : 「ということは……優さんは友人さんと友情の証としてリボンを交換した？」
+Natsuka : "Does that mean Yuu-san exchanged ribbons with her friend as a token of their friendship?"
+夏夏 : "也就是说……优小姐将其作为与朋友的友情证明进行了交换？"
+
+夏夏
+夏夏 : 「でもそんな話はしてなかったですし、自分の初恋を埋めるなら、優さん本人のリボンじゃないとおかしいですよね？」
+Natsuka : "She didn't mention anything like that, and if she wanted to bury her love, it wouldn't make sense for her to bury any ribbon other than her own, would it?"
+夏夏 : "但是她也没说过这件事，而且要是埋掉自己的初恋，不埋自己的缎带是不是说不过去啊？"
+
+リルヤ
+リルヤ : 「ああ。だとしたら……その友人が、ミス優に気づかれないように交換したと考えるのが合理的だろう」
+Lilja : "Yes... In that case, it would be logical to speculate that the friend exchanged her ribbon with Miss Yuu's without being noticed."
+丽露娅 : "没错。那么……那位朋友在优女士毫不知情的情况下交换了缎带，这样想更合理吧"
+
+夏夏
+夏夏 : 「こ、混乱してきました……」
+Natsuka : "I-I'm getting confused again..."
+夏夏 : "我、我搞不懂了……"
+
+リルヤ
+リルヤ : 「何も混乱するところはない。高校時代、ミス優は友達に恋をしていた」
+Lilja : "There's nothing to be confused about. Back in high school, Miss Yuu fell in love with her best friend."
+丽露娅 : "没什么复杂的。高中时期，优女士对自己的朋友产生了恋爱之情"
+
+リルヤ
+リルヤ : 「しかし友達に想いを告げることもなく、片思いに苦しんだミス優は、自分のリボンを埋めることで初恋に別れを告げた」
+Lilja : "However, she never confessed her feelings and was suffering from her love. That's why she made the decision to bury her ribbon along with her first love."
+丽露娅 : "不过没能向朋友告白，被单相思所折磨的优女士，决定将自己的缎带埋掉以告别初恋"
+
+リルヤ
+リルヤ : 「そして、ミス優は同一人物である初恋相手と友達の顔を忘れた」
+Lilja : "Moreover, Miss Yuu forgot the faces of both her best friend and her crush, who turned out to be the same person."
+丽露娅 : "接着，她忘掉了同为自己初恋对象的朋友的面容"
+
+夏夏
+夏夏 : 「は！　そういえば、優さんがクラスメイトに聞いたら、友達のことを誰も知らないっていってましたが……あれは？」
+Natsuka : "Oh! Yuu-san did mention that when she asked her former classmates about her friend, nobody seemed to know about her. Why was that?"
+夏夏 : "哈！　说起来，优小姐问过自己的同班同学，结果没人知道她朋友长什么样……这是因为？"
+
+リルヤ
+リルヤ : 「引っ越したのだろうな」
+Lilja : "She must have moved away."
+丽露娅 : "应该是搬家了吧"
+
+リルヤ
+リルヤ : 「たとえばだが、ミス優の友達があまりクラスメイトとは付き合いがなく、引っ越しで夏休み明けにはいなくなっていたのならば」
+Lilja : "In that case, Miss Yuu's friend wouldn't have had much interaction with their classmates, especially if she moved away right at the beginning of summer vacation..."
+丽露娅 : "假设优女士的朋友不怎么和同班同学交流，然后因为搬家，在暑假结束后就离开了学校"
+
+リルヤ
+リルヤ : 「彼女たちに記憶がなくても不思議はないだろう」
+Lilja : "It's not strange that she completely disappeared from their classmates' memories."
+丽露娅 : "那么没人记得那个朋友，也不是件奇怪事了吧"
+
+夏夏
+夏夏 : 「そういえば、関西方面の人だっていってましたね。優さんと同郷だったけど、引っ越しをして関西の人になったと」
+Natsuka : "Now that you mention it, Yuu-san said her partner was from Kansai, right? So, she originally lived in the same town as Yuu-san, but then she moved away to Kansai."
+夏夏 : "说起来，优小姐说她是关西人呢。本来和自己是老乡，结果搬到了关西"
+
+リルヤ
+リルヤ : 「ミス優の片思いだけなら、それで終わるはずだった」
+Lilja : "If Miss Yuu's feelings were truly unrequited, then that would have been the end of the story."
+丽露娅 : "如果只是优女士的单相思的话，那么在此一切都将画下句号了"
+
+リルヤ
+リルヤ : 「しかし、相手もまたミス優に思いを寄せていた。青いリボンは相手の手に渡っていたことがその証拠だ」
+Lilja : "However, the friend also had feelings for Miss Yuu. The fact that she possessed Miss Yuu's ribbon proves it."
+丽露娅 : "但碰巧的是，那位朋友也对优女士有复杂的情愫。这也就是为什么优女士的蓝色缎带到了她的手里"
+
+リルヤ
+リルヤ : 「だがふたりは上京して偶然にも会社が同エリアだった。相手は、ミス優に出会い……そして――」
+Lilja : "It was coincidence that both of them moved to Tokyo and found jobs in the same area. Then they met, and..."
+丽露娅 : "但是两人却来到东京，而且工作地点就在同一个区。于是她与优女士相遇……接着——"
+
+リルヤ
+リルヤ : 「ミス優が高校時代に殺した恋を、相手はもう一度はじめることにした」
+Lilja : "The friend decided to rekindle the love that Miss Yuu tried to bury back in high school."
+丽露娅 : "对方打算再续当年被优女士所扼杀的恋爱"
+
+夏夏
+夏夏 : 「あ！　お相手が青いドロップのチャームをつけてたのはわざと！？」
+Natsuka : "Oh! Do you think she carried that phone charm of a blue candy drop with her on purpose!?"
+夏夏 : "啊！　优小姐的对象，是故意在自己手机上挂蓝色硬糖坠饰！？"
+
+リルヤ
+リルヤ : 「そう考えるのが合理的だろうな。ミス優が思い出してくれるのを、期待したのかもしれないが、残念ながら思い出さなかった」
+Lilja : "That would be a logical conclusion. Perhaps she hoped Miss Yuu would remember everything when she saw it. Unfortunately, it didn't work."
+丽露娅 : "这样想要更合理吧。可能是期待这个东西能让优女士回想起以前的种种，可惜她并没有想起来"
+
+夏夏
+夏夏 : 「でも、優さんはお相手さんの存在に刺激されて、忘れていることさえ忘れていた初恋を思い出したくて、リルヤさんに絵を依頼してきた」
+Natsuka : "But their first meeting inspired Yuu-san to try to remember her first love—the one she forgot she'd forgotten—by requesting a painting from you, Lilja-san."
+夏夏 : "但是，优小姐被她的存在所刺激，打算回忆起甚至忘记已经遗忘了的，初恋的回忆，便向丽露娅小姐发来了委托"
+
+リルヤ
+リルヤ : 「もやもやとしたものを抱えていたのは事実だろうな。今の状況にも、迷いがあったのだろう」
+Lilja : "I suppose it's true that she was harboring some doubts. She must have been feeling hesitant about her current situation as well."
+丽露娅 : "她感到混乱不已应该是事实。甚至对目前自己身处的环境也感到迷茫"
+
+夏夏
+夏夏 : 「迷い……ですか？」
+Natsuka : "What do you mean?"
+夏夏 : "迷茫……吗？"
+
+リルヤ
+リルヤ : 「本当に幸せな人間は、あんな風に何かあったときに自分に言い聞かせるように、今はとても幸せだとはいわないものだ」
+Lilja : "Someone who's truly happy doesn't keep repeating to themselves how happy they are. It sounded like she was trying to convince herself."
+丽露娅 : "真正幸福的人，是不会像那样在遇到什么事的时候，自欺欺人地告诉自己很幸福的"
+
+リルヤ
+リルヤ : 「ミス優が現在の友人と婚約者を、夏夏に別の存在として認識させようとしたことからも、容易にその迷いは推測できる」
+Lilja : "You can also infer hesitation from the fact that she introduced her significant other and her friend to you as different people."
+丽露娅 : "而从优女士在让夏夏你认为现在的朋友与自己的婚约者是不同的人这点来看，很容易就能推断出她心怀迷茫"
+
+リルヤ
+リルヤ : 「だからこそ、一番楽しかった頃の思い出を、そんな迷いを払拭するために、前へ足を踏み出すための力にしたかったのだろう」
+Lilja : "I suppose that's why she wanted her memories of her precious high school days to act as the power she needed to dispel that hesitation and move on."
+丽露娅 : "因此，她为了消除自己的迷茫，才打算将自己最开心的回忆，作为向前迈进的原动力"
+
+夏夏
+夏夏 : 「優さん……」
+Natsuka : "Yuu-san..."
+夏夏 : "优小姐……"
+
+夏夏
+夏夏 : 「あ、じゃあ、もしかして、あのサムシングフォーたちは、婚約者さんが持ってきたアイテムだったんですか？」
+Natsuka : "Oh, could it be that her 'Four Somethings' were all things her partner gave her?"
+夏夏 : "啊，那，难道说那些Something four，其实是她的婚约者带来的东西吗？"
+
+リルヤ
+リルヤ : 「なぜそう思う？」
+Lilja : "Why do you think so?"
+丽露娅 : "为什么会这样想？"
+
+夏夏
+夏夏 : 「ううーん……なんとなく？」
+Natsuka : "Hmm... It's just a hunch."
+夏夏 : "嗯嗯……不知不觉？"
+
+リルヤ
+リルヤ : 「論理の欠片もないな。まあいい。正解だ」
+Lilja : "Not a shred of logic, huh? That's all right though, because that's correct."
+丽露娅 : "真是没点逻辑。不过算了。你答对了"
+
+リルヤ
+リルヤ : 「青いリボンがミス優のものであることがわかったからな」
+Lilja : "We know now that the blue ribbon was originally Miss Yuu's."
+丽露娅 : "因为我已经知道蓝色缎带属于优女士了"
+
+リルヤ
+リルヤ : 「お前たちがでかけたあと、すぐに婚約者に連絡を取り、話を聞くついでに、参考用にサムシングフォーの一部を持ってきてもらった」
+Lilja : "After you two headed out, I immediately contacted her significant other and asked her to bring me their 'Four Somethings' for reference."
+丽露娅 : "所以在你们出去之后没多久，我立刻和她的婚约者取得了联系，在和她聊天的时候，我让她带上Something four中的其中一部分来供参考"
+
+リルヤ
+リルヤ : 「直接会わなくても、荷物ならマンション・コンシェルジュに渡すように指示すれば、それで済むからな」
+Lilja : "There was no need to meet in person—she could just give the package to the building manager."
+丽露娅 : "就算不用直接见面，只要给公寓接待员下达指示，送来的东西就会到我手上"
+
+夏夏
+夏夏 : 「でも婚約者さんの連絡先、よくわかりましたね。それも優さんから、教えてもらっていたんですか？」
+Natsuka : "I'm surprised you managed to track down her contact information. Or did Yuu-san give that to you?"
+夏夏 : "但您是怎么知道婚约者的联系方式的。难道也是优小姐告诉您的吗？"
+
+リルヤ
+リルヤ : 「いや？　だが、ミス優が親しくしている友人のＳＮＳのアカウントがあるからな。そこから連絡を入れた」
+Lilja : "No, she didn't. But I could see who Miss Yuu's closest contacts were from her socials, so I contacted her that way."
+丽露娅 : "这倒不是啊？　不过，我找到了和优女士关系很好的朋友的社交账号。然后我就联系了那个账号"
+
+夏夏
+夏夏 : 「なるほど！　サムシングフォーは参考になったんですか？」
+Natsuka : "I see! So, were the 'Four Somethings' useful as reference?"
+夏夏 : "原来如此！　那么拿到的Something four有派上用场吗？"
+
+リルヤ
+リルヤ : 「なったぞ。サムシングオールド」
+Lilja : "They were. Especially the 'something old.'"
+丽露娅 : "嗯，是其中的Something old"
+
+リルヤ
+リルヤ : 「通常は祖母や母から譲り受けたものを使うが、そこに缶入りドロップスのチャームを流用したアクセサリーを使おうとしていたからな」
+Lilja : "Normally, a bride would use something she inherited from her mother or grandmother, but Yuu-san was going to use her phone charm of a candy drop."
+丽露娅 : "一般来说是从祖母或母亲那里得来的东西，不过她给我的是参考了糖果坠饰设计的小装饰品"
+
+リルヤ
+リルヤ : 「気になって婚約者に聞いてみたところ――」
+Lilja : "I would curious about that, so I asked her partner..."
+丽露娅 : "出于好奇我问了下那位婚约者——"
+
+リルヤ
+リルヤ : 「ミス優が缶入りドロップス製菓会社の社員であることと、チャームがふたりの出会いのきっかけになったこと」
+Lilja : "She told me Miss Yuu works for that confectionary company, and that charm became the catalyst for their reunion."
+丽露娅 : "结果她的回答是，优女士是制作罐装糖果的公司的员工，以及坠饰是两人相遇的契机两点"
+
+リルヤ
+リルヤ : 「それだけでは片付けられない執着を感じたからな」
+Lilja : "But I felt that couldn't be the only reason. There had to be something more."
+丽露娅 : "从她的话中，我感受到了她那无法被这两点所概括的执念"
+
+リルヤ
+リルヤ : 「それに、婚約者のチャームはミス優のチャームと比べて、かなり痛んでいた。おそらくは高校時代からつけていたのだろう」
+Lilja : "Her partner's charm was a lot more worn out than Miss Yuu's. She's probably had the same one since high school."
+丽露娅 : "而且她的坠饰相比优女士的而言要更饱经风霜。恐怕是在高中时代就用上了吧"
+
+夏夏
+夏夏 : 「優さんのドロップスのチャームは、会社の倉庫に入っていたからか、すごく新しく見えました」
+Natsuka : "Yuu-san's charm came from some leftover stock at her company, so it's still in mint condition."
+夏夏 : "优小姐的糖果坠饰，估计是从公司的仓库里拿的，看上去特别新"
+
+リルヤ
+リルヤ : 「新品同様のミス優のチャームと、婚約者のチャーム……忘れてしまったミス優と、忘れられなかった友人の間に流れた時間を感じさせた」
+Lilja : "Miss Yuu's charm was brand new, and her partner's was timeworn... They seemed to symbolize the time that passed between Miss Yuu, who chose to forget everything, and her partner, who could never forget."
+丽露娅 : "优女士那崭新的坠饰，与婚约者的坠饰……让我感受到了已然忘却的优女士，与无法释怀的朋友之间流动的时间"
+
+夏夏
+夏夏 : 「そう考えるとなんだか切ないですね……」
+Natsuka : "That's kinda sad when you think about it..."
+夏夏 : "真是难过的故事……"
+
+リルヤ
+リルヤ : 「だが、ミス優は思い出すべきことを思い出し――」
+Lilja : "However, Miss Yuu has remembered what she needed to remember."
+丽露娅 : "万幸的是，优小姐复苏了需要唤醒的回忆——"
+
+リルヤ
+リルヤ : 「かつての友達であり初恋の人物であり、現在の友人である婚約者である人物と、未来を踏み出すことを決意した」
+Lilja : "She decided to step into the future with the person who is at once her friend from the past, the first object of her affection, her best friend right now, and her partner for life."
+丽露娅 : "她下定决心，与曾经的朋友和初恋对象，以及现在的朋友即自己的婚约者，一同迈向未来"
+
+リルヤ
+リルヤ : 「合理的に考えて何も問題はあるまい？」
+Lilja : "If you think about it logically, there are no issues with that whatsoever, are there?"
+丽露娅 : "合理思考，这不存在任何问题吧？"
+
+夏夏
+夏夏 : 「そうですね！」
+Natsuka : "Nope!"
+夏夏 : "是的！"
+
+リルヤ
+リルヤ : 「それにしても、夏夏のいうとおりだったな」
+Lilja : "Either way, it seems like you were right."
+丽露娅 : "不过话说回来，夏夏你也说对了一点"
+
+夏夏
+夏夏 : 「えっ、わたしですか？」
+Natsuka : "Huh, I was?"
+夏夏 : "咦，我吗？"
+
+リルヤ
+リルヤ : 「ああ。初恋は何度殺しても蘇る……恐ろしいものだな」
+Lilja : "Yes. You can't forget your first love. No matter how often you try to bury it, it will rear its ugly head."
+丽露娅 : "对呀。初恋永远都有死灰复燃的可能……还真是恐怖"
+
+夏夏
+夏夏 : 「違いますよー！　ロマンティックなんです！　運命ですよ！」
+Natsuka : "No! I didn't mean it that way! It's romantic! It's destiny!"
+夏夏 : "才不是！　这可是浪漫呢！　是命运呢！"
+
+リルヤ
+リルヤ : 「再会という、偶然があったことは認めよう。偶然は確率で説明ができないわけでもないが、運命はせいぜい前後即因果の誤謬だな」
+Lilja : "I admit that their reunion was a coincidence—a chance meeting. While 'coincidences' can be calculated by the laws of probability, fate is at best a fallacy of cause and effect."
+丽露娅 : "我承认所谓再会是偶然事件。虽然偶然事件也不是不能用概率来进行解答，不过命运这种东西，无非是事后归因的产物罢了"
+
+夏夏
+夏夏 : 「まあわたしもあんまり運命だけに頼るのはどうかと思ってますけどね。やっぱり自分で掴みとらないと」
+Natsuka : "Well, I agree that it's not good to rely on fate alone. Sometimes you have to take things into your own hands."
+夏夏 : "不过我也觉得不能总把一切都归结于命运上面啊。还是要自己去把握一切"
+
+夏夏
+夏夏 : 「だから、わたしはリルヤさんとこうして一緒にいる運命をつかみ取ったんだったらいいなって思っていますよ」
+Natsuka : "So, I'd like to believe that you and I are together right now because I decided to take destiny into my own hands."
+夏夏 : "所以我希望能握紧能和丽露娅小姐在一起的缘分"
+
+リルヤ
+リルヤ : 「比翼の鳥か？　確かに私は、ひとつの目もなく、翼も失った鳥だがな？」
+Lilja : "We're not like a pair of lovebirds, though. If I were a bird, I wouldn't have any eyes or wings."
+丽露娅 : "比翼鸟吗？　我确实是一只目不能视，也没有翅膀的鸟呢"
+
+夏夏
+夏夏 : 「そういえば、優さんも、あなたたちは本当の比翼の鳥ねっていってました。でも、わたしはそうは思いません」
+Natsuka : "Yuu-san %i1did%id say that we're like a pair of lovebirds, but I agree with you—I don't think we are either."
+夏夏 : "说起来，优小姐还说我们才是真正的比翼鸟呢。但是我不这么认为"
+
+夏夏
+夏夏 : 「確かにリルヤさんには現実として失ったものが沢山ありますが、今のリルヤさんは、わたしがいなくてもひとりで生きることができます」
+Natsuka : "It's true that you've lost a lot, Lilja-san, but you're strong enough now to live on your own just fine without me."
+夏夏 : "丽露娅小姐在现实世界中确实失去了很多重要的事物，不过现在的您，哪怕没有我在也能独立生活"
+
+リルヤ
+リルヤ : 「確かにな。だが、それはお前もそうだろう。お前はどんな境遇でも、しぶとく生きていく」
+Lilja : "Sure, but the same can be said for you. You're a real survivor, tough enough to get through anything that's thrown at you."
+丽露娅 : "是啊。不过，你也差不多吧。不管面对怎样的境遇，你都能顽强生存下去"
+
+夏夏
+夏夏 : 「確かにそうかもしれません！　でも、それだからこそ、リルヤさんの目と足になれた今を、とっても得がたいなって思います」
+Natsuka : "Maybe you're right! But that's why I feel so privileged to be acting as your eyes and legs right now."
+夏夏 : "好像还真行！　不过，正因为如此，我才觉得现在成为丽露娅小姐眼睛与双腿的生活，是那么珍贵"
+
+夏夏
+夏夏 : 「運命でも運命じゃなくてもいいんです！　リルヤさんのそばにいられれば！　わかんないけどそう思うんです！」
+Natsuka : "It doesn't matter if it's fate or not, as long as I can be by your side! I don't %i1know%id that, but I %i1feel%id it!"
+夏夏 : "就算不是命运，那也无所谓！　只要在丽露娅小姐身边就行！　不是很懂，但我是这样想的！"
+
+リルヤ
+リルヤ : 「合理性の欠片もないな」
+Lilja : "Not a shred of logic."
+丽露娅 : "毫无逻辑啊"
+
+夏夏
+夏夏 : 「でもわたしはそれでいい、ですよね？」
+Natsuka : "But I'm fine this way, aren't I?"
+夏夏 : "但我就该这样，不是吗？"
+
+リルヤ
+リルヤ : 「違いない」
+Lilja : "Indeed, you are."
+丽露娅 : "没错"
+
+夏夏
+夏夏 : 「そういえばウェルカムボードに、リルヤさんの絵が使われていました」
+Natsuka : "They used your painting as part of the welcome sign for the wedding, by the way."
+夏夏 : "对了，我在欢迎板上用上了丽露娅小姐的画"
+
+夏夏
+夏夏 : 「みんな思わず足をとめちゃって、軽い渋滞になってたのですぐに仕舞われちゃいましたけど……」
+Natsuka : "All the guests stopped in their tracks to look at it, so there ended up being a traffic jam at the entrance. They had to take it down to get people to come in..."
+夏夏 : "看到的人都不经意间停下脚步，以至于造成了短暂的拥堵，所以我很快就把它撤走了……"
+
+リルヤ
+リルヤ : 「当然だな」
+Lilja : "Of course they did."
+丽露娅 : "意料之中"
+
+夏夏
+夏夏 : 「何度見てもいい絵です。そういえば、タイトルはあるんですか？」
+Natsuka : "It really is a wonderful painting. You could get lost in it forever. Does it have a title?"
+夏夏 : "真是一幅久看不厌的画呢。说起来，我还不知道画名，是什么呀？"
+
+リルヤ
+リルヤ : 「ああ、あれは……」
+Lilja : "Yes, it does..."
+丽露娅 : "嗯，它叫……"
+
+None
+None : 夏のあやまちはブルー／リルヤ・メリ
+None : %i1The Blue Mistakes of Summer%id by Lilja Meri
+None : 蔚蓝夏日的小小失败/丽露娅・梅莉
+

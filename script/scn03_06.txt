@@ -1,0 +1,465 @@
+夏夏
+夏夏 : 「ただいま、帰りましたー！」
+Natsuka : "I'm hooooome!"
+夏夏 : "我回来了——！"
+
+夏夏
+夏夏 : 「あっあのですね、リルヤさん、わたし、たぶん見つけたと思うんです、絶対に見えない世界、あ、あと――これ、リルヤさんにおみや」
+Natsuka : "Hey, so! I think I found my answer to that world you could never see, Lilja-san! Oh, but also, here's a souve—"
+夏夏 : "那、那个，丽露娅小姐，我想我，应该是找到了，绝对看不到的世界，还、还有——这个，给丽露娅小姐带的伴手……"
+
+リルヤ
+リルヤ : 「……風呂だな」
+Lilja : "...It's time for a bath."
+丽露娅 : "……先洗澡吧"
+
+夏夏
+夏夏 : 「えっ、お風呂ですか？　お風呂お手伝いしますか？　あっ、違いますね、わたしですね、土まみれなのわかります？」
+Natsuka : "A bath? You want me to help you in the bath? Oh! Wait, you mean me, huh? You can tell I'm covered in dirt then?"
+夏夏 : "哎？洗澡吗？是需要我帮您洗澡吗？啊，应该不是吧，说的是我吧，您知道我一身都是土吗？"
+
+リルヤ
+リルヤ : 「ジェオスミンのにおいがする。湿った土にまみれてきたのだろう？」
+Lilja : "I could smell the geosmin on you. So naturally, you must have been covered in mud."
+丽露娅 : "你有股土臭素的味道。身上都是潮湿的泥土吧？"
+
+夏夏
+夏夏 : 「す、すごい大正解です！　あ、この雨のあとみたいなにおいには、そんな名前がついているんですねえ！」
+Natsuka : "W-Wow, you're right on the money! So that's what the smell after it rains is called!"
+夏夏 : "完、完全没错！啊，雨后空气的味道，原来是叫这个名字啊！"
+
+夏夏
+夏夏 : 「てゆか、思った以上にわたしどろんこですね？　どろんこハリー並みですね？？？」
+Natsuka : "But wow, I guess I'm muddier than I thought! I'm like Harry the Dirty Dog, huh?"
+夏夏 : "话说，我身上的泥确实好多啊。感觉跟小脏狗哈利一样了？？？"
+
+夏夏
+夏夏 : 「あっでも部屋には落としてないので、ご安心ください！　とにかく風呂ってきます！」
+Natsuka : "Oh, but I didn't track in any on the floor, so don't worry! Anyway, bathtime for me!"
+夏夏 : "啊不过不会弄到房间里的，请您放心！总之我先去洗澡了！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : （まったく、非効率きわまりない動きだな……）
+Lilja : (Such utter inefficiency...)
+丽露娅 : （真让人头疼，没有比这更低效率的行动了……）
+
+リルヤ
+リルヤ : （だがそれでも……）
+Lilja : (But regardless...)
+丽露娅 : （不过我还是……）
+
+リルヤ
+リルヤ : （私には、新しい目が必要なのだ）
+Lilja : (I %i1need%id these new eyes.)
+丽露娅 : （需要一双新的眼睛）
+
+夏夏
+夏夏 : 「改めまして、ただいまです！」
+Natsuka : "Okay, once again! I'm back!"
+夏夏 : "再来一遍，我回来了！"
+
+リルヤ
+リルヤ : 「語れるか？」
+Lilja : "Are you ready to tell me about it?"
+丽露娅 : "现在能讲了吗？"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Sure am!"
+夏夏 : "可以了！"
+
+リルヤ
+リルヤ : 「では語ってみせろ」
+Lilja : "Then go on."
+丽露娅 : "那你讲讲吧"
+
+夏夏
+夏夏 : 「はい！　では、これをどうぞ。おみやげです！」
+Natsuka : "Okay! So, here's a souvenir!"
+夏夏 : "好的！那请您拿好这个。这个是伴手礼！"
+
+リルヤ
+リルヤ : 「石、だな」
+Lilja : "A rock, yes?"
+丽露娅 : "这是，石头吧"
+
+夏夏
+夏夏 : 「はい、石です。さっきわたしと一緒にきれいに洗ってきたので、変なにおいもしないと思いますよ」
+Natsuka : "Yep, a rock! I washed it nice and clean in the bath with me, so it shouldn't have a weird smell or anything!"
+夏夏 : "是的，是石头。刚刚洗澡的时候一起洗干净了，所以应该没有奇怪的味道吧"
+
+リルヤ
+リルヤ : 「石のにおいは残しておいてもよかったが、まあ良い。つづけろ」
+Lilja : "I wouldn't have minded the smell, but it is what it is. Continue."
+丽露娅 : "留点石头的味道也没关系，不过没事。你继续吧"
+
+夏夏
+夏夏 : 「実は井戸に落ちまして」
+Natsuka : "Okay, so I fell down a well."
+夏夏 : "其实我摔到井里面去了"
+
+リルヤ
+リルヤ : 「井戸」
+Lilja : "A well?"
+丽露娅 : "井里"
+
+夏夏
+夏夏 : 「あ、もちろん、空っぽの井戸で、怪我はしてないです。元気です！」
+Natsuka : "Oh, but it was empty! I didn't get hurt or anything. I'm fit as a fiddle!"
+夏夏 : "啊，当是一口枯井，我没有受伤，很健康！"
+
+夏夏
+夏夏 : 「この石がこつっておでこに当たりまして、それで目を覚ましたんです」
+Natsuka : "This li'l rock bonked me on the head and woke me up!"
+夏夏 : "我被这个石头绊倒撞到了额头，然后我醒悟过来了"
+
+夏夏
+夏夏 : 「井戸の底は真っ暗で、この石みたいにひんやりしていて、遠くに、青い空が丸く切り取られていました。それが井戸の入口でした」
+Natsuka : "It's pitch black at the bottom of a well, and nice and cool like this rock. Far above, there's a cutout circle of sky where the top of the well is."
+夏夏 : "井底非常黑，像这个石头一样很凉快，在远处，天空被剪出来一个圆形。那就是井口"
+
+夏夏
+夏夏 : 「井戸の底から見る空は、丸くて青い窓みたいでした」
+Natsuka : "But the sky from the bottom of the well is like a circular blue window."
+夏夏 : "从井底看见的天空，就像是一个圆形的蓝色的窗户"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「わたしが井戸をさがしていたのは、あの井戸が冥府と繋がるって聞いたからなんです」
+Natsuka : "The reason I went out looking for this well was because I heard it was connected to the spirit realm."
+夏夏 : "我找井的原因是因为我听说那口井连接着地府"
+
+夏夏
+夏夏 : 「井戸の底から、死んだ人に会えるのかなって……」
+Natsuka : "I thought maybe if I went down there, I could meet with the dead..."
+夏夏 : "在井底下能够跟死去的人再会……"
+
+夏夏
+夏夏 : 「でも、井戸の底には当たり前ですが誰もいなくて、世界にたったひとりみたいでした」
+Natsuka : "But obviously, nobody was down there. And it was more like I was the only person in the whole wide world instead."
+夏夏 : "但是，井底下理所当然是一个人也没有，感觉全世界就剩下我一个人了"
+
+夏夏
+夏夏 : 「でも、井戸を見に行ってよかったです。井戸の底から見る青い空なんて、わたしも、生まれてはじめて経験する世界だったので」
+Natsuka : "But I'm really glad I went looking for it. Seeing the sky from the bottom of the well was a world I'd never experienced before."
+夏夏 : "不过，去找井真是太好了。在井底下看到的蓝天，对我来说也是出生到现在第一次体会到的世界"
+
+夏夏
+夏夏 : 「わたし、これまでずっと狭い世界で生きていたんですよね」
+Natsuka : "I'd always lived in a narrow, cut-off world up until now too."
+夏夏 : "之前我一直都生活在狭窄的世界中呢"
+
+夏夏
+夏夏 : 「まあるい井戸の入口が切り取る青い空は、そのときに窓から見えた空みたいでした」
+Natsuka : "The sky, framed by the circular top of the well, reminded me of the sky I saw from my window back then."
+夏夏 : "被圆形的井口减下来的蓝天，跟我当时从窗户看到的天空是一样的"
+
+夏夏
+夏夏 : 「あの頃、わたしの世界はすごく狭くて……」
+Natsuka : "My world was so small back then..."
+夏夏 : "那个时候，我的世界非常的狭窄……"
+
+夏夏
+夏夏 : 「でも、その窓の外にある世界は無限大だって思えました」
+Natsuka : "But the world outside my window seemed limitless."
+夏夏 : "不过我觉得，那扇窗户的外面有着无限大的世界"
+
+夏夏
+夏夏 : 「外の世界がわからないなら、どんなことでも想像できるから。だからね、無限大なんです」
+Natsuka : "If you don't know anything about the outside world, you can imagine whatever you want. So it's infinite."
+夏夏 : "只要不知道外面的世界是什么样的，不管怎么想象都可以。所以是无限大的"
+
+夏夏
+夏夏 : 「そうしてあんなかな？　こんなかな？　って考えるだけで、すごく楽しかったんです」
+Natsuka : "I would have so much fun coming up with ideas about what it might be like out there."
+夏夏 : "然后就会想，会不会是这样呢？会不会是那样呢？这样东想西想真的很开心"
+
+夏夏
+夏夏 : 「外に出ないとき、外の世界は、どんな世界にもなりました」
+Natsuka : "When you don't go outside, that outside world can be anything you want it to be."
+夏夏 : "没有出到外面的时候，外面的世界，想是什么样的世界都行"
+
+夏夏
+夏夏 : 「お菓子の国になったり、月が５つある不思議な世界になったり、一面の水の世界になったり……他にもたくさん、たくさん想像しました」
+Natsuka : "It could be a land of candy and sweets, or a mysterious land with five moons, or a totally underwater world... And there were so, so many more worlds I imagined it could be."
+夏夏 : "全是零食的王国、有着五个月亮的奇妙的世界、一望无际全都是是水的世界……像这样的还有很多，我都想象过"
+
+夏夏
+夏夏 : 「それは、お姉ちゃんに小説や漫画、映画をいっぱいいっぱい見たり、読んだり、説明したりしたときとおんなじで……」
+Natsuka : "It was just like when I'd read books or manga, or watch movies with my sister."
+夏夏 : "这和我给姐姐看、读、说明那些小说、漫画还有电影的时候一样……"
+
+夏夏
+夏夏 : 「どんなに狭い世界にいても、一冊の本や漫画や一本の映画が、わたしの世界を無限大にしてくれていて……」
+Natsuka : "No matter how small my world was, that one book, manga, or movie would make my world infinite."
+夏夏 : "不管是多么狭窄的世界，只要有一本书、一本漫画或者一部电影，我的世界就会变得无限大……"
+
+夏夏
+夏夏 : 「それで……」
+Natsuka : "And then..."
+夏夏 : "然后……"
+
+夏夏
+夏夏 : 「えーと……それから……」
+Natsuka : "And... And then..."
+夏夏 : "那个……然后是……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「どうした」
+Lilja : "Is something the matter?"
+丽露娅 : "怎么了"
+
+夏夏
+夏夏 : 「は！　すみません」
+Natsuka : "Oh! Sorry about that."
+夏夏 : "啊！抱歉"
+
+夏夏
+夏夏 : 「ええとですね、話は急に変わるんですが、わたしずっと気になっていたことがありまして」
+Natsuka : "Um, okay, so this is kinda changing the topic, but there's been something on my mind."
+夏夏 : "那个，话说到一半有点突然，不过有件事我一直很想问"
+
+夏夏
+夏夏 : 「夏の雪のとき、わたしが、リルヤさんの髪や手の甲に雪が落ちているっていったとき……」
+Natsuka : "So, back with the summer snow thing, remember when I told you there was snow on your hair and your hands?"
+夏夏 : "做出夏天的雪的那个时候，我说雪落在了丽露娅小姐的头发还有指甲上的时候……"
+
+夏夏
+夏夏 : 「ほんのすこしだけ表情が変わったじゃないですか？」
+Natsuka : "I feel like your expression changed a little."
+夏夏 : "丽露娅的表情好像稍微变化了一下吧？"
+
+夏夏
+夏夏 : 「たぶん気のせいじゃなかったと思うんですけど……あれはなんだったのかって」
+Natsuka : "I don't think that was just my imagination... So what was it?"
+夏夏 : "应该不是我的错觉……不过我一直在想那是为什么呢"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+リルヤ
+リルヤ : 「意外に、よく見ているな」
+Lilja : "You're surprisingly observant."
+丽露娅 : "没想到，你观察得还挺仔细"
+
+リルヤ
+リルヤ : 「単純な話だ。事実と感嘆の違いだ」
+Lilja : "It's something quite simple. I was just thinking about the difference between stark facts and feelings."
+丽露娅 : "很简单。是因为事实和感慨的差别"
+
+リルヤ
+リルヤ : 「お前が語る言葉には、感嘆が混じる。それがお前の見ている世界と、私の見ている世界の違いだ」
+Lilja : "Your words always had so much excitement in them. It was showing me the difference between the world you see and the world I see."
+丽露娅 : "你说的话中掺杂着感慨。这就是你看到的世界和我看到的世界的不同"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「リルヤさん」
+Natsuka : "Lilja-san."
+夏夏 : "丽露娅小姐"
+
+夏夏
+夏夏 : 「あなたに絶対に見えない世界の答は――」
+Natsuka : "The world you could never see..."
+夏夏 : "您绝对看不到的世界是——"
+
+夏夏
+夏夏 : 「わたしだけが知っている世界です」
+Natsuka : "...Is the world only I know."
+夏夏 : "只有我才知道的世界"
+
+夏夏
+夏夏 : 「わたしの感情とわたしの記憶とわたしの想いを通して見た世界です」
+Natsuka : "It's the world as seen through my feelings, my memories, and my experiences."
+夏夏 : "通过我的感情、我的记忆和我的想法所看到的世界"
+
+夏夏
+夏夏 : 「井戸の底から見た世界……青い窓みたいな井戸の入口……」
+Natsuka : "The world I saw from the bottom of the well... The top of the well, like a blue window..."
+夏夏 : "我在井底看到的那个世界……像蓝色的窗户一样的井口……"
+
+夏夏
+夏夏 : 「手をのばして、空に向けて指を動かしたら、青い絵の具がついちゃいそうな青い色……」
+Natsuka : "If you put up your hand and traced your fingers along the sky, it was like you were smearing blue paint all across it."
+夏夏 : "如同把手伸直，用手指对着天空搅动，就会沾上蓝色颜料般的蓝色……"
+
+夏夏
+夏夏 : 「きれいでした。夜とも、地下室とも違う、ひんやりした温度に満ちた黒のなかにある青……はじめて見た青でした」
+Natsuka : "It was so beautiful. It was different from the sky at night, or the sky from a basement window. It was a cooling inky blackness with a touch of blue... I'd never seen blue like that before."
+夏夏 : "太漂亮了。和夜晚不同，和地下室也不同，一片蓝色出现在充满了凉爽气温的黑色之中……那是我第一次见到的蓝色"
+
+夏夏
+夏夏 : 「わたし、あの井戸の底に落ちてよかったです。あの豊かな黒い世界に浮かぶ青を、見られてよかったです」
+Natsuka : "I'm really glad I fell down that well. I'm glad I got to see that beautiful blue drifting above a world of black."
+夏夏 : "我能够掉到那个井底下真是太好了。看到了在那丰富的黑色世界中所浮现的蓝色，真是太好了"
+
+夏夏
+夏夏 : 「これがわたしが語る、リルヤさんに見えない世界のお話です」
+Natsuka : "That's the world I want to tell you about. The world you could never see."
+夏夏 : "这就是我讲述的，丽露娅小姐看不到的世界"
+
+夏夏
+夏夏 : 「それから、もうひとつ」
+Natsuka : "Oh, and one more thing."
+夏夏 : "还有一件事"
+
+夏夏
+夏夏 : 「わたし、リルヤさんにお礼をいいたいんです」
+Natsuka : "I wanted to thank you, Lilja-san."
+夏夏 : "我想跟丽露娅小姐道谢"
+
+リルヤ
+リルヤ : 「礼？」
+Lilja : "For what?"
+丽露娅 : "道谢？"
+
+夏夏
+夏夏 : 「はい。あのですね、さっきの無限の空のつづきなんですがね」
+Natsuka : "Well, let me go back a bit to the whole infinite sky thing."
+夏夏 : "是的。那个，我想接着刚才说的无限的天空说下去"
+
+夏夏
+夏夏 : 「おうちにいるとき、世界は無限だったんですが、おうちから外に出たら、世界は無限じゃなくなりました」
+Natsuka : "So when I was in that house, I thought the world was limitless. But once I left, I found that it was finite."
+夏夏 : "在房子里的时候，世界是无限的，但出到房子外面后，世界就不是无限大的了"
+
+夏夏
+夏夏 : 「でも、わたし、外の世界ってすごいなって思ったんです。わたしの目の前に広がる世界は、すごくきれいで、素敵で……」
+Natsuka : "But I still thought the world was amazing all the same. The world stretching out before my eyes was so stunningly beautiful..."
+夏夏 : "但是，我觉得，外面的世界真的很壮观。出现在我眼前的世界，非常的漂亮、美好……"
+
+夏夏
+夏夏 : 「わたしはこれから、わたしの知らない色々な世界を見て、この世界がどれだけきれいなものかを語っていきたいなって思ったんです」
+Natsuka : "It made me think, 'Wow! I'm gonna see a whole world full of things I don't know and talk about how beautiful it all is!'"
+夏夏 : "从今天开始，我要去寻找各种各样我不知道的世界，我想要继续讲述这个世界有多么美丽"
+
+夏夏
+夏夏 : 「リルヤさん」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐"
+
+夏夏
+夏夏 : 「リルヤさんはわたしのｗｅｂラジオを聞いてくれてたんですね？　ありがとうございます」
+Natsuka : "You were listening to my podcasts, weren't you? That's why I'm thanking you."
+夏夏 : "丽露娅小姐您听过我的网络电台对吧？谢谢您"
+
+夏夏
+夏夏 : 「わたし、あのラジオを聞いてほしいひとがいたんですけど、でもそのひとは、あのｗｅｂラジオを聞ける環境になくって……」
+Natsuka : "There was someone I hoped would hear my podcasts, but she's not exactly in a place where she can do that..."
+夏夏 : "其实我很想让一个人收听我的电台，但是那个人并不在能够听网络电台的环境里……"
+
+夏夏
+夏夏 : 「でもそのひとに届いたらいいなって思いながら、ずっと語っていたんです。そのひとが見なかった新しい光景を、まだ見ぬ明日の光景を」
+Natsuka : "But I kept thinking how nice it would be if she %i1could%id hear it, so I kept talking like she could. I wanted to tell her all about these new places she hadn't seen yet, and all the places she might come to see tomorrow."
+夏夏 : "但我还是抱着要是能让那个人听到就好了啊的想法，一直都在讲述着。讲述着那个人没有看到的新的风景，还没有看到的未来的风景"
+
+夏夏
+夏夏 : 「でも、リルヤさんが聞いてくださっていたって知ったとき、わたし、すごく嬉しくて……」
+Natsuka : "When I realized that you'd been listening to me, I was overjoyed."
+夏夏 : "但是当我知道丽露娅小姐有听过我电台的时候，我真的，非常开心……"
+
+夏夏
+夏夏 : 「本当に、本当に、自分でもびっくりするくらい嬉しくなっちゃったんです」
+Natsuka : "Like, way happier than I thought even possible."
+夏夏 : "真的是，真的是开心到连我自己都觉得很意外"
+
+夏夏
+夏夏 : 「わたしの声、届いたんですね。わたしの言葉、届いたんですね」
+Natsuka : "My voice reached someone. My words managed to reach someone."
+夏夏 : "我的声音，有传达到啊。我的话语，有传达到啊"
+
+夏夏
+夏夏 : 「誰かに声が届くことが、言葉が届くことが、それが、こんなに嬉しいって、わたしはじめて知りました」
+Natsuka : "I never knew that having my voice and my words reach someone could make me so happy."
+夏夏 : "我第一次知道，原来我的声音、我的话语能够传达给别人，是这么开心的事情"
+
+夏夏
+夏夏 : 「だから、リルヤさん、ありがとうございます」
+Natsuka : "So thank you, Lilja-san."
+夏夏 : "所以，丽露娅小姐，谢谢您"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「ってすみません！　リルヤさんは知ってますね。聞いてほしかったのはお姉ちゃんだって、なんか遠回しな言い方になっちゃ――」
+Natsuka : "Oh, shoot! You probably already know this, but the one I wanted to hear me was my sister! I didn't mean to talk around it or any—"
+夏夏 : "啊抱歉！丽露娅小姐应该知道的吧。我希望能够听到我声音的那个人就是我的姐姐，不好意思说得那么拐弯抹角——"
+
+リルヤ
+リルヤ : 「ひとりにしてくれ」
+Lilja : "I want to be alone."
+丽露娅 : "让我一个人待一会"
+
+夏夏
+夏夏 : 「え、あ、あの？」
+Natsuka : "Huh? Um, why?"
+夏夏 : "哎？那、那个……"
+
+夏夏
+夏夏 : 「あ、あの、リルヤさんをお姉ちゃんの代わりにしたわけじゃなくて、わたしのなかでは、全然違ってて、だって……」
+Natsuka : "I-I wasn't trying to say you were a replacement for my sister... You and her are totally different in my heart..."
+夏夏 : "那、那个，我不是说丽露娅小姐是我姐姐的替代品，在我心里，你们完全不一样，因为……"
+
+リルヤ
+リルヤ : 「いいから、ひとりにしてくれ」
+Lilja : "I said I'd like to be alone."
+丽露娅 : "别说了，让我一个人待一会"
+
+夏夏
+夏夏 : 「わかりました。わたし、部屋に戻ってますね。でもリルヤさんが何か必要になったら、声をかけてくださいね。待ってますから」
+Natsuka : "Okay, I'll go back to my room. But if you need anything, just give me a yell. I'll be here."
+夏夏 : "好的。那我就先回房间去了。不过如果丽露娅小姐有什么需要的话，随时吩咐我就行。我就在房间里等着"
+
+夏夏
+夏夏 : 「はは……」
+Natsuka : "Haha..."
+夏夏 : "哈哈……"
+
+夏夏
+夏夏 : 「やっちゃいましたかねえ」
+Natsuka : "Now I've gone and done it."
+夏夏 : "我搞砸了吗"
+
+夏夏
+夏夏 : 「クビかなあ？　たははー……」
+Natsuka : "I'm gonna be fired, aren't I? Aghhh..."
+夏夏 : "要被开除了吗？啊哈哈……"
+
+夏夏
+夏夏 : 「はあ……」
+Natsuka : "Hahhh..."
+夏夏 : "唉……"
+
+夏夏
+夏夏 : （でも、本当にちがうんですよ。リルヤさん、リルヤさんとお姉ちゃんは……）
+Natsuka : (But I meant it. Lilja-san and my sister are so, so different...)
+夏夏 : （但是，真的不一样啊。丽露娅小姐，丽露娅小姐跟我的姐姐……）
+
+夏夏
+夏夏 : （たとえクビになっても、この気持ちだけは、ちゃんと伝えたい）
+Natsuka : (Even if I do wind up getting fired, I want to make sure she knows that.)
+夏夏 : （就算是要被开除，我也想要告诉她我的这个想法）
+

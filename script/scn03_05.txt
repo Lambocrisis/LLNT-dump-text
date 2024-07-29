@@ -1,0 +1,510 @@
+リルヤ
+リルヤ : 「今回の仕事だが、簡単な内容だ。だがこれを理解しなければ、私の新しい目として最低限の機能は果たせまい」
+Lilja : "The job I'd like you to do is simple. However, if you cannot succeed at this simple task, you won't even have the minimum skills required to become my new eyes."
+丽露娅 : "这次的工作内容很简单。不过如果你理解不了的话，你就无法满足作为我新眼睛的最基础的功能"
+
+夏夏
+夏夏 : 「わかりました！　わたしは何をすればいいんでしょう？」
+Natsuka : "Got it! So what'll you have me do?"
+夏夏 : "好的！请问需要我做些什么呢？"
+
+リルヤ
+リルヤ : 「私に絶対に見えない世界を語ってみせろ」
+Lilja : "I want you to tell me about a world I can never see."
+丽露娅 : "试着讲述出一个我绝对看不到的世界"
+
+夏夏
+夏夏 : 「絶対に見えない世界、ですか」
+Natsuka : "A world you can't see?"
+夏夏 : "绝对看不到的世界，吗？"
+
+リルヤ
+リルヤ : 「そうだ。言葉の通りだが、つまらない答は求めていないぞ」
+Lilja : "That's right. As one might expect, I won't accept any mundane answers for this."
+丽露娅 : "是的。就是字面上的意思，不过我要的不是那种无聊的答案"
+
+夏夏
+夏夏 : 「あの、質問はいいですか？」
+Natsuka : "May I ask a question?"
+夏夏 : "那个，我可以提问吗？"
+
+リルヤ
+リルヤ : 「許可しよう」
+Lilja : "I'll allow it."
+丽露娅 : "允许你问"
+
+夏夏
+夏夏 : 「リルヤさんは、絵が描きたいのですか？」
+Natsuka : "Is this because you want to paint something?"
+夏夏 : "丽露娅小姐，您是想画画吗？"
+
+リルヤ
+リルヤ : 「ああ。私は早急に一枚の絵をしあげる必要がある。その目的を達成するために、お前はここにいる」
+Lilja : "Indeed. I have a painting I need to paint as swiftly as possible. You're here to help me achieve that."
+丽露娅 : "嗯。我必须要尽快完成一幅画。让你在这里就是为了完成这个目的"
+
+リルヤ
+リルヤ : 「質問は以上か？　ならばはじめるぞ」
+Lilja : "Is that all? Then let us begin."
+丽露娅 : "问完了吗？那就开始吧"
+
+夏夏
+夏夏 : 「もうひとつだけ！」
+Natsuka : "Wait, just one more question!"
+夏夏 : "我最后再问一个！"
+
+リルヤ
+リルヤ : 「許可しよう」
+Lilja : "Go on, then."
+丽露娅 : "允许你问"
+
+夏夏
+夏夏 : 「昨日の夏の雪ですが、わたしと通話状態だったリルヤさんは、わたしが夏の雪として羽毛を使うのをわかってましたよね？」
+Natsuka : "So, yesterday you knew I was going to use feather down for the snow in summer thing since you were on the phone with me the whole time, right?"
+夏夏 : "是关于昨天夏天的雪的事，一直都跟我通电话的丽露娅小姐您，应该知道我要用羽毛来做夏天的雪吧？"
+
+リルヤ
+リルヤ : 「ああ、わかっていた。香水は意外だったがな。だが、意外性を求めたわけではない」
+Lilja : "Indeed, I did. I didn't expect the perfume along with it, but that wasn't why I accepted your answer."
+丽露娅 : "嗯，我知道。香水倒是出乎了我的预料。不过我并不需要不确定性"
+
+夏夏
+夏夏 : 「意外性を求めたわけではない……」
+Natsuka : "So it's not just novelty, okay..."
+夏夏 : "并不需要不确定性……"
+
+リルヤ
+リルヤ : 「ヒントとしては十分すぎるな。さあいってこい。今回は６時間やろう」
+Lilja : "I believe that's enough hints from me. Go on, now. You have six hours this time."
+丽露娅 : "提示已经够多了。马上开始吧。这次给你六个小时"
+
+リルヤ
+リルヤ : 「この程度の仕事をクリアできなければ、新しい目としての意味はない。クビだな？」
+Lilja : "There'd be no point in having someone who can't complete this task as my new eyes. You'll be fired on the spot."
+丽露娅 : "这种程度的工作都没法完成的话，成为我新的眼睛也没有意义。我会开除你的"
+
+夏夏
+夏夏 : 「いきなり！？」
+Natsuka : "That fast!?"
+夏夏 : "这么突然？！"
+
+リルヤ
+リルヤ : 「今回はインカムは無しにしてやろう。お前が持ち帰る答を期待している。ほら、いってこい」
+Lilja : "This time, we won't be connected via voice call. I look forward to seeing what you bring home. Go on, then."
+丽露娅 : "这次就不用带耳机了。我会期待着你带回来的答案的。好了，快去吧"
+
+夏夏
+夏夏 : 「うえええええええっがんばりまーすっ！！！」
+Natsuka : "Waaaaah! I'll do my beeeest!"
+夏夏 : "唔哎——？我努力！！！"
+
+夏夏
+夏夏 : 「はっはっはっはっはっ、うーん、うーん！！」
+Natsuka : "Huff! Huff! Huff! Huff! Hnnngh! Hnnngh!"
+夏夏 : "哈、哈、哈、哈、哈……嗯、嗯——！！"
+
+夏夏
+夏夏 : 「かぐや姫さんの新しい難題ですね、絶対に見えない世界を語るって何でしょう？　簡単なようでいて、すごく難しい、です！！」
+Natsuka : "Here we go with another one of Heracles's labors! What the heck could she mean by 'a world she could never see'? She said it was simple, but I beg to differ!"
+夏夏 : "又是辉夜姬出的一道全新的难题呢，讲述出一个绝对看不到世界是什么啊？说起来简单，做起来也太难了！！"
+
+夏夏
+夏夏 : （当たり前ですけど、リルヤさんは目が見えません。だからわたしの目の前に広がる、わたしが見ている世界は全部、リルヤさんにとって見えない世界なんですが……）
+Natsuka : (Like, obviously, Lilja-san can't see... anything. So technically the whole world that stretches out before me is a world Lilja-san can't see.)
+夏夏 : （虽然丽露娅小姐的眼睛理所应当是看不见的。所以在我的眼前的，我所看着的这整个世界，对于丽露娅小姐来说应该都是看不到的世界……）
+
+夏夏
+夏夏 : （でも、リルヤさんはつまらない答は求めていないといいました。つまり見えない世界をただそのまま語っても、それはたぶん答じゃないってことですよね？？）
+Natsuka : (But she said she wasn't gonna accept some kind of mundane answer, so there's no way it's gonna be something that boring, right?)
+夏夏 : （不过，丽露娅小姐说了不需要无聊的回答。也就是说把这看不到的世界直接讲给她听，大概也不是她想听到的答案吧？？）
+
+夏夏
+夏夏 : （ヒントはあるはずです。ふたつの問題とリルヤさんの台詞と反応からきっとそれは、わかるはず……！）
+Natsuka : (There has to be a hint somewhere. There must be something in what she said or how she reacted to my questions!)
+夏夏 : （应该是有提示的。提示肯定在我问的问题和丽露娅小姐说的话以及反应里……！）
+
+夏夏
+夏夏 : （前提として、リルヤさんは絵を描く必要があります）
+Natsuka : (So first off, Lilja-san said she has to paint something.)
+夏夏 : （前提是，丽露娅小姐需要画画）
+
+夏夏
+夏夏 : （絵を描きたいじゃなくて、描く必要っていってましたよね？　それってなんか絶妙にひっかかる言い方ですよねえ）
+Natsuka : (Not that she %i1wants%id to paint something. She %i1has%id to. Like, that's definitely something that caught my attention.)
+夏夏 : （并不是想画，而是需要画对吧？感觉她那种说法很容易让人在意呀）
+
+夏夏
+夏夏 : （とにかくそのために、リルヤさんはわたしに新しい目として働くことを望んでいます）
+Natsuka : (So the reason she asked me to become her new eyes was for that purpose.)
+夏夏 : （总之为了画画，丽露娅小姐希望我能作为她新的眼睛工作）
+
+夏夏
+夏夏 : （見えない世界を語って欲しい。つまらない答では駄目。つまりそれは夏の雪のようなもの。でも意外性は求めていない）
+Natsuka : (She wants me to tell her about a world she could never see. She doesn't want a boring answer, so she wants something like the snow in summer. But something unexpected won't cut it on its own.)
+夏夏 : （她希望我讲述出她看不到的世界。无聊的答案是不行的。也就是要像夏天的雪一样的东西。但是她并不需要不确定性）
+
+夏夏
+夏夏 : （それってつまり……）
+Natsuka : (So then, that means...)
+夏夏 : （也就是说……）
+
+夏夏
+夏夏 : （つまり？？？？？）
+Natsuka : (That means...)
+夏夏 : （就是说？？？？？）
+
+夏夏
+夏夏 : （ああ～～！　全然わかりません！　むずかしい～～～！）
+Natsuka : (Ahhh! I have no idea what that means! This is way too hard!)
+夏夏 : （哇～～！完全不懂啊！太难了吧～～～！）
+
+夏夏
+夏夏 : （どうしようどうしようどうしよう～～～）
+Natsuka : (What do I do!? What do I do!? What am I gonna do!?)
+夏夏 : （怎么办怎么办怎么办～～～）
+
+夏夏
+夏夏 : （ただこうして闇雲に走っていても駄目なのでは？？？　何か絵についてとか、調べた方がいいのでは？）
+Natsuka : (I can't just keep running around in the dark like this! Maybe I need to learn more about painting or something?)
+夏夏 : （只是这样来回晃悠肯定是不行的吧？？？稍微调查一下有关画的信息会比较好吧？）
+
+夏夏
+夏夏 : （いやいや！　付け焼き刃の知識なんて、それこそ駄目駄目の駄目ですよ却下案件ですよ！）
+Natsuka : (Ugh, no, no, no! She's not gonna care about some newbie's thoughts on that! She'd kick me to the curb in a heartbeat!)
+夏夏 : （不不不！临阵磨枪的情报才是不行不行到不行的否决方案啊！）
+
+夏夏
+夏夏 : （付け焼き刃じゃないこと、つまり、わたしがこれまでたっくさんしてきて身になっている経験……？）
+Natsuka : (I don't wanna do something I don't know anything about, which means it should be something I have tons of experience with!)
+夏夏 : （如果不是临阵磨枪的话，也就是说，是我至今为止亲身经历过很多次的经验……？）
+
+夏夏
+夏夏 : （ううーん、でもわたしがしてきたことなんて、ほんと狭い世界のことばかりでしたし……）
+Natsuka : (Hrmm, but I really don't have a wide range of experience or anything...)
+夏夏 : （嗯——但是我做过的事情，基本都是在很狭小的世界里的事……）
+
+夏夏
+夏夏 : （それこそお姉ちゃんのお世話をずっとしていて、そのあとはひたすらバイトして、あ、あと、自転車でこうして……）
+Natsuka : (I mean, I was constantly looking after my sister, and then after that I was solely focused on work... Oh, and I would ride my bike around like...)
+夏夏 : （基本都是在照顾姐姐，除此之外就是在打各种零工。啊，这样骑着自行车……）
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （こうして……きれいな世界を見て……語っていた……）
+Natsuka : (Like this... and look out at the beautiful world around me... and talk about what I saw...)
+夏夏 : （这样……看着漂亮的世界……讲述出来……）
+
+夏夏
+夏夏 : 「あー！！！！！！！」
+Natsuka : "Ohhhh!"
+夏夏 : "啊——！！！！！！！"
+
+夏夏
+夏夏 : 「わかりました！　たぶんわかりました！　わかんないですけど、たぶんきっといや絶対そうです！！」
+Natsuka : "I've got it! I think I've got it! Okay, maybe I don't, but like, I bet I maybe probably do!?"
+夏夏 : "我知道了！我应该知道了！不知道该怎么说，但大概可以肯定，不，绝对是这样的！！"
+
+夏夏
+夏夏 : （リルヤさん、聞いていてくれたんですね！？　わたしのｗｅｂラジオを！！）
+Natsuka : (Lilja-san listened to my podcasts, didn't she!?)
+夏夏 : （丽露娅小姐，您其实是听过的吧？！我的网络电台！！）
+
+夏夏
+夏夏 : （それでわたしに、連絡してくれたんですね！）
+Natsuka : (And that's why she contacted me!)
+夏夏 : （然后才联系上了我！）
+
+夏夏
+夏夏 : （家政婦紹介所経由で連絡してくれたのは、いきなり、新しい目になってほしいとか怪しすぎるからなんですかね？？？）
+Natsuka : (And the whole reason she went through the housekeeping agency was 'cause it'd be way too weird to just ask someone to be their new eyes outta the blue, right?)
+夏夏 : （通过保姆介绍所联系上我，是因为突然想让我成为她新的眼睛，这种事实在是太奇怪了吧？？？）
+
+夏夏
+夏夏 : （そのあたりはよくわかりませんが……）
+Natsuka : (Okay, I don't really know if that's what it was, but...)
+夏夏 : （不过这是为什么我就不知道了……）
+
+夏夏
+夏夏 : （とにかく見えない世界を語るについての方向性は、わかった気がするので、わかった気がする方に走っていきたいと思います！）
+Natsuka : (Anyway, I think I'm on the right path for finding her a world she could never see, so let's just charge headfirst that way!)
+夏夏 : （总之对于要讲述出看不到的世界我感觉自己已经找到了方向，接下来就朝着这已经知道的方向努力吧！）
+
+夏夏
+夏夏 : 「とにかくいつもどおりにしてみましょう！　前からいきたいって思っていた場所にいってみましょうか？　６時間あったら相当遠くまでいけますよね？」
+Natsuka : "Let's just do this like I've always done it! How about I go somewhere I've always wanted to go? I can go pretty far in six hours!"
+夏夏 : "总之就先像往常一样吧！去一下之前就想去的地方看看吧？六个小时的时间可以到很远的地方去了呢！"
+
+夏夏
+夏夏 : 「あ、でも！　確か、このあたりに……」
+Natsuka : "Oh, but wait! I think somewhere around here..."
+夏夏 : "啊，不过！我记得，这附近……"
+
+夏夏
+夏夏 : 「ええーと、どこだったかなー……（きょろきょろ）」
+Natsuka : "Let's see... Where is it...?"
+夏夏 : "我想想，是哪里来着了……（东张西望）"
+
+夏夏
+夏夏 : 「ありました！！」
+Natsuka : "There it is!"
+夏夏 : "有了！！"
+
+夏夏
+夏夏 : 「そうそうたしかこのあたりに～」
+Natsuka : "Yeah! Right around..."
+夏夏 : "没错没错，记得就在这附近～"
+
+夏夏
+夏夏 : 「でっ！？」
+Natsuka : "...Here!?"
+夏夏 : "啊？！"
+
+夏夏
+夏夏 : 「うぎゃんっ！！」
+Natsuka : "Eeeeek!"
+夏夏 : "唔啊！！"
+
+夏夏
+夏夏 : 「嘘～～～～～～～！！？？？？？」
+Natsuka : "No waaaaaaaay!"
+夏夏 : "不是吧～～～～～～？？？？？！！"
+
+夏夏
+夏夏 : 「あああ～～～～～～！！！」
+Natsuka : "Aghhhhhhhhhh!!!"
+夏夏 : "啊啊啊～～～～～～！！！"
+
+夏夏
+夏夏 : 「うぎゃっ！？」
+Natsuka : "%i1Ooof!%id"
+夏夏 : "唔哇？！"
+
+夏夏
+夏夏 : 「……きゅう」
+Natsuka : "Nngh..."
+夏夏 : "……唔"
+
+夏夏
+夏夏 : 「あたっ」
+Natsuka : "Ow!"
+夏夏 : "好疼！"
+
+夏夏
+夏夏 : （な、何？　あ、石？　あたた、おでこが赤くなってそうです）
+Natsuka : (What was that...? A rock? Ow, ow, ow... That's gonna leave a mark, isn't it?)
+夏夏 : （什、什么啊？啊，石头？好疼啊，额头都撞红了）
+
+夏夏
+夏夏 : （ていうか真っ暗？　あ、ああ……そっか……ここって……）
+Natsuka : (Wait, why's it so dark? Oooh, I remember now!)
+夏夏 : （话说这里好黑啊？啊，哦……对了……这里是……）
+
+夏夏
+夏夏 : （せ、狭い……けど、こうやってごろんって、仰向けに……）
+Natsuka : (I-It's so cramped... But if I roll over and face up...)
+夏夏 : （好、好挤……不过，像这样翻个身，仰躺着……）
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「いやあ……」
+Natsuka : "Wow..."
+夏夏 : "哎呀……"
+
+夏夏
+夏夏 : 「わたし、生きてますねえ」
+Natsuka : "I really am alive."
+夏夏 : "我居然还活着呢"
+
+夏夏
+夏夏 : 「意外におおきな井戸でよかったです。首の骨が折れたら洒落にならない……っていうか普通に死んじゃいますし」
+Natsuka : "Luckily, this well is surprisingly big. It'd be no laughing matter if I snapped my neck or something. Like, I'd straight up die..."
+夏夏 : "好险这井还挺大。要是颈椎折断了可不是开玩笑的……颈椎折了的话应该也活不下来吧"
+
+夏夏
+夏夏 : 「骨折や捻挫もしてないみたいです。運動神経よく産んでくださって、感謝ですよ」
+Natsuka : "But I don't think I broke any bones or twisted anything. Boy, am I glad I was born strong!"
+夏夏 : "好像没有骨折也没有扭到。把我生得运动能力这么强，实在是感谢"
+
+夏夏
+夏夏 : 「いつもながら、運動神経は足りてるけど、圧倒的に注意力が足りないですね。反省です……しょぼん」
+Natsuka : "I might be athletic, but I sure as heck don't have any awareness. I swear, I'll get better one day... *sob*..."
+夏夏 : "不过平常的话，我的运动能力应该不至于这样，看来是注意力非常不集中呢。要反省才行……嘿咻"
+
+夏夏
+夏夏 : 「というか自転車で走っているときによそ見するなんて、車だったら免停ものですよ」
+Natsuka : "But just think, if I'd been distracted like that in a car instead, I woulda had my license suspended!"
+夏夏 : "话说像我这样骑着自行车东张西望的，要是开的是汽车的话恐怕会被吊销驾照吧"
+
+夏夏
+夏夏 : 「でも……おかげで、いいものを見ている気がします」
+Natsuka : "I'm glad I was, though. 'Cause I've got a really nice view now."
+夏夏 : "不过……多亏这一摔，找到了好东西啊"
+
+夏夏
+夏夏 : 「井戸の底……」
+Natsuka : "At the bottom of a well..."
+夏夏 : "井底……"
+
+夏夏
+夏夏 : 「ひんやりしてます……冷たくて、すこし湿った土のにおいがして……」
+Natsuka : "It's nice and chilly... And it smells of the cold, slightly damp earth beneath me..."
+夏夏 : "凉凉的……很冷，有股很潮湿的泥土的味道……"
+
+夏夏
+夏夏 : 「そら……」
+Natsuka : "And the sky..."
+夏夏 : "天空……"
+
+夏夏
+夏夏 : 「雲ひとつない真っ青な空……」
+Natsuka : "It's a brilliant blue. Not a single cloud in the sky."
+夏夏 : "一片云都没有的湛蓝的天空……"
+
+夏夏
+夏夏 : 「丸くて、青くて……まるで絵皿に浮かべた絵の具みたいです」
+Natsuka : "It's so blue and round... like a drop of paint on a decorative palette."
+夏夏 : "圆圆的，蓝蓝的……感觉就像是盛在调色盘上的颜料一样"
+
+夏夏
+夏夏 : 「こうやって……すいっと、空をなぞったら、指に空色の絵の具がついてしまいそうなくらいの……」
+Natsuka : "And if you hold up your finger and trace along the sky, it's like your finger has sky-colored paint on it."
+夏夏 : "像这样……伸出手，沿着天空的边缘描绘的话，感觉手指也会粘上天蓝色的颜料一样……"
+
+夏夏
+夏夏 : 「はっ、さすがのリルヤさんもこんな景色は見たことないのでは？　これをリルヤさんに話したら、楽しんでもらえるかもですね」
+Natsuka : "Wait! I bet Lilja-san's never seen this before! She might enjoy me telling her about this!"
+夏夏 : "啊，就算是丽露娅小姐也没有看过这样的景色吧？把这个跟丽露娅小姐讲的话，她应该会很开心吧"
+
+夏夏
+夏夏 : 「リルヤさんに楽しんでもらいたい……というよりも、わたしが話したい、が今の心にぴったりの言葉でしょうか？」
+Natsuka : "I want her to enjoy it... But I think right now it's more accurate to say I want to talk about it."
+夏夏 : "想让丽露娅小姐开心……不如说其实是我想要讲给她听，这才是最接近我现在心情的话吧？"
+
+夏夏
+夏夏 : 「この井戸の底から見た世界の話を……」
+Natsuka : "I want to tell her all about the world I see from the bottom of this well..."
+夏夏 : "把在这个井底看到的世界告诉她……"
+
+夏夏
+夏夏 : 「そう、いつもみたいに語って……」
+Natsuka : "I'll tell her about it the way I always do..."
+夏夏 : "对，就像以往那样讲述出来……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「おーい、みなさん聞こえますかー？」
+Natsuka : "Hey, everyone! Can you hear me?"
+夏夏 : "喂——大家听得见吗——？"
+
+夏夏
+夏夏 : 「今、わたしは、なんと井戸の底にいます。枯井戸ですが、湿ったにおいがします。雨のあとのにおいみたいですね」
+Natsuka : "You won't believe where I am right now. I'm at the bottom of a well! There's no water in it, but it has a really damp smell. It's kinda like how it smells after it rains."
+夏夏 : "现在，我正在井地下哦。虽然这是口枯井，但还是有股潮湿的味道。就像是雨后空气中的那种味道"
+
+夏夏
+夏夏 : 「井戸の底は、すごーく、ひんやりしてます、鍾乳洞のひんやりさと似てる気がします。天然の冷蔵庫ってやつですね」
+Natsuka : "It's really nice and cool at the bottom of this well. It's like how it feels inside a limestone cave. Like nature's refrigerator!"
+夏夏 : "井底下非常的凉快，感觉就像在钟乳洞里一样凉快。简直就是天然形成的冰箱"
+
+夏夏
+夏夏 : 「こんなひんやりした井戸の底に水が溜まっていたら、さぞかしひんやりした水なので、きっとスイカとかおいしく冷えちゃいますね」
+Natsuka : "I bet if there were water in this well, it'd be nice and cool. It'd be perfect for making some refreshing, chilled watermelon."
+夏夏 : "如果在这么冷的井底下积有水的话，想必这水一定会非常冷，用来冻西瓜的话一定能让西瓜冻得很好吃吧"
+
+夏夏
+夏夏 : 「井戸の底って不思議です。ひんやりしていて、真っ暗で、すごく静かです……世界中にわたししかいないみたいに思えてきます」
+Natsuka : "It's weird down here. It's nice and cool, super dark, and practically silent... Like I'm all alone in the world."
+夏夏 : "井底下真的很神奇。又凉快，又暗，非常安静……让我感觉这个世界上就只剩下我一个人了"
+
+夏夏
+夏夏 : 「世界にわたしひとり……」
+Natsuka : "Like there's nobody in the world but me..."
+夏夏 : "世界上就剩下我一个人……"
+
+夏夏
+夏夏 : 「あー……」
+Natsuka : "Wow..."
+夏夏 : "啊……"
+
+夏夏
+夏夏 : 「空が遠いなあ……」
+Natsuka : "The sky seems so far away..."
+夏夏 : "天空离我好远……"
+
+夏夏
+夏夏 : 「懐かしい……そうでした……わたし、ずっとこんな風に空を見ていましたね……」
+Natsuka : "This really takes me back... I remember I used to always look at the sky just like this..."
+夏夏 : "好怀念……是啊……我一直都像这样看着天空……"
+
+夏夏
+夏夏 : 「遠い遠い、手が届かないところにある空……あの頃、わたしの空はちいさくて、でもだからこそ――」
+Natsuka : "It was so far away... Somewhere I could never reach... Back then, my sky was so small... But that also meant..."
+夏夏 : "非常遥远的，用手够不到的天空……那个时候，我的天空非常小，所以才是——"
+
+夏夏
+夏夏 : 「わたしだけの、空」
+Natsuka : "...That it was mine. And mine alone."
+夏夏 : "只属于我的，天空"
+
+夏夏
+夏夏 : 「……あ」
+Natsuka : "Oh..."
+夏夏 : "……啊"
+
+夏夏
+夏夏 : 「なんか……」
+Natsuka : "Weird..."
+夏夏 : "总感觉……"
+
+夏夏
+夏夏 : 「わかんないけど、見つけた気がします」
+Natsuka : "I don't %i1know%id for sure, but I %i1think%id I might have found it."
+夏夏 : "不知道为什么，但我感觉我找到了"
+
+夏夏
+夏夏 : 「リルヤさんには絶対に見えない世界、見つけた気がします……！」
+Natsuka : "I think I might have found the world Lilja-san could never see!"
+夏夏 : "丽露娅小姐绝对看不到的世界，我感觉我找到了……！"
+
+夏夏
+夏夏 : 「――よし！」
+Natsuka : "That's it!"
+夏夏 : "——好！"
+
+夏夏
+夏夏 : 「見つけたなら、あとは、ここから出て、リルヤさんのところにお届けするだけです！」
+Natsuka : "Well, since I've found it, all that's left is to hop on outta here and tell Lilja-san the news!"
+夏夏 : "找到了的话，接下来，只要从这里爬出去，然后去到丽露娅小姐的身边就行了！"
+
+夏夏
+夏夏 : 「よっと」
+Natsuka : "Hup!"
+夏夏 : "嘿咻"
+
+夏夏
+夏夏 : 「うん、怪我はしていません。登れます。大丈夫」
+Natsuka : "Great! It doesn't look like I'm hurt, so I should be able to climb out. Everything's fine!"
+夏夏 : "嗯，没受伤。爬得上去，没事"
+
+夏夏
+夏夏 : 「あとは、そうですねえ」
+Natsuka : "Oh, yeah..."
+夏夏 : "接下来，对了"
+
+夏夏
+夏夏 : 「おみやげは、あった方がいいですよね？」
+Natsuka : "Maybe I should get her a souvenir too?"
+夏夏 : "还是有点伴手礼，会比较好吧？"
+

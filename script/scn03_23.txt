@@ -1,0 +1,635 @@
+夏夏
+夏夏 : 「ん～いいにおいです！　スパイスってどうしてこんなにいいにおいがするんでしょうか？　すごいですよねえ」
+Natsuka : "Mmm, that smells amazing! How can spices smell so darn good? It's incredible!"
+夏夏 : "嗯～好香呀！香辛料为什么会这么香呢？好神奇啊"
+
+夏夏
+夏夏 : 「お湯は沸いてますし……あとは、お皿を選んで～」
+Natsuka : "I've got the water boiling... Now to get the plates all picked out..."
+夏夏 : "水也烧开了……就差挑个盘子了～"
+
+夏夏
+夏夏 : 「ふんふんふ～ん」
+Natsuka : "Hm hm hm..."
+夏夏 : "哼哼哼～"
+
+夏夏
+夏夏 : 「はんはんは～ん」
+Natsuka : "La la la..."
+夏夏 : "当当当～"
+
+夏夏
+夏夏 : 「えっへへ～♪」
+Natsuka : "Hehe! %f$記号$;♪%fuser;"
+夏夏 : "哎嘿嘿～♪"
+
+リルヤ
+リルヤ : 「ご機嫌だな」
+Lilja : "You seem in good spirits."
+丽露娅 : "你心情很好啊"
+
+夏夏
+夏夏 : 「それはもう！　リルヤさんのすんごい絵を見ることができたので！」
+Natsuka : "Of course I am! I got to see your best painting yet!"
+夏夏 : "那可不是！毕竟能看到丽露娅小姐的杰作！"
+
+夏夏
+夏夏 : 「リルヤさんの絵はすごいですねえ。見る人の世界を変えちゃう力を持ってるんですねえ」
+Natsuka : "Your paintings are really incredible. It's like anyone who sees 'em has their whole world turned upside down."
+夏夏 : "丽露娅小姐的画可厉害啦。有着能改变看到的人的世界的力量呢"
+
+リルヤ
+リルヤ : 「お前のおかげでな」
+Lilja : "It's thanks to you."
+丽露娅 : "还得多亏有你"
+
+夏夏
+夏夏 : 「えへへ、お役に立ててなによりです！！」
+Natsuka : "Hehe, I'm just glad I could help!"
+夏夏 : "哎嘿嘿，能帮上您的忙就好！"
+
+夏夏
+夏夏 : 「それにしても……あの黒く塗り潰したカンヴァスからあんな絵が生まれるなんてびっくりしました」
+Natsuka : "But I gotta say, I never would've thought a pitch-black canvas could make such a beautiful picture in the end."
+夏夏 : "话说回来……从那张被全部涂黑的画布上居然能诞生出那样的画，真是让我大吃一惊"
+
+夏夏
+夏夏 : 「黒いカンヴァスを削って、下の絵の白い部分を白い川にして……」
+Natsuka : "You carved away the black to reveal the white portions of the painting underneath, turning it into a white river..."
+夏夏 : "削开黑色的画布，把底下的画的白色部分当做白色的河流……"
+
+リルヤ
+リルヤ : 「祖母が何を描いたかわからなかったが、Ｘ線で調べれば、絵の具の下に何が描かれているかはわかるからな」
+Lilja : "I don't know what my grandmother painted there before, but I could tell there was something beneath the paint using an x-ray."
+丽露娅 : "虽然之前不知道外婆画了什么，不过用X射线扫过之后，就知道在颜料的下面画的是什么了啊"
+
+リルヤ
+リルヤ : 「白い部分が多い絵で助かった」
+Lilja : "We were lucky there was so much white in it."
+丽露娅 : "还好是张白色部分比较多的画"
+
+夏夏
+夏夏 : 「はい！　お祖母様との合作ですね！」
+Natsuka : "Yeah! It's like a collaboration between you and your grandmother!"
+夏夏 : "嗯！这是跟您跟您外婆的合作呢！"
+
+夏夏
+夏夏 : 「黒い闇を切り裂くような白い道……本当にすごかったです」
+Natsuka : "A white road cleaving its way through the darkness... It really is the most incredible thing."
+夏夏 : "如同要切开黑暗一般的白色道路……真的好厉害"
+
+夏夏
+夏夏 : 「あっリルヤさん、焼けましたよ！」
+Natsuka : "Oh, sounds like our bread's ready!"
+夏夏 : "啊，丽露娅小姐，烤好了！"
+
+夏夏
+夏夏 : 「ささ、リルヤさんどうぞこちらのテーブルにおいでください」
+Natsuka : "All right now, come sit at the table, Lilja-san!"
+夏夏 : "丽露娅小姐也赶快坐到桌子这边来吧"
+
+リルヤ
+リルヤ : 「カルダモンプッラだな」
+Lilja : "It's cardamom pulla, isn't it?"
+丽露娅 : "是豆蔻卷吧"
+
+夏夏
+夏夏 : 「はい！　白縫さんに教えてもらったんです」
+Natsuka : "Bingo! Shiranui-san taught me how to make it!"
+夏夏 : "是的！是白缝小姐教我做的"
+
+夏夏
+夏夏 : 「絵を見る前に、謝りに来た白縫さんが本当に悲壮な顔をされていたので、それならってことで……」
+Natsuka : "She had such a devastated expression when she came to apologize before she saw your painting, so I was like, well, if you %i1really%id wanna make it up to me..."
+夏夏 : "在来看画之前，我看前来道歉的白缝小姐的表情实在是太凄惨了，我就想要不……"
+
+夏夏
+夏夏 : 「カルダモンプッラの作り方を教えてもらって、これでチャラですよっていったんですけど……」
+Natsuka : "...You can teach me how to make cardamom pulla and we'll consider it even!"
+夏夏 : "她把豆蔻卷的制作方法教给了我，我跟她说这下就互不相欠啦……"
+
+夏夏
+夏夏 : 「ずっと納得できない様子で……」
+Natsuka : "I don't think she really bought it, but..."
+夏夏 : "但她还是一副无法释然的样子……"
+
+夏夏
+夏夏 : 「わたしは気にしないんですけどねえ？」
+Natsuka : "I'm not bothered by what happened anymore, y'know?"
+夏夏 : "我倒是完全不在意呢"
+
+リルヤ
+リルヤ : 「お前を殺しかけたんだ。パンのレシピでチャラにできまいよ」
+Lilja : "She tried to kill you. Of course a recipe for bread wouldn't make up for that."
+丽露娅 : "她可是差点把你给杀了啊。怎么可能拿面包的配方来相抵"
+
+リルヤ
+リルヤ : 「白縫は特に自分が犯した罪について厳しいところがあるからな。だから祖母が許しても、自分を許せなかった。相当の頑固者だ」
+Lilja : "Shiranui is especially hard on herself when she does something wrong. That's why she couldn't forgive herself, even after my grandmother forgave her. She's quite stubborn like that."
+丽露娅 : "白缝对自己犯下的罪特别严苛。所以即使外婆原谅了她，她也还是无法原谅自己。她真的很固执"
+
+リルヤ
+リルヤ : 「白縫は精神的に成長しきれなかった部分がある。ある種の少女性を、あの年になっても内包している」
+Lilja : "There are some parts of her psyche that never fully matured. Even at her age, she still has a slight girlishness to her."
+丽露娅 : "白缝在精神上有尚未成长的部分。即使到了她现在这个年龄，也还保留了某种少女的性格。"
+
+リルヤ
+リルヤ : 「被害者が加害者を許すといったとき――」
+Lilja : "The moment the victim forgave her assailant..."
+丽露娅 : "即使受害人原谅了加害人——"
+
+リルヤ
+リルヤ : 「加害者が加害者自身を許さなければ、その問題が当事者たちにとって過去にならないこと、終わらせることができないこと」
+Lilja : "The assailant couldn't forgive herself. That problem made it so it would never remain in the past. It would continue on without end."
+丽露娅 : "只要加害人没有原谅加害人自己，这个问题对于当事人来说就无法成为过去，无法了结"
+
+リルヤ
+リルヤ : 「それを理解できない人間は、多い」
+Lilja : "There are many who can't comprehend that."
+丽露娅 : "无法理解这点的人，比比皆是"
+
+夏夏
+夏夏 : 「過去にずっと居残っちゃうんですね」
+Natsuka : "They'd be lingering in the past forever, huh?"
+夏夏 : "一直都停留在过去啊"
+
+リルヤ
+リルヤ : 「ふ……居残りか。違いない」
+Lilja : "Heh... Lingering, you say? That's certainly a way of putting it."
+丽露娅 : "呵……停留吗。没错"
+
+夏夏
+夏夏 : 「あ、でもですね。絵を見たあとに、また会いに来てくださって。そのときに、こういってくれたんです」
+Natsuka : "Oh, but once Shiranui-san went and saw the painting, she came back to see me! I'll never forget what she said."
+夏夏 : "啊，不过啊。我跟她说，在看完画后，也要再来玩哦。那个时候她跟我这样说："
+
+夏夏
+夏夏 : 「『私を許してくださったあなたの気持ちを受け取ります。ごめんなさい、でも、ありがとう』……って」
+Natsuka : "She said, 'I accept that you forgive me now. I'm so sorry. But I thank you.'"
+夏夏 : "‘我接受你原谅我的心意。对不起，但是，谢谢你’"
+
+夏夏
+夏夏 : 「そのときに、白縫さんと色々お話しして……」
+Natsuka : "I got to talk to her about so much..."
+夏夏 : "那个时候，我跟白缝小姐聊了很多……"
+
+夏夏
+夏夏 : 「わたしと、ちょっと似てる感じがしたんですよね」
+Natsuka : "And I thought we actually had quite a bit in common!"
+夏夏 : "我感觉她，跟我有点像啊"
+
+リルヤ
+リルヤ : 「似ている？　白縫とお前がか？」
+Lilja : "You did? With Shiranui?"
+丽露娅 : "有点像？白缝跟你？"
+
+夏夏
+夏夏 : 「あ、もちろん、全然性格とかは違うんですけど！」
+Natsuka : "Oh, I mean, not in terms of personality at all!"
+夏夏 : "啊，当然，我们的性格确实完全不同！"
+
+夏夏
+夏夏 : 「ただ……」
+Natsuka : "It's just..."
+夏夏 : "不过……"
+
+夏夏
+夏夏 : 「白縫さんがしたこと――自分の望みのために、人を傷つけることは、もちろん、しちゃいけないことなんですけど……でも……」
+Natsuka : "What Shiranui-san did back then... I mean, I know hurting people because you want to is a bad thing and all, but..."
+夏夏 : "白缝小姐所做的事——为了满足自己而去伤害别人，这种事当然是不能做的……但是……"
+
+夏夏
+夏夏 : 「閉ざされた狭い世界にいると、たったひとつの価値観が、絶対の神様みたいになっちゃうっていうか……」
+Natsuka : "When you're in that closed-off world, you only have one real set of values that guide you, like the absolute word of God or something..."
+夏夏 : "处在封闭的狭小世界中，唯一的价值观，就会变成上帝一般绝对的存在吧……"
+
+夏夏
+夏夏 : 「そうなると、たとえ間違っていても、もう、ただ一つ、それをする以外に正解がないような気がしちゃうっていうか……」
+Natsuka : "And 'cause of that, even if you do something that's totally wrong, you feel like you %i1have%id to do it. Like it's the only right way."
+夏夏 : "这样的话，即使是不对的，但是，还是会觉得，只能做出这唯一的，除此之外都不正确的事……"
+
+夏夏
+夏夏 : 「狭い世界から抜け出して、その価値観と距離を置けるようになったあとも、心にはずっと残ってしまう……」
+Natsuka : "Even after you escape that closed-off world and distance yourself from that viewpoint, it might still remain in your heart..."
+夏夏 : "从狭小的世界中挣脱出来后，即使跟当时的价值观已经产生了距离，心中仍旧挥之不去……"
+
+夏夏
+夏夏 : 「そういう感じが似てるかなって……」
+Natsuka : "That's how I feel like we're sort of alike."
+夏夏 : "我觉得可能是这种感受比较像吧……"
+
+夏夏
+夏夏 : 「なんかわかんないんですけど、そんな気がしたんです」
+Natsuka : "I mean, I don't %i1know%id that, but I can %i1feel%id it."
+夏夏 : "虽然不知道为什么，但我就这么觉得"
+
+リルヤ
+リルヤ : 「……そうか」
+Lilja : "...You don't say."
+丽露娅 : "……这样啊"
+
+夏夏
+夏夏 : 「はっ！　せっかくの焼きたてですから、あったかいうちに食べないともったいないですね」
+Natsuka : "Oh, shoot! The bread %i1just%id came out of the oven! We should eat it while it's still warm!"
+夏夏 : "啊！难得现烤一次，不赶快乘热吃就太浪费了"
+
+夏夏
+夏夏 : 「何を飲みますか？　おすすめは甘いミルクティーにフォームミルクを乗せてカルダモンパウダーをかけたやつだそうです！」
+Natsuka : "What would you like to drink? Apparently, people recommend a sweet milk tea with froth and cardamom powder!"
+夏夏 : "您要喝点什么吗？听说推荐和加了奶泡和豆蔻粉的甜奶茶一起喝！"
+
+夏夏
+夏夏 : 「ちょっぴり舌を噛みそうですが、コーヒーショップのバイトで呪文みたいな単語をいっぱい覚えたのが役に立ちました！」
+Natsuka : "Man, am I glad I learned all that stuff from my job at the coffee shop! Some of those ingredients are really hard to pronounce, you know!"
+夏夏 : "这话说起来好容易咬到舌头，不过我在咖啡店打工的时候记住的那堆跟咒语一样的词语终于派上用场了！"
+
+リルヤ
+リルヤ : 「カモミールティーがいい」
+Lilja : "I'll just have chamomile tea."
+丽露娅 : "甘菊茶就好"
+
+夏夏
+夏夏 : 「わかりました！」
+Natsuka : "You got it!"
+夏夏 : "好的！"
+
+リルヤ
+リルヤ : 「だが、午後のお茶の時間にはその甘いミルクティーをもらおう。何事も経験だ」
+Lilja : "Though I'll have that sweetened milk tea when it's time for afternoon tea. It's an experience I'd like to have."
+丽露娅 : "不过，喝下午茶的时候给我泡你说的那个甜奶茶吧。什么事情都要经历一下"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "All right!"
+夏夏 : "好的！"
+
+夏夏
+夏夏 : 「わたしはミルクティー、リルヤさんはカモミールティー……あとは焼きたてのパンを、可愛くて丸い赤いお皿に乗せて……」
+Natsuka : "So that's milk tea for me, chamomile for Lilja-san... Then we'll put this freshly baked bread onto these cute little round red plates..."
+夏夏 : "我的是奶茶，丽露娅小姐的是甘菊茶……然后把刚烤好的面包放到这个可爱的红色圆盘里……"
+
+夏夏
+夏夏 : 「それではいただきます！」
+Natsuka : "And we'll dig right in!"
+夏夏 : "就大功告成了！"
+
+夏夏
+夏夏 : 「ぱくっ……」
+Natsuka : "Homph!"
+夏夏 : "吧唧……"
+
+リルヤ
+リルヤ : 「（ぱく）」
+Lilja : "*munch*..."
+丽露娅 : （咀嚼）
+
+夏夏
+夏夏 : 「ん～～～～！　ふわふわですー！」
+Natsuka : "Mmmmm! It's soooo soft and fluffy!"
+夏夏 : "嗯～～～～！好软哦——！"
+
+リルヤ
+リルヤ : 「日本人はなんでもふわふわにする傾向にあるな」
+Lilja : "Japanese people always lean toward making things fluffy, don't they?"
+丽露娅 : "日本人有种想把所有东西都做软的偏好啊"
+
+夏夏
+夏夏 : 「本場とは違いますか！？」
+Natsuka : "Is it not like that where you come from?"
+夏夏 : "这个和正宗的不一样吗？！"
+
+リルヤ
+リルヤ : 「ああ。だが、これはこれで悪くない」
+Lilja : "No, it's not. But I don't dislike it."
+丽露娅 : "嗯。不过，这个也不错"
+
+夏夏
+夏夏 : 「よかったです！」
+Natsuka : "Well, that's a relief!"
+夏夏 : "太好了！"
+
+夏夏
+夏夏 : 「ふ～！　食器洗いもほとんど自動で、ほんと毎回感動します」
+Natsuka : "Phew! I'm always so glad most of the dishwashing here is automatic too."
+夏夏 : "呼～！洗碗也基本是自全自动的啊，真的每回都让我感动呢"
+
+夏夏
+夏夏 : 「テーブルも片づけましたし、後は……」
+Natsuka : "Table's all cleaned up, so now all that's left..."
+夏夏 : "桌子也收拾好了，接着是……"
+
+夏夏
+夏夏 : 「じゃーん！　お花です！　昨日のバイトでもらったお花です！　前庭に植えるお花ですよ～！」
+Natsuka : "Tadaaaa! It's the flowers I got from my job yesterday! I'm gonna plant them in the front yard!"
+夏夏 : "锵锵！这是花哦！是我昨天打工得到的花！种在前院的花哦～！"
+
+夏夏
+夏夏 : 「うん、この前の月下美人もそうでしたけど、白いお花は、リルヤさんのおうちに似合いますね」
+Natsuka : "That's the stuff! It's just like the queen of the nights I got before. White flowers fit your house so well!"
+夏夏 : "嗯，跟之前的昙花一样，也是白色的花，跟丽露娅小姐的房子很搭啊"
+
+夏夏
+夏夏 : 「リルヤさん、これってコデマリっていうお花なんですが、ちいさい白いお花が固まって咲いて、ちょっと牡丹雪みたいに見えるなあって」
+Natsuka : "These are apparently called Reeve's spirea. They bloom into a bunch of tiny white flowers, making them look like snowflakes!"
+夏夏 : "丽露娅小姐，这是一种叫麻叶绣线菊的花，小小的白色花朵聚集在一起开放，看上去感觉就像是飞雪一般"
+
+夏夏
+夏夏 : 「だからこれも、夏の雪みたいだなって」
+Natsuka : "So, y'know, these are a little like snow in summer too!"
+夏夏 : "所以我想这也和夏天的雪一样啊"
+
+夏夏
+夏夏 : 「ユキヤナギっていう花もありますし、雪の名が付いてる花ってけっこうあるんですねえ」
+Natsuka : "Oh, and did you know? There's another one called Thunberg speria, which we call %i1yukiyanagi%id in Japanese. Apparently, lots of flowers have the word %i1yuki%id in them, like snow!"
+夏夏 : "还有一种绣线菊就叫喷雪花，花名里带雪字的花也不少呢"
+
+夏夏
+夏夏 : 「ずばりナツユキカズラっていう花もあるくらいですし」
+Natsuka : "There's even one called %i1natsuyuki%id vine in Japanese! That's literally summer snow!"
+夏夏 : "有的花干脆就直接叫夏雪蓼了呢（注：夏雪蓼学名中亚木藤蓼，夏雪为日语花名直译）"
+
+夏夏
+夏夏 : 「そういえば、洞窟に咲いていた花は、ナツユキカズラに良く似ていました。たくさんの白い花がまるで雪みたいで……」
+Natsuka : "Actually, the flowers that grew in that cavern looked a lot like those ones. There were so many little white flowers dotting the vines like snow..."
+夏夏 : "说起来，在洞穴里开着的花，长得很像夏雪蓼呢。数不尽的白花就好似飘雪一般……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「どうした？」
+Lilja : "Is something wrong?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「あ、いえ、ひとつだけ気になっていたことがあったのを、思い出したんですが……」
+Natsuka : "Oh, no! I just remembered something that was kinda bothering me..."
+夏夏 : "啊，没有，我突然想起来之前注意到的一件事……"
+
+リルヤ
+リルヤ : 「かまわない、つづけろ」
+Lilja : "Go on then. I don't mind."
+丽露娅 : "没事，你接着讲吧"
+
+夏夏
+夏夏 : 「はっ、はい！」
+Natsuka : "Oh, okay!"
+夏夏 : "啊，好的！"
+
+夏夏
+夏夏 : 「えーとですね……どうして、お祖母様は首を絞められたとき、白縫さんに笑いかけたのかなあって」
+Natsuka : "Well, it's just... Why %i1was%id it that your grandmother smiled at Shiranui-san while she was being strangled?"
+夏夏 : "那个……为什么丽露娅小姐的外婆在被掐住脖子的时候，会对白缝小姐笑呢？"
+
+リルヤ
+リルヤ : 「白縫が泣いていたからだといっていたな」
+Lilja : "She said it was because Shiranui was crying."
+丽露娅 : "她说因为白缝哭了"
+
+夏夏
+夏夏 : 「……泣いていたんですね」
+Natsuka : "...So she %i1was%id crying."
+夏夏 : "……哭了吗"
+
+リルヤ
+リルヤ : 「ああ。おそらくその涙に、白縫は気づいていなかっただろうとも」
+Lilja : "That's right. In fact, I don't think Shiranui herself was aware of it."
+丽露娅 : "嗯。估计白缝没有注意到自己的眼泪吧"
+
+夏夏
+夏夏 : 「自分が泣いていることに気づけないなんてこと、あるんですね」
+Natsuka : "Is it even possible for people to cry without noticing it themselves?"
+夏夏 : "确实有时候会注意不到自己流泪了呢"
+
+リルヤ
+リルヤ : 「そういうものさ」
+Lilja : "Yes, it is."
+丽露娅 : "就是这么回事"
+
+夏夏
+夏夏 : 「はっ、そうです！　洞窟といえば、わたし、リルヤさんにおみやげを持ってきていたんですよ！」
+Natsuka : "Oh, that reminds me! Speaking of the cave, I brought you a souvenir!"
+夏夏 : "啊，对了！说起洞穴的事，我想起来其实我给丽露娅小姐带了伴手礼回来哦！"
+
+夏夏
+夏夏 : 「ちょっと待っててくださいね！」
+Natsuka : "Wait here, okay?"
+夏夏 : "稍微等我一下！"
+
+夏夏
+夏夏 : 「じゃーん！」
+Natsuka : "Tadaaaaa!"
+夏夏 : "锵锵！"
+
+夏夏
+夏夏 : 「はい、どうぞリルヤさん！」
+Natsuka : "Here you are, Lilja-san!"
+夏夏 : "请您收下，丽露娅小姐！"
+
+リルヤ
+リルヤ : 「……枝だな」
+Lilja : "...A branch?"
+丽露娅 : "……树枝吗"
+
+夏夏
+夏夏 : 「はい！　これはですねえ、かっこいい枝です！！」
+Natsuka : "Yeah! It's a super-cool branch!"
+夏夏 : "是的！这个啊，可是根很酷的树枝！！"
+
+リルヤ
+リルヤ : 「かっこいい枝」
+Lilja : "A... super-cool branch."
+丽露娅 : "很酷的树枝"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Uh-huh!"
+夏夏 : "是的！"
+
+夏夏
+夏夏 : 「洞窟から出たところにあったんですよ。夜が明けたあとに、見つけたんです。かっこいいから持って帰ってきました」
+Natsuka : "It was there when I got out of the cave. I found it when it started getting light out. It was so neat, I picked it up and brought it home."
+夏夏 : "就在刚从洞穴里出来的地方捡到的。黎明的时候找到的。因为很酷我就带回来了"
+
+リルヤ
+リルヤ : 「……オリーブの枝だな」
+Lilja : "...This is an olive branch, isn't it?"
+丽露娅 : "……橄榄枝啊"
+
+夏夏
+夏夏 : 「これオリーブなんですね。オリーブの木って地中海以外にも生えてるんですね」
+Natsuka : "Oooh, an olive branch, huh? So olive trees can grow in places outside the Mediterranean Sea?"
+夏夏 : "这是油橄榄树上的吧。听说油橄榄树在地中海以外的地方也有长呢"
+
+リルヤ
+リルヤ : 「日本におけるオリーブの北限はお前が思っているよりも高いぞ。２０１６年に実証栽培が成功し、北限も北関東から宮城県まで北上している」
+Lilja : "They're actually in places more northern than you might expect in Japan. In 2016, they managed to successfully cultivate them from the northern Kanto region all the way to Miyagi prefecture, and they've been steadily growing since then."
+丽露娅 : "在日本，油橄榄树的分布比你想象的更广。自2016年油橄榄树成功实地栽培后，分布也自北关东向北延伸至了宫城县"
+
+リルヤ
+リルヤ : 「それにしても、オリーブか。ふふ……なるほどな」
+Lilja : "But... an olive branch... Heh. I see how it is."
+丽露娅 : "话说回来，油橄榄吗。呵呵……原来如此啊"
+
+夏夏
+夏夏 : （あれ、なんかご機嫌ですね？　かっこいい枝を気に入ってくださったんでしょうか？）
+Natsuka : (Hm? She seems like she's in a good mood... She must really like that neat branch then, huh?)
+夏夏 : （咦？她心情很好吗？是不是因为很喜欢这个很酷的树枝呢？）
+
+リルヤ
+リルヤ : 「我が鳩は[かんらん,1]橄欖の葉を携えてきたれり、だな」
+Lilja : "So, my little dove came bearing an olive leaf."
+丽露娅 : "我家的鸽子给我拾来了橄榄叶呢"
+
+夏夏
+夏夏 : 「？？？？」
+Natsuka : "Huh?"
+夏夏 : "？？？？"
+
+リルヤ
+リルヤ : 「いい、気にするな。それよりも、夏夏」
+Lilja : "It's nothing. Don't worry about it. More importantly, Natsuka."
+丽露娅 : "没事，不要在意。说起来，夏夏"
+
+夏夏
+夏夏 : 「なんでしょうか？」
+Natsuka : "What's up?"
+夏夏 : "什么事？"
+
+リルヤ
+リルヤ : 「そろそろバイトの時間ではないか？」
+Lilja : "Shouldn't you be getting to work soon?"
+丽露娅 : "是不是快到你兼职的时间了？"
+
+夏夏
+夏夏 : 「あっほんとですね！」
+Natsuka : "Oh shoot, you're right!"
+夏夏 : "啊， 确实啊！"
+
+リルヤ
+リルヤ : 「今日は、ご近所のビルの窓掃除だったな」
+Lilja : "You're helping clean the windows of some buildings in the neighborhood, yes?"
+丽露娅 : "今天是，给附近的大楼的窗户做清洁吧"
+
+リルヤ
+リルヤ : 「落ちるなよ？」
+Lilja : "Try not to fall, would you?"
+丽露娅 : "可别摔下来了哦？"
+
+夏夏
+夏夏 : 「大丈夫です！　もう落ちない気がします！」
+Natsuka : "I'll be totally fine! I have a feeling I'm not gonna fall this time!"
+夏夏 : "没事的！我感觉我再也不会摔了！"
+
+夏夏
+夏夏 : 「なんかわかんないけど、そんな気がするんです！」
+Natsuka : "I don't %i1know%id that, but I can %i1feel%id it!"
+夏夏 : "不知道为什么，但我就这么觉得！"
+
+リルヤ
+リルヤ : 「そうか」
+Lilja : "Is that so...?"
+丽露娅 : "是吗"
+
+リルヤ
+リルヤ : 「夏夏」
+Lilja : "Natsuka."
+丽露娅 : "夏夏"
+
+夏夏
+夏夏 : 「はい？　なんでしょう？」
+Natsuka : "Hm? What is it?"
+夏夏 : "嗯？怎么了吗？"
+
+リルヤ
+リルヤ : 「うちには花瓶がないだろう」
+Lilja : "I still don't have a vase here."
+丽露娅 : "我们家没有花瓶了吧"
+
+夏夏
+夏夏 : 「あっそうですね、このおうちにあったお祖母様の花瓶は、白縫さんのいる保管庫に送りましたし……」
+Natsuka : "Oh, you're right. We sent the one your grandmother had over to the storehouse Shiranui-san was looking after..."
+夏夏 : "啊，对哦，之前在这个家里的丽露娅小姐外婆的花瓶，送到白缝小姐那的仓库去了……"
+
+夏夏
+夏夏 : （白縫さん、受け取ってくれて良かったです！）
+Natsuka : (I'm so glad she was willing to take it!)
+夏夏 : （白缝小姐能收下真是太好了！）
+
+リルヤ
+リルヤ : 「おそらくお前が帰る頃には荷物が届いている。花瓶だ」
+Lilja : "I believe by the time you get home, we'll have a delivery here. It's a new vase."
+丽露娅 : "估计你回来的时候快递就到了。是花瓶"
+
+夏夏
+夏夏 : 「……！！」
+Natsuka : "...!!"
+夏夏 : "……！！"
+
+リルヤ
+リルヤ : 「新しい花瓶に飾る花を買ってきてほしい」
+Lilja : "I'd like you to buy some flowers to fill it with."
+丽露娅 : "我想让你买些花来装饰新的花瓶"
+
+夏夏
+夏夏 : 「はっ、はい！　どんな花にしましょうか？」
+Natsuka : "A-All right! What kind of flowers should I get?"
+夏夏 : "好、好的！要买什么样的花呢？"
+
+リルヤ
+リルヤ : 「カーネーションを」
+Lilja : "Carnations."
+丽露娅 : "买康乃馨"
+
+夏夏
+夏夏 : 「わかりました！！　おまかせください！」
+Natsuka : "All right! You can count on me!"
+夏夏 : "好的！！交给我吧！"
+
+夏夏
+夏夏 : 「それでは、いってきますー！」
+Natsuka : "On that note, I'm gonna get going!"
+夏夏 : "那我就出发了——！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （あれ？　まだリルヤさんがわたしのことをじっと見て？）
+Natsuka : (Hm? Lilja-san's staring at me...)
+夏夏 : （咦？丽露娅小姐还在盯着我吗？）
+
+夏夏
+夏夏 : 「リルヤさん？　まだ何か買うものありますか？」
+Natsuka : "Lilja-san? Do you need me to get anything else?"
+夏夏 : "丽露娅小姐？还有什么要我买的吗？"
+
+リルヤ
+リルヤ : 「いや、何もない」
+Lilja : "No. Nothing at all."
+丽露娅 : "不，没有了"
+
+夏夏
+夏夏 : 「？？？　はい、では、いってきます？」
+Natsuka : "Uhh... Well, okay then! See you later?"
+夏夏 : "？？？好的，那我出发了哦？"
+
+リルヤ
+リルヤ : 「……いってらっしゃい」
+Lilja : "...Come back soon."
+丽露娅 : "……路上小心"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "I sure will!"
+夏夏 : "好的！"
+
+夏夏
+夏夏 : 「いってきます！！！　リルヤさん！！」
+Natsuka : "I'll be back soon, Lilja-san!"
+夏夏 : "我出发啦！！！丽露娅小姐！！"
+

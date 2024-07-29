@@ -1,0 +1,1350 @@
+リルヤ
+リルヤ : 「今、お前の目の前にある、この黒いカンヴァス。これに――」
+Lilja : "Before you, I have a black canvas. And on this canvas..."
+丽露娅 : "现在，在你眼前的这张，黑色的画布。这就是——"
+
+リルヤ
+リルヤ : 「私は『明日』を描く必要がある」
+Lilja : "...I have to paint 'tomorrow.'"
+丽露娅 : "我描绘《明天》所要用的"
+
+夏夏
+夏夏 : 「このカンヴァスに……」
+Natsuka : "On this canvas...?"
+夏夏 : "这张画布"
+
+リルヤ
+リルヤ : 「そのカンヴァスの裏側を見てくれ」
+Lilja : "Look at the back of the canvas."
+丽露娅 : "你看一下这张画布的背面"
+
+夏夏
+夏夏 : 「は、はい！」
+Natsuka : "O-Okay!"
+夏夏 : "啊，好的！"
+
+夏夏
+夏夏 : 「これって、絵はがきですね。きれいな建物の絵が描いてあります」
+Natsuka : "Oh, there's a postcard here. It's got a really pretty painting of a building on it."
+夏夏 : "这是一张明信片吧。画着很漂亮的建筑物"
+
+リルヤ
+リルヤ : 「他の文字情報も読んでかまわない」
+Lilja : "You can read the letters on it as well."
+丽露娅 : "其他的文字信息你也可以读出来"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「明日を、と書いてあります」
+Natsuka : "It says, 'tomorrow.'"
+夏夏 : "这里写着，请把明天"
+
+夏夏
+夏夏 : 「明日を送ってちょうだい、と」
+Natsuka : "%i1Send me a tomorrow.%id"
+夏夏 : "请把明天送来"
+
+夏夏
+夏夏 : 「送り主は書いてありません。宛先は外国ですが、切手は日本のものです」
+Natsuka : "It doesn't say who sent it. The recipient has a foreign address, but the stamps are from Japan."
+夏夏 : "没有写寄件人。收件地址在外国，但是邮票却是日本的"
+
+夏夏
+夏夏 : 「宛名は……ええと、ＹＵＲＩ……？」
+Natsuka : "The recipient is... erm... Yuri...?"
+夏夏 : "收件人……写的是，YURI……？"
+
+夏夏
+夏夏 : （ＹＵＲＩ……百合？）
+Natsuka : (Yuri... Like the Japanese name for lilies?)
+夏夏 : （YURI……百合？）
+
+リルヤ
+リルヤ : 「百合は、祖母の名だ」
+Lilja : "Yuri is the name of my grandmother."
+丽露娅 : "百合，是我外婆的名字"
+
+リルヤ
+リルヤ : 「その絵はがきは、祖母へ宛てられたものだ。送り主は、祖母の古い友人で、白縫りらという」
+Lilja : "That postcard was sent to my grandmother. Its sender was a longtime friend of hers named Shiranui Lila."
+丽露娅 : "这张明信片，本来是要送给我外婆的。寄件人是，外婆的老朋友，叫做白缝莉罗"
+
+夏夏
+夏夏 : 「白縫、りらさん……」
+Natsuka : "Shiranui Lila-san..."
+夏夏 : "白缝、莉罗小姐……"
+
+リルヤ
+リルヤ : 「今は、祖母の絵の保管庫の管理人をしている」
+Lilja : "She currently oversees the storehouse where my grandmother's paintings are stored."
+丽露娅 : "现在，她负责管理存放外婆画的仓库"
+
+夏夏
+夏夏 : 「保管庫、ですか」
+Natsuka : "A storehouse...?"
+夏夏 : "仓库，吗"
+
+リルヤ
+リルヤ : 「ああ。絵はがきの住所からすこし離れたところに、祖母が建てた」
+Lilja : "Yes. My grandmother had it built in a location not far from the address on that postcard."
+丽露娅 : "嗯。外婆在她画画的住所附近建的"
+
+リルヤ
+リルヤ : 「祖母は、結婚のために渡欧してな」
+Lilja : "She moved to Europe once she got married, after all."
+丽露娅 : "我外婆嫁到欧洲去了"
+
+リルヤ
+リルヤ : 「日本にいるその古い友人……白縫と再会するまで、随分と時間が経ってしまったそうだ」
+Lilja : "Apparently, it was some time before she was reunited with her old friend, Shiranui, who stayed in Japan."
+丽露娅 : "再次跟那位日本的老朋友……白缝相会的时候，已经是很多年以后了"
+
+リルヤ
+リルヤ : 「喧嘩別れをしたのだと、祖母は笑って話していたよ」
+Lilja : "My grandmother laughed and said they left on a sour note."
+丽露娅 : "当时是起了争执分别的，外婆以前笑着跟我这样说"
+
+リルヤ
+リルヤ : 「だが再会が叶い、仲直りもできてよかったともいっていた」
+Lilja : "But they managed to make up again once they were reunited."
+丽露娅 : "但是她还说，她实现了再会的梦想，也重新跟对方和好如初了"
+
+リルヤ
+リルヤ : 「しかし、白縫は酷く生真面目でな。祖母と違って、喧嘩をしたときに祖母を傷つけた自分を、どうしても許せずにいた」
+Lilja : "However, she said Shiranui was extremely straitlaced. Unlike my grandmother, she just couldn't forgive herself for having hurt my grandmother when they were fighting."
+丽露娅 : "不过，白缝真的是太一本正经了。她和我外婆不一样，无论如何都无法原谅跟外婆起了争执而伤害到外婆的自己"
+
+リルヤ
+リルヤ : 「白縫は、いつか自分を許せるようになるまで待って欲しいと、祖母に願った。祖母はその願いを了承した」
+Lilja : "She asked my grandmother to wait until she could forgive herself, and my grandmother agreed to not see her until then."
+丽露娅 : "白缝向我外婆请求，希望她能够等到自己能够原谅自己的时候。外婆答应了她的请求"
+
+リルヤ
+リルヤ : 「会わないかわりに、祖母は白縫に絵を送った。もちろん、許可を得てな」
+Lilja : "And in exchange, my grandmother would send her paintings. With her permission, of course."
+丽露娅 : "代替与白缝见面，外婆向她送去了画。当然对方也是同意了的"
+
+リルヤ
+リルヤ : 「それが何十年もつづいた」
+Lilja : "That went on for several decades."
+丽露娅 : "就这样一直持续了几十年"
+
+夏夏
+夏夏 : 「何十年もですか……白縫さんはよほど自分が許せなかったんですね」
+Natsuka : "Wow, that long? Shiranui-san really, %i1really%id couldn't forgive herself then, huh?"
+夏夏 : "几十年吗……看来白缝小姐真的是很难原谅自己啊"
+
+リルヤ
+リルヤ : 「筋金入りの頑固者だと、祖母も笑っていたよ」
+Lilja : "My grandmother joked that she was the most stubborn woman alive."
+丽露娅 : "外婆曾经嘲笑她像打了钢筋一样顽固"
+
+リルヤ
+リルヤ : 「それでも、祖母は白縫が自分自身を許すまで待ちつづけた」
+Lilja : "All the same, my grandmother waited all that time for Shiranui to come to terms with herself."
+丽露娅 : "即使如此，外婆还是就这样等待着白缝原谅她自己那天的到来"
+
+リルヤ
+リルヤ : 「白縫は、祖母と滅多に連絡を取らなかったが、１２年前にこのカンヴァスと共に絵はがきを送ってきた」
+Lilja : "Though Shiranui barely kept communications with her, she sent this canvas with that postcard twelve years ago."
+丽露娅 : "白缝她，跟我外婆几乎没有往来，不过十二年前连着这张画布一起寄来了明信片"
+
+リルヤ
+リルヤ : 「明日を送ってほしいと……」
+Lilja : "Telling my grandmother she wanted her to send 'tomorrow.'"
+丽露娅 : "上面写着希望能把明天送来……"
+
+リルヤ
+リルヤ : 「白縫が明日を信じられるようになる絵を描ければ、また会える。祖母はそう解釈した」
+Lilja : "My grandmother took it to mean that if she could paint her something that would help her believe in the future, they'd be able to meet once more."
+丽露娅 : "只要能够画出一幅让白缝相信明天的画，就能与她再会吧。外婆是这样理解的"
+
+リルヤ
+リルヤ : 「実際、その解釈で正解だったそうだ」
+Lilja : "And it seemed she was right about that."
+丽露娅 : "实际上，她的理解是正确的"
+
+夏夏
+夏夏 : 「もしかして、聞いちゃったんですか？」
+Natsuka : "Did she ask?"
+夏夏 : "难道说，她直接问了对方吗？"
+
+リルヤ
+リルヤ : 「ああ。祖母は実際的な人物でな。自分の解釈が間違っていたらたまらないと、電話して直接聞きただしたそうだ」
+Lilja : "Yes. My grandmother was a most practical woman. She wouldn't have been able to deal with it if her interpretation had been wrong, so she called her right up and asked."
+丽露娅 : "是的。外婆是一个务实的人。她担心自己的理解有误，忍不住直接打电话过去问了对方"
+
+リルヤ
+リルヤ : 「……このカンヴァスを前にして語る、祖母のうれしそうな笑顔が忘れられない」
+Lilja : "...I'll never forget how happy my grandmother looked when she would talk about this canvas."
+丽露娅 : "……我永远忘不了外婆把这幅画拿在身前跟我讲述这些事情时满面的笑容"
+
+リルヤ
+リルヤ : 「彼女が明日を信じられる絵を私が描くことができれば、そうしたら……私たちはようやく本当に再会できるのだ、と」
+Lilja : "She believed that by painting something that would help Shiranui believe tomorrow would come, they'd finally be able to see each other again."
+丽露娅 : "外婆跟我说：“如果我能够画出一幅让她相信明天的画，我们就……终于可以再会了”"
+
+リルヤ
+リルヤ : 「だが、祖母の望みは叶わなかった」
+Lilja : "But her dream never came true."
+丽露娅 : "但是，外婆的愿望没能实现"
+
+リルヤ
+リルヤ : 「祖母は、一昨年、他界した」
+Lilja : "Because two years ago, my grandmother passed from this world."
+丽露娅 : "外婆在前年，去世了"
+
+リルヤ
+リルヤ : 「祖母は、自らの死期を悟ってからさらに精力的に絵を描きつづけ、私にそれらの絵を託した」
+Lilja : "She seemed to sense her own death was at hand, so she painted with more fervor than before, then she bestowed those paintings upon me."
+丽露娅 : "外婆在意识到自己命在旦夕后更是全神倾注地继续作画，并把那些画托付给了我"
+
+リルヤ
+リルヤ : 「白縫から祖母の死を隠すために、これからも毎年変わらず、絵を渡してほしいと」
+Lilja : "She wanted to hide her death from Shiranui, so she asked me to send these paintings to her every year as though nothing had happened."
+丽露娅 : "为了能够对白缝隐瞒外婆的死讯，外婆希望我接下来每年也像往常一样，给她送去画"
+
+リルヤ
+リルヤ : 「そして、祖母の絵が尽きる前に……」
+Lilja : "She pleaded with me that before her paintings ran out..."
+丽露娅 : "然后，在把外婆的画全都送出去前……"
+
+リルヤ
+リルヤ : 「どうか、彼女に明日を見せてあげて――と」
+Lilja : "...That I show Shiranui a vision of tomorrow."
+丽露娅 : "外婆让我一定要让她看到明天"
+
+リルヤ
+リルヤ : 「この絵は、祖母が最初に送った『明日』の絵だ。白縫から返却されたこのカンヴァスを、祖母は黒く塗り潰した」
+Lilja : "This painting is the first painting of 'tomorrow' my grandmother did. Shiranui returned it, and my grandmother painted over it entirely with black."
+丽露娅 : "这张画，是外婆最早送出去的《明天》的画。外婆把这张被白缝退回的画布全部涂黑了"
+
+リルヤ
+リルヤ : 「祖母が何を描いたのか、残念ながら私は知らない。誰にも知られずに描いて、白縫に送ったのだ」
+Lilja : "Unfortunately, I have no knowledge of what she originally painted. She painted it without telling anyone and sent it off to Shiranui."
+丽露娅 : "遗憾的是我并不知道外婆画了什么。没有人知道她画了什么，她直接就交给了白缝"
+
+リルヤ
+リルヤ : 「祖母は……真っ黒に塗り潰したカンヴァスを前にして、私の描いた絵は、彼女の心に届かなかったといっていた」
+Lilja : "When my grandmother faced this pitch-black canvas, she said her painting hadn't reached Shiranui's heart."
+丽露娅 : "外婆她……把这张涂黑了的画布拿到身前，跟我说：“我画的画，没能传达到她想心中”"
+
+リルヤ
+リルヤ : 「それでも、祖母は、あきらめるつもりはなかった。生きていたなら描きつづけていただろう」
+Lilja : "Even so, she didn't give up. I think she'd still be painting to this day if she were still alive."
+丽露娅 : "即便如此，外婆还是丝毫没有放弃的念头。她说她只要还活着就要一直画下去"
+
+リルヤ
+リルヤ : 「だが、祖母の命は、絵の完成を待ってはくれなかった」
+Lilja : "But her life did not hold long enough for her to finish the perfect painting."
+丽露娅 : "可是，外婆的生命，并没能持续到她把这幅画完成"
+
+リルヤ
+リルヤ : 「私は、託されたのだ」
+Lilja : "That duty has been passed on to me."
+丽露娅 : "于是，她托付给了我"
+
+リルヤ
+リルヤ : 「だから、このカンヴァスに、『明日』を描く必要がある」
+Lilja : "That's why I need to paint 'tomorrow' upon this canvas."
+丽露娅 : "所以，我需要在这张画布上，画出《明天》"
+
+リルヤ
+リルヤ : 「今年の絵は、まだ届けていない」
+Lilja : "I still have yet to send this year's painting."
+丽露娅 : "今年的画，还没有送到"
+
+夏夏
+夏夏 : 「白縫さんって、どんな方なんですか？」
+Natsuka : "What sort of person is Shiranui-san?"
+夏夏 : "白缝小姐是位怎样的人呢？"
+
+リルヤ
+リルヤ : 「白縫は、一言でいえば芸術を深く愛する人間だな。よくよく芸術談義に付き合わされたよ」
+Lilja : "If I had to try to summarize her, I'd say that she's someone who deeply cares for art. We were always being dragged into long-winded lectures about it."
+丽露娅 : "白缝，总得来说是一个深爱着艺术的人。我经常陪她参加艺术交流会"
+
+リルヤ
+リルヤ : 「乞われて、絵を描いたこともある。日本の夏の夜の絵だ」
+Lilja : "She begged me to paint a picture for her once as well. It was a painting of a summer night in Japan."
+丽露娅 : "她也请求让我给她画过画。是一幅日本夏日夜晚的画"
+
+リルヤ
+リルヤ : 「日本の夏の夜は、私の故郷の夜と違う。濃密な黒にじっとりと湿度が絡む……私は、森を歩き、無数の夜の色を見た」
+Lilja : "Japanese summer nights are different from the ones in my home country. The inky blackness intertwined with the thick, sticky humidity... As I walked through the forest, I saw all the countless colors of the night."
+丽露娅 : "日本夏日的夜晚，和我故乡的夜晚不同。浓厚而细腻的黑中略带潮湿……我漫步在森林中，领略了无数的夜色"
+
+リルヤ
+リルヤ : 「一筋の月光がさす暗い森の黒……月の光を反射する黒々とした水の流れ……柔らかな苔を纏った巌の黒……天の川を映し出す湖の黒……」
+Lilja : "The black of the dark forest illuminated only by a single beam of moonlight... The black of the flowing water, reflecting the light of the moon... The black of the stones wrapped in soft moss... The black of the lake reflecting the Milky Way off its surface..."
+丽露娅 : "一束月光洒落在昏暗森林的黑……反射了月光的漆黑的水流……被柔软的苔藓所缠绕着的岩石的黑……映射出银河倒影的湖泊的黑……"
+
+リルヤ
+リルヤ : 「かつての私にとって、夜の世界は豊穣そのものだった」
+Lilja : "In the past, the world of night was one of abundance."
+丽露娅 : "对曾经的我来说，夜晚的世界实在是太富饶了"
+
+リルヤ
+リルヤ : 「だが、今は……」
+Lilja : "But now..."
+丽露娅 : "但是，现在……"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「それでも私は諦めない。祖母の遺志を継ぎ、『明日』を描く」
+Lilja : "Even so, I won't give up. I will carry out my grandmother's will and paint 'tomorrow.'"
+丽露娅 : "即便如此我也没有放弃。我要继承外婆的遗愿，画出《明天》"
+
+リルヤ
+リルヤ : 「祖母から、白縫にまつわること、祖母の過去にまつわること、たくさんの話を聞いている」
+Lilja : "I've heard so many stories from my grandmother about Shiranui, her past, and so many other things."
+丽露娅 : "从外婆那里，我听说了很多关于白缝的事、外婆过去的事"
+
+リルヤ
+リルヤ : 「私は現在の白縫についての情報も持っている。祖母が存命のあいだは、祖母の代理人として、直接、絵を届けていたからな」
+Lilja : "I have information about what Shiranui is doing in the present as well, as I would deliver the paintings to her on my grandmother's behalf when she was still alive."
+丽露娅 : "我现在有着关于白缝的信息。外婆还在世的时候，我就一直代为外婆，亲手把画交给她"
+
+リルヤ
+リルヤ : 「毎年夏になると、『明日』の絵を携えた祖母と共に日本にやってきた。だが、約束どおり祖母は白縫には会おうとしなかった」
+Lilja : "Every summer, I came to Japan with my grandmother with a painting of 'tomorrow' in hand. But she never tried to meet with Shiranui, just as she'd promised."
+丽露娅 : "每年一到夏天，我都会同带着《明天》的画的外婆一同来到日本。不过，按照约定，外婆不会跟白缝相见"
+
+リルヤ
+リルヤ : 「白縫は祖母の話を聞かなかったし、私も祖母の話はしなかった」
+Lilja : "Shiranui never asked about my grandmother, and I never told her anything."
+丽露娅 : "外婆的情况，白缝不会问，我也不会讲"
+
+リルヤ
+リルヤ : 「祖母が逝去したあと、私は日本を訪れ、彼女に直接、絵を届けた」
+Lilja : "After my grandmother passed, I came to Japan and kept delivering the paintings the same way I always did."
+丽露娅 : "外婆离世后，则是我来到日本，直接把画拿给她"
+
+リルヤ
+リルヤ : 「祖母の死を悟られないためにも、変わらず、私が届ける必要があった」
+Lilja : "That way, she wouldn't figure out that my grandmother was already gone."
+丽露娅 : "为了让她不注意到外婆已经离世，需要我一如既往地给她送画"
+
+リルヤ
+リルヤ : 「しかし、おそらく彼女は気づいている。海千山千、恐ろしく老獪で、驚くほどに敏い人間だからな」
+Lilja : "But I think she already knows. She's shrewd, frighteningly so."
+丽露娅 : "不过，她大概已经注意到了。毕竟她老谋深算、老奸巨猾，是个敏锐到让人难以相信的人"
+
+夏夏
+夏夏 : 「リルヤさんの上をいくひとってちょっと想像できません……」
+Natsuka : "Wow, I have a hard time imagining someone who could outwit you, Lilja-san."
+夏夏 : "能够凌驾于丽露娅小姐之上的人有点难以想象啊……"
+
+リルヤ
+リルヤ : 「……ふ。私は経験も浅く、まだまだ未熟なところばかりだぞ」
+Lilja : "...Heh. Well, I still have much to experience in this world. I'm not as mature as I could be."
+丽露娅 : "……呵。我还涉世未深，还有很多不成熟的地方"
+
+リルヤ
+リルヤ : 「毎年絵を送っていたのは、８月だ」
+Lilja : "I've always delivered the paintings to Shiranui every August."
+丽露娅 : "每年送画的时间是在，八月"
+
+リルヤ
+リルヤ : 「お前に必要な情報は提供する。だが、まずはお前のしたいようにしてみるといい」
+Lilja : "I'll give you all the information you need, but I want you to do what %i1you%id want with it."
+丽露娅 : "我会向你提供你所需要的信息。不过，在此之前你先按你的想法去做就好"
+
+夏夏
+夏夏 : 「わたしのしたいようにですか……」
+Natsuka : "What %i1I%id want to do..."
+夏夏 : "按我的想法去做吗……"
+
+夏夏
+夏夏 : （黒いカンヴァス……）
+Natsuka : (That black canvas...)
+夏夏 : （黑色的画布……）
+
+夏夏
+夏夏 : 「あの、これって触ってもいいですか？」
+Natsuka : "Um... Do you mind if I touch the canvas?"
+夏夏 : "请问，我可以摸一下这幅画吗？"
+
+リルヤ
+リルヤ : 「かまわない、好きにするといい」
+Lilja : "Not at all. Go right on ahead."
+丽露娅 : "可以的，你随意"
+
+夏夏
+夏夏 : 「ありがとうございます」
+Natsuka : "Thank you."
+夏夏 : "谢谢您"
+
+夏夏
+夏夏 : 「わたし、リルヤさんの家に来てからしばらく、このギャラリーで寝泊まりしたじゃないですか」
+Natsuka : "I slept in this gallery when I first came to your house, remember?"
+夏夏 : "我刚来到丽露娅小姐家的时候，不是在这个画廊睡了一晚吗？"
+
+夏夏
+夏夏 : 「そのときに、この黒いカンヴァスをよく見てたんです。寝るとき、起きるとき、この部屋に帰ってきたとき……」
+Natsuka : "I stared at this canvas a whole lot back then. When I went to sleep, after I woke up, whenever I was in this room..."
+夏夏 : "那个时候，我仔细端详了这张黑色的画布。睡觉的时候，睡醒的时候，回到这个房间的时候……"
+
+夏夏
+夏夏 : 「最初からちょっと不思議だったんです。なんでかな？　どうしてかな？　って思ってて……」
+Natsuka : "At first, I thought it was kinda strange. Like, what's up with that? What's going on with it?"
+夏夏 : "最开始的是时候感觉有些不可思议。不禁去想它的理由……"
+
+リルヤ
+リルヤ : 「何に不思議を感じた？」
+Lilja : "What was so strange about it?"
+丽露娅 : "什么让你觉得不可思议？"
+
+夏夏
+夏夏 : 「……あったかいように感じたんです」
+Natsuka : "...It felt warm to me."
+夏夏 : "……我感觉很温暖"
+
+夏夏
+夏夏 : 「黒って普通怖くて、黒く塗り潰されたカンヴァスなんて、それこそすごい怖いとか……絶望とか？　そういうのを感じそうなのに」
+Natsuka : "Black is usually scary, right? And a canvas smeared completely over with black should be like, %i1really%id scary... Or like, full of despair or something."
+夏夏 : "黑色本来就很让人恐惧，被全部涂黑的画布应该更加恐怖才对……该说是绝望吗？本应该是这种感觉才对"
+
+夏夏
+夏夏 : 「わたしにとって、この黒はすごく……優しいものに思えた」
+Natsuka : "But the black I see on this canvas... feels more kind than anything."
+夏夏 : "对我来说，这个黑色……却让我觉得非常温和"
+
+夏夏
+夏夏 : 「触ってみたら、なんか手触りがまろやかなんですね。絵の具の塗り方なのかな？　よくわかりませんけど」
+Natsuka : "When I touch it, it feels really smooth. Is it 'cause of how she painted it? I don't really know much about that sort of thing."
+夏夏 : "摸了之后，感觉手感很柔和。应该是一种上色的技巧吧？虽然我不是特别懂"
+
+夏夏
+夏夏 : 「優しい……。そう優しいんです。この黒は。それこそ、リルヤさんが夏の日本の夜に感じたような、夜の豊穣にも似た何か……」
+Natsuka : "But it feels kind... Really, really kind. It's almost like the Japanese summer night you talked about. Like it has that same black abundance..."
+夏夏 : "很温和……对，这个黑色很柔和。感觉这就是丽露娅小姐所说的夏天日本的夜晚一样，像是富饶的夜晚一样的……"
+
+夏夏
+夏夏 : 「わかんないけど、なんかそう思うんです。そう感じるんです」
+Natsuka : "I don't really %i1know%id that, but I can %i1feel%id it."
+夏夏 : "不知道为什么，但我就这么觉得。就有这种感觉"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「もし、お前がこの絵にタイトルをつけるとしたらどうする？」
+Lilja : "What would you name this painting, if you had to name it?"
+丽露娅 : "如果，让你来给这幅画取名字的话你会取什么名字？"
+
+夏夏
+夏夏 : 「わたしがですか！？　えっそんな大役を！？」
+Natsuka : "You want %i1me%id to name it!? That's such a huge deal, though!"
+夏夏 : "我来取吗？！哎，这等重任要交给我吗？！"
+
+リルヤ
+リルヤ : 「２度はいわない」
+Lilja : "Don't make me repeat myself."
+丽露娅 : "不要让我说两遍"
+
+夏夏
+夏夏 : 「は、はい！」
+Natsuka : "O-Okay!"
+夏夏 : "好、好的！"
+
+夏夏
+夏夏 : （わたしがこの絵に、タイトルをつけるとしたら……）
+Natsuka : (If I were to name this painting...)
+夏夏 : （如果让我来给这幅画，取名字的话……）
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「胎動」
+Natsuka : "Quickening."
+夏夏 : "胎动"
+
+夏夏
+夏夏 : 「目を閉じたまま、生まれるのを待っている……卵の中で」
+Natsuka : "It's like a baby, still in the egg... Eyes closed, still waiting to be born."
+夏夏 : "闭着眼睛，在蛋壳里……等待着诞生"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「良いな」
+Lilja : "That's quite good."
+丽露娅 : "不错啊"
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Oh!"
+夏夏 : "！！"
+
+夏夏
+夏夏 : 「わっわっ褒められました、嬉しいです！！」
+Natsuka : "Oooomigosh, omigosh! You just complimented me! I'm so glad!"
+夏夏 : "哇！哇！我被表扬了，好开心！！"
+
+夏夏
+夏夏 : 「ありがとうございます！！」
+Natsuka : "Thank you so much!"
+夏夏 : "谢谢您！！"
+
+リルヤ
+リルヤ : 「礼をいうのは私の方だ」
+Lilja : "I should be the one thanking you."
+丽露娅 : "该说谢谢的是我"
+
+リルヤ
+リルヤ : （お前なら、本当に見つけられるかもしれないな……『明日』を）
+Lilja : (I think if anyone could find what "tomorrow" is... it might just be you.)
+丽露娅 : （让你来的话，说不定真的能找到……《明天》）
+
+リルヤ
+リルヤ : 「次はどうする？　お前のしたいようにすると良い」
+Lilja : "So, what will you do next? I want you to do what you want to."
+丽露娅 : "接下来怎么办？按你的想法来做就行"
+
+夏夏
+夏夏 : 「そうですね、次は……」
+Natsuka : "Hmm... Next, I think..."
+夏夏 : "我想想，接下来……"
+
+夏夏
+夏夏 : 「う～～～ん……」
+Natsuka : "Uhhhh..."
+夏夏 : "嗯～～～嗯……"
+
+夏夏
+夏夏 : 「あ」
+Natsuka : "Oh!"
+夏夏 : "啊"
+
+夏夏
+夏夏 : 「リルヤさん、わたしリルヤさんのアルバムが見てみたいです！」
+Natsuka : "Lilja-san, I want to look at your photo album!"
+夏夏 : "丽露娅小姐，我想看看您的相册"
+
+リルヤ
+リルヤ : 「何だって？」
+Lilja : "Excuse me?"
+丽露娅 : "你说什么？"
+
+夏夏
+夏夏 : 「あっ、すみません。つい欲望がダダ漏れに！」
+Natsuka : "Oh, sorry. I'm being greedy again, aren't I?"
+夏夏 : "啊，抱歉。不小心把我的欲望暴露出来了！"
+
+夏夏
+夏夏 : 「わたしがしたいようにっていわれて、つい思ったことが口に！」
+Natsuka : "You asked me what I wanted to do, so I just blurted it right out!"
+夏夏 : "您说按我的想法来做就行，我一不小心把心里想的事情说出来了！"
+
+夏夏
+夏夏 : 「リルヤさんの子ども時代のお話を聞いていて、リルヤさんとお祖母様ってどんな感じだったのかなって思ってたので……」
+Natsuka : "It's just, you were talking about when you were a kid and stuff, so I was wondering what kind of person your grandmother was..."
+夏夏 : "因为我想听一听丽露娅小姐小时候的事情，了解一下丽露娅小姐和您的外婆是怎么相处的……"
+
+夏夏
+夏夏 : 「もし写真が残っていたら見てみたいなあって……」
+Natsuka : "And if you had any pictures, I wanted to see them..."
+夏夏 : "所以如果有照片的话我就想说要不看一下……"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「あ、もしいやだったら、全然見なくていいんです！　プライベートなことですし！　はい！」
+Natsuka : "Oh, but you don't have to show me if you don't want to! It's your personal business! I get it!"
+夏夏 : "啊，如果不行的话，不看也行的！这是毕竟私密的东西！嗯！"
+
+リルヤ
+リルヤ : 「……祖母に関して、印象に残っている記憶がある」
+Lilja : "...I do have a memory of my grandmother that left an impression on me."
+丽露娅 : "……关于外婆，我有个印象比较深的记忆"
+
+リルヤ
+リルヤ : 「祖母の元にカンヴァスが戻ってきたとき、もしあの人に『明日』を届けられるならどんなことだって……とつぶやいた」
+Lilja : "When this canvas came back to us, my grandmother muttered, 'I'll do whatever it takes to deliver tomorrow to her.'"
+丽露娅 : "画布送回到外婆手中的时候，她自言自语道，要是能把《明天》传达给那个人就好了……"
+
+リルヤ
+リルヤ : 「祖母も私も、目的はひとつで、それは『明日』を見せることだ」
+Lilja : "My grandmother and I have one goal. It is to show Shiranui 'tomorrow.'"
+丽露娅 : "外婆和我只有一个目的，那就是让她看到《明天》"
+
+リルヤ
+リルヤ : 「この家にアルバムはないが、家から写真のデータを送らせよう。リビングにあるプリンタを使って印刷するといい」
+Lilja : "I don't have any photo albums here, but I can have the data sent over from home. We can print them out using the printer in the living room."
+丽露娅 : "在这个房子里并没有相册，我让家里人把照片的数据传过来吧。用客厅里的打印机打印出来就好"
+
+リルヤ
+リルヤ : 「あのプリンタは特殊なインクを使っているため、写真に微細な立体を形成する」
+Lilja : "That printer uses special ink that can create fine three-dimensional objects."
+丽露娅 : "那台打印机用的是特殊的墨水，能印出轻微立体的照片"
+
+リルヤ
+リルヤ : 「その写真なら、私もそこに何が描いてあるかを理解できる」
+Lilja : "That way, I can tell what's on each picture as well."
+丽露娅 : "这种照片的话，我也能知道上面画了什么"
+
+リルヤ
+リルヤ : 「お前が気になる写真について私に語って聞かせ、私がその写真について説明する過程で見つかる意味もあるだろうが……」
+Lilja : "I can tell you about whatever photos happen to catch your interest, and I may gain something in the process of describing them as well."
+丽露娅 : "把你在意的照片讲给我听，我对那张照片进行说明，这样的过程也许也有意义……"
+
+リルヤ
+リルヤ : 「合理的に考えて、私も写真に触れながら説明できるようにしておいた方がよかろう。選択肢はあるに越したことはないからな」
+Lilja : "I can tell what the pictures are by touch alone. It's a lot better than my other options."
+丽露娅 : "不过合理思考的话，我说明的时候也能一起触摸照片会更好吧。能有所选择的话最好不过了"
+
+夏夏
+夏夏 : 「わかりました！　ありがとうございます！」
+Natsuka : "Got it! Thank you so much!"
+夏夏 : "好的！谢谢您！"
+
+夏夏
+夏夏 : （ちょっと気になったから、いってみてよかったです！　ちいさい頃のリルヤさん、可愛いだろうな～！）
+Natsuka : (I'm glad I spoke up on a whim like that! Oooh, I bet little Lilja-san was the cutest ever!)
+夏夏 : （把我稍微有些在意的事情说出来真是太好了！小时候的丽露娅小姐，肯定很可爱吧～！）
+
+リルヤ
+リルヤ : 「夏夏、目的を忘れるなよ？」
+Lilja : "Natsuka, don't forget why we're doing this."
+丽露娅 : "夏夏，你没有忘记我们的目的吧？"
+
+夏夏
+夏夏 : 「もちろんですよ、大丈夫です！　おまかせください！」
+Natsuka : "Of course not! Not to worry! Just leave it to ol' Natsuka!"
+夏夏 : "当然没有，放心吧！包在我身上！"
+
+夏夏
+夏夏 : 「リルヤさんのお役に立ってみせます！」
+Natsuka : "I'm gonna be useful to you yet!"
+夏夏 : "我一定要帮上丽露娅小姐的忙！"
+
+夏夏
+夏夏 : 「わ～～～！！」
+Natsuka : "Wow!"
+夏夏 : "哇～～～！！"
+
+夏夏
+夏夏 : 「ちいさいリルヤさんめっちゃめちゃ可愛いです～～！！」
+Natsuka : "You were so, so, so, %i1so%id cute when you were little, Lilja-san!"
+夏夏 : "丽露娅小时候超可爱～～！！"
+
+夏夏
+夏夏 : 「小さくてきれいで可愛くて、本当にお人形さんみたいです～～～！！」
+Natsuka : "You were so cute and pretty and tiny, like a real-life porcelain doll!"
+夏夏 : "小小的又漂亮又可爱，真的跟玩偶一样～～～！！"
+
+夏夏
+夏夏 : 「それに周りもすごい綺麗で……ここがお祖母様のお庭なんですか？」
+Natsuka : "And everything all around you is really beautiful too... Is this your grandmother's garden?"
+夏夏 : "周围的环境也非常漂亮……这是在您外婆的院子里吗？"
+
+リルヤ
+リルヤ : 「ああ、祖母は城の敷地内に祖母だけのプライベートな庭とアトリエ兼住居を用意していたからな」
+Lilja : "Indeed. My grandmother had a private garden, studio, and living space within this castle."
+丽露娅 : "是的，外婆在城堡内建有外婆专属的私人庭院以及兼起居用的画室"
+
+夏夏
+夏夏 : 「アトリエきれいですね」
+Natsuka : "That studio is super pretty!"
+夏夏 : "画室好漂亮啊"
+
+リルヤ
+リルヤ : 「そうだな、前の年にちょっとしたボヤ騒ぎが起きて、建て直したばかりだった」
+Lilja : "It was. A small fire broke out the year before, so it had just been rebuilt."
+丽露娅 : "是啊，早些年起了次小火灾，这是后来重新建的"
+
+夏夏
+夏夏 : 「てゆか？　お城？　あ、ほんとだ……庭の向こうにお城が映ってます」
+Natsuka : "Actually... Hang on, did you say castle? Oh, I guess so! You can see it on the other side of the garden there."
+夏夏 : "话说，城堡？啊，真的是……院子的另一边能够看到城堡啊"
+
+夏夏
+夏夏 : 「え、でも、お城の敷地内にってことは……お祖母様はお城に住むような方？　で？　リルヤさんはお祖母様の孫、で？」
+Natsuka : "But wait, if this is a part of a castle... Then does that mean your grandmother was someone who lived in a castle? And... And you're her granddaughter...!"
+夏夏 : "哎？但是，在城堡里面也就是说……您的外婆是生活在城堡里面的人吗？然后？丽露娅小姐是外婆的孙女，然后？"
+
+夏夏
+夏夏 : 「え、てことは……」
+Natsuka : "Wait... Then that means..."
+夏夏 : "哎？也就是说……"
+
+夏夏
+夏夏 : 「リルヤさんは、お城に住むお姫様……？」
+Natsuka : "That means you're... a princess?"
+夏夏 : "丽露娅小姐，是住在城堡里的公主……？"
+
+リルヤ
+リルヤ : 「ああ、そうだ」
+Lilja : "Correct."
+丽露娅 : "嗯，是的"
+
+夏夏
+夏夏 : 「おお……」
+Natsuka : "Ohh..."
+夏夏 : "哇……"
+
+リルヤ
+リルヤ : 「あまり驚かないのだな。これまでの経験からの予測では、もっと激しいリアクションがあるかと」
+Lilja : "You don't seem all that surprised. I expected something more over-the-top given your usual reactions."
+丽露娅 : "看来你并没有那么惊讶啊。从之前的经历推测，我还以为你会有更加激烈的反应"
+
+夏夏
+夏夏 : 「いや、なんかすごい納得しかないっていうか」
+Natsuka : "Well, I mean. It's 'cause I can totally see it."
+夏夏 : "不，我只是觉得一切都说得通了"
+
+夏夏
+夏夏 : 「リルヤさんが本物のお姫様じゃない方がおかしいくらいだなあと。だからすごい腑に落ちたというか、そうですよね～って感じです」
+Natsuka : "It's like, it'd be weirder if you %i1weren't%id a real princess. So yeah, when you said it, it was kinda like, 'Yeah, of course.'"
+夏夏 : "丽露娅要不是真的公主才奇怪呢。感觉豁然开朗了，有种果然如此啊～的感觉"
+
+リルヤ
+リルヤ : 「なるほどな」
+Lilja : "I see."
+丽露娅 : "原来如此"
+
+リルヤ
+リルヤ : 「ちなみにこの頃の私は４歳で、今から１１年前のことだ」
+Lilja : "By the way, I was four years old in this picture, meaning this was taken eleven years ago."
+丽露娅 : "顺带一提那个时候的我四岁，是十一年前的事"
+
+夏夏
+夏夏 : 「４歳ですか！　かわいいですね～１１年前だとわたしは……きゅ」
+Natsuka : "Wow, four years old! You were soooo cute! Eleven years ago, I would've been... Huh!?"
+夏夏 : "四岁吗！好可爱啊～十一年前的话我才九……"
+
+夏夏
+夏夏 : 「ん？　１１年前で４歳ということは、つまり今は……」
+Natsuka : "Wait... If you were four years old eleven years ago, then that means right now..."
+夏夏 : "嗯？十一年前四岁，也就是说现在……"
+
+リルヤ
+リルヤ : 「１５だな」
+Lilja : "I'm fifteen."
+丽露娅 : "十五岁"
+
+夏夏
+夏夏 : 「じゅうご！！！！！！」
+Natsuka : "%i1Fifteen!?%id"
+夏夏 : "十五！！！！！！"
+
+リルヤ
+リルヤ : 「王族なのは驚かないが、年齢には驚くのだな」
+Lilja : "So the royalty doesn't surprise you, but my age does?"
+丽露娅 : "知道我是皇室成员的时候不惊讶，却对我的年龄感到惊讶呢"
+
+夏夏
+夏夏 : 「いやだってそのとってもとってもしっかりしてらっしゃるので！」
+Natsuka : "Okay, because you are like, really, really capable, okay!?"
+夏夏 : "不是毕竟您非常，非常地稳重啊！"
+
+リルヤ
+リルヤ : 「もっと年上かと？」
+Lilja : "You thought I'd be older?"
+丽露娅 : "你以为我年龄会更大一些？"
+
+夏夏
+夏夏 : 「はいー……」
+Natsuka : "Yeah..."
+夏夏 : "是的……"
+
+リルヤ
+リルヤ : 「ふ」
+Lilja : "Heh."
+丽露娅 : "呵"
+
+夏夏
+夏夏 : （なんでしょう、その勝ち誇った顔は！　珍しい！　可愛い！）
+Natsuka : (What's with that self-satisfied smile!? I've never seen it before! It's adorable!)
+夏夏 : （什么啊，一幅骄傲自满的表情！真难得！好可爱！）
+
+夏夏
+夏夏 : （わたしが王族で驚かなかったから、年齢で驚かせたかったんですね……そういうちょっと子どもっぽいところ、はじめて見た気がします）
+Natsuka : (Maybe she wanted to surprise me with her age since I wasn't surprised that she was royalty... I think that might be the first time I've ever seen her do something so kiddishly mischievous!)
+夏夏 : （因为自己是皇室成员没让我吃惊，就想着通过年龄来让我吃惊吗……感觉我还是第一次看到她这样有些孩子气的样子）
+
+夏夏
+夏夏 : （ええと、気を取り直しまして……写真写真）
+Natsuka : (Erm... Okay, back to earth, Natsuka... Back to the pictures.)
+夏夏 : （不好，得重新集中一下注意力……看照片看照片）
+
+夏夏
+夏夏 : 「庭と温室の写真が多いですね」
+Natsuka : "There are a lot of pictures of the garden and greenhouse, huh?"
+夏夏 : "院子和温室的照片好多啊"
+
+夏夏
+夏夏 : 「あ、でも、温室っていうかアトリエなんでしょうか？　絵の具とかイーゼルとか、絵の道具がいっぱいあります」
+Natsuka : "Oh, wait, I guess this must be the studio, not the greenhouse. There's paints and easels and other painting stuff in there."
+夏夏 : "啊，但是，该说是温室还是画室呢？颜料啊画架什么的，到处都是绘画工具呢"
+
+リルヤ
+リルヤ : 「ああ、祖母の家の温室はアトリエも兼ねていた。しかし短い夏の間は、庭で絵を描いてすごすことが多かった」
+Lilja : "Yes. My grandmother used the greenhouse as her studio. Though during the short summer periods, she'd frequently paint in the garden as well."
+丽露娅 : "嗯，外婆家的温室也被当成画室来用。不过在短暂的夏天里，在院子里画画的时候更多"
+
+リルヤ
+リルヤ : 「私も祖母も、祖母が丹精込めて作った庭を愛していた。語らうにも、お茶をするにも、絵を描くにも、本を読むにもよい庭だった」
+Lilja : "My grandmother and I both loved that garden. She worked so diligently to maintain it. It was perfect for chatting, having tea, painting, or reading."
+丽露娅 : "我和外婆都爱着这个她倾注心血造出来的院子。不管是喝茶、画画，还是读书，这个院子都是个好地方"
+
+夏夏
+夏夏 : （お祖母様と一緒にいるリルヤさん、すごく楽しそうです……こんな風に笑う子どもだったんですね……）
+Natsuka : (Lilja-san looks like she had so much fun when she was with her grandmother... To think she was a kid who could smile this much...)
+夏夏 : （跟外婆在一起的丽露娅小姐，看上去非常快乐……原来她也曾是个会这样欢笑的孩子啊……）
+
+夏夏
+夏夏 : 「リルヤさん、お祖母様が大好きだったんですねえ」
+Natsuka : "You really loved your grandmother, huh, Lilja-san?"
+夏夏 : "丽露娅小姐，您非常喜欢外婆吧"
+
+リルヤ
+リルヤ : 「なぜそう思う？」
+Lilja : "What makes you think that?"
+丽露娅 : "为什么这样想？"
+
+夏夏
+夏夏 : 「そりゃもう、笑顔を見ればわかりますよ」
+Natsuka : "I can tell just by looking at that big smile of yours."
+夏夏 : "看到这样的笑容当然会这样想啦"
+
+リルヤ
+リルヤ : 「……そうだな」
+Lilja : "...You're right."
+丽露娅 : "……是啊"
+
+リルヤ
+リルヤ : 「私は祖母を敬愛していたし、祖母も私に目をかけてくれた。それは、確かなことだ」
+Lilja : "I adored and revered my grandmother, and I know she cared for me just as much. I'm certain of that."
+丽露娅 : "我敬爱着我的外婆，外婆也疼爱着我。这确实是事实"
+
+夏夏
+夏夏 : 「春、夏、秋、冬……どの季節の庭もすごいきれいで……こんな庭を作れちゃうお祖母様はすごいですねえ」
+Natsuka : "Spring, summer, autumn, winter... This yard was beautiful no matter what season it was, huh? Your grandmother must've really been something else to make a garden this lovely."
+夏夏 : "春夏秋冬……不管哪个季节这个院子都好漂亮……能够造出这样的院子，您的外婆好厉害啊"
+
+夏夏
+夏夏 : 「……わあ、この写真すごいきれいです！」
+Natsuka : "...Wow, look at how gorgeous this picture is!"
+夏夏 : "……哇，这张照片好漂亮啊！"
+
+夏夏
+夏夏 : 「夜の写真ですね。白い花がいっぱい咲いて、たくさんのランタンが置かれて、ふたりの女の子が白いドレスを着て――」
+Natsuka : "This one's a nighttime picture, huh? There's all these white flowers, a whole bunch of lanterns, and two girls in white dresses..."
+夏夏 : "这是张夜晚的照片。许多白色的花盛开着，摆放着很多灯笼，两个女孩子穿着白色的连衣裙——"
+
+夏夏
+夏夏 : 「まるで花の妖精さんたちが踊っているみたいです」
+Natsuka : "It's like looking at two little flower fairies dancing along."
+夏夏 : "就像是花丛中的妖精在跳着舞一样"
+
+夏夏
+夏夏 : 「リルヤさんと……あとひとりはどなたでしょう？」
+Natsuka : "I can tell this is you, but... who's this other girl?"
+夏夏 : "丽露娅小姐和……另外一位是？"
+
+リルヤ
+リルヤ : 「白縫の孫だな。名前は月に季節の季で、[つき,1]月季という。薔薇の名だ」
+Lilja : "Shiranui's granddaughter. Her name is Tsuki, using the same characters as the Chinese rose."
+丽露娅 : "白缝的孙女。名字叫月季，月亮的月，季节的季。一种蔷薇科的花的名字"
+
+夏夏
+夏夏 : 「ゆりさん、りらさん、月季さん、リルヤさん……みんな花の名前なんですね」
+Natsuka : "Yuri-san, Lila-san, Tsuki-san, Lilja-san... Wow, you've all got flower names, huh?"
+夏夏 : "百合小姐、莉罗（丁香）小姐、月季小姐、丽露娅（百合）小姐……大家的名字都是花名呢"
+
+リルヤ
+リルヤ : 「ゆりとりらは、同じ施設で育ったそうだ。その施設は入所する少女に花の名前をつけたそうだぞ」
+Lilja : "Yuri and Lila grew up in the same facility. It gave all the girls who were sent there flower names."
+丽露娅 : "我听说百合和莉罗是在同一个收容所长大的。被那个收容所收留的少女都会被取上花的名字"
+
+夏夏
+夏夏 : 「施設……ですか」
+Natsuka : "A... facility, huh?"
+夏夏 : "收容所……吗"
+
+リルヤ
+リルヤ : 「ああ。ふたりとも多くの労苦を経験したようだ」
+Lilja : "Yes. I hear they both went through their fair share of hardships."
+丽露娅 : "是的。听说她们都有着辛苦的经历"
+
+リルヤ
+リルヤ : 「月季は私が生まれた頃から、夏になると遊びに来ていたそうだ」
+Lilja : "I was told Tsuki would come by each summer after I was born to play with me."
+丽露娅 : "自我出生后，月季好像每到夏天都会过来玩"
+
+夏夏
+夏夏 : 「リルヤさんは覚えていないんですか？」
+Natsuka : "You don't remember?"
+夏夏 : "丽露娅小姐不记得了吗？"
+
+リルヤ
+リルヤ : 「月季が来ていたのは、私が３歳までだからな。流石の私も記憶は定かではない」
+Lilja : "Well, she came by until I was three years old. Not even %i1my%id memory goes back that far."
+丽露娅 : "月季只在我三岁前来过。就算是我也在那个年龄也还没能记住事情"
+
+夏夏
+夏夏 : 「家族ぐるみで交流があったんですね」
+Natsuka : "So you knew her because she was a friend of the family, huh?"
+夏夏 : "整个家族都有来往呢"
+
+リルヤ
+リルヤ : 「ああ。祖母は密な繋がりではなく、できるだけゆるい繋がりを保とうとしていたように思う」
+Lilja : "Yes. My grandmother didn't like to keep her friends super close at hand. I believe she tried to maintain those connections as loosely as she could."
+丽露娅 : "是的。我想外婆并不想跟她们家维持亲密的关系，而是想尽可能地保持这种轻松的关系"
+
+リルヤ
+リルヤ : 「一度切れたと思っていた糸がふたたび結ばれたのだから、その糸がほどけないように……そんな想いを語ったこともあった」
+Lilja : "She told me that because she was able to reconnect a string she'd thought had long since been cut, she wanted to make sure those strings never came undone again."
+丽露娅 : "将被切断的线再次接起来的话，这跟线就会变得难解难分……她也有跟我说过这样的想法"
+
+夏夏
+夏夏 : 「優しい人だったんですね、お祖母様は」
+Natsuka : "She was a really sweet person, huh?"
+夏夏 : "您的外婆真是位温柔的人"
+
+リルヤ
+リルヤ : 「どちらかというと変人といわれる類いの人間だったがな」
+Lilja : "I think most would simply think of her as an oddball."
+丽露娅 : "硬要说的话应该算是怪人那一类的吧"
+
+リルヤ
+リルヤ : 「気まぐれで、唐突で、非合理で、非効率そのものだったが、不思議と一緒にいて苛立つことはなかった」
+Lilja : "She was capricious, impulsive, irrational, and inefficient as anything, yet you simply couldn't dislike her."
+丽露娅 : "她简直就是任性、唐突、不合理、低效率的化身，神奇的是跟她相处并不会让我感到急躁"
+
+夏夏
+夏夏 : 「リルヤさんはお祖母様から絵を習ったのですか？」
+Natsuka : "Is your grandmother the one who taught you how to paint?"
+夏夏 : "丽露娅小姐是从外婆那里学会的画画吗？"
+
+リルヤ
+リルヤ : 「基本は祖母から学んだ。すぐに専属の教師をつけられたがな。祖母と私では、絵を描く思考のルートがまるで違うという理由だった」
+Lilja : "I learned the basics from her, but she found an instructor for me soon after. She said it was because the way we thought of painting was far too different."
+丽露娅 : "基础是跟外婆学的。后面很快就给我安排了私人家教。这就是为什么外婆和我画画时思考的方式完全不同"
+
+リルヤ
+リルヤ : 「私もそれで正解だったと思う」
+Lilja : "I would agree with her assessment, too."
+丽露娅 : "我也觉得她是正确的"
+
+リルヤ
+リルヤ : 「専属の教師がついたあとも、祖母とはよく一緒に絵を描いたものだ」
+Lilja : "I still painted together with her after I started taking lessons from my instructor."
+丽露娅 : "被安排了私人家教后，我还是经常跟外婆一起画画"
+
+夏夏
+夏夏 : 「そうですね、お祖母様とリルヤさんが写生している写真があります。あ、こっちはリルヤさんが、ひとりで庭の絵を描いていま――」
+Natsuka : "Oh yeah, here's a picture of you and your grandmother sketching. Oh, and here's one of you painting the garden by yourse—"
+夏夏 : "这样啊，这里有一张外婆跟丽露娅小姐您一起写生的照片。啊，这张是丽露娅小姐一个人在院子里画画——"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （イーゼルの前に座って無心に筆を動かすリルヤさん……）
+Natsuka : (Lilja-san is sitting in front of the easel, moving her paintbrush without a single distraction...)
+夏夏 : （坐在画架前专心地动着画笔的丽露娅小姐……）
+
+夏夏
+夏夏 : （なんだろう、このリルヤさんの表情……表情というよりも、まなざし……？）
+Natsuka : (Her expression is so strange... Or maybe it's just her gaze...?)
+夏夏 : （怎么说呢，这个时候的丽露娅小姐的表情……说是表情，不如说是，眼神……？）
+
+夏夏
+夏夏 : （こんなに透明な視線、見たことないです……無表情じゃない、無感情でもない、ただただ透き徹って……）
+Natsuka : (I've never seen anything like it... Like, nothing is obstructing it. She's not expressionless, or emotionless... It's just totally clear in every way...)
+夏夏 : （我从未见过如此清澈的视线……并不是没有表情，并不是没有感情，只是单纯是透彻而已……）
+
+夏夏
+夏夏 : （まるで……神様のレンズのよう……）
+Natsuka : (It's like... looking through the eyes of God...)
+夏夏 : （简直像……上帝的镜头一样……）
+
+夏夏
+夏夏 : （そういえば、これまで気にしたこともなかったけれど……）
+Natsuka : (Come to think of it, there was something I was wondering about...)
+夏夏 : （说起来，之前我还没有想过……）
+
+夏夏
+夏夏 : （目が見えなくなる前のリルヤさんは、いったい、どんな絵を描いていたんでしょう？）
+Natsuka : (What kind of paintings did Lilja-san paint before she lost her sight?)
+夏夏 : （在失明以前，丽露娅小姐，到底画的是什么样的画呢？）
+
+夏夏
+夏夏 : 「………………」
+Natsuka : "..."
+夏夏 : "………………"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : （はっ！）
+Natsuka : (Oh!)
+夏夏 : （啊！）
+
+夏夏
+夏夏 : （あまりに大量にあるけど飽きないので、つい黙々と見つづけてしまいました……！）
+Natsuka : (I got too engrossed looking at all these pictures and went dead silent...!)
+夏夏 : （照片实在是太多了不过根本看不腻，不知不觉就这样沉默着一直看下去了……！）
+
+夏夏
+夏夏 : （おなか、空きましたね……そうだ、そろそろお夕飯に……）
+Natsuka : (I'm kinda hungry... Yeah, it's about time for dinner, huh?)
+夏夏 : （肚子，有点饿了……对了，快到晚饭的时间了……）
+
+夏夏
+夏夏 : （ん？　なんか肩に重みが……）
+Natsuka : (Hm? Something's on my shoulder...)
+夏夏 : （嗯？怎么感觉肩上有重量……）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （！？　寝てます……！！　リルヤさんが……！）
+Natsuka : (Lilja-san! She's sleeping on my shoulder!)
+夏夏 : （？！睡着了……！！丽露娅小姐睡着了……！）
+
+夏夏
+夏夏 : （ひい！　びっくりするような時間になってますー！　しまった……リルヤさんには寝ていただかないと……！）
+Natsuka : (Eeek! How can it be so late already!? Shoot... I need to get Lilja-san to bed...!)
+夏夏 : （哇！真没想到都到这个点了——！糟了……得让丽露娅小姐去睡觉了……！）
+
+夏夏
+夏夏 : 「あの、リルヤさん、起きてください……」
+Natsuka : "Umm, Lilja-san? You need to wake up..."
+夏夏 : "那个，丽露娅小姐，快醒醒……"
+
+リルヤ
+リルヤ : 「……ん。ああ、寝てたか……」
+Lilja : "...Hmm? Ah... I must have fallen asleep..."
+丽露娅 : "……嗯。哦，我睡着了吗……"
+
+リルヤ
+リルヤ : 「すまないな。絵を描かないかぎり、こんな時間まで起きているのが稀だからな……」
+Lilja : "My apologies. I very rarely stay awake this late when I'm not painting."
+丽露娅 : "抱歉啊。没画画的时候我很少在这个点醒着……"
+
+リルヤ
+リルヤ : 「聞きたいことがあるなら、明日受け付けよう。それでいいか？」
+Lilja : "If you need to ask me something, how about we let it wait until tomorrow?"
+丽露娅 : "如果你有问题想问我的话，明天再问吧。可以吗？"
+
+夏夏
+夏夏 : 「もちろんです、お布団に運びますね」
+Natsuka : "Of course. I'll carry you to your futon, okay?"
+夏夏 : "当然可以，我把您送到床上去吧"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Thanks."
+丽露娅 : "好"
+
+リルヤ
+リルヤ : 「それでは、また明日な」
+Lilja : "Well, I'll see you in the morning, then."
+丽露娅 : "明天见吧"
+
+夏夏
+夏夏 : 「はい！　また明日です」
+Natsuka : "Yep! See ya tomorrow."
+夏夏 : "好的！明天见"
+
+リルヤ
+リルヤ : 「すう……」
+Lilja : "Zzz..."
+丽露娅 : "呼……"
+
+夏夏
+夏夏 : （おお一瞬でした……）
+Natsuka : (Wow, she's out like a light...)
+夏夏 : （哇倒头就睡啊……）
+
+夏夏
+夏夏 : （また明日……かあ……）
+Natsuka : (Tomorrow...)
+夏夏 : （明天再见……吗……）
+
+夏夏
+夏夏 : （そういえば、明日のことを考えるようになったのって、この家に来てからな気がします）
+Natsuka : (You know, come to think of it, I don't think I ever started thinking about tomorrow until I came here.)
+夏夏 : （说起来，我是在搬进这间房子后，才开始变得会去思考明天的事情的）
+
+夏夏
+夏夏 : （ひとり暮らしをしているときは、今日のことで精一杯で、明日イコール、仕事の予定でしかない感じでしたし……）
+Natsuka : (I was so busy trying to make it through each day when I was living by myself, I only thought of tomorrow as a thing on my work schedule...)
+夏夏 : （一个人生活的时候，光是做好眼下的事就已经精疲力尽了，感觉对我来说明天就只等于要做的工作……）
+
+夏夏
+夏夏 : （お姉ちゃんといる頃は……）
+Natsuka : (And when I was with my sister...)
+夏夏 : （姐姐还在的时候……）
+
+夏夏
+夏夏 : （うーん、あの頃のわたしってば、びっくりするほど何も考えてなかったですねえ）
+Natsuka : (Umm... Well, when I was with her, my head was shockingly empty.)
+夏夏 : （嗯……难以想象那个时候的我，居然什么想法都没有呢）
+
+夏夏
+夏夏 : （そのせいでしょうか？　あの頃って……あまり明日とか昨日とかの感覚がなかったかも……）
+Natsuka : (Is that why? Because back then... I didn't really have a sense for tomorrow or yesterday or any day, really...)
+夏夏 : （不知道是不是这个原因？那个时候……感觉对明天啊昨天什么的并没有什么感觉……）
+
+夏夏
+夏夏 : （昨日も、今日も、明日も、全部同じ……）
+Natsuka : (Today, tomorrow, and the day before were all the same...)
+夏夏 : （不管是昨天，今天，还是明天，全都一样……）
+
+夏夏
+夏夏 : （今は、昨日という思い出があって、明日という楽しみがあって……）
+Natsuka : (Now I have memories of yesterday, and excitement for tomorrow...)
+夏夏 : （而现在，我有着昨天的回忆，有着对明天的期待……）
+
+夏夏
+夏夏 : （明日ってなんでしょう？　今はまだ来ていない明日、でもいつかくる明日……）
+Natsuka : (So what %i1is%id tomorrow? A day that hasn't come, but will definitely be there someday...)
+夏夏 : （明天是什么呢？现在尚未到来的明天，但是总会到来的明天……）
+
+夏夏
+夏夏 : （わたしにとっての明日は、楽しいこと、うれしいこと）
+Natsuka : (To me, tomorrow is a fun and happy thing.)
+夏夏 : （对我来说，明天就是快乐、开心）
+
+夏夏
+夏夏 : （明日が楽しいのは、リルヤさんがいるから）
+Natsuka : (And tomorrow will be fun because Lilja-san's a part of it.)
+夏夏 : （明天会快乐，是因为有丽露娅小姐在）
+
+夏夏
+夏夏 : （昨日が嬉しいのは、リルヤさんがいたから）
+Natsuka : (Yesterday was happy because Lilja-san was a part of it.)
+夏夏 : （昨天很开心，是因为有丽露娅小姐在）
+
+夏夏
+夏夏 : （でも、白縫さんは？　白縫さんにとっての明日ってなんでしょう？）
+Natsuka : (But what about Shiranui-san? What does tomorrow mean to her?)
+夏夏 : （但是，白缝小姐呢？对白缝小姐来说，明天是什么呢？）
+
+夏夏
+夏夏 : （それは、たぶん……）
+Natsuka : (Maybe it could be...)
+夏夏 : （那大概就是……）
+
+夏夏
+夏夏 : （うん、決めました！　明日、リルヤさんに相談しましょう）
+Natsuka : (Yeah, I've made up my mind! I'll talk to Lilja-san about it tomorrow!)
+夏夏 : （嗯，我想好了！明天跟丽露娅小姐商量商量吧）
+
+夏夏
+夏夏 : 「やっぱり白縫さんにお話を聞きたいです」
+Natsuka : "So, I think I want to talk to Shiranui-san about this."
+夏夏 : "我果然还是想和白缝小姐说说话"
+
+夏夏
+夏夏 : 「わたし、昨日ずっと考えたんです。それで……」
+Natsuka : "I was thinking about it all day yesterday, and..."
+夏夏 : "我昨天一直在思考。然后……"
+
+夏夏
+夏夏 : 「わかんないんですけど、明日ってたぶん昨日がなければ存在しないと思ったんです」
+Natsuka : "Well, I don't really fully %i1get it%id, but I feel like tomorrow can't exist without a yesterday."
+夏夏 : "不知道为什么，但我觉得如果没有昨天的话，明天大概也不会存在"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「『毎日の感情に、あなた自身が向き合うこと。今日という日に、ちゃんとさようならすること』」
+Lilja : "'You must always face your feelings of each passing day. You must say your goodbyes to the day when it comes to an end.'"
+丽露娅 : "‘明天就是亲自面对自己每一天的感情。明天就是和今天的告别’"
+
+リルヤ
+リルヤ : 「『今日という日、今という瞬間を、ひとつずつ終わらせること』」
+Lilja : "'Always be sure that you bring an end to each day, and each moment, as it comes to pass.'"
+丽露娅 : "‘明天就是结束一个接一个今天，一个接一个的瞬间’"
+
+夏夏
+夏夏 : 「……おお」
+Natsuka : "Wow..."
+夏夏 : "……哇"
+
+夏夏
+夏夏 : 「なんかすごい、いい言葉ですね？　リルヤさんの言葉ですか？」
+Natsuka : "That's pretty deep. Did you come up with that?"
+夏夏 : "感觉这话说得挺好啊？这是丽露娅小姐说的吗？"
+
+リルヤ
+リルヤ : 「いや、祖母の言葉だ」
+Lilja : "No. My grandmother did."
+丽露娅 : "不是，是我外婆说的"
+
+リルヤ
+リルヤ : 「なるほどな……『明日』を見るために必要なものは、昨日だと」
+Lilja : "That's an interesting thought... That you need 'yesterday' in order to see 'tomorrow.'"
+丽露娅 : "原来如此……看到《明天》所需要的东西其实是昨天吗"
+
+夏夏
+夏夏 : 「はい！　白縫さんの見たい『明日』を知るために、直接、白縫さんの[かこ,1]昨日を訊かせてもらいたいなって……」
+Natsuka : "Yeah! So in order to figure out the tomorrow Shiranui-san wants to see, I want to ask her directly about her past."
+夏夏 : "是的！为了知道白缝小姐想看到的《明天》，我想直接向白缝小姐询问一下她的昨天……"
+
+夏夏
+夏夏 : 「でも、私が白縫さんに会いにいったら、お祖母様が亡くなったことも、リルヤさんの目の状態もまるっとばれちゃいますよね……」
+Natsuka : "But if I go, she'll figure out that your grandmother is gone, and she'll learn about your condition, too..."
+夏夏 : "但是，如果我去见白缝小姐的话，您外婆已故的事，还有您眼睛现在的情况全都会让她知道的吧……"
+
+リルヤ
+リルヤ : 「かまわない。昨日もいったが、もう既にばれているだろうからな」
+Lilja : "I don't mind. As I mentioned yesterday, I believe she's long since figured it out."
+丽露娅 : "无所谓。昨天我也说过了，或许她早就知道了"
+
+リルヤ
+リルヤ : 「お前が彼女の元にいくなら、一緒に届けてほしいものがある。話す前に、それを彼女に渡してくれ」
+Lilja : "If you're going to meet her, I have something I'd like you to give her. Please be sure it gets to her before you get into your conversation."
+丽露娅 : "如果你要去她那里的话，有件东西我希望你能一起带过去给她。你在跟她交流前，先把这个东西给她"
+
+夏夏
+夏夏 : 「はい、わかりました！」
+Natsuka : "Got it!"
+夏夏 : "好的，我明白了！"
+
+夏夏
+夏夏 : 「あ、あと……リルヤさんが昔描いた絵ってどこかで見れますか？」
+Natsuka : "O-Oh... And I was also going to ask if there's anywhere I could see your old paintings."
+夏夏 : "还、还有……丽露娅小姐以前画的画在那里可以看到呢？"
+
+リルヤ
+リルヤ : 「それは、私の目が見えていた頃の絵ということか？」
+Lilja : "You mean the paintings from when I still had sight?"
+丽露娅 : "你说的是，我眼睛还能看到东西时画的画吗？"
+
+夏夏
+夏夏 : 「……はい、そうです」
+Natsuka : "...Yes."
+夏夏 : "……嗯，是的"
+
+リルヤ
+リルヤ : 「気になるか？」
+Lilja : "You're interested in them?"
+丽露娅 : "你想看吗？"
+
+夏夏
+夏夏 : 「はい。これまでは全然気にならなかったんですけど……今は、気になっています」
+Natsuka : "Yes. I wasn't up until now, but... yeah, now I am."
+夏夏 : "是的。之前完全没有这个想法……不过现在想看了"
+
+夏夏
+夏夏 : 「わたし、リルヤさんが絵を描くことを知っていますし、リルヤさんから絵ももらいましたけど……」
+Natsuka : "I know you can paint. I've even gotten a painting from you."
+夏夏 : "我知道丽露娅小姐在画画，也从丽露娅小姐那里收到过画……"
+
+夏夏
+夏夏 : 「リルヤさんの絵よりも、リルヤさんの気持ちとか、リルヤさん自身ばかり気になっていて……」
+Natsuka : "But I'm more interested about you and your feelings than your paintings."
+夏夏 : "比起丽露娅小姐的画，我更关注的一直是丽露娅小姐的想法，还有丽露娅小姐本身……"
+
+夏夏
+夏夏 : 「でも、昔のリルヤさんが絵を描いている表情を写真で見て、それですごく気になりはじめました」
+Natsuka : "When I saw the look on your face when you were painting in those old pictures, I just really wanted to see what you painted."
+夏夏 : "但是，看到以前丽露娅小姐画画时候的表情后，我就特别想看看丽露娅小姐的画了"
+
+リルヤ
+リルヤ : 「結局のところお前は、私の絵よりも、私にばかり関心があるのだな」
+Lilja : "As usual, you're more focused on me than the painting at hand."
+丽露娅 : "说到底比起画你还是更关心我本人啊"
+
+夏夏
+夏夏 : 「はい、わたし、そうみたいです。わたしリルヤさんに出会ってから、リルヤさんのことばかり考えている気がします」
+Natsuka : "Yeah, I guess so. I feel like I've just had nothing but you on my mind since the moment I met you."
+夏夏 : "嗯，好像我确实是这样。感觉我在跟丽露娅小姐认识后，一直都在想丽露娅小姐的事情"
+
+リルヤ
+リルヤ : 「……ふ」
+Lilja : "...Heh."
+丽露娅 : "……呵"
+
+リルヤ
+リルヤ : 「そういうお前が私の傍にいることは、私にも確かな利になっていると感じている」
+Lilja : "I definitely feel like having someone like you by my side will be a good thing for myself as well."
+丽露娅 : "有这样的你陪伴在我的身旁，我感觉实实在在是有好处的"
+
+夏夏
+夏夏 : 「お役に立っているってことですね？」
+Natsuka : "You mean, I'm gonna be useful to you?"
+夏夏 : "您是说我有帮到您的忙吗？"
+
+リルヤ
+リルヤ : 「そういうことだ」
+Lilja : "That's right."
+丽露娅 : "是这个意思"
+
+夏夏
+夏夏 : 「なんだかよくわかりませんが、よかったです！」
+Natsuka : "Wow! I don't really get what I did, but I'm glad!"
+夏夏 : "虽然我也不知道为什么，但是能帮到就太好了！"
+
+リルヤ
+リルヤ : 「それで、お前の希望はその２点で終わりか？」
+Lilja : "Now, are those two things all you wanted?"
+丽露娅 : "所以，你希望的就只有这两件事吗？"
+
+夏夏
+夏夏 : 「あ、あと、絵はがきの絵の場所を見てみたいです。絵はがきの場所について詳しく知っているのも、白縫さんですよね？」
+Natsuka : "O-One more thing! I wanted to see the place pictured on that postcard. I'm pretty sure Shiranui-san would know more about that, right?"
+夏夏 : "啊，还有，我想去看看那张明信片上面画着的地方。明信片上地点的具体情况也是白缝小姐才知道吧"
+
+リルヤ
+リルヤ : 「そうだな。白縫はよく知っているだろう。あの建物があった場所はもうないが、跡地なら見られる。それも白縫に訊くといい」
+Lilja : "That's right. Shiranui would know quite a bit about it. While the building in that picture is no longer around, you can go see where it once was. You can ask Shiranui about that as well."
+丽露娅 : "是啊。白缝应该很清楚吧。那个地方已经没有这个建筑物了，但是遗迹还是能看到的。具体的你直接去问白缝就好"
+
+夏夏
+夏夏 : 「わかりました！　それでは、絵はがきの場所を見て、白縫さんに色々なお話を聞いてきますね」
+Natsuka : "Got it! Well then, I'm gonna go see the place in the postcard and ask Shiranui-san all sorts of things!"
+夏夏 : "好的！那我就去看一下明信片上面的地方，然后跟白缝小姐请教一下各种事情"
+
+リルヤ
+リルヤ : 「ああ、いってこい。彼女によろしくな」
+Lilja : "Have a good time. And tell her I said hello."
+丽露娅 : "好，你去吧。替我向她问好"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Okay!"
+夏夏 : "好的！"
+
+夏夏
+夏夏 : 「リルヤさんの『明日』を、見つけてきますね！」
+Natsuka : "I'm gonna find that tomorrow for you, no matter what!"
+夏夏 : "就由我来找出丽露娅小姐的《明天》！"
+

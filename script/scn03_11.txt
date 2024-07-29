@@ -1,0 +1,520 @@
+夏夏
+夏夏 : 「ふふ～ん、んんふふ～ん♪」
+Natsuka : "Hmm hmm hmm... Hmm hmm hmm! %f$記号$;♪%fuser;"
+夏夏 : "哼哼～哼哼哼～♪"
+
+夏夏
+夏夏 : 「あ、リルヤさん、おかえりなさい！　よいお風呂でした？」
+Natsuka : "Oh hey! Welcome back, Lilja-san! How was your bath?"
+夏夏 : "啊，丽露娅小姐，欢迎回来！洗得好吗？"
+
+リルヤ
+リルヤ : 「いつもどおりだ」
+Lilja : "The same as always."
+丽露娅 : "和平时一样"
+
+夏夏
+夏夏 : 「いつもどおり！　いいですね！　髪の毛、乾かしましょうか？」
+Natsuka : "Same as always, huh? That's great! You want me to dry your hair for you?"
+夏夏 : "和平时一样！真不错啊！头发要我帮您擦干吗？"
+
+リルヤ
+リルヤ : 「まかせる」
+Lilja : "If you would."
+丽露娅 : "你擦吧"
+
+夏夏
+夏夏 : 「はい！　それでは失礼しまして……」
+Natsuka : "Okey dokey! Then here goes nothing!"
+夏夏 : "好的！那我打扰了……"
+
+夏夏
+夏夏 : 「リルヤさんちのタオルはふかふかなので、こうやってちょっと押さえるだけでぐんぐん水をすってすごいですね」
+Natsuka : "The towels at your place are super fluffy, so you barely have to press at all to soak the water up!"
+夏夏 : "丽露娅小姐家的毛巾很蓬松，像这样轻轻挤一下就能吸上来好多水真好用啊"
+
+リルヤ
+リルヤ : 「いつも楽しそうだな」
+Lilja : "You always seem to have so much fun with this."
+丽露娅 : "每次你都很兴奋啊"
+
+夏夏
+夏夏 : 「はい！　こうしてタオルドライしていると……」
+Natsuka : "I really do! 'Cause towel-drying your hair is kinda like..."
+夏夏 : "嗯！像这样把毛巾拧干……"
+
+夏夏
+夏夏 : 「リルヤさんの水に濡れて水晶みたいに冷たくてしっとりした髪が、乾くと月の光みたいなさらさらした髪になっていくのが好きです」
+Natsuka : "When your hair's all wet, it's like a cold, wet crystal, but when you dry it, it's as gentle and soft as moonlight! I like getting to see it change like that."
+夏夏 : "丽露娅小姐的头发被水打湿后就像是水晶一样冰冷湿润，擦干后就像是洒下的月光一样松软，我特别喜欢"
+
+リルヤ
+リルヤ : 「褒めすぎとはいわないでおこう」
+Lilja : "There's no point in telling you you're laying it on too thick, is there?"
+丽露娅 : "太夸张的称赞就别说了"
+
+夏夏
+夏夏 : 「はい！　あ、それでですねえ、リルヤさん、髪を乾かしたら――」
+Natsuka : "Nope! Oh, also, once your hair is dry—"
+夏夏 : "好的！啊，那个，丽露娅小姐，头发擦干后——"
+
+リルヤ
+リルヤ : 「ここに持ちこんだものを、語ってきかせるか？」
+Lilja : "Are you going to tell me about what you brought here?"
+丽露娅 : "要把你搬来的东西，讲给我听吗？"
+
+夏夏
+夏夏 : 「はっ……わかっちゃいますか？」
+Natsuka : "Wha!? You already knew?"
+夏夏 : "啊……您已经知道了吗？"
+
+リルヤ
+リルヤ : 「香りがするからな」
+Lilja : "I could tell by the smell."
+丽露娅 : "因为能闻到香气"
+
+リルヤ
+リルヤ : 「この時期に開花する花で」
+Lilja : "You brought flowers that bloom this season."
+丽露娅 : "在这个季节开花的花"
+
+リルヤ
+リルヤ : 「ジャスミン洋香気のジャスモン酸メチル、ローズ洋香気のゲラニオール、フローラルグリーンのサリチル酸メチル……」
+Lilja : "Methyl jasmonate from jasmine scents, geraniol from rose scents, methyl salicylate from wintergreen..."
+丽露娅 : "具有茉莉花香的茉莉酮酸甲酯，具有玫瑰花香的香叶醇，具有青花香的水杨酸甲酯……"
+
+リルヤ
+リルヤ : 「とくれば、おおよその予想はつく」
+Lilja : "It was simple enough to deduce from that."
+丽露娅 : "根据这些，基本能猜出是什么"
+
+夏夏
+夏夏 : 「運んだあと、中庭のガラス窓は閉めたんですけれど！」
+Natsuka : "Aw, man! And I made sure to shut the windows to the courtyard and everything!"
+夏夏 : "明明我运来后把院子的玻璃窗关上了！"
+
+リルヤ
+リルヤ : 「中庭へと運ぶのに、部屋を通過しただろう？　換気をしてもどうしても香りは残る。たとえ、開花前の状態であってもな。道のようにな」
+Lilja : "You had to carry them through here to get to the courtyard, correct? The scent will remain no matter how much you ventilate, even if it's before the flowers have bloomed, guiding you to its source like a trail."
+丽露娅 : "你要搬到院子里去，肯定是要穿过房间的吧？　哪怕换气多少还是会留下香味的。就算是在开花前也是一样的。就像是留下了踪迹一样"
+
+夏夏
+夏夏 : 「むむ～リルヤさんに隠し事は無理ですねえ、せっかくなのでサプライズにしようと思ったんですが」
+Natsuka : "Mmgh... I guess I really can't hide anything from you, can I? I was hoping for it to be a surprise..."
+夏夏 : "呣呣～看来没有事情能瞒得过丽露娅小姐啊，我还想难得有机会给您个惊喜呢"
+
+リルヤ
+リルヤ : 「私を驚かせたいなら、慎重に慎重を期すことだな」
+Lilja : "You'll have to be %i1particularly%id careful if you ever wish to surprise me."
+丽露娅 : "想要让我吃惊，可要谨小慎微地做好计划才行啊"
+
+夏夏
+夏夏 : 「次はがんばります！　あっでも、今回のやつは、まだはじまってもいないので！」
+Natsuka : "It's on, then! Oh, but we haven't actually gotten to my surprise this time around!"
+夏夏 : "下次我会努力的！啊不过，这次的还没开始呢！"
+
+夏夏
+夏夏 : 「えへへ、語るのはもちろん大事なんですが、リルヤさんと一緒に素敵な時間がすごせればいいなあって、思ってます」
+Natsuka : "Hehe, I know %i1talking%id to you is really important and stuff, but I thought it'd be even better if we could spend some quality time together!"
+夏夏 : "嘿嘿，说事情当然重要，但是我觉得跟丽露娅小姐一同度过的美好时光也很重要"
+
+リルヤ
+リルヤ : 「楽しみでないとはいっていない。月下美人の開花の瞬間に立ち会えるのだろう？」
+Lilja : "Well, I never said I wasn't looking forward to this. We're going to be there the moment the queen of the night blooms, are we not?"
+丽露娅 : "我没说我不期待。能够见证到昙花开花的瞬间吧？"
+
+夏夏
+夏夏 : 「そのとおりです、香りから花の名前までわかっちゃうんですねえ」
+Natsuka : "We sure are! Wow, you could even figure out the flower's name just from its scent, huh?"
+夏夏 : "是的，您从香味就能知道花的名字呢"
+
+リルヤ
+リルヤ : 「花の香りにはそれぞれ特徴があるからな」
+Lilja : "Every flower has its own special scent, after all."
+丽露娅 : "每种花都有自己特征的香味"
+
+リルヤ
+リルヤ : 「しかし、どこにでもあるありふれた花ではない。香りからして一鉢や二鉢ではないだろう、よく集めたな。伝手があったのか？」
+Lilja : "But this isn't a flower you smell every day. Not to mention, this is more than just a few blooms. You must have gathered quite a few. Did you have help?"
+丽露娅 : "但是，这并不是随处可见的平凡的花。从香味上看应该不只有一枝两枝吧，真亏你能收集到这么多。是有谁帮了忙吗？"
+
+夏夏
+夏夏 : 「はい。わたし、ちょくちょく花屋さんでバイトをしてるんですけど」
+Natsuka : "Yeah. I work at a flower shop from time to time."
+夏夏 : "是的。我经常去一家花店打工"
+
+夏夏
+夏夏 : 「そこで月下美人の愛好会的な方たちと知り合いまして、その方々にお願いして貸してもらいました」
+Natsuka : "I met some people there who were like, part of a queen of the night fan club? And I asked them if I could have some."
+夏夏 : "在那里认识了几位昙花同好会的朋友，我从她们那里借来的"
+
+夏夏
+夏夏 : 「皆さんも楽しみにしているんですけど、どうにかオーケーをいただいてきました」
+Natsuka : "They really wanted to keep all of them for themselves, but I managed to get the okay outta them for some!"
+夏夏 : "大家都期待看到开花，好不容易才同意让我借走"
+
+夏夏
+夏夏 : 「あ、もちろん、リルヤさんの事情とか話していませんので」
+Natsuka : "Oh, and don't worry! I didn't tell them anything about you or anything."
+夏夏 : "啊，当然，我没有跟她们说过丽露娅小姐的情况"
+
+リルヤ
+リルヤ : 「そこは心配していない」
+Lilja : "I wasn't worried."
+丽露娅 : "这点我并不担心"
+
+夏夏
+夏夏 : 「はい、ありがとうございます！」
+Natsuka : "Oh! Well, thanks, then!"
+夏夏 : "好的，谢谢您！"
+
+夏夏
+夏夏 : 「食事が終わってしばらくしたら、一緒に中庭にいきましょうね。今夜は、リンゴンベリーとクリームソースを添えたミートボールと……」
+Natsuka : "Let's head to the courtyard after we finish eating. Tonight we're having lingonberry and cream sauce-covered meatballs aaaand..."
+夏夏 : "吃完饭后过会，我们就一起去院子里吧。今晚有加了越橘和奶油沙司的肉丸和……"
+
+リルヤ
+リルヤ : 「カルダモンプッラ」
+Lilja : "Cardamom pulla."
+丽露娅 : "豆蔻卷"
+
+夏夏
+夏夏 : 「わかっちゃいますか？」
+Natsuka : "You already know?"
+夏夏 : "您已经知道了吗？"
+
+リルヤ
+リルヤ : 「当然だ。私の好物だからな」
+Lilja : "Of course I do. It's my favorite."
+丽露娅 : "当然了。这是我最喜欢吃的东西"
+
+夏夏
+夏夏 : 「ていうか、このカルダモンの香りで、月下美人の香りをごまかせるかな～っていうのもあったんですけどね」
+Natsuka : "Y'know, I was kinda hoping the smell of the cardamom would mask the queen of the night smell..."
+夏夏 : "话说，感觉您会把豆蔻的香气和昙花的香气混在一起呢"
+
+リルヤ
+リルヤ : 「私を侮りすぎたな」
+Lilja : "Seems you underestimated me, then."
+丽露娅 : "可别小看我啊"
+
+リルヤ
+リルヤ : 「支度ができたら、中庭に運ぶぞ」
+Lilja : "Once we've gotten our food, we can carry it to the courtyard."
+丽露娅 : "饭菜做好了就送到院子里去吧"
+
+リルヤ
+リルヤ : 「花と食事の香りが混じってもかまわない。お前の作った食事を味わいながら、ゆっくり花が咲く時間を楽しむとしよう」
+Lilja : "I don't mind if the smell of the flowers and food mingle. I'd like to feast on your cooking and enjoy the flowers blooming together."
+丽露娅 : "花和食物的香气混在一起也没事。我要品尝着你做的饭菜，慢慢享受开花的时光"
+
+夏夏
+夏夏 : 「あ……リルヤさん、また花が咲きました」
+Natsuka : "Oh... Lilja-san, another flower just bloomed."
+夏夏 : "啊……丽露娅小姐，又有花开了"
+
+夏夏
+夏夏 : 「暗闇に白い妖精のランプが開くみたいに、ひとつ、ひとつ……花がふわりとひらいて……」
+Natsuka : "They're like little fairy lamps that light up in the dark one by one... The petals softly opening..."
+夏夏 : "感觉就像是黑暗中妖精点亮了提灯一样，一盏、两盏……花儿渐开……"
+
+夏夏
+夏夏 : 「花が咲くたびに香りが強くなっていきますね……」
+Natsuka : "And every time one blooms, the fragrance gets even stronger..."
+夏夏 : "花开得越多，香味就越浓啊……"
+
+夏夏
+夏夏 : 「夜に光る白い花びらたち、こんなにたくさんあると、まるで白い花の妖精が輪舞しているようにも見えてきます……」
+Natsuka : "Seeing all of these beautiful white petals in the night light really does feel like we're sitting in the middle of a white flower fairy dance."
+夏夏 : "夜晚中有着这么多发着光的白色花瓣，看上去就好像是白花的妖精们在跳着圆舞一般……"
+
+夏夏
+夏夏 : （すごく、すごく綺麗です……でも）
+Natsuka : (It's so, so beautiful...)
+夏夏 : （非常、非常的漂亮……不过）
+
+夏夏
+夏夏 : （今、この中庭で一番きれいなのは……）
+Natsuka : (But there's something even more beautiful than all of the flowers here in this courtyard...)
+夏夏 : （今晚，这个院子里最漂亮的还是……）
+
+リルヤ
+リルヤ : 「――月下美人が咲く瞬間を経験するのはこれがはじめてだ」
+Lilja : "This is the first time I've been near a queen of the night blooming."
+丽露娅 : "——我还是第一次体验到昙花开花的瞬间"
+
+夏夏
+夏夏 : 「わたしもです」
+Natsuka : "Me too."
+夏夏 : "我也是"
+
+夏夏
+夏夏 : 「写真では見たことありましたが、こんなに綺麗でいい香りだなんて知りませんでした」
+Natsuka : "I've seen them in pictures and stuff, but I had no idea they could be %i1this%id beautiful or smell %i1this%id good."
+夏夏 : "虽然我在照片上有看过，但我真不知道居然会这么漂亮这么香"
+
+夏夏
+夏夏 : 「本当にきれいです……まるでリルヤさんみたいです」
+Natsuka : "They're so gorgeous... Just like you, Lilja-san."
+夏夏 : "真的好漂亮……就跟丽露娅小姐一样"
+
+リルヤ
+リルヤ : 「私に似ているか」
+Lilja : "You think they're like me?"
+丽露娅 : "和我很像吗？"
+
+夏夏
+夏夏 : 「はい。月光を集めたみたいに、透き徹るように白くて、儚げなのに、凜と咲いているようにも見えて……夢のようにきれいで……」
+Natsuka : "Yes. They're so clear and white, like they're collecting moonlight itself. And even if they only blossom for a brief time, they bloom in such a dignified way... It's like something out of a fairytale..."
+夏夏 : "是的。如同在收集着月光一般，白得通透，如梦如幻，视如怒放……像梦境一般美丽……"
+
+夏夏
+夏夏 : 「そんなリルヤさんみたいにきれいな花を、リルヤさんと一緒に見たいなって、思って、それでこんな風にたくさん集めてみました」
+Natsuka : "I really wanted to see these flowers with you because they're as beautiful as you are. So I wound up gathering a whole bunch of them."
+夏夏 : "这样一种跟丽露娅小姐一样漂亮的花，我想着这得跟丽露娅小姐一起看啊，就像现在这样收集了这么多花"
+
+夏夏
+夏夏 : 「わたし、この前、わかっちゃったんです」
+Natsuka : "Because I figured it out a bit ago."
+夏夏 : "我呢，在这之前，明白了一件事"
+
+夏夏
+夏夏 : 「リルヤさんのお祖母様がいっていた、リルヤさんに必要な心震わせるもの、不在の花、やがて来る花」
+Natsuka : "I understand what that flower your grandmother was talking about was. That flower of absence. The very thing that would move your heart."
+夏夏 : "丽露娅小姐的外婆所说的，丽露娅小姐所需要的能震撼您的东西、未至的花、将至的花"
+
+夏夏
+夏夏 : 「それは、リルヤさん自身だけじゃ難しくて、外側の手助けが必要で……つまり、それはわたしによって語られるもので……」
+Natsuka : "It's something that would be difficult to find alone. Something you'd need outside help with... So it's something I would have to tell you about."
+夏夏 : "那对丽露娅小姐自己来说是非常困难的，必须要有外界的帮助……也就是说，需要由我来讲述……"
+
+夏夏
+夏夏 : 「だから、わたしが一番心震わせるものに、世界中で一番きれいなものを語ろうって」
+Natsuka : "I wanted to tell you about the most beautiful thing in the world. The thing that's moved me more than anything."
+夏夏 : "所以，我决定要讲述出最震撼我内心的，世界上最美丽的东西"
+
+夏夏
+夏夏 : 「そしてそれは……」
+Natsuka : "It's..."
+夏夏 : "而这个东西就是……"
+
+夏夏
+夏夏 : 「それは、リルヤさんなんです」
+Natsuka : "It's you, Lilja-san."
+夏夏 : "就是，丽露娅小姐您"
+
+夏夏
+夏夏 : 「わたしが世界で一番綺麗だって思えるのはリルヤさんです」
+Natsuka : "You are the most beautiful thing in the world to me, Lilja-san."
+夏夏 : "我觉得世界上最美丽的东西就是丽露娅小姐您"
+
+夏夏
+夏夏 : 「リルヤさんがわたしの世界の中心で咲く花なんです」
+Natsuka : "You are the flower that blooms in the center of my world."
+夏夏 : "丽露娅小姐就是在我世界中心绽开的花"
+
+夏夏
+夏夏 : 「だから、もっと綺麗なリルヤさんが見たくて、月下美人をいっぱい用意しました！」
+Natsuka : "And I wanted to see you look even more beautiful, so I got a ton of queen of the nights!"
+夏夏 : "所以，我想要看到更美丽的丽露娅小姐，为此才准备了这么多昙花！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「……それで？」
+Lilja : "...And?"
+丽露娅 : "……然后呢？"
+
+夏夏
+夏夏 : 「へっ？」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+リルヤ
+リルヤ : 「お前の感動はおおいに伝わってきた。だがそれで、私に私を描けと？　お前の語る私の美しさに、私は心を震わせるのか？」
+Lilja : "Well, you've told me plenty about what's moved you. So what? You want me to paint myself? You think my %i1own%id beauty that you speak of is what will move my heart?"
+丽露娅 : "你的感动深刻地传达给我了。然后呢，要我来画我自己吗？要用你所讲述的我的美丽，来让我的内心有所震撼吗？"
+
+夏夏
+夏夏 : 「あっ」
+Natsuka : "Ah..."
+夏夏 : "啊……"
+
+リルヤ
+リルヤ : 「私がナルシストでない以上、合理的に考えるまでもなく無理だろう」
+Lilja : "I'm not a narcissist. Anyone with a brain could figure out that's impossible."
+丽露娅 : "除非我是个自恋狂，否则根本用不着合理思考也知道这是不可能的吧"
+
+夏夏
+夏夏 : 「あっいやっ違うんです、いや合ってるけど違うんです。世界で一番きれいなリルヤさんを見たいのも本当の気持ちなんですけど！！」
+Natsuka : "Err, but that's not... I mean, you're right, but not really? I really do mean it when I say I want to see you as the most beautiful thing in the whole world!"
+夏夏 : "啊不是这样的，哦不，是这样的但是不对。我想看到世界上最美丽的丽露娅小姐的想法是千真万确的！！"
+
+夏夏
+夏夏 : 「リルヤさんがそこにいるだけで、わたしにとってリルヤさんの周りの世界が何百倍も何千倍もきれいに見えるんです！！　それで！！」
+Natsuka : "When you're by my side, the whole world around you becomes hundreds of thousands of times more beautiful to me! And...!"
+夏夏 : "只要有丽露娅小姐在，对我来说丽露娅小姐周围的世界看上去就会比平时美丽上几百倍几千倍！！然后！！"
+
+夏夏
+夏夏 : 「それで、わたしの感動がリルヤさんの心を震わせられる可能性があるのなら」
+Natsuka : "I just thought that, if there was a possibility that what moved %i1me%id so much could move you too..."
+夏夏 : "然后，如果我的感动有能够震撼丽露娅小姐内心的可能性的话"
+
+夏夏
+夏夏 : 「わたしが一番感動できる状況を作れば、リルヤさんは絵を描く気持ちになれるのかなって思って、それで、それで」
+Natsuka : "Then I'd make a scenario that'd move me more than anything ever, and it might help you feel like you want to paint too! And... And..."
+夏夏 : "我只要能制造出最感动的情况，就应该能让丽露娅小姐有想要画画的想法了吧，我想，然后，然后"
+
+夏夏
+夏夏 : 「世界で一番きれいなリルヤさんの周りに、すごいきれいな花をいっぱい用意すればわたしはめちゃめちゃ感動して……それで、それで……」
+Natsuka : "I thought if I put you, the most beautiful person in the world, in the middle of a bunch of incredibly beautiful flowers, it would move me more than anything... And... And..."
+夏夏 : "在世界上最美丽的丽露娅小姐的周围，准备一大堆美丽的花的话，我就会非常、非常地感动……然后，然后……"
+
+夏夏
+夏夏 : 「リルヤさんは絵を描きたくなるんじゃないかなって！」
+Natsuka : "Maybe that would make you want to paint too!"
+夏夏 : "丽露娅小姐不就会想要画画了吗！"
+
+夏夏
+夏夏 : 「でも！　でもでもでもでもそれだけじゃなくて、この花が開花する時間をリルヤさんと一緒にすごしたいなっとか！」
+Natsuka : "But! But, but, but, but, that's really not all! I wanted to spend this time watching the flowers bloom with you!"
+夏夏 : "但是！但是但是但是仅仅如此还是不够，我还想要跟丽露娅小姐一起度过开花的这段时光！"
+
+夏夏
+夏夏 : 「つまりこの時間はわたしにとってのスーパー欲張りセットなんです！」
+Natsuka : "And this time has been like, y'know, a super mega ultra special thing for me, y'know!?"
+夏夏 : "也就是说这段时光对我来说就是超级豪华贪心套装！"
+
+夏夏
+夏夏 : 「世界で一番きれいだと思う花に囲まれて、世界で一番きれいなリルヤさんの傍で、世界で一番きれいな時間をすごせたらいいなって」
+Natsuka : "I'm having the most beautiful time in the world surrounded by the most beautiful flowers in the world, and I'm by the most beautiful person in the world! I can't think of anything better!"
+夏夏 : "能够被我认为的世界上最美丽的花包围着，待在世界上最美丽的丽露娅小姐的身旁，度过世界上最美妙的时光的话，就太好了"
+
+リルヤ
+リルヤ : 「――ふ」
+Lilja : "Heh..."
+丽露娅 : "——呵"
+
+リルヤ
+リルヤ : 「世界で一番きれいな時間、か」
+Lilja : "The most beautiful time in the world..."
+丽露娅 : "世界上最美妙的时光，吗"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「あっ」
+Natsuka : "Ah..."
+夏夏 : "啊……"
+
+夏夏
+夏夏 : 「わたし、うまくできなかったですね！！？」
+Natsuka : "I guess I really messed up, huh!?"
+夏夏 : "原来我做得不是很好啊？！！"
+
+夏夏
+夏夏 : 「もちろんちゃんとできれば、世界で一番きれいな時間になってたはずなんですけど、おもしろ時間になっちゃいましたね……！？」
+Natsuka : "I know if I'd done it right, it would've been the most beautiful time in the world, but maybe it's the... funniest time in the world now?"
+夏夏 : "当然如果能做好的话，应该会是世界上最美妙的时光的，现在是变成了搞笑的时光了吧……？！"
+
+夏夏
+夏夏 : 「とほほ～……しょんぼりです」
+Natsuka : "Aw, man... This is so depressing..."
+夏夏 : "哎呀呀～……好沮丧啊"
+
+リルヤ
+リルヤ : 「まあ、そう気を落とすな。お前の真心は感じられた」
+Lilja : "There, there. No need to be so down. I could tell you were being sincere."
+丽露娅 : "哎呀，也不用这么失落。我还是能感受到你的真心的"
+
+リルヤ
+リルヤ : 「これだけ大量の月下美人を集めるだけでも大変だっただろう？」
+Lilja : "It must've been quite the ordeal gathering this many queen of the nights."
+丽露娅 : "要收集这么多的昙花肯定很辛苦吧？"
+
+夏夏
+夏夏 : 「いえ、そんな……」
+Natsuka : "Oh... I mean, not really..."
+夏夏 : "没有，也不是那么……"
+
+リルヤ
+リルヤ : 「夏夏。お前にはこの世界がどう見える？　語ってきかせてみろ」
+Lilja : "Natsuka. How do you see this world? I want you to tell me."
+丽露娅 : "夏夏。你眼中的这个世界是什么样的？　给我讲讲吧"
+
+夏夏
+夏夏 : 「は……はい！」
+Natsuka : "O-Okay!"
+夏夏 : "好……好的！"
+
+夏夏
+夏夏 : （この世界が、わたしにはどう見えるか……）
+Natsuka : (How do I see this world...)
+夏夏 : （我对这里的世界，是怎么看的吗……）
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : 「すごくきれいです。照明がないから暗くて、透き徹った夜の黒い空気のなかに、たくさんの白く大きな花が浮かんでいます」
+Natsuka : "It's so beautiful. The lights are off, so it's dark. But in the clear, black night air, there are tons of huge white flowers floating about."
+夏夏 : "非常美丽。因为没有照明所以很昏暗，夜晚漆黑而又清澈的空气中，浮现着许许多多洁白而又显眼的花"
+
+夏夏
+夏夏 : 「最初はきれいだなって思っていただけなんですけど、咲く花が増えていくにつれて、綺麗なだけじゃなくて怖いくらいで……」
+Natsuka : "At first, I thought it was just pretty, but as more of them bloomed, it became so beautiful, it was scary..."
+夏夏 : "最开始是觉得很漂亮，当盛开的花逐渐增多，我感受到的不只有漂亮甚至还有一丝恐惧……"
+
+夏夏
+夏夏 : 「甘い香りがどんどん濃くなっていって、酔っ払ってしまいそうです……甘くて、甘くて、頭がゆらゆらして……」
+Natsuka : "That sweet scent started floating through the air, thick enough that I feel like I could get drunk off of it... It's so, so sweet, it makes my head spin..."
+夏夏 : "清甜的香气越来越浓，几乎要把我醉晕……很甜、很甜，感觉脑子晕乎乎的……"
+
+夏夏
+夏夏 : 「なんだかぼうっとしてきて……今、起きているのに、まるで夢の中みたいな気持ちです……」
+Natsuka : "It makes me feel so light and fuzzy... Like I'm in a dream or something."
+夏夏 : "不知道为什么发起呆来……现在明明是醒着的，却有如梦中一般的感觉……"
+
+夏夏
+夏夏 : 「足下がふわふわして、でもすごく体が軽くて……」
+Natsuka : "My feet feel so unsteady, but my body feels so light..."
+夏夏 : "脚下感觉轻飘飘的，身体也变得很轻……"
+
+夏夏
+夏夏 : 「月下美人が、わたしたちを月の世界に連れていってくれたみたいな……そんな気持ちになってきます」
+Natsuka : "It's like the queen of the nights transported us to a land on the moon... Yeah. That's what it feels like."
+夏夏 : "昙花，好像把我们跟月中的世界连接在了一起……有种这样的感觉"
+
+リルヤ
+リルヤ : 「……ああ、そうだな」
+Lilja : "...I see."
+丽露娅 : "……嗯，是啊"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+リルヤ
+リルヤ : 「まるで夢のようだ」
+Lilja : "So it really %i1is%id like a dream."
+丽露娅 : "有如梦中一般"
+
+夏夏
+夏夏 : 「――はい」
+Natsuka : "Yeah."
+夏夏 : "——是的"
+
+夏夏
+夏夏 : 「まるでゆめみたいに……きれいです」
+Natsuka : "It's so beautiful... I feel like I must be dreaming."
+夏夏 : "有如梦中一般……美丽"
+

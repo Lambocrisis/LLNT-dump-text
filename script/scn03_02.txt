@@ -1,0 +1,485 @@
+夏夏
+夏夏 : 「うーん、夏の雪かー……夏の雪……夏の雪……」
+Natsuka : "Hrrm... Snow in summer, huh? Snow in summer... Snow in summer..."
+夏夏 : "嗯——夏天的雪吗……夏天的雪……夏天的雪……"
+
+夏夏
+夏夏 : 「夏の……」
+Natsuka : "Snow..."
+夏夏 : "夏天的……"
+
+夏夏
+夏夏 : 「雪――」
+Natsuka : "In summer..."
+夏夏 : "雪——"
+
+夏夏
+夏夏 : 「リルヤさん綺麗な人でしたねえ……真っ白くて……」
+Natsuka : "Lilja-san sure is pretty... Her skin is so pale, too..."
+夏夏 : "丽露娅小姐真是位美女啊……皮肤又那么白……"
+
+夏夏
+夏夏 : 「まるで冬の妖精みたいな……」
+Natsuka : "She's like a snow fairy..."
+夏夏 : "就像是冬天的妖精一样……"
+
+夏夏
+夏夏 : 「はっ、リルヤさんこそ夏の雪みたいじゃないですか！？　ひんやりしてて、夏でも溶けない雪みたいで！！」
+Natsuka : "Wait! Doesn't that mean Lilja-san %i1herself%id is like snow in summer!? She's got that cool personality, like snow that won't even melt in the summer!"
+夏夏 : "啊！丽露娅小姐不就像是夏天的雪一样吗？！冰冷冷的，就像是即使在夏天也不会化去的雪一般！！"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「いやいやいやいやないない。いや、ぶっちゃけありありなんですけど……」
+Natsuka : "Haha, no way. No way, no how. There's no way that's the right answer."
+夏夏 : "不对不对不对不对不是不是。虽然说这个说法好像也勉强说得过去……"
+
+夏夏
+夏夏 : 「さすがに初対面のわたしがリルヤさんこそが夏の雪です！　とか言い出しても、不採用まっしぐらでは？？？」
+Natsuka : "If I just came outta the blue and was like, '%i1You're%id the snow in summer!' to someone I just met, it'd be an insta-fail, right?"
+夏夏 : "但刚见面我就说出‘丽露娅小姐正是夏天的雪啊！’这样的话，肯定直接就不被录用了吧？？？"
+
+リルヤ
+リルヤ : 『最低限の脳みそは持ち合わせているようだな？』
+Lilja : "It would seem you have a baseline level of brains, too."
+丽露娅 : "看来你的大脑还是具有最基本的思考能力的啊"
+
+夏夏
+夏夏 : 「ですよねー？」
+Natsuka : "Aw, thanks!"
+夏夏 : "是吧——？"
+
+夏夏
+夏夏 : 「ってリルヤさん！！　これまでの独り言を聞いて！？」
+Natsuka : "Wait, Lilja-san!? Were you listening to all that!?"
+夏夏 : "是丽露娅小姐！！您一直都在听我的自言自语吗？！"
+
+夏夏
+夏夏 : 「あっそうでした、インカム！　わたしのつぶやきもテストのうちなんでした！！　うっかり忘れていました！」
+Natsuka : "Oh right, the headset! You were saying all my comments were part of the test! I totally forgot!"
+夏夏 : "啊对了，还有耳机！我的自言自语也是测试的一环来着！！我差点就忘了！"
+
+夏夏
+夏夏 : 「大丈夫です、さすがにわたしにも一般常識というものがありまして、ですから、夏の雪はリルヤさんです！　とか言い出しません！」
+Natsuka : "Not to worry! I totally have common sense, so I would never say that you're the snow in summer, Lilja-san!"
+夏夏 : "放心吧，就算是我也还是有一般常识的，所以不会说出‘夏天的雪就是丽露娅小姐！’这种话的！"
+
+夏夏
+夏夏 : 「もちろんリルヤさんは雪の妖精みたいに綺麗だなっていうのは、本心ですが！　あらためていうことでもないですね！？」
+Natsuka : "I was totally serious when I said you were pretty as a snow fairy though! But I don't need to repeat myself, right!?"
+夏夏 : "当然丽露娅小姐像雪中的妖精一样漂亮是我的真心话！并不是我这会才灵机一动想到的话哦？！"
+
+夏夏
+夏夏 : 「てことで引きつづきがんばりますー！！」
+Natsuka : "Anyway, I'm gonna keep it up now!"
+夏夏 : "那我就接着加油找了——！！"
+
+夏夏
+夏夏 : 「はーちょっぴり恥ずかしかったですね……」
+Natsuka : "Man, that was embarrassing..."
+夏夏 : "唉——刚才的话感觉有点害羞啊……"
+
+夏夏
+夏夏 : 「て、これも聞かれてるんでした」
+Natsuka : "Wait, she can still hear me now!"
+夏夏 : "啊，这也会被听到来着"
+
+夏夏
+夏夏 : 「ああっそんなこと話している間にもう時間が！！」
+Natsuka : "Agh, less talking, more searching!"
+夏夏 : "啊啊花时间说这些都快来不及了！！"
+
+夏夏
+夏夏 : 「いそげいそげ～～～！」
+Natsuka : "Move those little feet, Natsuka!"
+夏夏 : "快快快～～～！"
+
+夏夏
+夏夏 : 「はっ、裏に回るとこんな庶民的なお店が！？　いいですね～とっても好きな町並みです！」
+Natsuka : "Wow, I didn't know there were so many folksy stores back here! I just love this place's vibes!"
+夏夏 : "房子后面居然还有这么平民化的商店？！真不错啊～我好喜欢这里的街景！"
+
+夏夏
+夏夏 : 「かき氷があります、おいしそー！　これも夏の雪的ではありますね、買ってみます！　すみません～これ、ひとつください！」
+Natsuka : "Ooo, they've got shaved ice! It looks so tasty! That definitely seems like snow in summer, doesn't it? I'm gonna buy some! 'Scuse me, can I have some shaved ice, please?"
+夏夏 : "有卖刨冰的哎，很好吃的样子——！这也可以说是夏天的雪吧，买一份吧！您好～请给我来一份刨冰！"
+
+夏夏
+夏夏 : 「台湾のかき氷は凍らせた牛乳を削るので、白いんですよ！　これもまた夏の雪ではないですかね～？　どうかな～？」
+Natsuka : "Taiwanese shaved ice is actually made from frozen milk, so it's all white! That could be pretty 'snow in summer'-y! Let's see..."
+夏夏 : "台湾的刨冰是用冰冻的牛奶刨出来的，所以是白色的呢！这不也可以说是夏天的雪吗～？算不算呢～？"
+
+夏夏
+夏夏 : 「（しゃくしゃくしゃく……）」
+Natsuka : "Nom nom nom..."
+夏夏 : （啊呜啊呜啊呜……）
+
+夏夏
+夏夏 : 「んん～～～！！　きーんっとします！　でも甘くて美味しい～！」
+Natsuka : "Eeek! Brain freeze! But it's so sweet and delicious!"
+夏夏 : "嗯嗯～～～！！好冰啊！但是甜甜的好好吃～！"
+
+夏夏
+夏夏 : 「削り方の違いでしょうか？　それとも甘い牛乳を凍らせたからでしょうか？　水のかき氷に比べるとふわっふわです、ふわっっっふわ」
+Natsuka : "Is it because of how they shave it? Or because it's frozen milk? It's so soft and fluffy compared to the regular kind! And I mean like, it's %i1really%id fluffy."
+夏夏 : "是因为刨的方式不同吗？还是说因为用的是甜牛奶？比用水做的刨冰要绵，轻飘飘的"
+
+夏夏
+夏夏 : 「そういえば、子どもの頃にひとりで外にいたとき、ふわっふわの雪が空から降ってきてですねえ～」
+Natsuka : "That reminds me, one time when I was a kid, I went outside and saw this super-fluffy snow floating down from the sky..."
+夏夏 : "说起来，小时候我自己出门的时候，也有轻飘飘的雪从天上落下来呢～"
+
+夏夏
+夏夏 : 「上を向いてぱくっと食べた雪が、アイスみたいに甘かったらよかったのにな～っていう、あの頃の夢が叶った気がします！」
+Natsuka : "I remember trying to catch some on my tongue thinking it'd be sweet like ice cream. It's like I'm finally getting to taste what I wanted back then!"
+夏夏 : "抬起头张开嘴吃到的雪，如果也能像冰淇淋一样甜就好了啊～现在吃着这个感觉那个时候的梦想实现了！"
+
+夏夏
+夏夏 : 「ええと、時間がないのでした！　食べながら歩きましょう～えーと次は……」
+Natsuka : "Oh, shoot, I'm running out of time! Lemme just eat while I walk..."
+夏夏 : "哎呀，没多少时间了！边走边吃吧～接下来……"
+
+夏夏
+夏夏 : 「はっ！　これは……！！」
+Natsuka : "Oh! Look at this!"
+夏夏 : "啊！这是……！！"
+
+夏夏
+夏夏 : 「スノードームですよ、かわいい！！」
+Natsuka : "It's a snow globe! Aw, it's so cute!"
+夏夏 : "这是雪花玻璃球吧，好可爱！！"
+
+夏夏
+夏夏 : 「べとべとしないように手を拭いて……」
+Natsuka : "Better wipe my hands so I don't get it all sticky..."
+夏夏 : "为了防止发粘先擦擦手……"
+
+夏夏
+夏夏 : 「すみませーん！　この店頭のスノードーム、見てもいいですか？」
+Natsuka : "Excuse me! Could I take a look at the snow globe in the display window?"
+夏夏 : "您好！我可以看看门口的这个雪花玻璃球吗？"
+
+店員Ａ
+店員Ａ : 「はい、どうぞお気軽に見ていってください」
+Clerk A : "Go right on ahead."
+店员A : "可以的，您慢慢看"
+
+夏夏
+夏夏 : 「ありがとうございます！　それでは失礼して……おお……」
+Natsuka : "Thanks! Don't mind if I do... Oh!"
+夏夏 : "谢谢您！那我看一下……喔……"
+
+夏夏
+夏夏 : 「透明な水みたいなものに満たされた丸いガラスのドームのなかにミニチュアの街がありますね。ドームの底に細かい白い粒が溜まってます」
+Natsuka : "So, there's a miniature town inside the glass dome. It's filled with a bunch of clear, water-looking stuff, and some white powder down at the bottom of the globe."
+夏夏 : "在这充满了像水一样的透明物质的玻璃球里面有着微缩的街景呢。玻璃球的底部还有很多细小的白色的颗粒物"
+
+夏夏
+夏夏 : 「こうやってドームをしゃかしゃかって振ると、沈殿した白いちいさな粒が全体に舞いあがって、それが雪みたいに降るんですよねえ」
+Natsuka : "If you shake it, all that white powder at the bottom comes floating up all around like snow."
+夏夏 : "把水晶球这样上下晃动的话，沉在底部的白色颗粒物就会漂浮起来，然后像雪一样落下来呢"
+
+夏夏
+夏夏 : 「両手で包み込めるくらいの大きさなところもいいですね！　ほどよいサイズ！」
+Natsuka : "It's big enough to be able to cover it with both hands. Perfect, if you ask me!"
+夏夏 : "用两只手正好能包住的大小很合适呢！不大不小！"
+
+夏夏
+夏夏 : 「バケーションって感じの夏のビーチに降るスノードームの雪……これも夏の雪ですが……でも、なんか足りない気もしますね？」
+Natsuka : "A snow globe with snow falling on a beach... That's definitely snow in summer, but... I still feel like there's something missing..."
+夏夏 : "像度假胜地一样的夏日海滩上降下的雪花玻璃球中的雪……这也是夏天的雪吧……但是，感觉还差点意思啊？"
+
+夏夏
+夏夏 : 「でも可愛いから買っちゃお！」
+Natsuka : "Oh well! It's cute, so I'll buy it!"
+夏夏 : "不过很可爱就买了吧！"
+
+夏夏
+夏夏 : 「はあ～……ガラスの中の雪が、太陽の光を浴びて、キラキラしてますね……」
+Natsuka : "Wow... The sunlight hitting the snow inside the snow globe is making it shimmer and shine..."
+夏夏 : "哇～……玻璃球中的雪花被太阳光照到后发光了呢……"
+
+夏夏
+夏夏 : 「こんなにきれいな物を買ったの、ものすごく久しぶりな気がします……？　いや、もしかするとはじめてかもしれません？」
+Natsuka : "It's been so long since I've bought something so pretty... Actually, I think this might be the first time I have!"
+夏夏 : "感觉好久没有花钱买过这么漂亮的东西了……？不对，好像这还是第一次？"
+
+夏夏
+夏夏 : 「なんかすっごい楽しいです。テストなのに、こんなに楽しくていいんでしょうか？　ありがとうございます、リルヤさん！」
+Natsuka : "Gosh, this is fun! Is it okay for me to be having fun like this during a working interview? Thank you so much, Lilja-san!"
+夏夏 : "感觉好开心呀。明明这是在测试，这么开心真的可以吗？谢谢您，丽露娅小姐！"
+
+夏夏
+夏夏 : 「っとと、急がないとどんどん時間はなくなりますよ～次は何があるでしょうか……」
+Natsuka : "Oh jeez, I need to hurry! I'm running out of time! Let's see what we can find next..."
+夏夏 : "不好，不抓紧点时间马上就要用完了～接下来做什么呢……"
+
+店員Ｂ
+店員Ｂ : 「テスターです～よければどうぞ～」
+Clerk B : "Would you like to try one of our free samples?"
+店员B : "免费试用～要不要来点～？"
+
+夏夏
+夏夏 : 「テスター……香水ですか？」
+Natsuka : "A sample? Of this perfume?"
+夏夏 : "试用……这是香水吗？"
+
+夏夏
+夏夏 : 「わあ……！　めちゃめちゃいいにおいですね。これは、あんみつの香り！？　なるほど……色々な香りがあるんですね？」
+Natsuka : "Whoooa! It smells amazing! It kinda smells like %i1anmitsu!%id Wow... You have so many different scents here!"
+夏夏 : "哇……！味道真的好香啊。这是，馅蜜的香味？！原来如此……什么样的香味都有呢"
+
+夏夏
+夏夏 : 「あの、雪のにおいの香水ってあります？」
+Natsuka : "Do you have something that smells like snow?"
+夏夏 : "请问一下，有没有雪味的香水？"
+
+店員Ｂ
+店員Ｂ : 「はい、ございます」
+Clerk B : "As a matter of fact, yes we do!"
+店员B : "嗯，有的"
+
+夏夏
+夏夏 : 「あるんですか！？　すごい、香水の世界すごい……！」
+Natsuka : "You do!? Wow, I never knew there were so many types of perfumes..."
+夏夏 : "真的有吗？！太厉害了，香水的世界太厉害了……！"
+
+店員Ｂ
+店員Ｂ : 「こちらになります、どうぞ」
+Clerk B : "Here you are, ma'am. Have a try."
+店员B : "在这里，请用"
+
+夏夏
+夏夏 : 「では失礼して……（すんすんっ）」
+Natsuka : "If that's okay... *sniff*..."
+夏夏 : "那我喷一点……（闻闻）"
+
+夏夏
+夏夏 : 「わあ……」
+Natsuka : "Whoa..."
+夏夏 : "哇……"
+
+夏夏
+夏夏 : 「冷たい香りがします……目を閉じると空気にひんやりした雪の気配を感じるそんな感じです」
+Natsuka : "It's a really cooling scent... It's like, if I close my eyes, I can feel the chill of a snowy day."
+夏夏 : "有一种冰凉的味道呢……闭上眼睛的话感觉空气有种被雪冰冻了一样的气味呢"
+
+夏夏
+夏夏 : 「雪そのものっていうよりも、雪のイメージが香りになったみたいな？　すごいですね、すごいです、香りってすごい……！」
+Natsuka : "So it's not like, the actual smell of snow, more like the concept of snow, right? That's amazing! Perfume is so cool!"
+夏夏 : "比起雪本身，感觉香味更接近雪给人的印象？真厉害，太厉害了，香味真是太厉害了……！"
+
+店員Ｂ
+店員Ｂ : 「こちらでしたら、ちいさなボトルもございますが？」
+Clerk B : "We have that scent in miniature sizes, if you'd like!"
+店员B : "这款还有小瓶装的哦"
+
+夏夏
+夏夏 : 「あっはい！　買います！」
+Natsuka : "Would I ever!"
+夏夏 : "啊，好的！我买了！"
+
+店員Ｂ
+店員Ｂ : 「ありがとうございます～」
+Clerk B : "Thank you for your patronage!"
+店员B : "谢谢惠顾～"
+
+夏夏
+夏夏 : 「うーん、これも夏でも溶けない雪ですよね！」
+Natsuka : "All right! Here's another example of snow that won't melt in summer!"
+夏夏 : "嗯，这也是夏天里不会化的雪呢！"
+
+夏夏
+夏夏 : 「くんくんっ、うん、とってもいいにおいです！」
+Natsuka : "*sniff*... Gosh, that smells good!"
+夏夏 : "我闻我闻，嗯，这味道真香！"
+
+夏夏
+夏夏 : （わたしが感じたこの香水の感動を、リルヤさんと分かち合えたら楽しいですねえ）
+Natsuka : (It's gonna be so much fun getting to share these feelings I have about this perfume with Lilja-san.)
+夏夏 : （我从这个香水中得到的感动，也能够分享给丽露娅小姐的话就太开心了）
+
+夏夏
+夏夏 : （分かち合いたいって気持ち、相手が望んでいなければそれこそ勝手な押しつけになりますが、思うだけならたぶんセーフ！）
+Natsuka : (I know it's just being pushy if you share feelings with someone who doesn't wanna share, but it should be fine to think about it, right!?)
+夏夏 : （想要分享的这种心情，虽然如果对方并不需要的话就会变成硬塞，不过我只在心里想想应该没事！）
+
+夏夏
+夏夏 : 「さてさて次は……おお、和菓子屋さんですね」
+Natsuka : "All right, what's up next? Oooh, Japanese sweets, huh?"
+夏夏 : "那么接下来……喔，这里有日式点心店啊"
+
+夏夏
+夏夏 : 「わ、季節の和菓子の説明のちらしがありますよ。写真付きでわかりやすいですね」
+Natsuka : "Wow, there's pamphlets describing their seasonal sweets. It helps that they've got pictures and everything."
+夏夏 : "哇，这里有介绍不同季节点心的传单哎。照片也附上了一看就明白"
+
+夏夏
+夏夏 : 「えーと今は、夏のお菓子――水ようかんですね」
+Natsuka : "Let's see... Summer sweets include things like red bean jelly, huh?"
+夏夏 : "我看看，现在的夏日点心是——水羊羹啊"
+
+夏夏
+夏夏 : 「……なんと！　水菓子とは果物のことをいうんですね！？　知りませんでした、勉強になります！」
+Natsuka : "Wow, so the word %i1mizugashi%id means fruit, huh? I had no idea! I thought it was just jelly treats!"
+夏夏 : "……什么！原来“水菓子”这个词是水果的意思吗？！我之前都不知道，学到新知识了！"
+
+夏夏
+夏夏 : 「秋はお月見だんご、正月は花びら餅、春は桜餅、初夏は……水無月？　ええと、氷に見立てたお菓子なんですね」
+Natsuka : "They've got %i1tsukimi dango%id for fall, %i1hanabira mochi%id for New Year's, %i1sakura mochi%id for spring, and the start of summer is... %i1minazuki?%id Oooh, apparently %i1minazuki%id is meant to represent ice!"
+夏夏 : "秋天是月饼，正月是花瓣饼，春天是樱叶饼，初夏是……水无月？我看看，外观看上去感觉像是冰块一样的甜品呢"
+
+夏夏
+夏夏 : 「なるほど……見立て……」
+Natsuka : "Wow... So it's just %i1representative%id of it..."
+夏夏 : "原来如此……外观……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "……"
+
+布団の配達人
+布団の配達人 : 「あら、夏夏ちゃんじゃない」
+Futon Delivery Person : "Oh, if it isn't Natsuka-chan!"
+被褥快递员 : "哎呀，这不是小夏吗"
+
+夏夏
+夏夏 : 「あっ、こんにちは！　そういえばこのあたりって配達エリアでしたね、お疲れさまです！」
+Natsuka : "Oh, hi there! I forgot this was your delivery area! How's work?"
+夏夏 : "啊，您好！说起来您是在这附近派送来着，工作辛苦了！"
+
+布団の配達人
+布団の配達人 : 「ちょうどよかったわあ。ねえ、ここの住所ってわかる？」
+Futon Delivery Person : "Fine, and I'm glad I found you! Do you know this address?"
+被褥快递员 : "正好我有事要人帮一下忙。你看看，这个地址你知道在哪里吗？"
+
+夏夏
+夏夏 : 「ええと……」
+Natsuka : "Let's see..."
+夏夏 : "我看看……"
+
+夏夏
+夏夏 : （！！！　これ！　リルヤさんちじゃないですか！）
+Natsuka : (Oh my gosh! That's Lilja-san's address!)
+夏夏 : （！！！这个地址！不就是丽露娅小姐家吗！）
+
+夏夏
+夏夏 : 「めっちゃわかります！　運ぶのお手伝いします、すぐ近くですし！」
+Natsuka : "I %i1totally%id know that address! I'll help you carry it. It's pretty much right around the corner!"
+夏夏 : "我可太清楚了！我来帮您搬吧，就在这附近！"
+
+布団の配達人
+布団の配達人 : 「あら悪いわねえ。軽いけどかさばるから、ありがたいわ」
+Futon Delivery Person : "Are you sure? It's not heavy, just bulky. I really appreciate it."
+被褥快递员 : "哎呀真不好意思。虽然不是很重但是体积挺大的，太谢谢你了"
+
+夏夏
+夏夏 : 「ほんと軽いですよね、圧縮をかけずに運ぶから、届いた瞬間からふわふわさが半端ないって好評なんですよね」
+Natsuka : "Yeah, it's super light. Everyone loves that you don't vacuum pack it, 'cause it makes it fluffy right from the moment it's delivered."
+夏夏 : "确实很轻啊，这样不压缩直接运，送到的时候仍旧很软乎，大受好评呢"
+
+夏夏
+夏夏 : 「あっここです、ここがお届け先ですよ」
+Natsuka : "Oh, here it is! Here's your destination!"
+夏夏 : "啊，就是这里，这就是收件地"
+
+布団の配達人
+布団の配達人 : 「ありがとうねえ、助かったわ。また人数が足りないから、夏夏ちゃんに来てほしいわあ」
+Futon Delivery Person : "Thank you so much. You're such a great help. We've been running low on staff as of late, so I wish you'd come back and help sometime."
+被褥快递员 : "谢谢你，多亏有你帮忙。最近还是有点缺人手，小夏要是能来帮忙就好了"
+
+夏夏
+夏夏 : 「そういってもらえると嬉しいです！　こちらこそありがとうございます、布団クリーニング、ぜひまた声をかけてください！」
+Natsuka : "I'm glad to hear it! Thank you for thinking of me, too! Call me whenever you need someone to clean the futons!"
+夏夏 : "能让您这么说我很荣幸！我才是多受您照顾了，被褥干洗还有机会的话还请您再联系我！"
+
+夏夏
+夏夏 : 「布団ってああやって綺麗にするんだなあって……羽毛をきれいに洗って……ぶわーって乾かして……」
+Natsuka : "I just love how they get clean. Washing the feathers all nice and clean, then drying 'em like %i1whoosh!%id"
+夏夏 : "每次干洗的时候我都在想，原来被褥是这样清洗的呀……把羽毛洗干净……砰——地弄干燥……"
+
+布団の配達人
+布団の配達人 : 「ああ、私、あの行程が一番好きなのよね、乾燥室で羽毛がぶわーって」
+Futon Delivery Person : "Oh, I love seeing the feathers flying all around the dryer room!"
+被褥快递员 : "是啊，我也很喜欢那个步骤，干燥室里羽毛砰——地飘起来"
+
+夏夏
+夏夏 : 「そうそうぶわーって！」
+Natsuka : "Yeah, they go %i1everywhere!%id"
+夏夏 : "是啊是啊，砰——地！"
+
+夏夏
+夏夏 : 「ぶわー……」
+Natsuka : "It's almost like..."
+夏夏 : "砰……"
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Oh!!!"
+夏夏 : "！！"
+
+布団の配達人
+布団の配達人 : 「夏夏ちゃん？　どうしたの？」
+Futon Delivery Person : "Natsuka-chan? Is something wrong?"
+被褥快递员 : "小夏？怎么了？"
+
+夏夏
+夏夏 : 「あっ、いえ、そのですね！　これを届けたら、リフォーム工場にいって――」
+Natsuka : "Oh, no, I'm sorry! It's just, once we're done delivering this, I need to go to the home renovation..."
+夏夏 : "啊，没事，是这样的！送完这个后，我要去一趟家具厂——"
+
+夏夏
+夏夏 : （あっ駄目です、工場までいってたら、時間に間に合わない！）
+Natsuka : (No, that won't work! I won't make it back in time if I go all the way out there!)
+夏夏 : （啊，不行，去家具厂的话时间就不够用了！）
+
+夏夏
+夏夏 : （だとしたら……）
+Natsuka : (In that case...)
+夏夏 : （这样的话……）
+
+夏夏
+夏夏 : 「あの、すみません。この布団なんですが……！」
+Natsuka : "Hey, um... About this futon...!"
+夏夏 : "那个，不好意思。这个被褥能不能……！"
+
+リルヤ
+リルヤ : 「何をしてもいい。この部屋を濡らしてもいい。この家の中ならば、何を壊してもいい。とにかく私に夏の雪をみせてみろ」
+Lilja : "There are no limits to what I'll allow. You can soak this room if you wish. You can break whatever you want, as long as it's within this house. All I care is that you show me snow in summer."
+丽露娅 : "你想做什么都行。把这间屋子都弄湿也行。只要是在这间屋子里的东西，搞破坏也没事。总之让我看一下夏天的雪"
+
+夏夏
+夏夏 : （よし、決めました。これをリルヤさんの部屋に届けたら……そうしたら――）
+Natsuka : (That's it! Once I get this to Lilja-san's room, I'll...!)
+夏夏 : （好，我决定了。把这个送到丽露娅小姐的房间……然后——）
+
+夏夏
+夏夏 : （打ち直しのお姉さん、せっかくきれいに洗ってお布団に詰めたのにごめんなさい！　でもきっとこれなら、きっと……！）
+Natsuka : (I'm so sorry, Cleaner-san... I know you just cleaned and stuffed this futon! But I know this is what I need!)
+夏夏 : （给被褥芯翻新的大姐姐，辛苦您把羽毛洗干净塞到被褥里了，真的很抱歉！但是这个主意，肯定能……！）
+
+夏夏
+夏夏 : （もうリルヤさんは気づいていますよね、これまでの情報から、わたしが何をしようとしているか……）
+Natsuka : (I bet Lilja-san already knows what I'm about to do. She heard everything, so she's probably got a good idea!)
+夏夏 : （不过丽露娅小姐也应该明白了吧，她应该能根据当前的信息推测出我会做什么吧……）
+
+夏夏
+夏夏 : （何が起こるかわかっていたら、驚きの効果は半減します）
+Natsuka : (It might take away some of the surprise since she already knows.)
+夏夏 : （如果她知道我要做什么的话，感觉惊喜的效果会减半啊）
+
+夏夏
+夏夏 : （でも、わたしが思いついたそれをする意味はきっとあります）
+Natsuka : (But I know she'll find meaning in the fact that I thought to do it in the first place!)
+夏夏 : （不过，做我想到的那件事肯定是有意义的）
+
+夏夏
+夏夏 : （わかりませんけど、なんかそんな気がするんです！）
+Natsuka : (I don't %i1know%id that for sure, but I %i1feel%id like she will!)
+夏夏 : （不知道为什么，但我就有这种感觉！）
+

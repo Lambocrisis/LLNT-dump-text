@@ -1,0 +1,630 @@
+夏夏
+夏夏 : 「あのぉ……こんにちは～……」
+Natsuka : "Hellooo... Excuse me?"
+夏夏 : "您好……打扰了～……"
+
+夜
+？？？ : 「――――」
+??? : "..."
+??? : "————"
+
+夏夏
+夏夏 : 「……！」
+Natsuka : "...!"
+夏夏 : "……！"
+
+夏夏
+夏夏 : （祭壇の前で、振りかえった黒髪の女の人……この光景を、わたしは知っています、あのとき、まひるさんの写真集で見ました）
+Natsuka : (The dark silhouette of the woman in front of the altar turns to look at me... I know this scene. I saw it in Mahiru-san's photo book.)
+夏夏 : （在祭坛前回首的黑发女人……这个场景我认识，我在真昼小姐的相片集里看到过）
+
+夏夏
+夏夏 : （でも違う、何もかもが違います。あのとき笑っていた夜さんとはまったくの別人にさえ感じられます……）
+Natsuka : (But this is different. Everything's different. Yoru-san was smiling in that photo, but now she looks almost like a different person.)
+夏夏 : （但是不一样，一点都不一样。她与那时候露出笑容的夜小姐判若两人……）
+
+夏夏
+夏夏 : （そうです、あの目のせいです……怒りを湛えた……ステンドグラスの光を映しているからでしょうか、まるで……）
+Natsuka : (Right, it's because of her eyes... There's anger in her eyes... And, maybe it's because of the reflection of the stained glass, but it looks as if...)
+夏夏 : （是的，就是那双眼睛不一样……充满了愤怒……是彩窗反射的光吗，看上去简直就是……）
+
+夏夏
+夏夏 : （緑に光る、目です）
+Natsuka : (Her eyes are glowing green.)
+夏夏 : （闪烁绿光的，眼睛）
+
+夜
+？？？ : 「――あなた、誰」
+??? : "Who are you?"
+??? : "——你是谁"
+
+夜
+？？？ : 「いえ、あなたの名前なんてどうでもいい。あなた、まひるを知っているわね？」
+??? : "Never mind, I don't care what your name is. You know Mahiru, don't you?"
+??? : "不，你叫什么无所谓。你认识真昼吧？"
+
+夜
+？？？ : 「教えて、まひるの居場所を。まひるはどこにいるの」
+??? : "Tell me where she is. Where is Mahiru?"
+??? : "告诉我，她在哪里"
+
+夏夏
+夏夏 : 「ちょ、ちょっと待ってください」
+Natsuka : "H-Hang on a minute."
+夏夏 : "请、请等一下"
+
+夜
+？？？ : 「待てない。私はどうしても彼女に会わないといけない。どうしても、どうしても、彼女に！」
+??? : "I can't wait any longer. I need to see her. I need to see her right now!"
+??? : "我可不等。无论如何我都要见到她。无论如何，无论如何，都要见到她！"
+
+夏夏
+夏夏 : （……すごい腕の力、痛い、けど、でも……っ）
+Natsuka : (Her grip is so strong! It hurts... But...!)
+夏夏 : （……好大的力气，好痛，但是……）
+
+夏夏
+夏夏 : 「夜、さん、わたしは逃げませんから、だから、大丈夫です」
+Natsuka : "Yoru-san... I won't run away... Please, it's okay..."
+夏夏 : "夜、小姐，我不会跑的，放心吧"
+
+夜
+？？？ : 「――！」
+??? : "Ah..."
+??? : "——！"
+
+夜
+？？？ : 「ご……ごめんなさい」
+??? : "I-I'm sorry."
+??? : "不……不好意思"
+
+夜
+？？？ : 「腕、痛かったわね」
+??? : "That must have hurt."
+??? : "手臂，很疼吧"
+
+夏夏
+夏夏 : 「ちょっとだけですから平気です！　あの、夜さんですよね？」
+Natsuka : "Just a bit, but I'm fine! Um, you're Yoru-san, aren't you?"
+夏夏 : "没事，稍微有点疼而已！　您是夜小姐对吧？"
+
+夜
+夜 : 「ええ、そうよ。私は、夜……透月夜」
+Yoru : "Yes, I am. I'm Yoru... Togetsu Yoru."
+夜 : "嗯，没错。我就是夜……透月夜"
+
+夏夏
+夏夏 : 「素敵な名前ですよね。夜さんの雰囲気にぴったりです！」
+Natsuka : "That's a nice name. It suits you perfectly!"
+夏夏 : "名字真美。和您的氛围一模一样！"
+
+夜
+夜 : 「あの、悪いけど、まひるの話をしたいのよ、私は」
+Yoru : "Um, I'm sorry, but I'd rather talk about Mahiru."
+夜 : "嗯，不好意思，我想和你聊的是真昼的事情"
+
+夏夏
+夏夏 : 「あっ、すみません。まひるさんの話をする前に、自己紹介だけさせてくださいね。空木夏夏といいます！」
+Natsuka : "Oh, I'm sorry, please let me introduce myself first. I'm Utsugi Natsuka!"
+夏夏 : "啊，抱歉。在聊真昼小姐的话题之前，我就简单做个自我介绍吧。我叫空木夏夏！"
+
+夜
+夜 : 「なつか？」
+Yoru : "Natsuka?"
+夜 : "夏夏？"
+
+夏夏
+夏夏 : 「はい、[なつなつ,1]夏夏と書いて[なつか,1]夏夏と読みます」
+Natsuka : "Yes, it's written with the kanji character for 'summer' repeated twice."
+夏夏 : "没错，两个夏天的夏字"
+
+夜
+夜 : 「そう、わかったわ。あなたの名前は空木夏夏。これで自己紹介は終わったわね。それじゃあまひるの話を……」
+Yoru : "All right, your name is Utsugi Natsuka. That's enough introductions for me. Anyway, about Mahiru—"
+夜 : "这样，我记住了。你的名字叫空木夏夏。这样就做完自我介绍了吧。那么快跟我说说真昼……"
+
+夏夏
+夏夏 : 「夜さんは、まひるさんの居場所を知りたいんですよね？」
+Natsuka : "You want to know where Mahiru-san is right now, don't you?"
+夏夏 : "夜小姐是想知道她现在在哪里对吧？"
+
+夜
+夜 : 「…………そうよ」
+Yoru : "I do."
+夜 : "…………没错"
+
+夏夏
+夏夏 : 「でもすみません。まひるさんの居場所は教えられないんです。まひるさんにそうお願いされたので……」
+Natsuka : "I'm really sorry, but I'm afraid I can't tell you that. She asked me not to."
+夏夏 : "不过很抱歉。我不能告诉您真昼小姐的所在地。真昼小姐不希望我说……"
+
+夜
+夜 : 「――――」
+Yoru : "..."
+夜 : "————"
+
+夜
+夜 : 「そう……まひるがそういったの。私に会いたくないと」
+Yoru : "Oh... Did she say that? She doesn't want to see me?"
+夜 : "这样啊……真昼这么说的吗。不想见我"
+
+夏夏
+夏夏 : 「会いたくないとはいいませんでした。でも、『あたしの話は一切しないで』といっていました」
+Natsuka : "She didn't say that she doesn't want to see you. She just asked me to refrain from talking about her to you."
+夏夏 : "她没有说不想见您。只是，她不希望我对您提及与她相关的任何事"
+
+夜
+夜 : 「そんなの、同じよ……」
+Yoru : "That's practically the same thing."
+夜 : "这有什么差别……"
+
+夜
+夜 : 「…………」
+Yoru : "..."
+夜 : "…………"
+
+夜
+夜 : 「は～～～～……！」
+Yoru : "Hahhhhhh...!"
+夜 : "哈～～～～……！"
+
+夜
+夜 : 「相変わらずね、まひる……最低最悪の女。私には本音を一言も告げず、勝手に何かを決めて、勝手にどっかに消えてしまった」
+Yoru : "She never changes, huh? She's the most despicable woman in the world. She decided what she wanted to do, did it, and then just up and left. She completely ignored her partner's feelings."
+夜 : "真是一点没变，真昼……这个糟糕透顶的女人。没有对我说过一句真心话，擅自决定一切，一言不发地离开了"
+
+夏夏
+夏夏 : （あれ……？　今の言葉って……）
+Natsuka : (Huh? That sounds familiar...)
+夏夏 : （咦……？　刚才这些话……）
+
+夜
+夜 : 「いいわ。あなたにもまひるへの義理があるでしょう」
+Yoru : "I'm sure you have your loyalty to Mahiru, too, and that's fine."
+夜 : "也罢。你也有对真昼负责的义务"
+
+夜
+夜 : 「でも、私はどうしてもまひるに会わなくてはいけない。そのために探しつづけたのだから」
+Yoru : "But there's a reason I need to see her right now. I've been searching for her all this time."
+夜 : "不过，我无论如何都要见到她。为此我一直在找她"
+
+夜
+夜 : 「だから私の話を聞いて。そして私の言葉を、まひるに伝えて」
+Yoru : "So I need you to listen. Listen to me, and tell Mahiru what I said."
+夜 : "所以请你听我说。然后把我说的话，告诉她"
+
+夏夏
+夏夏 : 「わかりました。これから聞く夜さんの言葉を、まひるさんに伝えます」
+Natsuka : "I can do that. I'll listen and pass on your message to Mahiru-san."
+夏夏 : "我明白了。我会把您接下来说的话，转达给真昼小姐"
+
+夏夏
+夏夏 : 「わたしも、夜さんに聞きたいことがあるのですが、いいですか？」
+Natsuka : "I also want to ask you something myself. Is that okay?"
+夏夏 : "我也有些问题想要问您，可以吗？"
+
+夜
+夜 : 「別にいいわよ。あなたに恩を売っておいて損はなさそうだから。聞きたいことがあるなら、まずは、あなたから聞いてちょうだい」
+Yoru : "Sure. I don't mind doing you a favor if it means you'll owe me one. Let's hear what you've got to say first."
+夜 : "可以。总感觉给你卖个人情不会亏。要是你有想问我的，就先问吧"
+
+夏夏
+夏夏 : 「ありがとうございます！　それでは失礼しまして……」
+Natsuka : "Thank you so much! This may be a bit intrusive, but please bear with me..."
+夏夏 : "非常感谢！　那么请容许我靠近一下……"
+
+夏夏
+夏夏 : 「じっ……」
+Natsuka : "Hmm..."
+夏夏 : "盯……"
+
+夜
+夜 : 「な、なによ……急に近づいてじっと見あげて……」
+Yoru : "Wh-What? Why are staring at me up close?"
+夜 : "怎、怎么了……突然靠这么近，还盯着我……"
+
+夏夏
+夏夏 : 「さっきの夜さんの目が光の加減か緑色に見えたんです。でも、今、こうしてじっと見ても、明るい瞳だけど特に緑とかではないんですね？」
+Natsuka : "Just a moment ago, the lighting in here made it look as if your eyes were glowing green. But when I look at them up close, I don't see any hint of green in your eyes."
+夏夏 : "估计是因为光线问题吧，刚刚夜小姐的眼睛看上去正在散发绿光。不过，现在仔细盯着看，感觉只是双很明亮的眼睛，并不绿啊？"
+
+夜
+夜 : 「ああ……私、怒ると目の色が緑になるのよ。別にものすごく珍しいわけじゃないけど、虹彩って光の加減でも変わってみえるし」
+Yoru : "Ahh... When I get angry, my eyes seem to turn green. It's not uncommon for the color of the iris to look different depending on the light."
+夜 : "喔……我呢，生气的时候眼睛颜色会变绿。倒也不是非常稀奇，虹膜遇光反射也会变颜色的"
+
+夜
+夜 : 「それだけじゃなくて眼光が強すぎるとでもいえばいいのかしらね。それで目の印象が強く残るみたいよ」
+Yoru : "Maybe I also have a bright glint in my eyes. Apparently, that also leaves a strong impression."
+夜 : "不仅如此，我眼里的光也比较亮。以至于我的眼睛给人的印象很深"
+
+夏夏
+夏夏 : 「そうなんですね」
+Natsuka : "You're right about that."
+夏夏 : "原来如此"
+
+夜
+夜 : 「私の瞳は、けっこうその変化が顕著なのよ。それで、よくまひるにもグリーンアイドモンスターだっていわれてた」
+Yoru : "My eyes look very different depending on various conditions. That's why Mahiru used to call me a green-eyed monster."
+夜 : "而我的眼睛更容易凸显这种变化。结果总被真昼叫成绿眼妖魔"
+
+夏夏
+夏夏 : （グリーンアイド……）
+Natsuka : (Green-eyed...)
+夏夏 : （绿眼……）
+
+夜
+夜 : 「この廃墟に来るまでにあるあの変な自販機、あそこで売っている飲み物を、あの子は緑の悪魔だっていってた」
+Yoru : "You must have seen that strange vending machine on the way here. Mahiru used to call the drink it sells 'the green devil.'"
+夜 : "在来这个废墟的路边不是有台很怪的自动贩卖机吗，她把那里面卖的绿瓶饮料，说成是绿色恶魔"
+
+夜
+夜 : 「緑の悪魔ばかり飲んでるから、きっと目まで緑になるんだって、よくからかわれたわ」
+Yoru : "She used to joke that maybe my eyes turned green because I drank too much of the stuff."
+夜 : "她经常说我是因为喝多了绿色恶魔，所以连眼睛都变成绿色的了"
+
+夜
+夜 : 「緑の怪物が緑の悪魔を飲んでるって、でもモンスターとデビルって違うじゃない？」
+Yoru : "A green-eyed monster drinking the green devil... But monsters and devils are different, aren't they?"
+夜 : "绿色怪物喝绿色恶魔啊，不过怪物和恶魔不是别种吗？"
+
+夜
+夜 : 「あの子、そういうとこけっこう適当なのよね、フィーリングで生きてるっていうかさ……」
+Yoru : "She never cared about any details like that, though. She did everything purely by feeling."
+夜 : "她这个人，在这种地方是特别随便啊，活得随心所欲……"
+
+None
+None : 夜が地面に転がった緑の瓶を軽く蹴る。
+None : Yoru kicks one of the green bottles. It rolls along the ground.
+None : 夜轻轻踹了地上的绿色瓶子一脚。
+
+夜
+夜 : 「そう、この緑の瓶ね。それこそ、私くらいしか飲まないから、ここにまひるが来れば気づくと思っていた」
+Yoru : "Right, these bottles. I'm probably the only person who drinks this stuff, so I figured Mahiru would realize that I've been here if she visited."
+夜 : "没错，就是这个绿色瓶子。这东西估计也只有我喜欢喝了，我想只要真昼来这里就会察觉到"
+
+夜
+夜 : 「私がこの廃墟に、ふたりの思い出の場所に来ていることに……」
+Yoru : "We share many memories together at this abandoned church..."
+夜 : "能让她察觉到我来到了这个废墟，来到了我们两人的回忆之地……"
+
+夜
+夜 : 「実際は、興信所の調査員にお願いしていたわけだけどね。私は、ほぼ海外で活動しているから」
+Yoru : "I've actually been working with a private detective. I work almost exclusively overseas."
+夜 : "其实，我是拜托信用调查所的调查员帮我干的。因为我基本只在海外活动"
+
+夏夏
+夏夏 : 「じゃああの、廃墟の外にある対空目視信号も、調査員さんが？」
+Natsuka : "Did that detective set up that ground-to-air signal outside, too?"
+夏夏 : "也就是说，那个摆在废墟外面的地对空目视信号，也是调查员放置的？"
+
+夜
+夜 : 「そう。本来はそこまでしてくれないんだけどね。まあ年単位で継続して仕事を頼んでいるお得意様だから」
+Yoru : "Yes. Normally they wouldn't go that far, but... I suppose they took that extra step for me because I'm a valued customer. I've been their client for years."
+夜 : "没错。本来是不会做到这个份上的。不过我是按年签合约委托他们工作的常客啊"
+
+夜
+夜 : 「あの信号はね、ふたりで一緒に動画で見て覚えたのよ」
+Yoru : "Mahiru and I learned about ground-to-air signals from a video we watched together."
+夜 : "那个信号，其实是我们俩看视频记下来的"
+
+夜
+夜 : 「あの子はきっとまだドローンを使っていると思ったから。きっとここに来たらあれを見つけるって、そしてあの意味に、気づくって」
+Yoru : "I was sure she'd still be flying those drones of hers, so I knew she'd notice the signal and realize what it meant if she came here."
+夜 : "我想她应该还在玩无人机。肯定来到这里就会发现那个信号，然后会察觉到信号的意义"
+
+夏夏
+夏夏 : 「捜索続行中……」
+Natsuka : "Continue to search..."
+夏夏 : "将继续搜寻……"
+
+夜
+夜 : 「そういうことよ。私はずっとまひるを探しているって、あの子に……あの子に知らせたかった」
+Yoru : "That's right. I've continued to search for Mahiru all this time... I wanted... I wanted her to know."
+夜 : "就是这个意思。我想让真昼……想让她知道，我一直在找她"
+
+夏夏
+夏夏 : 「その手の中にある機械はカメラですか？」
+Natsuka : "Is that a camera you're holding?"
+夏夏 : "您手上的东西，是照相机吗？"
+
+夜
+夜 : 「ええ。これも、調査員が設置してくれた。それこそ、ここにまひるが来たら気づけるように……」
+Yoru : "It is. The detective set up a camera trap so we'd know if Mahiru ever came here."
+夜 : "是的。这也是调查员帮我放置的。为了让我发现真昼来过这里……"
+
+夏夏
+夏夏 : 「まひるさんが、いつかここに来るって信じていたんですね、夜さんは」
+Natsuka : "You believed Mahiru-san would come here again someday, didn't you?"
+夏夏 : "夜小姐，您一直相信真昼小姐总有一天会来到这里的吧"
+
+夜
+夜 : 「そうよ。だってここは、私たちの思い出の場所だから。私たちの恋のはじまりも、終わりも、ここからはじまったから」
+Yoru : "I did. This place is so important to us. It's where our love began... and where it ended."
+夜 : "那是当然。因为这里，是我们的回忆之地。我们的感情始于这里，也结束于这里"
+
+None
+None : 夜がカメラを元に戻すと、鞄から緑の瓶を取り出す。
+None : Yoru returns the camera to its original position and takes a green bottle out of her bag.
+None : 夜将相机放回原处，从包里取出绿色瓶子。
+
+None
+None : 栓抜きで瓶の蓋をあけ、一気に半分ほど飲み干すと、右手でゆらゆらと中身を揺らす。
+None : She opens it with a bottle opener and gulps down half of the contents before giving the bottle a slight swirl.
+None : 夜用开瓶器打开瓶盖，一口气喝掉半瓶，用右手晃了晃剩下的饮料。
+
+夜
+夜 : 「そこそこのそここ……」
+Yoru : "So-so Sokoko..."
+夜 : "马马虎虎的马虎虎……"
+
+夏夏
+夏夏 : （そここ……それってまひるさんの撮った写真集の……）
+Natsuka : (Sokoko... That's the name under which Mahiru-san published those zines...)
+夏夏 : （马虎虎……那是真昼小姐拍摄相片集用的……）
+
+夜
+夜 : 「そう、あの子の撮った写真集、見たんだ？」
+Yoru : "Did you see her photo books?"
+夜 : "对了，她拍的相片集，你看过了吧？"
+
+夏夏
+夏夏 : 「顔に出てました……？」
+Natsuka : "Can you read my thoughts?"
+夏夏 : "您看出来了……？"
+
+夜
+夜 : 「わかりやすいね、あなたは」
+Yoru : "You're too easy to read."
+夜 : "你这人挺好懂的"
+
+夏夏
+夏夏 : 「え、と……」
+Natsuka : "Umm..."
+夏夏 : "嗯……"
+
+夜
+夜 : 「いいじゃない？　そのくらいなら話しても」
+Yoru : "You can talk about her books, can't you? It's not about %i1her%id."
+夜 : "就这点问题，回答一下不也挺好吗？"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「……はい、見ました」
+Natsuka : "Yes, I've seen them."
+夏夏 : "……是的，看过了"
+
+夜
+夜 : 「その様子だと、私があの子のあだ名をつけたのも知っているっぽいね。かわいいでしょ、そここ。そこそこのそここ」
+Yoru : "Then I guess you also know I gave her that nickname, too. It's cute, isn't it? Sokoko. So-so Sokoko."
+夜 : "看你这表情，应该知道这是我给她起的外号吧。挺可爱吧，马虎虎。马马虎虎的马虎虎"
+
+夜
+夜 : 「ＺＩＮＥの蒐集はね、私の趣味だったの。個性的な書店をめぐって、色々なＺＩＮＥを買ってたのよ」
+Yoru : "I used to collect zines as a hobby. I'd visit the most unique and obscure bookstores and buy all sorts of zines."
+夜 : "收集爱好者杂志，是我的兴趣之一。我平时会去那些很有个性的书屋转转，买下各种各样的爱好者杂志"
+
+夜
+夜 : 「ドローンで撮った写真をＺＩＮＥにすればいいんじゃない？　っていったのも私」
+Yoru : "I'm the one who suggested she should make a drone photography zine."
+夜 : "建议她把用无人机拍出的照片做成爱好者杂志的人也是我"
+
+夜
+夜 : 「ドローンで撮った動画をアップすればいいっていったのも、私」
+Yoru : "I also suggested she should upload her drone video footage."
+夜 : "提议把用无人机拍到的视频发布出来的人，也是我"
+
+夜
+夜 : 「私をモデルにすればいいっていったのも、私」
+Yoru : "And that I would pose for her as a model."
+夜 : "提议把我当做模特的人，还是我"
+
+夜
+夜 : 「あの夜……くるくる回る動画の再生数をふたりでずっと見ていた。私は嬉しくて、全部まひるの力だって思っていた」
+Yoru : "That night... we stared in wonder as the views on our video kept shooting up. It made me happy. I thought it was all thanks to Mahiru—people were acknowledging her talent."
+夜 : "那天晚上……我们眼见视频的播放量直线上涨。我特别开心，觉得都是真昼的功劳"
+
+夜
+夜 : 「今でも半分はまひるの力だって思っているよ」
+Yoru : "Even now, I still think she deserves %i1half%id the credit."
+夜 : "至今我也觉得真昼有一半的功劳"
+
+夜
+夜 : 「私を世界でいっとう綺麗に撮れるのはまひるだから。どんな世界的なカメラマンでも、映画監督でもかなわない」
+Yoru : "Nobody can capture me as beautifully as Mahiru can, not even the best photographers or film directors in the world."
+夜 : "因为能把我拍得最漂亮的只有真昼。不管是多么闻名世界的摄影师，多么厉害的电影导演都做不到"
+
+夜
+夜 : 「でも残りの半分は、残念ながら私の力だった。私は間抜けで、私という存在が、世界に力を持つことなんてまるで考えもしなかった」
+Yoru : "But the other half of the credit, unfortunately, goes to me. At the time, I had no idea that my mere presence could have such power in the world."
+夜 : "不过可惜的是，剩下一半的功劳，其实是我的。我是那么愚蠢，没有想过我这一存在会在世界上拥有何等的力量"
+
+夜
+夜 : 「でも、あのときのまひるは……とっくに気づいていたんだと思う」
+Yoru : "I think Mahiru... She knew it all along."
+夜 : "不过，那时候的真昼……应该早就察觉到了"
+
+夏夏
+夏夏 : 「何を、ですか……？」
+Natsuka : "Knew what?"
+夏夏 : "察觉到了什么……？"
+
+夜
+夜 : 「世界が私に気づいてしまうことを」
+Yoru : "That the world would notice me."
+夜 : "她察觉到了，世界已经发现了我"
+
+None
+None : 夜がゆっくりと空を見あげる。壊れた天井から光が差し込み、スポットライトのように夜を照らし出す。
+None : Yoru slowly raises her gaze up to the sky. The sunlight shines in through the gap in the broken ceiling like a spotlight.
+None : 夜缓慢抬头看向天空。光芒从坏掉的天花板处洒下，像聚光灯一样照耀在她的身上。
+
+夜
+夜 : 「私のまひるは、賢くて愚かで、徹底してるのにどこかで抜けていた。自分の本音を隠そうとして失敗していた」
+Yoru : "My Mahiru was intelligent yet foolish—thorough in whatever she did, but careless. She tried to hide her feelings, but she failed."
+夜 : "我的真昼，又聪明又愚蠢，一往直前，却总有地方会出纰漏。打算隐藏自己的真心话，最后也没有藏住"
+
+夜
+夜 : 「私を撮ったまひるの動画と写真の評判はすごかった」
+Yoru : "Her photos and videos of me received rave reviews."
+夜 : "真昼给我拍的视频与相片，评价都相当不错"
+
+夜
+夜 : 「ＳＮＳのフォロワー数もすごい数になっていった。仕事をしないかって声もかかっていた。でも、私は断った」
+Yoru : "I gained a ton of followers on her socials, and I even received some job offers. But I turned all of them down."
+夜 : "在SNS上的关注数也涨了好多。还有人问我要不要接活。不过，我拒绝了"
+
+夏夏
+夏夏 : （この、話……）
+Natsuka : (I've heard that before...)
+夏夏 : （这个话题……）
+
+夏夏
+夏夏 : 「どうして、ですか？」
+Natsuka : "Why...?"
+夏夏 : "这是，为什么呢？"
+
+夜
+夜 : 「あの子は最初は賛成していたのよ。でもあの子は本当は、私が有名になることを嫌がっていた」
+Yoru : "At first, she encouraged it, but I knew that deep down she didn't want me to become famous."
+夜 : "她一开始是赞成的。但是她其实内心里，不想让我变得出名"
+
+夜
+夜 : 「人気者になって私があの子だけのものじゃなくなるのを嫌がった。だからやめたの」
+Yoru : "If I became famous, I wouldn't be %i1hers%id anymore. She didn't like that. That's why I turned them all down."
+夜 : "我不希望家喻户晓，这样无法被她独占。所以我拒绝了"
+
+夜
+夜 : 「私はね、ただあの子の隣にいられたらそれでよかったのよ。あの子が私を見て、私があの子を見て、笑ってくれたらそれで」
+Yoru : "I just wanted to be with her. That was good enough for me. I wanted her to look at me and smile when I looked back at her."
+夜 : "我呢，觉得只用在她身边就够了。她看着我，我看着她，然后能笑着生活，这样就够了"
+
+夜
+夜 : 「人気者なんて碌なもんじゃないわ。欲しくないものばかりを手に入れて、本当に欲しいものは全て失っていく……」
+Yoru : "Fame brings nothing good with it. You get a bunch of things you never really wanted, and you lose everything you %i1did%id want..."
+夜 : "当明星没有一点好的。得到的尽是些不想要的东西，真正想要的东西全部都会失去……"
+
+夜
+夜 : 「嫉妬、羨望……いわれのない憎悪、殺意」
+Yoru : "It brings envy... Jealousy, hatred, and even bloodlust."
+夜 : "嫉妒、羡慕……莫名的憎恶，杀意"
+
+夏夏
+夏夏 : 「殺意……」
+Natsuka : "Bloodlust..."
+夏夏 : "杀意……"
+
+夜
+夜 : 「『御用心なさいまし。嫉妬は緑色の目をした怪物で、人の心を餌食にしてもてあそびます』」
+Yoru : "'O, beware, my lord, of jealousy! It is the green-eyed monster which doth mock the meat it feeds on.'"
+夜 : "‘您要留心嫉妒啊；那是一个绿眼的妖魔，谁做了它的牺牲，就要受它的玩弄’"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : （まひるさん……ごめんなさい。わたし、まひるさんとの約束を破ります）
+Natsuka : (Mahiru-san... I'm sorry, I'm breaking my promise.)
+夏夏 : （真昼小姐……对不起。我要违背和你的约定了）
+
+夏夏
+夏夏 : （まひるさんの居場所は話しません。でも、まひるさんについて話します）
+Natsuka : (I won't tell her where you are, but I need to say something about you to her.)
+夏夏 : （我不会告诉她你现在在哪里。不过，我会和她聊聊你）
+
+夏夏
+夏夏 : （わからないけれど、わたしはここでまひるさんについて話さなくちゃいけない気がするんです）
+Natsuka : (I'm not sure why, but I feel like I %i1have%id to say something.)
+夏夏 : （虽然不是很懂，但我觉得，必须在这里对她说，真昼小姐的话题）
+
+夏夏
+夏夏 : 「……まひるさんも同じことをいっていました」
+Natsuka : "Mahiru-san... said the same things."
+夏夏 : "……真昼小姐也说过同样的话"
+
+夜
+夜 : 「緑の目の怪物について？」
+Yoru : "What? About the green-eyed monster?"
+夜 : "关于绿眼怪物？"
+
+夏夏
+夏夏 : 「いいえ、違います。最初は賛成していたって、でも本当は嫌だったって、だからやめたって」
+Natsuka : "No, not that. About how you encouraged her at first but didn't want her to be famous, so she declined job offers because of that."
+夏夏 : "不，不是那个。是你刚才说的什么最开始是赞成的，但实际上很讨厌，所以拒绝了"
+
+夏夏
+夏夏 : 「ただあいつの隣にいられたらそれでよかったって。あいつがあたしを見て、あたしがあいつを見て、笑ってくれたらそれで――って」
+Natsuka : "And that she just wanted to be with you, wanting you to look at her and smile, and how she wanted to look at %i1you%id and smile."
+夏夏 : "还有什么只要能在那家伙身边就够了。那家伙看着我，我看着那家伙，看着她的笑脸，那就足够了——就是这些话"
+
+夜
+夜 : 「まひるが、そんなことを？　でもどうして？　それは、私の……」
+Yoru : "Mahiru said that? Why? That's what %i1I%id..."
+夜 : "真昼对你说的？　可是为什么？　那些是我……"
+
+夏夏
+夏夏 : 「まひるさんは、絵を依頼したんです。二目と見られない醜い怪物の絵を描いて欲しいって」
+Natsuka : "Mahiru-san requested a painting—a painting of a monster so hideous you'll never want to see it again."
+夏夏 : "真昼小姐向我们委托了一幅画。她想要一幅不会再看第二眼的丑陋怪物的肖像画"
+
+夏夏
+夏夏 : 「わたしは、まひるさんの恋人について、たくさんの話を聞きました」
+Natsuka : "Mahiru-san told me a lot about her ex-lover."
+夏夏 : "我从真昼小姐那里听了很多有关她女友的故事"
+
+夏夏
+夏夏 : 「最低最悪の女だった。何かを勝手に決めて、勝手にやらかして、そして黙って消えた。相手の気持ちなんて、まるで無視して」
+Natsuka : "She said she was the most despicable woman in the world—that she decided what she wanted to do, did it, and then just up and left. That she completely ignored her partner's feelings."
+夏夏 : "她说那是个糟糕透顶的女人。无论什么都会擅自做决定，留下一堆烂摊子，最后一言不发离开。说她根本不会思量对方的心情"
+
+夏夏
+夏夏 : 「まひるさんはその恋人を、醜い化物の絵を描いて欲しいといいました。百年の恋も冷めるような、姿で描いて欲しいと」
+Natsuka : "Mahiru-san requested a painting depicting her ex as an ugly monster—so ugly that it could make even eternal love grow cold."
+夏夏 : "真昼小姐说，想把那个女友画成丑陋的怪物。说是希望那个怪物最好丑到让人一眼放弃长久坚持的恋爱"
+
+夜
+夜 : 「……そう。まひるがそういったの」
+Yoru : "I see... Is that really what Mahiru said?"
+夜 : "……这样。真昼是这么说的吗"
+
+夏夏
+夏夏 : 「はい」
+Natsuka : "Yes."
+夏夏 : "是的"
+
+夜
+夜 : 「――――」
+Yoru : "..."
+夜 : "————"
+
+夜
+夜 : 「まひるが私の前から消えて、あれから私は、いなくなったまひるを追いかけて、追いかけて……」
+Yoru : "Mahiru left me and disappeared, and I've been searching for her ever since... Chasing her..."
+夜 : "有一天，真昼突然从我身边消失了。从那之后我就不停地追逐她，寻找她……"
+
+夜
+夜 : 「ずっと怒りつづけて、きっと本当に怪物になってしまった」
+Yoru : "I was so furious that I probably turned into a real monster."
+夜 : "我一直处于怒火之中，说不定已经成为了一个真正的怪物"
+
+夜
+夜 : 「……夏夏さん。どうかこれだけは、まひるに伝えて」
+Yoru : "Natsuka-san, please tell Mahiru this..."
+夜 : "……夏夏小姐。请你务必转达真昼"
+
+夜
+夜 : 「ここからすべてがはじまり、ここですべてが終わった」
+Yoru : "'This is where it all began and where it all ended.'"
+夜 : "‘在这里，一切都开始了，而在这里，一切也都结束了’"
+
+夜
+夜 : 「ここで起こったこと。あなたがしたこと。私は全部知っている――って」
+Yoru : "'I know everything. I know what happened here. I know what you did.' Tell her that for me."
+夜 : "‘在这里发生的事，你所做的事，我都知道’"
+

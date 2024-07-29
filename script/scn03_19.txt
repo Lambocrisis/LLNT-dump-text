@@ -1,0 +1,380 @@
+None
+None : 暗闇だけがある。
+None : There's nothing but darkness.
+None : 眼前只有一片漆黑。
+
+None
+None : 誰かの声が聞こえる。
+None : I can hear someone's voice.
+None : 能听见不知道是谁的声音。
+
+None
+None : あれはそう……ずっと昔のことのように思える。
+None : It makes me think of things long past...
+None : 感觉那好像是……很久以前事情了。
+
+None
+None : けれど、まだ、ほんのすこし前のこと……
+None : But also... things that happened recently.
+None : 但是，感觉又像是，前不久的事情……
+
+None
+None : お前が死ねばよかったのよ。
+None : "You should've been the one to die."
+None : 要是死的是你就好了。
+
+None
+None : お母さん。
+None : Mom.
+None : 妈妈。
+
+None
+None : どうしてお前が生きているのに、あの子はここにいないのよ。
+None : "Why are you still alive when she's no longer here?"
+None : 凭什么你活着，但是她不在了啊。
+
+None
+None : お母さんごめんなさい。わたしが生きていて、ごめんなさい。
+None : I'm sorry, Mom. I'm sorry I'm still alive.
+None : 对不起，妈妈。活下来的是我，对不起。
+
+None
+None : どうして気づかなかったの。あんたが傍にいてどうして。
+None : "How could you not have seen it coming? You were always by her side."
+None : 你为什么没注意到啊。明明就在你旁边，为什么啊。
+
+None
+None : あの子だけが私の全てだったのに。
+None : "She was everything to me."
+None : 她可是我的一切啊。
+
+None
+None : お前に生きている価値なんてないのに、あの子は死んで、どうしてお前が生きているの。
+None : "But now she's gone, and all I have left is %i1you.%id A worthless daughter who has no right to be alive."
+None : 你根本就没有活下去的价值，凭什么她死了，你却活下来了啊。
+
+None
+None : お前が殺したのよ、あの子を。
+None : "You killed her. %i1You%id killed your sister."
+None : 是你杀掉，是你把她杀掉的。
+
+None
+None : どうしようもない状況を、取り返しのつかない状況を、自分の命でどうにかできるなら、そうしたかった。
+None : There was nothing I could do. I couldn't take it back. I thought if sacrificing my life was what it would take to make things right, then that's what I should do.
+None : 如果用我的命能够挽回这无能为力、无法挽回的局面，那我愿意献上。
+
+None
+None : やめてよ。死んだら誰がお前の処分をするのよ。ああ、動物みたいに粗大ゴミで捨てられたらいいのに。
+None : "Oh, don't even. Who do you think would have to clean up the mess if you died? I should just dump you with the oversized garbage like the filthy mongrel you are."
+None : 算了吧。你死了谁来给你处理后事啊。真麻烦，要是能像小动物一样当做大型垃圾丢掉就好了
+
+None
+None : お前はずっとこの地下室にいなさい。あの子を救えなかったことを悔やみ、反省をしつづけなさい。
+None : "Just stay in this basement forever. Sit down here. Lament and repent for how you couldn't save her."
+None : 你就永远待在这个地下室里吧。一直后悔、反省自己为什么没能救她吧。
+
+None
+None : 地下室でずっと座っていた。
+None : I sat in that basement for so long.
+None : 我一直坐在地下室里。
+
+None
+None : 暖房も冷房もない部屋で、ただずっと座りつづけていた。
+None : I did nothing but sit in that room, with no heating or air conditioning, for so long.
+None : 我一直坐在这个没有空调和暖气的房间里。
+
+None
+None : お姉ちゃんがいなくなった。
+None : My sister was no longer with me.
+None : 我没有姐姐了。
+
+None
+None : あの頃のわたしにとっては、お姉ちゃんだけが世界のすべてだった。
+None : Back then, my sister was my whole world.
+None : 对那个时候的我来说，姐姐就是我世界的全部。
+
+None
+None : でも、だからこそ、お姉ちゃんが死ぬことを選んだのなら、しかたないと思った。
+None : But that's the very reason why, when my sister %i1chose%id to die, I thought there was nothing I could do to stop her.
+None : 但是，正因如此，既然姐姐选择了死亡，我也只能接受。
+
+None
+None : わたしがお姉ちゃんの選択をとめられる理由なんて、ひとつもなかった。
+None : I didn't have a single reason to stop my sister from making that decision.
+None : 我没有任何理由阻止姐姐做出选择。
+
+None
+None : だってわたしは、お姉ちゃんの一部だったから。
+None : Because I was just an extension of her.
+None : 因为我，是姐姐的一部分。
+
+None
+None : 目の見えないお姉ちゃんの代わりに、\nお姉ちゃんを運び、説明をし、質問に答えた。
+None : My sister lost her sight. I'd carry her, describe what I saw, and answer any questions she had.
+None : 代替无法看见东西的姐姐，我推着她走，为她做说明，回答她的问题。
+
+None
+None : わたしはお姉ちゃんの目であり足だった。
+None : I was her eyes and legs.
+None : 我是姐姐的双眼和双腿。
+
+None
+None : お姉ちゃんの体の一部であるわたしが、何をいえるというのだろう。
+None : I was just an extension of her, so what could I have said?
+None : 作为姐姐身体的一部分，我又能说什么呢。
+
+None
+None : お姉ちゃんは、何もいってくれなかった。
+None : My sister wouldn't talk to me about anything.
+None : 姐姐什么都没有告诉我。
+
+None
+None : お姉ちゃんはいつも上の空で、ずっとわたしには見えない何かを見ていた。
+None : She was always staring off into space, looking at something far away that I could never see.
+None : 姐姐她总是心不在焉的，一直都看着我看不见的什么东西。
+
+None
+None : お姉ちゃんが見ていたものは、わたしにはわからなかったけれど……
+None : I didn't know what she was seeing...
+None : 姐姐所看到的东西，虽然我不知道……
+
+None
+None : それでもよかった。
+None : But I didn't mind.
+None : 但也没关系。
+
+None
+None : お姉ちゃんがいれば幸せだった。
+None : I was happy as long as she was there.
+None : 只要有姐姐在我就很幸福了。
+
+None
+None : お姉ちゃんがそこにいればそれでよかった。
+None : As long as my sister was by my side, I was happy.
+None : 只要姐姐在那里我就很幸福了。
+
+None
+None : もしお姉ちゃんの最後の言葉がなかったら、わたしは、ずっとあの地下室にいて飢え死にしていただろう。
+None : If my sister hadn't given me her final words, I likely would have starved to death in that basement.
+None : 如果姐姐最后没有跟我说那些话的话，我肯定会一直待在地下室里直到饿死吧。
+
+None
+None : でも……
+None : But...
+None : 但是……
+
+None
+None : あのとき、死の間際に、お姉ちゃんがいったこと。
+None : Right as my sister lay dying, she said something to me.
+None : 在那个时候，姐姐死的时候，她说了。
+
+None
+None : 私のために泣かないで。これからはどうか、自由に生きて。
+None : Don't cry for me. Please, be free now.
+None : 不要为我哭泣。今后，你一定要自由地活下去。
+
+None
+None : どうか、自由に――。
+None : All I ask... is that you be free...
+None : 一定要，自由地——
+
+None
+None : お母さんごめんなさい。わたしは死ぬまでここで反省すべきなんだろうけれど。
+None : I'm sorry, Mom. I know I should repent here until the day I die.
+None : 妈妈，对不起。我本应该在这里反省直到我死去的。
+
+None
+None : でも、ここには自由がないから。
+None : But there's no freedom here.
+None : 但是，这里没有自由。
+
+None
+None : わたしは行きます。お姉ちゃんの願いを叶えるために。
+None : I'm going now. I have to fulfill my sister's dying wish.
+None : 我要出去。为了实现姐姐的愿望。
+
+None
+None : お姉ちゃんに自由に生きてといわれたから、わたしは外に出ました。
+None : I went outside, because my sister told me to be free.
+None : 因为姐姐让我自由地活下去，所以我出到了外面。
+
+None
+None : でも、どうしていいかわからなかったから、わたしは、お姉ちゃんに語ることにしました。
+None : But I didn't know what else to do, so I just talked to her.
+None : 但是，我不知道该怎么做，所以我决定讲述给姐姐听。
+
+None
+None : お姉ちゃんは、お姉ちゃんの知らない世界の話を聞くのが好きだったから。
+None : She loved to hear stories about the worlds she didn't know.
+None : 姐姐她喜欢听她所不知道的世界的故事。
+
+None
+None : お姉ちゃんは遠くにいきたがっていたから、できるだけ遠くに。
+None : She wanted to go far away, so I went as far as I could.
+None : 姐姐想去到很远的地方，所以我尽可能地去到更远的地方。
+
+None
+None : 遠くの新しい知らない風景を見ながら、お姉ちゃんに話しかけるようにマイクに語りかけました。
+None : And while gazing out on unfamiliar scenery, I'd talk into the microphone like I was talking to my sister instead.
+None : 看着远方全新的、未知的风景，我对着麦克风像讲给姐姐听那样讲了出来。
+
+None
+None : お姉ちゃん、今回の風景はどうですか？
+None : What'd you think of this scenery, Sis?
+None : 姐姐，这次的风景怎么样？
+
+None
+None : わたしは楽しいけれど、あなたはどうですか？
+None : I'm having a lot of fun. What about you?
+None : 我很开心，你呢？
+
+None
+None : わたしの声が聞こえますか？　答はないけれど。
+None : Can you hear my voice? I can't hear if you're responding.
+None : 能听到我的声音吗？虽然你回答不了。
+
+None
+None : （本当は誰も聞いていないけれど）
+None : (I know nobody's listening.)
+None : （其实根本没有人在听）
+
+None
+None : こんにちは　こんにちは
+None : Hello? Hello?
+None : 你好 你好
+
+None
+None : お姉ちゃん、そこにいますか
+None : Are you there, Sis?
+None : 姐姐，你在那里吗？
+
+None
+None : そこからはすべての光景が見えますか
+None : Can you see everything where you are?
+None : 从那里可以看见全部的景色吗？
+
+None
+None : ずっと行きたかった遠くにはいけましたか
+None : Did you get to go as far as you always wanted to?
+None : 我去到的地方是你曾一直想去到的远方吗？
+
+None
+None : お姉ちゃん、こっちの世界もきれいですよ
+None : This world's really beautiful too, Sis.
+None : 姐姐，这里的世界也很漂亮哦
+
+None
+None : もしかしたらこっちの世界はもう見えないでしょうか　わたしの声は聞こえないでしょうか
+None : You might not be able to see this world anymore. You might not be able to hear my voice anymore.
+None : 是不是你看不到这边的世界呢？是不是你听不到我的声音呢？
+
+None
+None : わからないですね　わからないけれど
+None : I don't know if you can. But even still...
+None : 我不知道呀 虽然我不知道
+
+None
+None : わたしは、あなたにわたしの見た世界を話したいんです
+None : I want to tell you all about the world I've seen.
+None : 但是，我想跟你讲述我看到的世界
+
+None
+None : だからもうすこしだけ　あなたに呼びかけさせてくださいね
+None : So please, just let me keep talking to you. Just a little longer.
+None : 所以请允许我 再呼唤你一段时间吧
+
+None
+None : お姉ちゃんが死んで、家を出て、働くことができて、食べることができて、住むところができて。
+None : When my sister died and I left home, I learned how to work, eat, and live on my own.
+None : 姐姐死后，我离开了家，开始了工作，吃到了饭，找到了住的地方。
+
+None
+None : 住む場所もなくて、食べ物もなくても、外は楽しかった。
+None : Even when I had nowhere to live and nothing to eat, the outside was so much fun.
+None : 即使没有住的地方，即使没有吃的东西，外面也很快乐。
+
+None
+None : どん底の人生といわれても、落ちるところまで落ちてるねといわれても、平気だった。
+None : Even if people said I had fallen by the wayside, or that I had hit rock bottom, I was completely fine.
+None : 即使被人说是最底层的人生，即使被人说我落到谷底，也没有关系。
+
+None
+None : 食べられなくても、住むところがなくても、きっとうまくいくって、どうしてか思えた。
+None : Even if I didn't have food or shelter, I knew everything would be fine somehow.
+None : 即使没有东西吃，即使没有住的地方，我想一定也能活得很好，为什么呢。
+
+None
+None : たぶん、きっと、自由だったから。
+None : It was probably... No, it was definitely because I was free.
+None : 这大概……一定是自由吧。
+
+None
+None : 本当は何が自由なのか、まだわからなかったけれど。
+None : Though I still didn't understand what freedom really was.
+None : 虽然我还不知道到底什么是自由。
+
+None
+None : そんな日々のなか、それでもこの目に映る風景に、何もかもを忘れる瞬間があって。
+None : Even during those days, there were still times where I'd forget everything.
+None : 在这样的日子里，还是会有些能让我忘掉一切，只身投入我眼中所看到的风景中的时刻。
+
+None
+None : 目の前の光景にただきれいです……としか言えないときがあって。
+None : Where the world before me was just so beautiful... that all I could think to say was how beautiful it was.
+None : 有时候对于眼前的景色……除了真美啊以外我没有别的语言来形容。
+
+None
+None : そういうとき、わたしはここにいるんだって思えた。
+None : Times like that helped me realize that I was truly myself.
+None : 在这种时候，我就能感受到我存在于这里。
+
+None
+None : そうやって……
+None : And that's how...
+None : 就这样……
+
+None
+None : 毎日、色々なことがよくわかんないなって思いながら、でもすこしずつ生きて。
+None : Every day, by experiencing all sorts of things I didn't quite understand, I began to live. Bit by bit.
+None : 每一天，我就这样发觉着自己不知道这个不知道那个地，慢慢活了下去。
+
+None
+None : そうして、わたしはリルヤさんに出会った。
+None : Then I met you, Lilja-san.
+None : 然后，我遇见了丽露娅小姐。
+
+None
+None : リルヤさん。
+None : Lilja-san...
+None : 丽露娅小姐。
+
+None
+None : お姉ちゃんが死んで、わたしは外に出たけれど、本当の意味では外に出ていなかった気がします。
+None : I feel like, even though my sister died and I went to the outside world, I hadn't %i1truly%id stepped outside.
+None : 姐姐死后，我出到了外面，但我感觉我并不是真正地出到了外面。
+
+None
+None : でも今は、違います。
+None : But things are different now.
+None : 但是，现在不一样了。
+
+None
+None : リルヤさん――
+None : Lilja-san...
+None : 丽露娅小姐——
+
+None
+None : あなたがいて、あなたに世界を話すと、世界はもっと美しくなった気がします。
+None : You being by my side, as I tell you all about the world around us, has made this world so much more beautiful than before.
+None : 有您在，向您讲述这个世界，我感觉世界变得更美了。
+
+None
+None : それはきっと
+None : I'm certain it's because...
+None : 一定是因为
+
+None
+None : わたしの空っぽの[こころ,1]花瓶に、あなたという花が咲いてくれたから――
+None : You are the flower blooming in my once empty flower vase.
+None : 我空着的花瓶里，盛开着您这一朵鲜花啊——
+

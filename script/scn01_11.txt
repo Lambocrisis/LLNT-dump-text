@@ -1,0 +1,380 @@
+夏夏
+夏夏 : 「――という、ことでした」
+Natsuka : "...That's the gist of it."
+夏夏 : "——这就是她的想法"
+
+リルヤ
+リルヤ : 「百年の恋も冷めるような、最低最悪の怪物のポートレート、か」
+Lilja : "A portrait of the most hideous, fearful monster that can make eternal love grow cold, huh?"
+丽露娅 : "想要一幅能让长久的爱瞬间冷却掉的，糟糕透顶的怪物肖像画，吗"
+
+夏夏
+夏夏 : 「……まひるさんの部屋で、まひるさんの過去を聞いてから、すごくもやもやするんです」
+Natsuka : "Something's been really bothering me since I heard Mahiru-san's story."
+夏夏 : "……我在真昼小姐的房间里，听了她的过去后，我感觉心里很不舒服"
+
+夏夏
+夏夏 : 「まひるさんがときどき話す元恋人の思い出が、最低最悪の元恋人に向ける感情じゃない気がして……」
+Natsuka : "Whenever she talked about her memories with her 'horrible' ex-lover, I didn't sense any real hatred from her."
+夏夏 : "我感觉真昼小姐时不时说的有关前女友的回忆中，并没有给我留下她的前女友糟糕透顶的这一印象……"
+
+夏夏
+夏夏 : 「でも、最低最悪だよっていっているときのまひるさんの感情は、間違いなく本当のような気がして……」
+Natsuka : "Only when she called her ex 'the most despicable woman in the world' did it feel real..."
+夏夏 : "不过，真昼小姐说她前女友糟糕透顶的时候，情感是发自内心的……"
+
+夏夏
+夏夏 : 「でも、夜さんのことを嫌いだっていった、まひるさんの辛そうな表情も、それも、間違いなく本当な気がして……」
+Natsuka : "She did say she hates Yoru-san, and I'm sure her pained expression was real, too..."
+夏夏 : "但是，真昼小姐在说自己讨厌夜小姐的时候，她那痛苦的表情，也毫无疑问是发自内心的……"
+
+夏夏
+夏夏 : 「好きだけど嫌い、嫌いだけど好き。思い出したくないけど思い出してしまう……だから忘れたい……そういうことなんでしょうか？」
+Natsuka : "Maybe she loves %i1and%id hates her at the same time? She wants to forget, yet she can't stop thinking about her. Maybe that's why she wants to overwrite her memories?"
+夏夏 : "喜欢又讨厌，讨厌又喜欢。不想回忆却总会想起……所以才想要忘掉……应该就是这样吧？"
+
+夏夏
+夏夏 : 「だって、百年の恋も冷めるような……っていうことは、まだ好きなんですよね……夜さんのことが」
+Natsuka : "I mean, if she's referring to her as her 'eternal love'... that must mean she still loves Yoru-san, right?"
+夏夏 : "让长久的爱一瞬间冷却……也就是说，她还喜欢着夜小姐对吧"
+
+夏夏
+夏夏 : 「リルヤさん、怪物って誰のことなんでしょう……？　だんだんわからなくなってきました」
+Natsuka : "Lilja-san, who do you think the 'monster' in her story really is? The more I think about it, the more confused I get."
+夏夏 : "丽露娅小姐，所谓的怪物到底是指谁呢……？　我有点搞不明白了"
+
+リルヤ
+リルヤ : 「まひるは嘘は吐いていない。だが本当のこともいっていない。お前が私のための『光』にたどり着くためには、どうしたい？」
+Lilja : "Mahiru isn't lying, but she's also not telling the truth. How do you want to bring me the 'light' that I need?"
+丽露娅 : "真昼并没有说谎。不过也没有说出真话。而你为了给我带来‘光芒’，想要怎么做？"
+
+夏夏
+夏夏 : 「はっきりは、わかりませんけれど……でも……」
+Natsuka : "I'm not entirely sure, but..."
+夏夏 : "这我并不是特别清楚……不过……"
+
+夏夏
+夏夏 : 「まひるさんの望むままに、怪物の絵を描いても駄目な気がします」
+Natsuka : "I feel like painting the monster exactly as Mahiru-san wants it isn't the right answer."
+夏夏 : "我感觉，如果真像真昼小姐所希望的那样，画出一幅怪物的肖像画是不行的"
+
+夏夏
+夏夏 : 「それじゃあ、まひるさんの世界は何も変わらない……まひるさんの世界はひっくり返らない……そんな気がしてならないんです」
+Natsuka : "It wouldn't change the world for her. It won't turn her world upside down... That's the feeling I have."
+夏夏 : "那样的话，真昼小姐的世界不会发生任何变化……真昼小姐的世界不会被颠覆……我很确信如此"
+
+リルヤ
+リルヤ : 「当たり前だ。私はそんなつまらない絵を描く気にはなれないからな」
+Lilja : "Of course. I don't feel like creating such a boring painting, either."
+丽露娅 : "那是当然。我可提不起劲画这种没意思的画"
+
+夏夏
+夏夏 : 「そうなんですよねえ……うーんうーん、うう～ん……！」
+Natsuka : "I know... But... Hmmm... Hmmm... Hmmmmmm...!"
+夏夏 : "确实如此呢……嗯嗯，嗯……！"
+
+夏夏
+夏夏 : 「あの、この前も聞きましたが、リルヤさんはもう必要な情報は手に入れているんですよね？」
+Natsuka : "Um, I think I asked you before, but you already have all the necessary information, don't you?"
+夏夏 : "那个，虽然我之前也问过，丽露娅小姐已经得到所必要的信息了吗？"
+
+リルヤ
+リルヤ : 「そうだ。だが、まひるが望む絵を描くために必要な情報は、私にインスピレーションを与えなかった。足りないんだよ、夏夏」
+Lilja : "I do. However, the information necessary to paint the picture that Mahiru wants wasn't enough to inspire me. Something's missing, Natsuka."
+丽露娅 : "是的。但是，画出真昼期望的绘画所必要的信息，并没有给予我灵感。还不够啊，夏夏"
+
+リルヤ
+リルヤ : 「お前は私の目と足として、何を見て、何を語る？」
+Lilja : "As my eyes and my legs, what did you see? What will you tell me?"
+丽露娅 : "你作为我的眼睛，作为我的双腿，看到了什么，又打算讲述什么？"
+
+夏夏
+夏夏 : 「わたしは……」
+Natsuka : "I..."
+夏夏 : "我……"
+
+夏夏
+夏夏 : 「う～ん……」
+Natsuka : "Hrmm..."
+夏夏 : "嗯～……"
+
+夏夏
+夏夏 : 「うう～ん……」
+Natsuka : "Hrmmmmm..."
+夏夏 : "嗯嗯～……"
+
+夏夏
+夏夏 : 「うううう～ん……！！」
+Natsuka : "Hrrrmmmmmmmmmm!!"
+夏夏 : "呜呜呜嗯～……！！"
+
+夏夏
+夏夏 : 「だめです！　ぐぬぬぬぬっ、残念ですが、馬鹿の考え休むに似たり！　だとしたら、わたしは、わたしのできることをするしかないです」
+Natsuka : "I can't! Hnnnngh, all this thinking is frying my brain! There's only one thing an idiot like me can do at this point."
+夏夏 : "不行了！　非常遗憾，笨人想不出好主意来！　那么我只能去做我能做到的事情了"
+
+夏夏
+夏夏 : （わたしが廃墟に出かけて、まひるさんの部屋にいって、見て、聞いたこと……そこで、わたしは、何かに引っかかっている……）
+Natsuka : (What did I see and hear when I went to the ruins and to Mahiru-san's room? What caught my attention...?)
+夏夏 : （我去了废墟，去了真昼小姐的房间，在那两个地方的所见所闻……于是，在那里，我被某件事吸引了注意力……）
+
+夏夏
+夏夏 : （それは……それは……）
+Natsuka : (That's... That's...)
+夏夏 : （那是……那是……）
+
+夏夏
+夏夏 : 「……！」
+Natsuka : "Oh!"
+夏夏 : "……！"
+
+夏夏
+夏夏 : 「そうです！　わたしが、ずっと引っかかっていること……それは、まひるさんがいった言葉……『夜が来る』……」
+Natsuka : "I know what's been bothering me all this time! When I was at the ruins, Mahiru-san told me that 'it's going to get dark'..."
+夏夏 : "对了！　我一直很在意……就是，真昼小姐说过的话……‘夜来了’……"
+
+夏夏
+夏夏 : 「あの廃墟には、たくさんの緑の瓶が転がっていました。それは、まひるさんの元恋人である夜さんが好きな飲み物でした」
+Natsuka : "And at the ruins, I found a lot of those green bottles, which are Mahiru-san's ex's favorite drink."
+夏夏 : "在那片废墟里，有很多绿色瓶子被扔在那里。那其实是真昼小姐前女友，夜小姐喜欢的饮料"
+
+夏夏
+夏夏 : 「だとしたら、緑の瓶があんなに沢山転がるほど、夜さんは思い出の場所に何度も来ていたんじゃないかって」
+Natsuka : "Maybe that means Yoru-san has been visiting that place regularly and has been leaving those bottles."
+夏夏 : "要是如此，说不定夜小姐数次造访那个回忆之地，还在那里喝了那么多饮料"
+
+夏夏
+夏夏 : 「でも、でもそれだけじゃなくて……あのとき、そう、まひるさんは……『夜が来る』っていう前に……確か……」
+Natsuka : "That's not the only clue... Mahiru-san said that 'it's going to get dark,' and Yoru-san's name means..."
+夏夏 : "不过，不过不仅仅如此……在那时候，没错，在真昼小姐说‘夜来了’的之前……我记得……"
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Oh!!"
+夏夏 : "！！"
+
+夏夏
+夏夏 : 「そうです！」
+Natsuka : "I got it!"
+夏夏 : "对了！"
+
+夏夏
+夏夏 : 「まひるさんは、ドローンを飛ばしていました。だからわたしが見ていない何かを空から見たんです。だから『夜が来る』っていったんです！」
+Natsuka : "Mahiru-san was piloting her drone, so she must have seen something from the sky that I wasn't able to see from the ground. That's why she said that!"
+夏夏 : "真昼小姐放飞了无人机。所以从上空看到了我无法看到的东西。所以她说‘夜来了’！"
+
+リルヤ
+リルヤ : 「だとしたらどうする？」
+Lilja : "If that's true, what are you going to do now?"
+丽露娅 : "那么，你要怎么做？"
+
+夏夏
+夏夏 : 「だとしたら、やることはひとつです！」
+Natsuka : "There's only one thing I can do!"
+夏夏 : "那么，我该做的事情只有一件！"
+
+夏夏
+夏夏 : 「廃墟に戻ります！　廃墟でまひるさんが見たものを見たら、きっとわたしにも新しい何かが見えるはずです！」
+Natsuka : "I'm going back to those ruins. If I can see what Mahiru-san saw that day, then I'm sure I'll figure something out!"
+夏夏 : "我要回到废墟！　要是我在废墟看到了真昼小姐的所见之物，应该也会有什么新的发现的！"
+
+None
+None : ………………
+None : .........
+None : .........
+
+None
+None : …………
+None : ......
+None : ......
+
+None
+None : ……
+None : ...
+None : ...
+
+夏夏
+夏夏 : 「ええと、確かこっちにいって……」
+Natsuka : "Umm, I think it was this way..."
+夏夏 : "我想想，好像就是在这……"
+
+リルヤ
+リルヤ : 「迷子になるなよ、なりそうだったらそこでじっとしていろ」
+Lilja : "Don't get lost. If you do, stay where you are."
+丽露娅 : "可别迷路了，感觉要迷路了的话就站在原地别动"
+
+夏夏
+夏夏 : 『大丈夫です！　わたし一度いったところは迷わないんですよ。最初はけっこう迷っちゃうんですけど……』
+Natsuka : "I'm fine! I never get lost in places I've been to before. Though I do get lost a lot in new places..."
+夏夏 : "没问题的！　我去过一次的地方就不会迷路的。第一次来的时候确实有些昏头……"
+
+夏夏
+夏夏 : 『あ、ありました！　教会です！』
+Natsuka : "Oh, I found it! There's the church!"
+夏夏 : "啊，找到了！　是教堂！"
+
+夏夏
+夏夏 : 『ええと、教会に入るんじゃなくて、裏に回って……』
+Natsuka : "Um, this time I'm not going inside. I'll go around the back..."
+夏夏 : "然后，不是走进去，而是绕到后面……"
+
+夏夏
+夏夏 : 『緑の瓶がずらっと並んでます。でも変ですね？　飲んで捨てたなら、こんなにしっかり立っているのは……あ、底が地面に埋まってます』
+Natsuka : "Here they are. Lots of those green bottles are lined up in rows. Something's strange—if someone was just throwing away the bottles after drinking them, they wouldn't be standing in neat rows like this. Oh, it's like they've been planted into the soil."
+夏夏 : "绿色瓶子排成了一排，但是很奇怪对吧？　喝完后要扔掉的话，怎么会排得这么整齐……啊，瓶底被埋进地里了"
+
+夏夏
+夏夏 : 『ということは、わざとこうして並べた。きっと夜さんが、ですよね』
+Natsuka : "That means someone placed them this way on purpose. It has to be Yoru-san."
+夏夏 : "也就是说，这是故意摆成这样的。绝对是夜小姐干的吧"
+
+夏夏
+夏夏 : 『夜さんは、まひるさんに何かメッセージを残していた。まひるさんは、それをドローンから読み取った』
+Natsuka : "She must have left some kind of message for Mahiru-san, and Mahiru-san spotted it from above while flying her drone."
+夏夏 : "夜小姐给真昼小姐留了言。而真昼小姐用无人机发现了她的留言"
+
+夏夏
+夏夏 : 『この廃墟で、上空から見るのはまひるさんしかいないってきっと夜さんは考えた……だから』
+Natsuka : "Yoru-san must have known that the only person who'd be looking at these ruins from above is Mahiru-san. That's why..."
+夏夏 : "肯定是夜小姐觉得只有真昼小姐会从上空看到这个……所以"
+
+夏夏
+夏夏 : 『……よし！　木に登ります！　廃墟の壁は崩れたりしたら危ないですからね、一応、木登り用の道具ももってきました！』
+Natsuka : "All right! I'm gonna climb a tree! The walls of the church are crumbling, so it would be dangerous to climb those. Good thing I brought my tree-climbing gear just in case!"
+夏夏 : "……行！　我爬树上去！　废墟的墙就算了，感觉会塌下来。而且我还把爬树用的工具带过来了！"
+
+夏夏
+夏夏 : 『こうして、木の幹にひっかけて……よいせっ、ほいせっ！』
+Natsuka : "I'll hook myself to the trunk of the tree with this belt... Oof, there we go!"
+夏夏 : "像这样，挂在树干上……嘿、咻！"
+
+リルヤ
+リルヤ : （……身軽なものだな）
+Lilja : (She's so nimble...)
+丽露娅 : （……真灵活啊）
+
+夏夏
+夏夏 : 『そこら中にっ、高い木があってよかったですっ、まひるさんのドローンが浮いていたくらいまでっ、登って……見えました！』
+Natsuka : "I'm so glad there's a tall tree nearby. It'll allow me to climb just as high as Mahiru-san's drone was flying... I'm climbing... I can see it!"
+夏夏 : "幸好林子里有这么高的树，爬到真昼小姐的无人机的高度……啊看见了！"
+
+リルヤ
+リルヤ : 「何が見えた？」
+Lilja : "What do you see?"
+丽露娅 : "看见什么了？"
+
+夏夏
+夏夏 : 『ええーと……Ｎがふたつ……並んでいるような？』
+Natsuka : "Um... It looks like the letter N... Twice."
+夏夏 : "我看看……是两个N……并排在一起了？"
+
+リルヤ
+リルヤ : 「ＮＮか」
+Lilja : "So it says 'NN'?"
+丽露娅 : "NN么"
+
+夏夏
+夏夏 : 『そうですね、わたしにはそう見えます……けど』
+Natsuka : "That's what it looks like to me, but..."
+夏夏 : "是啊，我从这个高度看去就是这样……不过"
+
+リルヤ
+リルヤ : 「夏夏、それは森の上から確認できそうなサイズか？」
+Lilja : "Natsuka, are the letters big enough to read from the sky?"
+丽露娅 : "夏夏，那是在森林上方可以看清的大小吗？"
+
+夏夏
+夏夏 : 『上からだと森の木に隠れて見えなくなっちゃいそうですね。サイズもそこまで大きくないです』
+Natsuka : "If I went any higher than this, the letters would be hidden by the tree's branches. They aren't %i1that%id big, either."
+夏夏 : "从森林上面会被树木挡到，看不见的。尺寸也不是特别大"
+
+リルヤ
+リルヤ : 「そうか、だとしたら答は簡単だ。それは――」
+Lilja : "I see. In that case, the answer is simple. It's—"
+丽露娅 : "是吗，那答案就呼之欲出了。那个是——"
+
+夏夏
+夏夏 : 『――あ』
+Natsuka : "Ah..."
+夏夏 : "——啊"
+
+リルヤ
+リルヤ : 「……どうした？」
+Lilja : "What?"
+丽露娅 : "……怎么了？"
+
+夏夏
+夏夏 : 『廃墟のなかに誰かが入っていきました……！　ちょっと待ってくださいすこし移動したら、天井に開いた穴から中の様子が見えそうです』
+Natsuka : "Somebody just entered the church! Give me a moment, I'll move so I can see them through the hole in the roof."
+夏夏 : "有人走进废墟了！ 稍等一下，我换个地方，从天花板上的洞口能看到废墟里面"
+
+夏夏
+夏夏 : 『えっせ……ほいせっ……と、見えました……』
+Natsuka : "Mmph, oof... There, I can see them."
+夏夏 : "嘿……咻……好，看见了……"
+
+夏夏
+夏夏 : 『女性ですね……壁の一角に手をのばしています……あ、壁から黒い機械？　みたいなのを取り外しました……カメラみたいです？』
+Natsuka : "It's a woman. She's stretching out her hand toward the wall... Oh, there's a little black box there that she picked up... It looks like a camera."
+夏夏 : "是个女性……她向一处墙壁伸出了手……啊，她把墙壁上挂着的黑色机械？ 一样的东西取下来了……那是照相机？"
+
+リルヤ
+リルヤ : 「さすがは視力２．０以上だな」
+Lilja : "Your 20/20 eyesight is impressive."
+丽露娅 : "不愧是视力2.0以上的人"
+
+夏夏
+夏夏 : 『もしかしたら、夜さんかもしれないですよね……わたし、話を聞きにいってみます……！』
+Natsuka : "Maybe it's Yoru-san... I'll go talk to her!"
+夏夏 : "说不定她就是夜小姐……我稍微去问点话……！"
+
+夏夏
+夏夏 : 『するするする～～～っと、降りました……あとは驚かせないように……廃墟ですけど、ちゃんと入口から入った方がいいですよね……』
+Natsuka : "Fwoosh! I'm down on the ground again... I'll have to be careful not to scare her. The building may be in ruins, but I'll enter properly through the front door."
+夏夏 : "唰唰唰～～～下来了……然后就是不要吓到她……虽然是废墟，不过还是老老实实从入口走进去吧……"
+
+リルヤ
+リルヤ : 「夏夏、ＮＮの意味を伝えておく。おそらくそれは、対空目視信号だ」
+Lilja : "Natsuka, let me tell you what 'NN' means. It's likely a ground-to-air signal."
+丽露娅 : "夏夏，我先把NN的意思告诉你。那恐怕是地对空信号"
+
+リルヤ
+リルヤ : 「上空にいる存在に地上の状況を伝えるためのシンボルだが、サイズからしてもドローンからの目視のみを想定している」
+Lilja : "They're symbols meant to convey to a pilot what the situation is like on the ground. Judging by the size of the letters, I believe it was designed to be read from a drone."
+丽露娅 : "那是为了给空中目标传达地面情报时使用的信号，不过从尺寸来考虑应该是为了让无人机的镜头捕捉到放置的"
+
+リルヤ
+リルヤ : 「ならばそれは、合理的に考えて夜からまひるへのメッセージだろう。そして、ＮＮの意味は……」
+Lilja : "The logical conclusion to draw is that it's a message from Yoru to Mahiru. 'NN' means..."
+丽露娅 : "那么合理思考，这信号是夜留给真昼的消息。然后，NN的含义是……"
+
+リルヤ
+リルヤ : 「『未発見、捜索続行中』だ」
+Lilja : "Nothing found. Will continue to search."
+丽露娅 : "‘无所发现，将继续搜寻’"
+
+夏夏
+夏夏 : 『捜索続行中……』
+Natsuka : "Continue to search..."
+夏夏 : "将继续搜寻……"
+
+夏夏
+夏夏 : 『つまりそれって、夜さんは、まひるさんをずっと探していた、ということなりますね』
+Natsuka : "That implies Yoru-san has been searching for Mahiru-san all this time, doesn't it?"
+夏夏 : "也就是说，夜小姐一直在找真昼小姐"
+
+夏夏
+夏夏 : 『でも、まひるさんは、夜さんは勝手に黙ってどこかに行ってしまったって言ってました』
+Natsuka : "But Mahiru-san said that Yoru-san disappeared without a word."
+夏夏 : "但是，真昼小姐说，夜小姐是什么也没说就擅自离开的"
+
+夏夏
+夏夏 : 『この食い違いはどういうことなんでしょう？　一体ふたりに何が……』
+Natsuka : "What does this inconsistency mean? What's really going on between those two?"
+夏夏 : "这种出入是怎么回事？ 她们俩到底发生了什么……"
+
+夏夏
+夏夏 : 『あ、入口に着きました。入りますね……』
+Natsuka : "Oh, I'm at the entrance now. I'm going in, okay?"
+夏夏 : "啊，到入口了。我要进去了哦……"
+

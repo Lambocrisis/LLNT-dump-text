@@ -1,0 +1,395 @@
+夏夏
+夏夏 : 「あ、あれ？」
+Natsuka : "Oh, huh?"
+夏夏 : "奇、奇怪？"
+
+リルヤ
+リルヤ : 『どうした』
+Lilja : "What's the matter?"
+丽露娅 : "怎么了"
+
+夏夏
+夏夏 : 「なんか森で迷っちゃったみたいです……？」
+Natsuka : "I think I'm lost in the forest..."
+夏夏 : "我好像在森林里迷路了……？"
+
+まひる
+まひる : 『あー、ちょっと迷いやすいんだよね。ドローンをそこに置くさね』
+Mahiru : "Ahh, yeah, the place can be a bit hard to find. Can you put the drone on the ground?"
+真昼 : "啊，是有点容易迷路呢。你把无人机放地上吧"
+
+夏夏
+夏夏 : 「こう……ですか？」
+Natsuka : "Okay... Like this?"
+夏夏 : "像这样……吗？"
+
+まひる
+まひる : 『うん、いい感じ。それじゃあ、ついてくるさね』
+Mahiru : "Yep, looks good. Now, follow the drone."
+真昼 : "嗯，不错。那行，你跟着过来吧"
+
+夏夏
+夏夏 : 「おおーすごいです！　森の中をすいすいと……っと追いかけないと！」
+Natsuka : "Ohh, incredible! It's flying through the forest like it's nothing... Ah, gotta follow!"
+夏夏 : "噢噢好厉害！　在森林里也这么灵敏……啊，得赶紧追上去！"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "Ahh..."
+夏夏 : "————"
+
+夏夏
+夏夏 : 「きれい、です」
+Natsuka : "It's beautiful..."
+夏夏 : "好漂亮"
+
+夏夏
+夏夏 : 「緑が滴るみたいに見えます……すこし前に降った雨がまだ残っていて、水たまりにも緑が映っています」
+Natsuka : "Everything is shrouded in green... There's still puddles on the ground from the recent storm, and the trees are reflected in them!"
+夏夏 : "苍翠欲滴的景象……不久前下的雨现在还没干，水洼也倒映着绿色"
+
+夏夏
+夏夏 : 「高原だけど、すこし湿度を感じます。壊れているけれど、周りを壁に囲まれているからでしょうか」
+Natsuka : "Despite the high altitude, the air feels a bit humid around here. Maybe it's because I'm surrounded by walls, even though they're crumbling."
+夏夏 : "这里虽然是高原，但还是有些湿润。应该是包围我们的残垣断壁导致的吗"
+
+夏夏
+夏夏 : 「教会、ですね。一番奥にあるステンドグラスが壊れずに残っています。緑と青と白の模様がすごく綺麗です」
+Natsuka : "This is a church, isn't it? There's a stained-glass window in the back, and it's still completely intact. The pattern of green, blue, and white is really pretty."
+夏夏 : "这里是，教堂吧。最里面的彩窗还没有被破坏。绿色、蓝色和白色交织的图案特别漂亮"
+
+夏夏
+夏夏 : 「ステンドグラスからはいってくる光がキラキラ反射して、黒い土とコンクリートの床に色々な色が踊っていて」
+Natsuka : "The light reflects off the stained glass, casting colored shadows on the concrete floor and the dark dirt."
+夏夏 : "阳光被彩窗反射闪闪发光，黑色土壤与混凝土构成的地面变换着各种色彩"
+
+夏夏
+夏夏 : 「穴の開いた天井からの木漏れ日も差し込んで、万華鏡みたいです」
+Natsuka : "There's a hole in the ceiling, so the sunlight filters into the church through the trees. It's kinda like I'm inside a kaleidoscope!"
+夏夏 : "天花板上开着洞，阳光从那里照下，就像万花筒一样"
+
+まひる
+まひる : 『ああ、ここは変わらないな……すこしも変わらない』
+Mahiru : "Yeah, the place hasn't changed... not even a little bit."
+真昼 : "哎，这里毫无变化啊……一丝变化都没有"
+
+まひる
+まひる : 『もっと崩れているかと思ったが、まだ１年……いやもう２年か』
+Mahiru : "I thought it'd be more run-down by now, but I suppose it's only been a year—no, two already."
+真昼 : "我还以为会更破一些，不过也才过去一年……不对，是两年吗"
+
+夏夏
+夏夏 : 「まひるさんは、この廃墟を背景にした怪物さんを描いてもらいたいんですか？」
+Natsuka : "Mahiru-san, do you want this abandoned building to serve as the backdrop for your monster-san?"
+夏夏 : "真昼小姐是想以这个废墟为背景画一幅怪物先生的画吗？"
+
+まひる
+まひる : 『怪物にまでさんづけするのかよ、あんたは。……まあいいさね。そんな綺麗な場所に、怪物は不似合いかい？』
+Mahiru : "Why the heck would you use 'san' for the monster? Fine, whatever. You don't think a beautiful place like that is suitable for a monster?"
+真昼 : "你这人怎么还在怪物后面加敬称啊……哎算了。你是觉得怪物和这么漂亮的地方不搭吗？"
+
+夏夏
+夏夏 : 「いえ、そんなことないと思います。だって……」
+Natsuka : "No, that's not what I meant. It's just..."
+夏夏 : "不，我没这么想哦。因为……"
+
+夏夏
+夏夏 : 「ここは深々と静かです。こんなに緑があるのに、こんなに水があるのに、まるで月にいるみたいにも感じられます」
+Natsuka : "It's really quiet here. Even though I'm surrounded by all this greenery and water, it's so desolate... It almost feels like I'm on the moon."
+夏夏 : "这里幽暗寂静。明明有这么多茂密的丛林，有这么多清澈的水洼，但我却感觉像在月亮上一样"
+
+夏夏
+夏夏 : 「明るいのに暗い、暗いのに明るい……そんな感じがします」
+Natsuka : "It's bright, yet dark—dark, yet bright... That's the kinda vibe I'm getting."
+夏夏 : "有一种……似明非明，似暗非暗的感觉"
+
+まひる
+まひる : 『奇麗は汚い、汚いは奇麗。さね？』
+Mahiru : "Fair is foul, and foul is fair... Right?"
+真昼 : "应该就是，美即丑恶，丑即美吧？"
+
+夏夏
+夏夏 : 「それって、どこかで聞いたことあるような？」
+Natsuka : "I think I've heard that before..."
+夏夏 : "这句话，我好像在哪听过？"
+
+リルヤ
+リルヤ : 『マクベスの冒頭だな。３人の魔女の台詞だ』
+Lilja : "It's what the three witches chant in the opening scene of %i1Macbeth%id."
+丽露娅 : "麦克白的开头吧。三魔女的台词"
+
+まひる
+まひる : 「シェイクスピアは流石の大作家様、今でも名言格言サイトにその言葉はあふれかえっているさね」
+Mahiru : "Shakespeare was a brilliant writer. His works are still quoted to this day all over the internet."
+真昼 : "莎士比亚真是一位闻名世界的作家，时至今日他的名言仍在互联网随处可见"
+
+まひる
+まひる : 「ここはね、偽物の教会なんさね」
+Mahiru : "That church you're standing in is actually fake."
+真昼 : "这里呢，是一座虚假的教堂"
+
+まひる
+まひる : 「元は本物だったけど、日本に輸入する時点で、教会ではなくなり写真を撮るための、スタジオの一部になった」
+Mahiru : "The building used to be a real church, but it was brought to Japan and repurposed as part of a photography studio."
+真昼 : "本来是货真价实的教堂，但迈上日本国土的那一瞬间，这个建筑就不再是教堂，而成为了被人肆意拍摄的摄影棚的一部分了"
+
+まひる
+まひる : 「神父は当然いないから、結婚式はあげられない。でもここで沢山の人が結婚式の前撮りをしたさね」
+Mahiru : "There weren't any priests, so you couldn't have real weddings there, but lots of couples used it for their pre-wedding photo shoots."
+真昼 : "没有神父，自然也不能举办婚礼。不过，有不少人在结婚仪式开始之前来到这里，把这里当做背景板拍下了一张又一张的照片"
+
+まひる
+まひる : 「祈りの場所を、神聖さを消費した」
+Mahiru : "They commercialized what used to be a holy place of prayer."
+真昼 : "大家都在消费曾为祈祷之地的，这里的神圣感"
+
+まひる
+まひる : 「でもあいつはそんな場所だからこそ好きだといっていた。ここで緑の悪魔を飲みながら、窓の外を眺め、夜の星を見あげた」
+Mahiru : "But a certain someone liked the place for what it was. They'd look up at the stars through the window forever while sipping the green devil."
+真昼 : "不过那家伙正因此喜欢才喜欢这里，喜欢在这里喝着绿色恶魔，透过破烂的窗户仰望星空"
+
+まひる
+まひる : 「廃墟はかつて人が作った物のなれの果てなのに、どこよりも人の気配がしない場所だっていってたさね」
+Mahiru : "They said that these ruins are what's left of a man-made building, yet there's no longer any sign of humans ever actually being there."
+真昼 : "那家伙还说过，明明废墟就是过去的人所造之物的末路，却成为了人烟最为稀少的地方"
+
+まひる
+まひる : 「あんたも、森を歩いているときよりも静かに感じられないかい？」
+Mahiru : "Do you feel it, too? It's even quieter inside than it was out in the forest."
+真昼 : "你感受一下，是不是觉得比走在森林里时还要宁静？"
+
+夏夏
+夏夏 : 『そうですね。森を歩いていたときの方が、鳥の声や風の音、森の梢や、川のせせらぎ……そんな音に囲まれていました』
+Natsuka : "You're right. When I was walking through the forest, I could hear birdsong, the trees rustling in the wind, the murmuring of a stream... I was surrounded by all sorts of sounds."
+夏夏 : "是呢。在森林里走着，小鸟的歌唱声，风吹树叶的声音，树梢的声音与小河流水的潺潺声……会从四面八方传来"
+
+夏夏
+夏夏 : 『ここは、こんなに緑があるのに生命の気配が希薄です。不思議ですね、ここの緑はまるで宝石みたいに静かで冷たいです』
+Natsuka : "But here, there's almost no signs of life, despite how green it is. It's so mysterious. The greenery here is like a gemstone, quiet and cold."
+夏夏 : "而在这里，一眼望去尽是绿色，但很难感受到生机感。真不可思议。这里的绿色仿佛像是宝石一样毫无生机"
+
+夏夏
+夏夏 : 『でも、やっぱり綺麗です』
+Natsuka : "Still, it's beautiful."
+夏夏 : "不过，果然还是好漂亮"
+
+まひる
+まひる : 「緑なんて生命の象徴とかいうけれど、不吉でしかないさ」
+Mahiru : "The color green symbolizes life, but to me it's the most inauspicious color."
+真昼 : "绿色虽然被称作生命的象征，但在我这里，只觉得晦气"
+
+まひる
+まひる : 「アブサンの緑の悪魔しかり、緑の目の怪物しかり……ああ、これもシェイクスピアさね」
+Mahiru : "Absinthe, the green devil... and the green-eyed monster... Oh, that's Shakespeare too, by the way."
+真昼 : "艾酒这种绿色恶魔如此，绿色眼睛的怪物亦然……唉，又是莎士比亚呢"
+
+まひる
+まひる : 「知っているかい？　グリーンアイドモンスター、オセロに出てくる台詞だ。リルヤは知っているだろう？」
+Mahiru : "There's a line in %i1Othello%id that refers to a 'green-eyed monster.' I'm sure you know it, Lilja."
+真昼 : "你知道吗？　绿眼妖魔，是奥赛罗里的台词。丽露娅是应该知道的吧？"
+
+リルヤ
+リルヤ : 『おお、閣下、決して嫉妬をしてはいけません。嫉妬は人の心を弄び貪り食らう、[あおめだま,2]緑眼玉の化物です』
+Lilja : "'O, beware, my lord, of jealousy! It is the green-eyed monster which doth mock the meat it feeds on.'"
+丽露娅 : "‘啊，主帅，您要留心嫉妒啊。那是一个绿眼的妖魔，谁做了它的牺牲，就要受它的玩弄’"
+
+まひる
+まひる : 「そう、それさね。緑の目の異形の化物、嫉妬の象徴」
+Mahiru : "Yep, that's it. The green-eyed monster stands for envy and jealousy."
+真昼 : "没错，就是那个。绿眼的异形怪物，嫉妒的化身"
+
+まひる
+まひる : 「ところで嫉妬ってのは、面白いもんさね」
+Mahiru : "Jealousy's a funny thing, y'know?"
+真昼 : "说起来，嫉妒这个东西，还真有意思啊"
+
+まひる
+まひる : 「自分の所有物でなくても、嫉妬の感情は湧きあがる。あたしのものなのに許せないって、感じてしまう」
+Mahiru : "Somehow, you can get jealous over things you don't even own. You feel as if it's yours and won't let anyone else near it."
+真昼 : "哪怕不是自己的东西，也会产生嫉妒心。会固执地觉得那是自己的东西，并对它真正的持有者感到愤怒"
+
+まひる
+まひる : 「そして、取り返しのつかないことをしてしまう」
+Mahiru : "Jealousy can drive people to do things that can't be undone."
+真昼 : "接着，做出无法挽回的举动"
+
+まひる
+まひる : 「オセロはまだよかった。自分の愛する妻デズデモーナとは少なくとも相思相愛だった。結局は嫉妬に狂って、殺してしまうんだけどね」
+Mahiru : "Othello didn't have it all that bad. He loved his wife, Desdemona, dearly, and she loved him back. But in the end, jealousy drove him crazy, and he killed her."
+真昼 : "奥赛罗还算好。至少他和自己的妻子苔丝狄蒙娜是两情相悦。虽然结果为嫉妒所发狂，亲手杀死了自己的妻子"
+
+まひる
+まひる : 「この前、怪物の形状は何でもいいっていったけれど、カエルはぴったりかもしれないさね」
+Mahiru : "Before, I said that the monster in the painting can take any shape, but maybe a frog would be fitting."
+真昼 : "我之前说过，把怪物画成什么形态都无所谓，但现在我觉得青蛙是最合适的"
+
+まひる
+まひる : 「たっぷりの粘液、怖気を震う見た目、皮膚はぶつぶつでいっぱいで、腐りかけの濁った緑の目をしたカエル」
+Mahiru : "A slimy frog with bumpy skin and murky, green eyes on the brink of decay, so hideous that it makes you tremble in fear."
+真昼 : "浑身粘液，外表令人胆寒，全身到处都是疙瘩，眼睛腐坏浑浊惨绿的青蛙"
+
+まひる
+まひる : 「それがあたしの恋人、あたしが忘れたい、百年の恋も冷めるような恋人の姿さね」
+Mahiru : "That's how I picture my ex—the love of a lifetime that I want to forget."
+真昼 : "那就是我的恋人，我想忘记的，让我想舍弃长年以来的恋爱的恋人的模样"
+
+まひる
+まひる : 「あたしの記憶のなかで、あいつはいつでもここに立っている。だから、その記憶を醜い怪物で塗りつぶしてしまいたい」
+Mahiru : "In my memory, she'll always be standing here. So I want Lilja-san to paint over that memory with an ugly monster."
+真昼 : "在我的记忆里，那家伙总是站在这。所以，我想用丑陋的怪物，将我的恋人从我的记忆中涂抹掉"
+
+夏夏
+夏夏 : 『…………』
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 『まひるさんにとってその人との恋は、そんなに苦しいものだったんですか……？』
+Natsuka : "Was your relationship with your ex that painful, Mahiru-san?"
+夏夏 : "对真昼小姐而言，与恋人的感情，是那么让痛苦的吗……？"
+
+まひる
+まひる : 「ん？　さあどうだろうね……いや、すくなく見積もっても最低の女だったよ。勝手に嫉妬して、勝手に決めて、勝手にいなくなった」
+Mahiru : "Hmm? I'm not sure... At the very least, she was a horrible woman. She got jealous, made decisions without consulting her partner, and then just up and left."
+真昼 : "嗯？　这我说不清……不，那家伙不管怎么说都是最差劲的女人。擅自嫉妒，擅自做决定，然后擅自离开了我"
+
+まひる
+まひる : 「だからこっちも清々している。いなくなって正解だし、恋人になったのだって一時の気の迷いだったのさ」
+Mahiru : "I'm glad that she's gone. It was the only way to set things right. In the end, our relationship was nothing but a short-term fling."
+真昼 : "所以我也轻松了不少。她就该从我身边消失，和她成为恋人也是我一时糊涂"
+
+まひる
+まひる : 「…………」
+Mahiru : "..."
+真昼 : "…………"
+
+まひる
+まひる : 「はあ、口で喋る機会もほとんどない生活だから、流石に疲れたさね。とりあえず今日はこのへんにして……あんたも帰ってくるといい」
+Mahiru : "Hahh, I'm not used to all this talking. I'm getting tired, so I think I'm gonna call it a day... You can come back, too."
+真昼 : "唉，平时生活都没怎么动嘴，稍微有些累了啊。今天我就先回去了……你也早些回去吧"
+
+夏夏
+夏夏 : 「ここでこのまま泊まってもいいですよ。そのために泊まる道具も用意してきましたし！」
+Natsuka : "I don't mind spending the night here. That's why I brought all my camping gear."
+夏夏 : "我在这里住下也没问题哦。为此还把露营工具带来了呢！"
+
+リルヤ
+リルヤ : 『いや、いったん戻って来ると良い』
+Lilja : "No, it's better if you come back for now."
+丽露娅 : "不用，你先回来一趟"
+
+まひる
+まひる : 『そそ。帰るが吉さね』
+Mahiru : "Yep yep. It's a good time to come home."
+真昼 : "没错没错。你先回去一趟"
+
+夏夏
+夏夏 : 「わかりました、ではそうします！　あ、でもその前に、おなかが空いちゃったのでお弁当食べてからにしますね」
+Natsuka : "I'll do that, then! Oh, but before I do, I'm getting hungry, so I'm gonna eat my lunch first, okay?"
+夏夏 : "我明白了，这就回去！　啊，不过肚子有点饿了呢，我先吃个便当再回去"
+
+夏夏
+夏夏 : 「ここで食べると汚しちゃいそうだから、すこし離れたところで……あれ、でもけっこうよく見るとゴミがちらほら……」
+Natsuka : "I'm gonna get dust in my food if I eat here, so I'll go over there... Oh, actually, there's a lot of trash over there..."
+夏夏 : "找个远点的地方吃吧，在这吃感觉会弄脏……咦，可是仔细一看，到处都是垃圾……"
+
+まひる
+まひる : 『廃墟のゴミ問題は深刻さね。私有地であることも多いから、ゴミの持ち帰りは徹底すべきだって、あいつも言っていたさね』
+Mahiru : "Illegal dumping is a serious problem in abandoned buildings. My ex always made sure to bring any trash home with her, because she knew many places like this are private property."
+真昼 : "废墟的卫生问题很过分啊。那家伙也说过，废墟基本都是私有地，就该让游客自己清理带走垃圾"
+
+夏夏
+夏夏 : 「うーん。こんなに綺麗なのにゴミが散らかっているのは哀しいので、せっかくだし掃除して帰ります！」
+Natsuka : "Mmm, it makes me sad to see such a beautiful place covered with litter, so I'm gonna clean up a bit before I head out!"
+夏夏 : "嗯，这么漂亮的地方全是垃圾也太过分了，我还是做个清洁再回去！"
+
+まひる
+まひる : 『あんたねえ、弁当食ってはやく帰らないと、夜が来るさね。森のなかでまた迷ったらどうするさね？』
+Mahiru : "Listen, if you don't hurry up, it's going to get dark, and... What if you get lost in the forest?"
+真昼 : "我说你啊，再不快点把便当吃了早点回去，可就到晚上了哦。要是又在森林里迷路了怎么办？"
+
+夏夏
+夏夏 : 「そしたらそれこそ、そこでキャンプをして朝を待ちます！　ゴミ袋持ってきていてよかったです、ほいさっほいさっ」
+Natsuka : "In that case, I'll set up camp and wait until morning. I'm glad I brought some trash bags with me. Let's get to work!"
+夏夏 : "真要到晚上了，我不就正好在这露营等到天亮嘛！　幸好我还带了垃圾袋过来，我捡捡捡"
+
+夏夏
+夏夏 : 「あれ……？」
+Natsuka : "Huh...?"
+夏夏 : "咦……？"
+
+リルヤ
+リルヤ : 『どうした？』
+Lilja : "What's the matter?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「はい、ゴミなんですけど……なんだか緑の瓶ばっかりだなって。あ、これもです。これも、これも、緑の瓶です」
+Natsuka : "Well, there's trash, but... I only just noticed that most of it is those green bottles. Oh, there's some over here too. And here, and here... There's green bottles everywhere."
+夏夏 : "嗯，就是这些垃圾……好像全都是绿瓶子。啊，这个也是。还有这个，这个，都是绿色瓶子"
+
+まひる
+まひる : 『…………』
+Mahiru : "..."
+真昼 : "…………"
+
+夏夏
+夏夏 : 「こっちにも、あっ、こっちにも……」
+Natsuka : "Here, too... Oh, and there's another one..."
+夏夏 : "还有这里，啊，这里也是……"
+
+夏夏
+夏夏 : 「……て、わあ！　リルヤさん、まひるさん、教会の裏に山ほどの緑の瓶が！　なんか並んでます！！　林立してます！」
+Natsuka : "Wait, whoa! Lilja-san, Mahiru-san! The mountainside behind the church is all covered in green bottles! They're lined up just like the trees in the forest!"
+夏夏 : "……这、哇！　丽露娅小姐，真昼小姐，教堂的后面有好多好多绿瓶子！　而且还摆得很整齐！！　并排摆着的！"
+
+まひる
+まひる : 『…………』
+Mahiru : "..."
+真昼 : "…………"
+
+None
+None : まひるの操縦するドローンが廃墟の天井の穴を抜け、天高く飛んでいく。
+None : Mahiru's drone exits the building through the hole in the roof and soars high above the trees.
+None : 真昼操作的无人机从废墟天花板上的洞口飞出，直冲云霄。
+
+まひる
+まひる : 『……っ！』
+Mahiru : "Oh...!"
+真昼 : "……！"
+
+夏夏
+夏夏 : 『まひるさん？　どうしました？　何か見つけたんですか？』
+Natsuka : "Mahiru-san? What's wrong? Did you find something?"
+夏夏 : "真昼小姐？　怎么了？　发现了什么吗？"
+
+まひる
+まひる : 「夜が来る……」
+Mahiru : "It's getting dark..."
+真昼 : "夜来了……"
+
+夏夏
+夏夏 : 『え？　夜がですか？』
+Natsuka : "Huh? But it's still bright out."
+夏夏 : "哎？　夜？"
+
+まひる
+まひる : 「！」
+Mahiru : "Ah!"
+真昼 : "！"
+
+まひる
+まひる : 「ああ、悪い。地上からだとわかんないだろうけど、太陽が西にさしかかりつつあったから。そろそろ本当に夜が来るさね」
+Mahiru : "Ah, sorry. You probably can't tell from the ground, but from up here I can see the sun setting to the west. It's seriously going to get dark soon."
+真昼 : "喔，不好意思。你在地上可能看不太到，太阳已经西沉了。估计没一会就天黑了"
+
+まひる
+まひる : 「秋の日はつるべ落としっていうし、少なくともここは高原さね。平地よりもすこしばかり秋が先に来ていてもおかしくはないさね」
+Mahiru : "The sun dips below the horizon really quickly in the fall, and don't forget that you're in the highlands. Fall comes earlier there than on the plains."
+真昼 : "秋天天黑得很快的，再加上这里是高原，和平原相比更早到秋天也不奇怪"
+
+まひる
+まひる : 「あんたもゴミ拾いはほどほどにして、さっさと帰るがいいさね」
+Mahiru : "Forget about cleaning up all the trash. You should really hurry home."
+真昼 : "你捡垃圾也别太投入了，赶紧回来吧"
+

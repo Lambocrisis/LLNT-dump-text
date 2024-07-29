@@ -1,0 +1,510 @@
+夏夏
+夏夏 : 「――って、美彌子さんは言ったんです」
+Natsuka : "That's what Miyako-san told me."
+夏夏 : "——美弥子小姐如是说"
+
+リルヤ
+リルヤ : 『なるほど、な』
+Lilja : "Interesting."
+丽露娅 : "原来如此"
+
+夏夏
+夏夏 : 「なんだか、美彌子さんと話をしていると、なんかすごく気になるというか、違和感がありました……」
+Natsuka : "Something bothered me while I was talking to her, though. Something felt... off..."
+夏夏 : "好像和美弥子小姐说话时，该说是特别令人在意吗，有种违和感……"
+
+夏夏
+夏夏 : 「でもそれが具体的に何なのかがよくわからなくて……」
+Natsuka : "But I can't pin down what it is exactly..."
+夏夏 : "但是那违和感具体是什么我不是很懂……"
+
+リルヤ
+リルヤ : 『広い視野で論理的に考えることができない以上、お前はお前の動物的感覚を信じるしかないだろう』
+Lilja : "It's difficult for you to think from a broad perspective, so you should simply trust your instincts, like an animal."
+丽露娅 : "在没法用宽阔视野进行合理思考的情况下，于你而言靠得住的只有那动物般的直觉了"
+
+リルヤ
+リルヤ : 『一番ひっかかったところ、気になったところは、どれだ？』
+Lilja : "Which part of what she said bothered you exactly?"
+丽露娅 : "最让你不解的，最在意的地方是哪里？"
+
+夏夏
+夏夏 : 「一番気になったところ……」
+Natsuka : "The part when she mentioned..."
+夏夏 : "最在意的地方……"
+
+夏夏
+夏夏 : 「痛み……」
+Natsuka : "Pain..."
+夏夏 : "痛楚……"
+
+夏夏
+夏夏 : 「そうです。痛みです。美彌子さん、元気になったら、最後の手術をする、そうしたらこの痛みも消えるはずっていったんです」
+Natsuka : "Yeah, that's it. Miyako-san said she was going to the hospital for her final surgery once she was a bit better, and that her pain should finally go away."
+夏夏 : "对了。就是痛楚。美弥子小姐说，打起精神了，就去做最后的手术，然后说这份痛楚应该也会消失"
+
+夏夏
+夏夏 : 「でも、そのときの声がすごく辛そうで…とても苦しそうで……」
+Natsuka : "When she said that, I could %i1hear%id the pain in her voice... She sounded so anxious..."
+夏夏 : "但是，说这话时她的声音特别难受……十分痛苦……"
+
+リルヤ
+リルヤ : 『美彌子は事故で大怪我をした。そして、今も、顔を隠している。元気になったら手術をする。そこから導き出せる答はひとつだな』
+Lilja : "Miyako was seriously injured in the accident, and she still wears a veil to conceal her face. She's going to have surgery once she's stronger. All those hints point toward one answer."
+丽露娅 : "美弥子因车祸受了重伤。因此至今为止她依旧遮住面容。打起精神了就去做手术。以此可以推出的答案只有一个"
+
+夏夏
+夏夏 : 「はい……手術が必要なほどの怪我を顔に負ったんですよね……」
+Natsuka : "Yeah... The injuries to her face are bad enough that she needs surgery."
+夏夏 : "是的……她的脸被伤到必须动手术……"
+
+リルヤ
+リルヤ : 『合理的に考えてそれ以外ないだろう、な』
+Lilja : "Logically speaking, that's the only conclusion."
+丽露娅 : "合理思考，应该只有这种可能性"
+
+夏夏
+夏夏 : 「顔に大けがをしたら……確かにすごく辛いですね。だから手術をしたら、顔が治ったら、今の痛みも消える？」
+Natsuka : "Imagine getting a serious injury to your face... That does sound incredibly painful. But once she has her surgery, her face will heal, and her pain will go away... Right?"
+夏夏 : "脸受了重伤……确实很难受啊。所以要是做完手术，治好了脸，现在的痛楚就会消失？"
+
+夏夏
+夏夏 : 「ううん、でもそれなら手術をするのは嬉しいですよね？　なのに、美彌子さんは、どうしてあんなに苦しそうだったんでしょう？」
+Natsuka : "Hmm... But if that was the case, shouldn't she be happy to finally get the surgery done? Then why did Miyako-san seem so anxious about it...?"
+夏夏 : "不对，如果这样，那她提到手术应该会很开心啊？ 但是美弥子小姐为什么会那么痛苦呢？"
+
+夏夏
+夏夏 : 「もしかしたら、美彌子さんの話していた痛みは、怪我の痛みじゃなくて、別の痛みなんじゃないでしょうか……」
+Natsuka : "Maybe the pain she was talking about wasn't just the physical pain from her injuries, but something else..."
+夏夏 : "如果美弥子小姐所说的痛楚，并非伤痕的痛楚，而是其他的痛楚……"
+
+リルヤ
+リルヤ : 『たとえば、それは……なんだ？』
+Lilja : "Like... What, for example?"
+丽露娅 : "例如，那是……什么？"
+
+夏夏
+夏夏 : 「たとえば――」
+Natsuka : "For example..."
+夏夏 : "例如——"
+
+夏夏
+夏夏 : 「自分だけが生き残ってしまった罪悪感……とか、でしょうか」
+Natsuka : "Maybe she feels guilty because she was the one who survived the accident?"
+夏夏 : "应该是……只有自己活下来的罪恶感，吧"
+
+夏夏
+夏夏 : 「でも、生き残ってしまったから、天国の善乃さんに元気な姿を見せることが、生き残った自分にできる唯一のことと思っている……とか」
+Natsuka : "But she seems to think that, as a survivor, it's her duty to move on and live her life happily, because that's what Yoshino-san in heaven would have wanted for her..."
+夏夏 : "但是，她觉得既然自己活了下来，那让位于天国的善乃小姐看到自己精神的样子，是她唯一能做到的事情……之类的"
+
+夏夏
+夏夏 : 「でもやっぱり生きていることが、苦しいのかな……とか」
+Natsuka : "Maybe it still pains her to keep on living, even though she's doing her best?"
+夏夏 : "但是活下去果然充满痛苦……之类的"
+
+リルヤ
+リルヤ : 『随分とそこにこだわるじゃないか』
+Lilja : "You seem very fixated on that one point."
+丽露娅 : "你还挺执着于这点啊"
+
+夏夏
+夏夏 : 「ううーん、なんかわからないですけど、そこに何かがある気がするんですよねえ？」
+Natsuka : "Hmm, I don't know why, but I feel like that's the key to what's going on with her."
+夏夏 : "不是，我也不知道为什么，总觉得在这件事背后有什么隐情呢"
+
+リルヤ
+リルヤ : 『ならば、考えつづければいい。ところで、私の方でも進展があったぞ。必要な情報が手に入った』
+Lilja : "Then how about you think about it some more? I've made some progress on my end, by the way. I've obtained the necessary information."
+丽露娅 : "那就不断思考吧。说起来，我这边也有进展了。必要的信息已经拿到了"
+
+夏夏
+夏夏 : 「えっ！？　今、さらっと言いましたけど、それって……」
+Natsuka : "Huh!? You say it like it's nothing, but... Do you mean..."
+夏夏 : "咦！？　说得这么轻描淡写，但那是……"
+
+リルヤ
+リルヤ : 『ああ、死者からのメールふたたび、だ。今度は、返事もしてくれているぞ』
+Lilja : "Yes, I received another email from the ghost. She replied to me."
+丽露娅 : "是啊，死者又发来邮件了。而这次她还回答了我的问题"
+
+夏夏
+夏夏 : 「つまり……生きているどなたかが善乃さんのふりをして、リルヤさんとお話してるってことですよね？」
+Natsuka : "That means... Someone who's still alive is pretending to be Yoshino-san and talking to you, right?"
+夏夏 : "也就是说……有人假借善乃小姐的名义跟丽露娅小姐说话吗？"
+
+リルヤ
+リルヤ : 『さあな、本当に幽霊かもしれないぞ。まだその可能性は消せない』
+Lilja : "Who knows? It really could be a ghost. We can't rule out that possibility."
+丽露娅 : "谁知道呢，说不定是真正的幽灵。这还是有可能的"
+
+リルヤ
+リルヤ : 「だが、幽霊は完全に否定せずに、生きている人間がミス善乃を騙っていると考える方が、効率的かつ合理的だ」
+Lilja : "However, without denying the existence of ghosts, it would still be the most logical and effective to assume that somebody who's still alive is pretending to be Miss Yoshino."
+丽露娅 : "只是，不完全否定幽灵，而是在此基础上推测是活人假扮善乃女士，要更有效率且更合理"
+
+リルヤ
+リルヤ : 「ともあれ、必要な情報は集まりつつある。だが、相変わらず面白くない事実だけが、私の頭のなかに広がっている」
+Lilja : "If that's the case, then all the necessary information is falling into place. However, it's nothing but plain, boring facts."
+丽露娅 : "反正，必要的信息已经逐渐拿到了。不过我脑海里的，有且只有那无聊的事实而已"
+
+リルヤ
+リルヤ : 「このままでは、私は『わたしたち』の絵を描くことはできない。そこに何の『光』もないからな」
+Lilja : "I can't paint the portrait like this. I lack the 'light' I need."
+丽露娅 : "这样下去，我是画不出‘我们’的画的。那里毫无‘光芒’"
+
+リルヤ
+リルヤ : 「私の合理性からの帰結など、『光』の前には無意味だ。だからこそ、お前は常に考えろ。考えて、感じろ」
+Lilja : "The rational conclusions I draw mean nothing if they don't bring me any light. That's why I need you to keep on thinking, and to keep on feeling."
+丽露娅 : "在‘光芒’面前，我所归纳的，出自合理性的定论是毫无意义的。所以需要你时刻思考。思考，并感受一切"
+
+リルヤ
+リルヤ : 「考え、感じ、そして私の知らない方法で、高く飛躍すればいい。お前の動物的感覚には期待している」
+Lilja : "Think, feel, and leap higher than I ever could. I trust your wild animal instincts."
+丽露娅 : "思考，感受，然后以我未知的方式展翅高飞。就靠你那动物般的直觉了"
+
+夏夏
+夏夏 : 「動物的感覚」
+Natsuka : "My wild animal instincts..."
+夏夏 : "动物般的直觉"
+
+リルヤ
+リルヤ : 『ん？』
+Lilja : "Hmm?"
+丽露娅 : "嗯？"
+
+夏夏
+夏夏 : 「だから鳩なんですか？」
+Natsuka : "Is that why I'm a dove?"
+夏夏 : "所以是白鸽吗？"
+
+リルヤ
+リルヤ : 『なんだって？』
+Lilja : "What?"
+丽露娅 : "你说什么？"
+
+夏夏
+夏夏 : 「いえ、その、動物的感覚とか、あの、いえ、真璃子さんが、言ってたじゃないですか」
+Natsuka : "Oh, no, it's just... The whole 'animal instincts' thing reminded me of something Mariko-san said..."
+夏夏 : "不，那个，说是动物般的直觉，就是，真璃子小姐不是说过吗"
+
+夏夏
+夏夏 : （あ、あれ……？　わたし、どうして、今この話を？）
+Natsuka : (W-Wait... Why am I bringing that up right now?)
+夏夏 : （咦、咦……？　为什么我在这时候提起这件事了？）
+
+夏夏
+夏夏 : 「聖書では洪水が終わった世界で、ノアの方舟から飛び立った第三の鳩は、ノアのところに戻らなかったって」
+Natsuka : "Mariko-san told me that in the Bible, when Noah sent out the dove for the third time, it never came back."
+夏夏 : "圣经上说，诺亚向洪水灭世后的世界，放飞了三只白鸽，而第三只并没有回到诺亚的身边"
+
+夏夏
+夏夏 : 「でも、リルヤさんは第三の鳩は橄欖の葉を携えりって言うじゃないですか。第二の鳩のように、オリーブの葉を持って帰る……」
+Natsuka : "But you said your dove will always come back to you with an olive leaf, Lilja-san..."
+夏夏 : "但是，丽露娅小姐不是说，第三只白鸽会为自己衔回橄榄叶吗。像第二只白鸽那样，带回橄榄树的叶子……"
+
+夏夏
+夏夏 : 「それって、わたしが……わたしの……あの、その……わたし……」
+Natsuka : "Does that... Is that... Am I... Um... I..."
+夏夏 : "这就是说，我会……我的……那个、这个……我……"
+
+夏夏
+夏夏 : 「い、いま、関係ないはにゃしぃったああああ！？」
+Natsuka : "N-Never mind, it's not related— Owwww!?"
+夏夏 : "这、这是无关的话题啊啊啊啊啊！？"
+
+リルヤ
+リルヤ : （噛んだ、な）
+Lilja : (She bit her tongue...)
+丽露娅 : （咬到舌头了啊）
+
+夏夏
+夏夏 : 「すみまふぇ……舌をおもひきりかんひゃっふぇ……」
+Natsuka : "I'm sowwie... I jus' bid my tongue real 'ard..."
+夏夏 : "对不起……狠狠咬到舌头了……"
+
+リルヤ
+リルヤ : 『…………』
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 『いつでも戻ってくれば良い』
+Lilja : "You're free to come back whenever you want."
+丽露娅 : "想什么时候回来，就什么时候回来吧"
+
+夏夏
+夏夏 : 「はひ！？」
+Natsuka : "Huh!?"
+夏夏 : "什么！？"
+
+リルヤ
+リルヤ : 『お前が求めるならば、いつでも戻ってくれば良い』
+Lilja : "If you wish, you may come back whenever you want."
+丽露娅 : "只要你想，随时都可以回来"
+
+リルヤ
+リルヤ : 『今は、大きすぎる荷物もある。これまでのように気軽に引っ越すのは難しかろう』
+Lilja : "Your belongings are too heavy now to just pack up and move at a moment's notice, aren't they?"
+丽露娅 : "现在你有些过大的行李。像过去那样说走就走估计很困难"
+
+夏夏
+夏夏 : 「大きすぎる荷物って……それって、ルミさんのことですか？　荷物なんてそんな、ルミさんはわたしにとっては同居人みたいなもので」
+Natsuka : "My belongings...? Are you talking about Lumi-san? Lumi-san's not just one of my 'belongings.' It's more of a roommate kinda situation, I'd say!"
+夏夏 : "过大的行李……是鲁米吗？　它可不是行李，对我而言它是同居人"
+
+リルヤ
+リルヤ : 『荷物だろうが、同居人だろうが、何でもいいしどうでもいい。とにかく今の話はこれで終わりだ』
+Lilja : "Things, roommates, it's all the same—my point still stands. Not another word on this."
+丽露娅 : "管它是行李还是同居人，都无所谓。反正这个话题就说到这"
+
+夏夏
+夏夏 : 「は、はい！！」
+Natsuka : "O-Okay!!"
+夏夏 : "好、好的！！"
+
+夏夏
+夏夏 : （えっなんかどうしましょう）
+Natsuka : (Oh my gosh, what should I do!?)
+夏夏 : （咦怎么回事怎么办）
+
+夏夏
+夏夏 : （わたし、リルヤさんの言葉がすごくすごく嬉しいです、ああー……わたし、今、めちゃめちゃ顔が緩んでます……っ）
+Natsuka : (I'm super happy that Lilja-san said that! Ahhh... I must be grinning like an idiot right now...!)
+夏夏 : （丽露娅小姐说的话，我好开心，呜……我根本控制不住脸上的笑……）
+
+リルヤ
+リルヤ : 『閑話が過ぎたな』
+Lilja : "We're digressing."
+丽露娅 : "跑题了啊"
+
+夏夏
+夏夏 : 「そうですね！　話を元に戻しましょう！」
+Natsuka : "You're right! Let's get back on topic!"
+夏夏 : "是呢！　回到刚刚的话题吧！"
+
+夏夏
+夏夏 : 「わたしは美彌子さんとの会話をリルヤさんに話しましたね。そしてリルヤさんは、死者さんとメールのやりとりをしていました」
+Natsuka : "I told you about my conversation with Miyako-san, and you told me that you've been exchanging emails with our mystery ghost."
+夏夏 : "我跟丽露娅小姐描述了与美弥子小姐的对话。然后丽露娅小姐这边，也在和死者互发邮件"
+
+夏夏
+夏夏 : 「リルヤさんは死者さんから、必要な情報は手にいれつつあります」
+Natsuka : "And you've been gathering the information you need from those emails."
+夏夏 : "丽露娅小姐从死者手里，渐渐获得了必要的信息"
+
+リルヤ
+リルヤ : 『それで、それから？』
+Lilja : "What else?"
+丽露娅 : "然后，接下来呢？"
+
+夏夏
+夏夏 : 「う～ん……」
+Natsuka : "Hmm..."
+夏夏 : "嗯……"
+
+夏夏
+夏夏 : 「あのお……リルヤさん、死者さんはリルヤさんに何を伝えてきたんですか？　わたしに話していいことがあったら、聞きたいです」
+Natsuka : "Umm, Lilja-san? What did the ghost tell you? If there's anything you think I should know, I wanna hear it."
+夏夏 : "我说……丽露娅小姐，死者告诉了丽露娅小姐什么呢？　要是能对我说说的话，我想听听"
+
+リルヤ
+リルヤ : 『お前は何を聞きたい？』
+Lilja : "Let me ask you instead—what do you want to know?"
+丽露娅 : "你想听什么？"
+
+夏夏
+夏夏 : 「何をですか？　それはもちろん！　……あ、あれ？」
+Natsuka : "Me? Well, of course I want... Uh... Umm..."
+夏夏 : "我想听什么？　那当然是！　……咦、咦？"
+
+夏夏
+夏夏 : （あれ？　わたし何を聞きたいと思ったんでしょう？　でもなにか聞きたくて……死んだ人からもし話が聞けるなら……）
+Natsuka : (Huh? I thought I had a pressing question, but what was it? If I could ask the dead person a question, what would I ask...?)
+夏夏 : （咦？　我想听什么呢？　但是总想听到某些事……要是从死人那里能听到话语的话……）
+
+夏夏
+夏夏 : 「え、と……あの……あれ？」
+Natsuka : "Ummm... Err... Huh?"
+夏夏 : "我想想……嗯……咦？"
+
+リルヤ
+リルヤ : 『…………』
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 『……色々な情報を交換した。死者との問答だ。滅多にない機会だ。なかなか刺激的だったぞ』
+Lilja : "I've exchanged a lot of information with the ghost. It's a rare opportunity, so it was an interesting experience."
+丽露娅 : "……我们交换了不少信息。毕竟是与死者的交流，很少能体验到。很刺激啊"
+
+リルヤ
+リルヤ : 『もっとも興味深かったのは、もし、自分の命と引き換えに大切なものが取り戻せるなら、という話だったな』
+Lilja : "The most fascinating topic was this: If you could bring a loved one back to life in exchange for your own life, would you do it?"
+丽露娅 : "我最感兴趣的，是‘如果能用自己的生命换回重要的东西’这个话题"
+
+夏夏
+夏夏 : 「自分の命と引き換えに……」
+Natsuka : "In exchange for your own life...?"
+夏夏 : "以自己的生命……"
+
+リルヤ
+リルヤ : 『夏夏、お前ならどうする？　もし大切なものを取り戻せるなら、神と取引をするか？』
+Lilja : "What do you think, Natsuka? Would you make a pact with God if you could bring a loved one back to life?"
+丽露娅 : "夏夏，换做你会怎么办？　要是能取回重要的东西，你会和上帝做交易吗？"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「もし、わたしなら、わたしの命でどうにかなるなら……もしかしたら、願ってしまうかもしれません」
+Natsuka : "If it were me... If my life were valuable enough to offer in exchange... then I might take him up on that offer."
+夏夏 : "我也不是没有祈求过……以我的生命作交换，做到某些事……"
+
+夏夏
+夏夏 : 「でも……本当にわたしの命で生き返って、相手は嬉しいんでしょうか？　幸せになってくれるんでしょうか？」
+Natsuka : "But... I'm not sure if sacrificing my own life would make the other person happy... Would they be able to live a happy life after that?"
+夏夏 : "但是……要是真的一命换一命，那个人活了下来，但那人会开心吗？　会变得幸福吗？"
+
+夏夏
+夏夏 : 「わたし、昔なら迷わずにそうしていました。わたしがいなくなっても、哀しむひとがいなかったから」
+Natsuka : "In the past, I never would've questioned that. I would've given up my life without hesitation, because I figured nobody would miss me anyway."
+夏夏 : "要是以前的我，根本不会犹豫就会选择交易。因为我不在了，也不会有人悲伤"
+
+夏夏
+夏夏 : 「でも今は、今なら……わたしがいなくなったら、哀しむひとがいるって思えるから……」
+Natsuka : "But now... If I were to die now, I think there are people who'd be sad..."
+夏夏 : "但是现在，现在的话……要是我不在了，有人会难过的……"
+
+夏夏
+夏夏 : 「もちろん、今なら、大切なひとを喪って哀しい気持ちはわかります。苦しい気持ちも、痛いほどにわかります」
+Natsuka : "Of course, I now understand what it feels like to mourn a loved one. I understand that pain all too well."
+夏夏 : "当然，现在的我能明白失去重要之人的悲伤之情。我特别理解这种痛苦"
+
+夏夏
+夏夏 : 「でも、わたしがいなくなったら、わたしが味わった苦しい気持ちを、別の誰かが感じるなら……それもすごく辛いじゃないですか」
+Natsuka : "But if I died instead of someone else, then I'd only be forcing them to experience that pain... Wouldn't that be just as tough on them?"
+夏夏 : "不过，要是我不在了，让其他人体会到我所感受的这份痛苦……不也很难过吗"
+
+夏夏
+夏夏 : 「わたしがいなくなったら、哀しむ人達がいるかもしれない。だとしたら、なんかそれって……」
+Natsuka : "There are people who might be sad if I died. In that case, me dying wouldn't solve anything..."
+夏夏 : "要是我不在了，说不定也会有人感到悲伤。要是如此，那一命换一命这种做法简直就是……"
+
+夏夏
+夏夏 : 「わたしの苦しみを、ボールみたいに他に投げているだけな気がして、嫌なんです」
+Natsuka : "I'd just be passing the pain around like a ball. I wouldn't like that."
+夏夏 : "把自己的痛苦像球一样扔给他人，我很讨厌这种做法"
+
+夏夏
+夏夏 : 「酷いですね。わたし、今、幸せだから、恵まれているから、そんな風に思えるだけなのに」
+Natsuka : "I'm a terrible person, aren't I? The only reason I'm able to think this way is because I'm happy and blessed now."
+夏夏 : "我很过分吧。明明我不会这样想，只是因为自己现在很幸福，被眷顾"
+
+夏夏
+夏夏 : 「苦しくて、苦しくて、哀しくて、このどうしようもない状況を、取り返しのつかない状況を、自分の命でどうにかなるなら、そうしたい」
+Natsuka : "But if someone was really suffering so much that they're completely helpless... If sacrificing my life could make things right, then that's what I would do."
+夏夏 : "要是在无比悲伤，无比绝望的情况下，能用自己的生命来挽回一切，那我愿意这样做"
+
+夏夏
+夏夏 : 「そうしなくちゃいられない人だっているのに」
+Natsuka : "Some people don't have any other choice."
+夏夏 : "明明也有人陷入这种情况的"
+
+夏夏
+夏夏 : 「大切なひとのためなら、自分の命なんてどうでもいい。ううん、わたしよりもずっとあの人の方が、生きている価値があるって――」
+Natsuka : "They might feel as if the life of their loved one is much more valuable than their own, and that they'd sacrifice everything for their sake..."
+夏夏 : "为了重要之人而甘愿献出自己的生命。不，是因为自己知道，比起自己，那人更值得活着——"
+
+夏夏
+夏夏 : 「…………？」
+Natsuka : "...Hmm?"
+夏夏 : "…………？"
+
+リルヤ
+リルヤ : 『どうした？』
+Lilja : "What's the matter?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「あ、いえ、今……何か音が――」
+Natsuka : "Oh, it's just... I thought I heard something."
+夏夏 : "啊，不是，刚刚……有什么声音——"
+
+善乃
+美彌子 : 「…………」
+Miyako : "..."
+美弥子 : "…………"
+
+夏夏
+夏夏 : 「美彌子さん！」
+Natsuka : "Miyako-san!"
+夏夏 : "美弥子小姐！"
+
+善乃
+美彌子 : 「あの、私……私、さっき、紅茶のカップを持ったまま帰ってしまって、それで、それを返しに……」
+Miyako : "Um, I... I realized I accidentally took your teacup with me... So I came to give it back..."
+美弥子 : "那个、我……我刚刚把装红茶的杯子给直接带回去了，发现了，就打算过来还给您……"
+
+善乃
+美彌子 : 「私、私……」
+Miyako : "M-My..."
+美弥子 : "我、我……"
+
+善乃
+美彌子 : 「私の――いのち」
+Miyako : "My life..."
+美弥子 : "我的——生命"
+
+夏夏
+夏夏 : 「美彌子さん？」
+Natsuka : "Miyako-san?"
+夏夏 : "美弥子小姐？"
+
+善乃
+美彌子 : 「あの人が生きている方がずっと……価値が、ある……」
+Miyako : "My life is worth nothing compared to %i1hers%id..."
+美弥子 : "让那位活下去要……更有、价值……"
+
+善乃
+美彌子 : 「…………」
+Miyako : "..."
+美弥子 : "…………"
+
+善乃
+美彌子 : 「死によって完成される恋を、墓の中でも死ぬことのない恋を……恋は命にまさるのです……恋は……恋は……」
+Miyako : "'She sang of the Love that is perfected by Death, of the Love that dies not in the tomb'... The love... The love..."
+美弥子 : "她唱到了因死亡而变得更完美的爱，唱到了在坟墓中也不会死去的爱……爱高于生命……爱是……爱是……"
+
+善乃
+美彌子 : 「あ、ああ……赤い、赤い……世界……」
+Miyako : "Ahh, ahhh... The world is... red... red..."
+美弥子 : "啊、啊啊……通红、通红的……世界……"
+
+善乃
+美彌子 : 「燃えている、あつい、熱い……やめて、お願い、死なないで……」
+Miyako : "It's on fire... It's so hot... It's not... No, please, don't die..."
+美弥子 : "熊熊燃烧着，好烫、好烫……不要，求求你，不要死……"
+
+善乃
+美彌子 : 「ああ、ああ……いや、いや、だ、助けて、誰か、このひとを、助けて！　私はどうなってもいいから……お願いだから……！！」
+Miyako : "Ahh, ahhhh... No, nooo! Save her! Somebody, please save her! Leave me, just save her... Please...!!"
+美弥子 : "啊啊、啊啊……不要、不要，救、救命啊，有谁来，救救这个人！　我无所谓……来人啊……！！"
+
+善乃
+美彌子 : 「助けて！！　助けて！！　あの人を！！　私はどうなってもいいのです！！　だから、お願い！！！　かみさま！！」
+Miyako : "Save her!! Save her, please!! Leave me here! Please, just save her!! God!!"
+美弥子 : "救救她！！　救救她！！　救救那个人！！　我无所谓的！！　所以求求您了！！！　上帝啊！！"
+
+善乃
+美彌子 : 「あぁああああああああああああぁぁあああああああああああああああああああああああああああああああああ！！」
+Miyako : "Ahhhhhhhhhhhhhhhhhhhhhhhh!!"
+美弥子 : "啊啊啊啊啊啊——————！！"
+
+夏夏
+夏夏 : 「美彌子さん――！！」
+Natsuka : "Miyako-san...!"
+夏夏 : "美弥子小姐——！！"
+

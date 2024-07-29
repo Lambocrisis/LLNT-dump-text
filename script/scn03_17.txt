@@ -1,0 +1,340 @@
+夏夏
+夏夏 : 「これは……」
+Natsuka : "Whoa..."
+夏夏 : "这是……"
+
+夏夏
+夏夏 : 「全部、同じ絵です。同じ絵が何十枚も並んでいます」
+Natsuka : "There are so many of the same paintings. Just dozens of them all in a row."
+夏夏 : "全都是，同样的画。好多张看上去一样的画罗列在一起"
+
+白縫
+白縫 : 「これが、ゆりが毎年送ってくれた絵よ。タイトルは夜明け」
+Shiranui : "The ones here are the paintings Yuri sent me in recent years. The title of them is %i1Dawn%id."
+白缝 : "这些就是每年百合送给我的画。题目是《黎明》"
+
+白縫
+白縫 : 「これがここにある最初の夜明けの絵、１１年前のものよ」
+Shiranui : "This is the first painting of %i1Dawn%id here, which was done eleven years ago."
+白缝 : "这里这张是最初送给我的那张《黎明》，是十一年前收到的"
+
+白縫
+白縫 : 「これから一年ごとに、一枚ずつ増えていったわ」
+Shiranui : "And every year since then, I've received another version of it."
+白缝 : "之后这里每年都会多一张画"
+
+白縫
+白縫 : 「１０年前、９年前、８年前、７年前……」
+Shiranui : "Ten years ago... Nine years... Eight... Seven..."
+白缝 : "十年前、九年前、八年前、七年前……"
+
+白縫
+白縫 : 「３年前、２年前……そして去年」
+Shiranui : "Three... Two... And then there's last year's."
+白缝 : "三年前、两年前……然后是去年"
+
+白縫
+白縫 : 「去年の夜明けの絵、これが私がゆりの死に気づいた理由……」
+Shiranui : "Last year's painting was the one that made me realize Yuri had passed."
+白缝 : "去年的这张《黎明》，是我注意到百合已故的契机……"
+
+白縫
+白縫 : 「それは、去年の絵が２年前と何も変わらなかったから」
+Shiranui : "Because last year's painting hadn't changed anything from the painting two years prior."
+白缝 : "因为，去年的画跟两年前的画相比毫无变化"
+
+白縫
+白縫 : 「変わらなすぎて何かおかしいと思った」
+Shiranui : "To have nothing changed at all was simply too unusual."
+白缝 : "变化小到让我很难不觉得奇怪"
+
+白縫
+白縫 : 「これまでの絵は、何年前の絵かよく見ればわかったわ」
+Shiranui : "I could identify the subtle changes after looking closely at all these paintings year after year."
+白缝 : "在此之前的画，和几年前的画放在一起仔细看就能看出差别"
+
+白縫
+白縫 : 「でも去年の絵はわからない。変化がないのよ」
+Shiranui : "But I couldn't see anything different about last year's painting. Nothing had changed at all."
+白缝 : "但是去年的画我看不出来。根本没有变化"
+
+白縫
+白縫 : 「ゆりの絵には変化があった。同じモチーフでも、毎年何かが変わっていた」
+Shiranui : "Yuri's paintings all had changes. Even if they were all based on the same motif, something changed each year."
+白缝 : "百合的画是会有变化的。即使是相同的主题，每年都会有一点变化"
+
+白縫
+白縫 : 「でも、去年の絵は時をとめた絵だった」
+Shiranui : "But last year's painting was frozen in time."
+白缝 : "但是，去年的画是一张暂停了时间的画"
+
+白縫
+白縫 : 「だから、ゆりの時が止まったのだとわかったのよ」
+Shiranui : "So I realized that time had stopped for Yuri as well."
+白缝 : "所以，我也意识到百合的时间停止了"
+
+白縫
+白縫 : 「……本当は気づきたくなかった。気づかないふりをしたかった。でも無理だった」
+Shiranui : "...I didn't want to know it. I wanted to pretend I hadn't realized it, but I couldn't."
+白缝 : "……其实我不想注意到这点的。我想假装我自己没注意到。但我做不到"
+
+白縫
+白縫 : 「ゆりの時がとまり、私もまた終わってしまったのよ」
+Shiranui : "When Yuri's time came to an end, so did mine."
+白缝 : "百合的时间停止了，我也再一次迎来了终结"
+
+白縫
+白縫 : 「死んでも心の中で生きているっていうけれど、そんなことはないわ。死んでしまった人は死んでしまって、それで終わり」
+Shiranui : "People say that, even if someone dies, they still live on in your heart. But that's not true. Once someone dies, that's it. They're dead. It's over."
+白缝 : "有人说人死了会活在人的心中，根本就不是这样的。人死了就是死了，死了就结束了"
+
+白縫
+白縫 : 「それ以上でもそれ以下でもない」
+Shiranui : "Nothing more. Nothing less."
+白缝 : "不会比这更多，也不会比这更少了"
+
+夏夏
+夏夏 : 「……確かにそうだとわたしも思います。死んでしまった人は死んでしまって、それで終わりなんです」
+Natsuka : "...You know, I think the same way. Once someone dies, that's the end."
+夏夏 : "……我也确实是这样认为的。人死了就是死了，死了即是结束"
+
+夏夏
+夏夏 : 「もう二度と会えない。わたしたちの心のなかにいる大切な人は、死んでしまった大切な人の代わりにはならないんです」
+Natsuka : "You can't ever see them again. Even if we keep them alive in our hearts, that can't ever replace the person who died."
+夏夏 : "死了就再也见不到了。我们心中那个珍爱之人，并不能成为死掉的那个珍爱之人的替代"
+
+白縫
+白縫 : 「……あなたも大切な人を亡くしたのね」
+Shiranui : "...You must have lost someone important to you, too."
+白缝 : "……你珍爱的那个人也不在世了吗"
+
+夏夏
+夏夏 : 「そうですね、すごく大切……というかわたしの世界のすべてでした。そのひとの事ばかり考えていました」
+Natsuka : "Yeah, I did. She was so important to me... In fact, she was my whole world. She was all I ever thought about."
+夏夏 : "是的，我非常珍视她……不如说她是我世界的全部。我曾只思考着与她相关的事情"
+
+夏夏
+夏夏 : 「生きているときも、死んでしまってからも」
+Natsuka : "Both when she was alive and after she'd passed."
+夏夏 : "她活着的时候是这样，死了以后也是这样"
+
+白縫
+白縫 : 「今でも？」
+Shiranui : "And what about now?"
+白缝 : "现在也是？"
+
+夏夏
+夏夏 : 「今はすこし違います。大切なことには変わりありませんが」
+Natsuka : "It's not quite like that now. Though she's still really important to me."
+夏夏 : "现在有点不一样了。但她永远会是我的珍爱之人"
+
+夏夏
+夏夏 : 「今は、リルヤさんのことを考えています」
+Natsuka : "But now I have Lilja-san to think about."
+夏夏 : "现在我考虑的是丽露娅小姐的事情"
+
+白縫
+白縫 : 「どうして？」
+Shiranui : "Why is that?"
+白缝 : "为什么？"
+
+夏夏
+夏夏 : 「結末を、変えるためです」
+Natsuka : "I have to change how things will end."
+夏夏 : "为了能够，改变结局"
+
+夏夏
+夏夏 : 「あのですね、わたし最近知ったんですけど、今を一生懸命生きると、明日が分裂するんですね」
+Natsuka : "It's like, I recently realized that if you put everything you have into living in the moment, tomorrow will branch off from there."
+夏夏 : "那个，虽然这是我最近才发现的事，如果现在拼尽全力活下去的话，明天就会发生分裂"
+
+白縫
+白縫 : 「何ですって？」
+Shiranui : "What on earth does that mean?"
+白缝 : "什么意思？"
+
+夏夏
+夏夏 : 「ええっと、たとえばなんですけど……今日を一生懸命すごすと、明日はあれもしたいこれもしたいって思えるんですよ」
+Natsuka : "Well, uh... Okay, so for example... If I spend today doing everything I want, it'll make me think like, 'Oooh, I wanna do all sorts of things tomorrow too!'"
+夏夏 : "那个，我举个例子……如果今天拼尽全力的话，明天就会即想要做这个，又想要做那个这样"
+
+夏夏
+夏夏 : 「それってすごいことだなって思って、明日が分裂してるって思ったんです！」 
+Natsuka : "I just think that's really amazing. Like, wow! The stuff I wanted to do today branch off into different tomorrows!"
+夏夏 : "我觉得真的很神奇，感觉就像是明天分裂了一样！"
+
+白縫
+白縫 : 「ああ……可能性のこと」
+Shiranui : "Ah... You're talking about future %i1possibilities.%id"
+白缝 : "哦……你说可能性啊"
+
+夏夏
+夏夏 : 「可能性！　そうですね！　明日が分裂とかわけわからないですよね、すみません」
+Natsuka : "Yeah, that's the word I was looking for! That makes way more sense than the future branching off or whatever, huh? Sorry about that."
+夏夏 : "可能性！是的！说明天分裂什么的很难懂吧，对不起"
+
+夏夏
+夏夏 : 「でもとにかく、結末を変えたいから、わたしはリルヤさんのために『明日』を見たいんです」
+Natsuka : "But anyway, I want to change the future, so I want to show Lilja-san a vision of tomorrow."
+夏夏 : "不过总而言之，因为我想改变结局，所以我想为了丽露娅小姐看到《明天》"
+
+白縫
+白縫 : 「…………」
+Shiranui : "..."
+白缝 : "…………"
+
+白縫
+白縫 : 「何度も思い出すことがあるわ」
+Shiranui : "There's something I can't stop thinking back on."
+白缝 : "有件事我总是一次又一次地回忆起来"
+
+白縫
+白縫 : 「そのために、何度も同じことをくり返している」
+Shiranui : "And because it keeps sticking in my mind, I keep doing the same thing over and over again."
+白缝 : "为此，我把做过的事又重复做了一次又一次"
+
+白縫
+白縫 : 「彼女が抜け出した同じ道を歩いて、何度も同じ風景を見ている」
+Shiranui : "I keep going back along the path she took to escape, looking at the same view she saw."
+白缝 : "我走在她所逃离的相同的路上，一次又一次地看着这相同的风景"
+
+白縫
+白縫 : 「でも、私には見えない。何も――見えない」
+Shiranui : "But I can't see anything in it. I can't see anything at all."
+白缝 : "但是，我看不见。什么都——看不见"
+
+白縫
+白縫 : 「私は知りたい。どうしても知りたい。この場所にいたる前……あの場所で笑った、あの子のことを。あのとき、あの子が何を見たのか――」
+Shiranui : "I want to know... I need to know how she came to be the person she was. The person who smiled in such a place... and what she saw..."
+白缝 : "我想知道。无论如何都想知道。在到达今天这个地步之前……在那个地方欢笑着的，她的事情。当时，她到底看到了什么——"
+
+白縫
+白縫 : 「私は……彼女が見たものが見たい」
+Shiranui : "I... I want to see it for myself."
+白缝 : "我想……看到她所看到的东西"
+
+夏夏
+夏夏 : 「白縫……さん？」
+Natsuka : "Shiranui-san...?"
+夏夏 : "白缝……小姐？"
+
+白縫
+白縫 : 「……っ」
+Shiranui : "..."
+白缝 : "……！"
+
+白縫
+白縫 : 「また喋りすぎてしまったわね……」
+Shiranui : "I've said too much again."
+白缝 : "我又说多了……"
+
+夏夏
+夏夏 : 「いえ！　むしろ、いっぱい話してくださって嬉しかったです。ありがとうございます」
+Natsuka : "It's fine! Actually, I'm glad you felt like you could say that much to me. Thank you."
+夏夏 : "没有！不如说，您能说这么多我很开心。谢谢您"
+
+白縫
+白縫 : 「こんな年になってもべらべらと喋って、自己嫌悪ばかりだわ……だから、話すのは嫌なのよ」
+Shiranui : "I can't stand that, even at my age, I still haven't learned not to blabber on like that... This is why I hate talking so much."
+白缝 : "都一把年纪了还这么唠唠叨叨的，真的很厌恶这样的自己……所以我很讨厌说话"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「哀しみはいつでも出口を探している。水のように水路を求めている」
+Natsuka : "Sadness will always try to find a way out. It's like water looking for a channel to escape."
+夏夏 : "悲伤总是会寻找着出口。就像水会去寻找河道一样"
+
+夏夏
+夏夏 : 「って、以前、本で読んだことがあります。だから、白縫さんにとっての水路になれて嬉しいです」
+Natsuka : "Uhh, that's just something I read in a book before. I'm just glad that I could be a channel for you, Shiranui-san."
+夏夏 : "这句话，我以前在书上读到过。所以，如果我能够成为白缝小姐的河道的话，我会很开心的"
+
+白縫
+白縫 : 「あなたって……」
+Shiranui : "You..."
+白缝 : "你啊……"
+
+白縫
+白縫 : 「ほんと……お馬鹿さんね」
+Shiranui : "You really are... quite the dimwit, aren't you?"
+白缝 : "真的是……大笨蛋啊"
+
+夏夏
+夏夏 : 「やっぱり、リルヤさんのお祖母様と似てますか？」
+Natsuka : "So I remind you of Lilja-san's grandmother then?"
+夏夏 : "果然我跟丽露娅小姐的外婆很像吗？"
+
+白縫
+白縫 : 「いいえ、全然似てないわ。あの子は、いつでもとんでもないことばかりしていたけど、頭が良くて……その分だけ臆病だった」
+Shiranui : "Not in the slightest. She would always do the most ridiculous things, but she had a good head on her shoulders. Enough to hold her back on occasion."
+白缝 : "不，完全不像。虽然她总是做着非常夸张的事情，但是她很聪明……也因此很胆小"
+
+白縫
+白縫 : 「あなたみたいに、本で読んだ言葉をそのまま使って、なんのてらいもなく、水路になれて嬉しいなんていえる子じゃなかったわ」
+Shiranui : "She wasn't the kind of woman who could parrot a book she'd read verbatim and say something like, 'I'm glad I could be your channel' without a shred of shame, like a certain someone."
+白缝 : "她不会像你一样把从书上读到的话直接拿来用，更不会不加修饰地跟我说，能成为你的河道很开心这样的话"
+
+白縫
+白縫 : （そして、それは私も同じだったけれど……）
+Shiranui : (Though I suppose I'm like the pot calling the kettle black, aren't I...?)
+白缝 : （而且，在这点上我也是一样的……）
+
+夏夏
+夏夏 : 「えへへ、だったらわたしはお馬鹿さんでよかったです！」
+Natsuka : "Hehe. Well, then I'm glad I'm such a dimwit after all, then!"
+夏夏 : "哎嘿嘿，那样的话还好我是个大笨蛋呢！"
+
+白縫
+白縫 : 「ふふ……そうね」
+Shiranui : "Heh... Yes. As am I."
+白缝 : "呵呵……也是"
+
+白縫
+白縫 : （あなたがリルヤの心をひらいたのが、わかる気がするわ。まるで似てないからこそ……できることがあるのね）
+Shiranui : (I feel like I can understand how you managed to open Lilja's heart. Perhaps it is because you are so unlike her... that you are able to do that.)
+白缝 : （我感觉我知道为什么你能打开丽露娅的心房了。正因为你完全不像她……所以有些事只有你才能做得到吧）
+
+白縫
+白縫 : 「さて、話はこれで終わりよ」
+Shiranui : "Well, I've said all I have to say."
+白缝 : "那我就说到这吧"
+
+夏夏
+夏夏 : 「たくさん話してくれてありがとうございます！　おかげで、次にすることも決まりました」
+Natsuka : "Thank you so much for telling me all that! I know what I'm gonna do next now!"
+夏夏 : "谢谢您跟我说这么多！多亏有您的帮助，我才能确定接下来该做的事"
+
+白縫
+白縫 : 「そう、それなら私の役割もこれで終わりね」
+Shiranui : "I see. Then I take it my role is over now."
+白缝 : "这样啊，那我的任务也结束了吧"
+
+夏夏
+夏夏 : 「いいえ！」
+Natsuka : "Not at all!"
+夏夏 : "没有！"
+
+白縫
+白縫 : 「え？」
+Shiranui : "Huh?"
+白缝 : "哎？"
+
+夏夏
+夏夏 : 「いきましょう、白縫さん」
+Natsuka : "Let's go, Shiranui-san!"
+夏夏 : "我们走吧，白缝小姐"
+
+夏夏
+夏夏 : 「連れていってください、わたしを」
+Natsuka : "I want you to take me there!"
+夏夏 : "带我一起去看看吧"
+
+夏夏
+夏夏 : 「わたしも、見たいです。ゆりさんが見た光景を！」
+Natsuka : "I want to see what Yuri-san saw too! Let's go together!"
+夏夏 : "我也想看到，百合小姐所看到过的景色！"
+

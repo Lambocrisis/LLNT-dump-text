@@ -1,0 +1,510 @@
+リルヤ
+リルヤ : 「面白い依頼が来たからな」
+Lilja : "It's a rather interesting one."
+丽露娅 : "来了个有意思的委托啊"
+
+夏夏
+夏夏 : 「リルヤさんが面白いっていうなんて、それは相当すごい依頼ですね？」
+Natsuka : "If %i1you%id think it's an interesting request, then it must be really amazing."
+夏夏 : "能让丽露娅小姐觉得有趣，那肯定是很厉害的委托吧？"
+
+リルヤ
+リルヤ : 「死者からの依頼だからな」
+Lilja : "It's a request from the dead."
+丽露娅 : "毕竟是来自死人的委托啊"
+
+夏夏
+夏夏 : 「死者！？」
+Natsuka : "The dead!?"
+夏夏 : "死人！？"
+
+夏夏
+夏夏 : 「死者さんから、どうやってメールが？」
+Natsuka : "How did a dead person send you an email?"
+夏夏 : "死人是怎么发邮件的啊？"
+
+夏夏
+夏夏 : 「……はっ！？　まさか、スマートスピーカーさんが、夜中に突然、おどろおどろしいメールの到着を知らせた……とかですか！？」
+Natsuka : "Oh! Don't tell me your smart speakers suddenly came to life in the middle of the night and gave you the email notification in a spooky voice...!?"
+夏夏 : "……哈！？　难道说，是智能音箱在晚上突然通知有非常可怕的邮件送来了……这样的吗！？"
+
+夏夏
+夏夏 : 「それとも深夜の真っ暗な部屋のなか、浮かびあがった文字がおどろおどろしかったとか！？　黒い紙に血のように赤いインクで、とか！？」
+Natsuka : "Or did a scary letter suddenly float in through the window in the middle of the night!? Like, with red ink like blood on black paper!?"
+夏夏 : "还是说，是在深夜的漆黑房间里，浮现出相当可怕的文字吗！？　在黑色纸张上以血一样通红的墨水，什么的！？"
+
+リルヤ
+リルヤ : 「合理的に考えるまでもなく、依頼はメールだから紙は存在しない。そもそも私はそれを見ることができないだろう？」
+Lilja : "You're not using your brain. My requests come by email, so naturally there wasn't any paper involved. Even if there was, I wouldn't be able to see it nor read it."
+丽露娅 : "都不需要用合理性思考，是通过邮件委托的所以不存在纸张。而且你觉得我能看到所谓的黑色纸张吗？"
+
+夏夏
+夏夏 : 「た、確かにそうでした！　失礼しました！」
+Natsuka : "N-Now that you mention it... I'm sorry!"
+夏夏 : "确、确实如此！　我冒犯了！"
+
+夏夏
+夏夏 : （リルヤさんが目が見えないこと、ついうっかり忘れちゃうんですよね……あんまりにも自然に視線も合いますし……）
+Natsuka : (Sometimes I completely forget that Lilja-san is blind... She always seems to be following me with her gaze.)
+夏夏 : （我总是会不小心忘掉丽露娅小姐眼睛看不见这件事呢……平时很自然就对上眼了……）
+
+夏夏
+夏夏 : （――リルヤさんは自分の目が見えない事実について、なかったことにされる方が嫌だから、だからわたしが忘れたことを気にしてない）
+Natsuka : (She doesn't like it when people try to pretend her blindness doesn't exist, which is why she doesn't mind when I really %i1do%id forget.)
+夏夏 : （——丽露娅小姐不喜欢别人忘记她双目失明这一事实，所以我一般不会在意会忘掉这一点）
+
+夏夏
+夏夏 : （それはわたしにもわかっています。でも、気にしないことと無神経なことは違いますから、気をつけたいですね……反省！）
+Natsuka : (I know that, but there's a difference between her not minding and me acting insensitively, so I have to be more careful!)
+夏夏 : （这我也明白。但是，不在意和神经大条是不一样的，以后得注意一下啊……反省！）
+
+リルヤ
+リルヤ : 「反省会は終わったか？」
+Lilja : "Are you done reflecting on your error?"
+丽露娅 : "反省会开完了吗？"
+
+夏夏
+夏夏 : 「何もかもお見通しですね！？」
+Natsuka : "Can you read my mind!?"
+夏夏 : "都被您看穿了呢！？"
+
+リルヤ
+リルヤ : 「お前のある種の無神経さや鈍感さは、私の望むところだからな。腫れ物に触るようにされる方が、疲れる」
+Lilja : "Your thickheadedness and insensitivity are part of why I hired you. It gets tiring when people walk on eggshells around me all day long."
+丽露娅 : "我所需要的，就是你这种神经大条和迟钝的人。整天绷紧神经实在是太累人了"
+
+夏夏
+夏夏 : 「でも、そんなリルヤさんのご厚意に甘えすぎるのも良くないので、気をつけすぎない程度に気をつけます！」
+Natsuka : "But it doesn't feel right to take advantage of your kindness like that, so I'll try harder to be more careful."
+夏夏 : "但是，总是接受丽露娅小姐的好意也有点过意不去，以后我尽量在不过度注意的基础上注意一下！"
+
+リルヤ
+リルヤ : 「お前がそうしたいのならば、それでかまわない」
+Lilja : "If that's what you want, then that's fine."
+丽露娅 : "你打算这样的话，我无所谓"
+
+夏夏
+夏夏 : 「はい！　……ところで死者さんからのメールは、リルヤさん的にはありなんですか？　それこそ非合理なんじゃないですか？」
+Natsuka : "Okay! Anyway, do you really think it's possible for a dead person to send you an email? Isn't that irrational?"
+夏夏 : "好的！　……说起来，在丽露娅小姐看来，死者有可能发邮件来吗？　那不是不合理的吗？"
+
+リルヤ
+リルヤ : 「生者に接触してくる死者の存在について、いないという証明はされてないからな。逆にいないと断定する方が非合理的だろう」
+Lilja : "There's no scientific evidence that the dead %i1haven't%id contacted the living. It would be irrational to assert that it's impossible."
+丽露娅 : "因为死者不会生者接触一事并未被证明啊。要说这不存在才更不合理吧"
+
+夏夏
+夏夏 : 「だとしたら、死者……というか、この世に幽霊はいるかもしれないって、リルヤさんは考えているんですか？」
+Natsuka : "So, you think there's dead people... I mean, ghosts, among us in this world?"
+夏夏 : "那要这么说，丽露娅小姐你是想说……这个世界上存在死者，也就是幽灵吗？"
+
+リルヤ
+リルヤ : 「可能性をゼロにはできない」
+Lilja : "The probability isn't zero."
+丽露娅 : "不是完全没有可能"
+
+夏夏
+夏夏 : 「そうなんですねえ……」
+Natsuka : "I see..."
+夏夏 : "是这样啊……"
+
+リルヤ
+リルヤ : 「メールの内容は短いものだった。物語の引用と、依頼の内容、住所、そして名前」
+Lilja : "The email only contained a short message. It had a quote from a short story, a description of the request, an address, and a name."
+丽露娅 : "邮件很短。故事的引用，委托的内容，住址以及名字"
+
+リルヤ
+リルヤ : 「“死によって完成される恋を、墓の中でも死ぬことのない恋を”『わたしたち』の絵を描いて欲しい」
+Lilja : "%i1'She sang of the Love that is perfected by Death, of the Love that dies not in the tomb.' I want you to paint a portrait of us.%id"
+丽露娅 : "‘她歌唱因死亡而变得更完美的爱，歌唱着在坟墓中也不会死去的爱〟希望能画出 ‘我们’ 的画"
+
+夏夏
+夏夏 : 「死によって完成される恋……」
+Natsuka : "Love that is perfected by death..."
+夏夏 : "因死亡而变得更完美的爱……"
+
+リルヤ
+リルヤ : 「ナイチンゲールと薔薇の一節だな」
+Lilja : "It's a quote from %i1The Nightingale and the Rose%id."
+丽露娅 : "夜莺与玫瑰中的一段呢"
+
+夏夏
+夏夏 : 「あのかなしいお話ですか」
+Natsuka : "It's a sad story, isn't it?"
+夏夏 : "那个很悲伤的故事吗"
+
+リルヤ
+リルヤ : 「知っているんだな」
+Lilja : "You know it?"
+丽露娅 : "你知道啊"
+
+夏夏
+夏夏 : 「はい。姉に読み聞かせていたので。ナイチンゲールが、片思いの男性の恋を叶えるために、自らの胸を突いた血で薔薇を赤く染める……」
+Natsuka : "I do. I read it to my sister. The nightingale is in love with a man, but he's in love with another woman. So the nightingale dyes a rose red with her heart's blood for the man to give to his love..."
+夏夏 : "是的。姐姐读给我听过。夜莺为了正在单相思的男性的恋爱能实现，将自己的胸口刺穿把玫瑰染红……"
+
+夏夏
+夏夏 : 「でも、そのナイチンゲールの命をかけて染められた薔薇は、片思いの相手にすげなく断られた男性自身によって、道ばたに捨てられ馬車に踏み潰される……」
+Natsuka : "But his love goes unrequited, and the rose, dyed red with the nightingale's life, is discarded in the gutter and crushed underneath the wheels of a carriage."
+夏夏 : "但是，那支用夜莺的生命染红的玫瑰，被告白失败的男性亲手扔到了路边，碾压在马车之下……"
+
+リルヤ
+リルヤ : 「神の愛だな。神は死にて人の罪を贖い、死後も人々にあまねく愛を注いでいるが、その愛は常に道ばたに捨てられる程度のものだ」
+Lilja : "It's like God's love... The son of God died to atone for man's sins and extends his love to everyone, only for that love to be thrown away and trampled upon by the roadside."
+丽露娅 : "就是上帝的爱情啊。尽管上帝在临终之时饶恕了人们的罪孽，连死后也毫无条件地爱着所有人，但这份爱总是会被人丢在角落里"
+
+夏夏
+夏夏 : 「かみさまの愛……」
+Natsuka : "God's love..."
+夏夏 : "神明的爱……"
+
+夏夏
+夏夏 : 「リルヤさんはかみさまを信じてるんですか？」
+Natsuka : "Do you believe in God, Lilja-san?"
+夏夏 : "丽露娅小姐信上帝吗？"
+
+リルヤ
+リルヤ : 「私は無神論者だ」
+Lilja : "I'm an atheist."
+丽露娅 : "我是无神论者"
+
+夏夏
+夏夏 : 「死者さんからのメールは信じても、ですか？」
+Natsuka : "Even though you believe in emails from ghosts?"
+夏夏 : "但是相信来自死者的邮件，吗？"
+
+リルヤ
+リルヤ : 「そうだ。神が仮に存在するとしても、私はその存在を信じない。ただそれだけのことだ。これは、私の自由意思の問題だ」
+Lilja : "Yes. Even if God does exist, I don't believe in him, that's all. It's my free will."
+丽露娅 : "是的。假设神明真的存在，我也不会相信它的存在。仅此而已，这与我的自由意志相关"
+
+夏夏
+夏夏 : 「意思、ですか」
+Natsuka : "Free will...?"
+夏夏 : "意志吗？"
+
+リルヤ
+リルヤ : 「神は理解とも、理性とも、感性とも離れたところにのみ存在する。超越的であり、非合理の極北とも言える」
+Lilja : "The existence of God would transcend any understanding, reason, and sensibility. It's the pinnacle of irrationality."
+丽露娅 : "上帝，是超脱理解，理性和感性的。它是超越一切的，也可以说是极端不合理的"
+
+リルヤ
+リルヤ : 「故に、不合理ゆえにわれ信じず、だ。しかし同時にこの意思決定は、私の合理性からかけ離れている」
+Lilja : "%i1Credo quia absurdum.%id People believe because it is absurd. However, that would go against my principle of rationality."
+丽露娅 : "因此，因为荒谬，所以不相信。但是同时，这个决策，过于偏离我的合理性"
+
+リルヤ
+リルヤ : 「合理的意思決定を第一義とする私の、唯一の情緒的意思決定かもしれないな」
+Lilja : "Perhaps this is the only emotional decision I'll ever make, given my usual focus on rational decision-making."
+丽露娅 : "这可能是以合理性决策为优先的我的唯一一个情绪化决策吧"
+
+リルヤ
+リルヤ : 「お前は神を信じるのか？」
+Lilja : "How about you? Do you believe in God?"
+丽露娅 : "你信上帝吗？"
+
+夏夏
+夏夏 : 「そうですねえ」
+Natsuka : "I'm not sure..."
+夏夏 : "我想想啊"
+
+夏夏
+夏夏 : 「今なら、かみさまにすがりたい気持ちには共感しますね」
+Natsuka : "I get why people %i1want%id to cling on to their belief in a god."
+夏夏 : "现在的话，我能明白为什么会想求神了呢"
+
+夏夏
+夏夏 : 「もし自分の力ではどうしようもないことが目の前にあったとして……」
+Natsuka : "If I saw someone who was in danger, and I found myself powerless to do anything to help them..."
+夏夏 : "要是自己眼前发生了自己无力扭转结果的事情……"
+
+夏夏
+夏夏 : 「そうしたら、わたしはどうなってもいいから、かみさまどうかあのひとを助けてくださいって――そんな風に祈っちゃうかもしれません」
+Natsuka : "Then I might pray to God to please save that person. I don't care what happens to %i1me%id, but I'd want that person to be saved."
+夏夏 : "这样的话，就会向上帝祈求，自己怎样都好，希望拯救面前的人"
+
+夏夏
+夏夏 : 「でも、相手がそんなことを望んでなかったら……」
+Natsuka : "But what if that person doesn't want to be saved...?"
+夏夏 : "但是，要是那个人并不希望我拯救的话……"
+
+夏夏
+夏夏 : 「わたしがそれを望むのは違う気もしますし……難しいですよね」
+Natsuka : "In that case, it'd be wrong for me to pray for them... It's really complicated, isn't it?"
+夏夏 : "那我这样祈求也不太对……真困难呢"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 「――っとすみません、なんか自分のなかに入っちゃいました」
+Natsuka : "Oh, I'm sorry. I kinda got lost in thought there."
+夏夏 : "——哎呀不好意思，又想入迷了"
+
+リルヤ
+リルヤ : 「いや、かまわんよ」
+Lilja : "It's all right."
+丽露娅 : "没事，无所谓的"
+
+夏夏
+夏夏 : 「とにかく、そんなどうしようもないときに祈る相手は、願いを叶えてくれそうなすごい存在がいいなって思います！」
+Natsuka : "Anyway, I think it's nice to have someone to pray to when you find yourself feeling helpless, and it'd be nicer if they could make your prayers come true!"
+夏夏 : "反正，在那种无可奈何的情况下祈求的对象，最好是那种能实现自己愿望的厉害存在就好！"
+
+リルヤ
+リルヤ : 「自分ではどうにもならない事象に対して、外に救いを求める感情を、私は否定しないよ」
+Lilja : "I understand the feeling of wanting to seek help when faced with events beyond your control."
+丽露娅 : "面对自己无可奈何的事情，希冀于外力的拯救，这一感情我不否定"
+
+夏夏
+夏夏 : （でも、リルヤさんは、外に救いを求めなかったんですね……わかんないけれど、きっとそんな気がします）
+Natsuka : (But Lilja-san didn't seek any help herself... I don't %i1know%id that, but I can %i1feel%id it.)
+夏夏 : （但是，丽露娅小姐并没有向外界寻求帮助呢……我不是很明白，但肯定是这样的）
+
+夏夏
+夏夏 : （それにしても死者さんのメールですか……）
+Natsuka : (Anyway, a message from a ghost sure is something else...)
+夏夏 : （说起来，来自死者的邮件吗……）
+
+夏夏
+夏夏 : 「そういえば、どうして死者さんからのメールだってわかったんですか？　わたしは死者である～って書いてあったわけじゃないですもんね？」
+Natsuka : "I'm just wondering, how did you know the email came from a ghost? They didn't say they were dead in the email, did they?"
+夏夏 : "说起来，为什么你知道是从死者发来的邮件呢？　总不可能写着‘我是死人～’吧？"
+
+リルヤ
+リルヤ : 「メールにあった[くずみ,1]久住[よしの,1]善乃という名前に覚えがあった」
+Lilja : "The name sounded familiar: Kuzumi Yoshino."
+丽露娅 : "邮件上的署名，久住善乃这个名字比较眼熟"
+
+夏夏
+夏夏 : 「お知り合いですか？」
+Natsuka : "Is that someone you know?"
+夏夏 : "是熟人吗？"
+
+リルヤ
+リルヤ : 「いや、お前も目にしたことがあるぞ」
+Lilja : "No, but you've seen that name before."
+丽露娅 : "不，你应该也见过"
+
+夏夏
+夏夏 : 「えっそうなんですか？」
+Natsuka : "Huh? Really?"
+夏夏 : "咦是这样的吗？"
+
+リルヤ
+リルヤ : 「ああ。私は毎日、新聞の記事をアプリに読みあげさせる。お前に読ませるときもあるがな」
+Lilja : "Yes. You know that I read the newspaper every day via a text-to-speech app, don't you? Sometimes I ask you to read it for me, too."
+丽露娅 : "是啊。我每天都会用应用听报纸的内容。有时候还会让你给我读呢"
+
+夏夏
+夏夏 : 「そうですね！　たくさんの新聞記事をいっぺんに聴くのを見たときは驚きましたね～」
+Natsuka : "Yeah, that's right! I was surprised at how you could listen to multiple articles at the same time."
+夏夏 : "是呢！　看到您一口气听那么多新闻真是吓了一跳呢～"
+
+夏夏
+夏夏 : 「十人の話を一度に聴いて理解できた聖徳太子って、きっとこんな感じだったんだろうなって！」
+Natsuka : "You're like the Prince Shotoku of legend! It's said he was able to listen to ten people at the same time and understand everything they said!"
+夏夏 : "能同时理解十个人的话的圣德太子，肯定也是这样的吧！"
+
+夏夏
+夏夏 : 「あ、じゃあ、その新聞記事に名前が……？」
+Natsuka : "Anyway, so that name was in the newspaper...?"
+夏夏 : "啊，那，这名字出现在新闻里了……？"
+
+リルヤ
+リルヤ : 「そうだ。６月３日に交通事故で重態になった女性の名前だった。同姓同名の可能性もあるから、調べてみた」
+Lilja : "Indeed. It's the name of a woman who was critically injured in a traffic accident on June third. I looked her up to rule out the possibility that the request had come from a different person with the same name."
+丽露娅 : "对的。是6月3日遭遇交通事故身受重伤的女性名字。由于可能是同性同名，所以我调查了一下"
+
+夏夏
+夏夏 : 「調べたら、亡くなっていたんですね」
+Natsuka : "And when you looked her up, you discovered that she'd passed away?"
+夏夏 : "调查结果，是那名女性去世了啊"
+
+リルヤ
+リルヤ : 「ああ。だから、死者からのメールだ」
+Lilja : "Yes. That's why this is a message from the dead."
+丽露娅 : "没错。所以说是来自死者的邮件"
+
+リルヤ
+リルヤ : 「メールに記されていた住所には別荘が建っていた」
+Lilja : "The address in the email is that of a luxury villa."
+丽露娅 : "邮件里记载的住址上建了一幢别墅"
+
+夏夏
+夏夏 : 「あっ見たいです！　見れますよね？」
+Natsuka : "Oh, I wanna see! Can I see it?"
+夏夏 : "啊我想看看！　能看的吧？"
+
+リルヤ
+リルヤ : 「そこにマップを表示してあるから見るといい」
+Lilja : "I placed a pin there on the navigation app. Here, you can look."
+丽露娅 : "你看吧，我已经在地图上标好了"
+
+夏夏
+夏夏 : 「これですね？　おおー……！　めちゃくちゃ山の中ですが、すごく立派な別荘ですね。映画に出てくる西洋館みたいです！」
+Natsuka : "This one, right? Ohh...! It's really deep in the mountains, but it's a really fancy villa. It's like one of those European mansions you see in movies!"
+夏夏 : "是这里吧？　哦哦……！　深山老林里，有这么气派的别墅啊。就像是电影里会出现的洋馆一样！"
+
+リルヤ
+リルヤ : 「詳しい話を聞くためにこちらからもメールを送ったが、返事はなかった」
+Lilja : "I sent a reply asking for more information, but they haven't responded."
+丽露娅 : "我有发邮件询问详细情况，但对方并没有回复"
+
+夏夏
+夏夏 : 「気になることがいっぱいですね……」
+Natsuka : "I have so many questions about this request..."
+夏夏 : "令人在意的事情有好多呢……"
+
+リルヤ
+リルヤ : 「ふむ。お前が現時点で気になることを、言ってみろ」
+Lilja : "Hmm, what do you want to ask? Tell me."
+丽露娅 : "嗯。说说你现在在意的事情吧"
+
+夏夏
+夏夏 : 「はい！　まずは死者さんからのメールですね。どうして亡くなった方からメールが来たんでしょう？」
+Natsuka : "Okay! First of all, why did we get an email from a ghost?"
+夏夏 : "好的！　首先是来自死者的邮件呢。为什么会有死者发来邮件呢？"
+
+夏夏
+夏夏 : 「もし、亡くなっている方の名前を騙っているなら、誰が、何故その名前を騙ったんでしょう？」
+Natsuka : "If it's someone else using the name of the dead, who is it, and why are they using that name?"
+夏夏 : "如果是假借死者名义的行为，那么是谁，为什么这样做呢？"
+
+夏夏
+夏夏 : 「それと依頼の内容ですね。『わたしたち』の絵を描いて欲しい。そのわたしたちって誰のことなんでしょう？」
+Natsuka : "Next, about the request itself. It said they wanted you to 'paint us,' but who is 'us'?"
+夏夏 : "还有委托的内容。说是希望画‘我们’的画。那么所谓的‘我们’是指哪些人呢？"
+
+夏夏
+夏夏 : 「ああ～めちゃくちゃ気になります！」
+Natsuka : "Ahhh, I'm so curious!"
+夏夏 : "哎～好在意啊！"
+
+夏夏
+夏夏 : 「もう、いますぐにでも出かけたいです。リルヤさんの目と足になるだけじゃなくて、わたし自身が気になって気になってしかたないです！」
+Natsuka : "I can't wait to go out and investigate! Not just to act as your eyes and legs, Lilja-san, but also to satisfy my own curiosity!"
+夏夏 : "我真想马上出去一趟。不是作为丽露娅小姐的双眼和双腿，而是想满足我本人的求知欲！"
+
+リルヤ
+リルヤ : 「なるほど。それが死者の名前を騙った理由かもしれないな」
+Lilja : "I see. Perhaps this is why the client used the name of someone who died."
+丽露娅 : "原来如此。可能这就是以死者名义发来委托的理由吧"
+
+夏夏
+夏夏 : 「えっ気になっちゃうことがですか？」
+Natsuka : "Huh? You mean to pique our curiosity?"
+夏夏 : "咦，是说令人在意吗？"
+
+リルヤ
+リルヤ : 「ああ。たとえばだが、メール越しではなく、直接、話をしたいのかもしれない。だから、こちらの好奇心を煽るようなメールを出してきた」
+Lilja : "Exactly. For example, maybe they wanted to talk in person instead of via email. That could be why they sent such a mysterious email."
+丽露娅 : "没错。举个例子，说不定委托人不想通过邮件，而想直接面谈。所以为了煽动我们的好奇心，发送了这样一则邮件"
+
+夏夏
+夏夏 : 「な、なるほどー！　だとしたらわたしは完全に相手の術中にはまっちゃってるってことですね！？」
+Natsuka : "O-Ohh, that makes sense! In that case, I completely fell into their trap!"
+夏夏 : "原、原来如此！　那我就彻底陷进委托人的圈套里了吧！？"
+
+夏夏
+夏夏 : 「でもどうして、依頼人さんが直接話をしたいのかもって思ったんですか？」
+Natsuka : "But why do you think the client would prefer to talk in person?"
+夏夏 : "但是为什么，您会觉得委托人希望面谈呢？"
+
+リルヤ
+リルヤ : 「直接、話す意図がなければ、住所を記載しないだろう。それこそメールか、電話番号でも書いておけばいい」
+Lilja : "If they didn't want that, they wouldn't have included their physical address. They could have simply written down their email address or phone number."
+丽露娅 : "要是没有面谈的意愿，是不会写下住址的吧。不打算面谈，那就只用留下电话号码"
+
+夏夏
+夏夏 : 「確かに！　そういえば、電話番号はわからなかったんですか？」
+Natsuka : "You're right! We don't know their phone number, do we?"
+夏夏 : "确实！　说起来，丽露娅小姐不知道委托人电话号码吗？"
+
+リルヤ
+リルヤ : 「わかったが、かけてみるか？　確かにかけてみる方が合理的ではある」
+Lilja : "I do, actually. Do you want to try calling them? That would be a logical step."
+丽露娅 : "我知道，你要打去看看吗？　确实应该打过去试试"
+
+夏夏
+夏夏 : 「うーん……そうですねえ、わたしも館にいって、直接話を聞いてみたい気持ちありますね。せっかくというか、もったいないので！」
+Natsuka : "Hmm... I feel like I'd prefer to go over to their villa and talk in person, too. It would be a waste of an opportunity not to!"
+夏夏 : "嗯……是呢，就我而言，还是想去洋馆里面谈呢。很难得，而且我觉得，不去就太可惜了！"
+
+リルヤ
+リルヤ : 「もったいないか？」
+Lilja : "A waste?"
+丽露娅 : "太可惜吗？"
+
+夏夏
+夏夏 : 「はい！　第一印象って大事ですし、なんだかわからないけど、第一印象でピンってくることって、けっこうあるんですよね！」
+Natsuka : "Yeah! First impressions are really important. I don't know why, but sometimes everything suddenly starts making sense when you actually %i1see%id somebody."
+夏夏 : "没错！　第一印象很重要的，而且经常有第一印象产生灵感的情况呢，虽然我不是很懂！"
+
+リルヤ
+リルヤ : 「お前の直感には期待している」
+Lilja : "I trust your intuition."
+丽露娅 : "期待你的直觉"
+
+夏夏
+夏夏 : 「えへへ、そういってもらえれば何よりです！　だから、ここは、夏夏にどーんっとおまかせください！　って胸を張って言いますね！」
+Natsuka : "Hehehe, I'm glad to hear it! In that case, I can say this with confidence: please leave it all to Natsuka!"
+夏夏 : "嘿嘿，您能这么说我很开心！　所以这里就交给夏夏吧！　终于能挺着胸膛说这话了呢！"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "I will."
+丽露娅 : "是啊"
+
+リルヤ
+リルヤ : 「今週の依頼のメールは今のところ４５通だ。そのなかで、唯一、私の興味を惹いたのがこの死者からのメールだった」
+Lilja : "I've received 45 emails this week thus far. Out of those, the only one that caught my interest is this one, which appears to have come from a ghost."
+丽露娅 : "这周的委托截止到现在一共45件。其中唯一一件让我提起兴趣的，是这则来自死者的邮件"
+
+リルヤ
+リルヤ : 「死者を名乗るのは、なかなかうまい方法だといえるのではないか？」
+Lilja : "Their methods are rather effective, wouldn't you say?"
+丽露娅 : "自称死者的做法还是相当高明的"
+
+夏夏
+夏夏 : 「そうですね。わたしも気になってしょーがないですし！　あと、それよりも何よりも――」
+Natsuka : "Yeah, you're right! I'm really curious about it myself! Also, I gotta wonder..."
+夏夏 : "是啊。我真的是特别在意呢！　还有，更让我在意的是——"
+
+夏夏
+夏夏 : 「死んだ方の名前を依頼人にするなんて、よほどのことなんだろうなって、思うんです」
+Natsuka : "The client must have had a really good reason to use the name of the dead in their request."
+夏夏 : "我觉得，以死者的名义发来委托，应该是件相当重要的事情吧"
+
+夏夏
+夏夏 : 「死んだ方って、ずっと心に残っちゃうものなので。それが、善乃さんのように若い方ならなおさらです」
+Natsuka : "People may pass away, but they stay within our hearts forever. Especially when it's a young person like this Yoshino-san."
+夏夏 : "死者会一直存留于生者内心里。而且如果是像善乃小姐一样的年轻人，就更是如此"
+
+夏夏
+夏夏 : 「死者さんの名前を使って依頼をしてきた誰か……どんな理由でも、リルヤさんの絵が力になってくれればいいなあって」
+Natsuka : "No matter the reason, this client, whoever they are, is clearly reaching out. So I hope that your painting can help them."
+夏夏 : "是谁以死者的名义委托我们的……不管怎样的理由，要是丽露娅小姐的画能带来效果就好了"
+
+夏夏
+夏夏 : 「何か悩んで、苦しんで、そしてメールをしてきたのかもしれない。でなければ、あんな引用をメールにつけたりしない気がするんです」
+Natsuka : "Maybe they sent the email because they were suffering or struggling with something. I don't think people would use quotes like that in an email otherwise."
+夏夏 : "委托人应该是为某事烦恼，为某事痛苦，因此给我们发了邮件。不然是不会引用那个故事的"
+
+夏夏
+夏夏 : 「そんな依頼人さんに、リルヤさんの絵はきっと力になります。そしてなによりもわたしが、リルヤさんの描く新しい絵を見たいんです！」
+Natsuka : "I'm sure your painting will be a great source of comfort for the client, and more than anything, I'd love to see your new painting as well!"
+夏夏 : "丽露娅小姐的画肯定能给这样的委托人助力。而且更重要的是，我想看丽露娅小姐画的新画！"
+
+リルヤ
+リルヤ : 「ああ、お前はわたしの新しい目と足。お前の望むままに、何かを見て、何かを感じて、そして私に語ると良い」
+Lilja : "Right. As my eyes and legs, you may go wherever you wish. And when you do, tell me what you saw and felt."
+丽露娅 : "嗯，你是我崭新的双眼和双腿。你就遵循内心，将自己所见之物，所感之物告诉我即可"
+
+夏夏
+夏夏 : 「はい！　わたし、依頼人さんのところに行きます！　そして、色々なものを見ます、話を聞いてきます！！」
+Natsuka : "Okay! I think I'll go visit the client! I'll see what's up and ask all of my questions!!"
+夏夏 : "好的！　我现在就去委托人那里！　然后去看各种各样的东西，去听听委托人讲述的事！！"
+

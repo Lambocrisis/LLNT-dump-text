@@ -1,0 +1,140 @@
+夏夏
+夏夏 : 「――はっ」
+Natsuka : "...Oh!"
+夏夏 : "呼——"
+
+夏夏
+夏夏 : 「バイトから帰ってきて、布団乾燥機で乾かしたお布団が、あんまり気持ちよくて眠ってしまいました……」
+Natsuka : "My freshly aired-out futon felt so good after I came home from work, I must've fallen right asleep..."
+夏夏 : "做完兼职回到家后，躺在用被褥烘干机烘干过的被褥上，实在是太舒服了，一不小心就睡着了……"
+
+夏夏
+夏夏 : 「は～……やっと日常が戻ってきた感じがします」
+Natsuka : "Fwahh... Well, it's finally starting to feel like things are going back to normal."
+夏夏 : "啊～……感觉终于回到日常生活中来了"
+
+夏夏
+夏夏 : 「本当に色々ありましたね……『明日』のこと、白縫さんのこと、リルヤさんのこと、リルヤさんの絵のこと……」
+Natsuka : "So much has happened... Finding a vision of 'tomorrow,' all the stuff with Shiranui-san, all the stuff with Lilja-san, and Lilja-san's paintings..."
+夏夏 : "真是发生了好多事啊……《明天》的事、白缝小姐的事、丽露娅小姐的事、还有丽露娅小姐的画的事……"
+
+夏夏
+夏夏 : 「わたしがよくよくこの絵を見るためにギャラリーに行くもんで、リルヤさんがわたしの部屋に運べっていったときには、嬉しいやら申し訳ないやらでしたが……」
+Natsuka : "I kept going to the gallery to look at this painting, so Lilja-san told me to bring it back to my room. I was really happy, but I also felt kinda bad..."
+夏夏 : "为了能更仔细地观察这幅画我经常跑去画廊，所以丽露娅小姐就让我把它直接搬到我房间里，当时我真不知道是该高兴还是该感到抱歉……"
+
+夏夏
+夏夏 : 「でもいつでも見ることができて、すごく嬉しいです！！」
+Natsuka : "But I get to see it any time I want now, so I'd say happiness won!"
+夏夏 : "但是现在随时都可以看到这幅画了，真是太开心的！！"
+
+夏夏
+夏夏 : 「このリルヤさんが描いてくれた『明日』の絵も、白縫さんの心の準備ができたら、保管庫に送りますから……」
+Natsuka : "This painting Lilja-san made of 'tomorrow' is going to be sent to the storehouse when Shiranui-san's ready for it..."
+夏夏 : "这张丽露娅小姐画的《明天》，等白缝小姐做好心理准备后，就会送到仓库去……"
+
+夏夏
+夏夏 : 「きっとあともうすこしのお付き合いですねえ」
+Natsuka : "So I probably don't have much time left with it, huh?"
+夏夏 : "应该还能再相处一段时间吧"
+
+夏夏
+夏夏 : 「いやあ……」
+Natsuka : "Man..."
+夏夏 : "哎呀……"
+
+夏夏
+夏夏 : 「こうして仰向けでひっくり返っていると、あのときのことを思い出しますねえ……洞窟で見た……さかさまの光景……」
+Natsuka : "Looking at it on my back like this makes me think of the upside-down world I saw in that cave..."
+夏夏 : "这样仰躺着倒过来看的话，就会想起当时的事情呢……在洞穴里看到的……上下颠倒的风景……"
+
+夏夏
+夏夏 : 「あ……あれ？」
+Natsuka : "Huh... What's that?"
+夏夏 : "咦……奇怪？"
+
+夏夏
+夏夏 : （リルヤさんの絵、さかさまから見たら……）
+Natsuka : (If you look at her painting upside-down...)
+夏夏 : （丽露娅小姐的画，如果倒过来看的话……）
+
+夏夏
+夏夏 : 「そっかあ……そうなんですね」
+Natsuka : "Wow... Yeah, that makes sense."
+夏夏 : "这样啊……是这么一回事啊"
+
+夏夏
+夏夏 : 「だからこのタイトルなんですね、リルヤさん」
+Natsuka : "No wonder you gave it that title, Lilja-san..."
+夏夏 : "所以丽露娅小姐才取了这样的名字啊"
+
+夏夏
+夏夏 : 「うん、いつか、白縫さんもこの絵のもう一つの面に気づくといいですね。ううん、きっと気づきますね」
+Natsuka : "Yeah. I hope Shiranui-san gets to see this side of the painting someday, too. In fact, I'm pretty sure she will."
+夏夏 : "嗯，希望有一天，白缝小姐也能够注意到这幅画的另一面。不，她早晚会注意到的吧"
+
+夏夏
+夏夏 : 「わかんないけど、そんな気がするんです」
+Natsuka : "I don't %i1know%id that, but I %i1feel%id like she will."
+夏夏 : "不知道为什么，但我就这样觉得"
+
+None
+None : あなたは知らずにいる。ずっと知らずに生きている。
+None : This has always been within you. It lives within you, even if you're unaware.
+None : 你身处未知，一直都活在未知中。
+
+None
+None : %n;あなたはあなたの、本当の願いに気づかない。
+None : %n;You haven't recognized your true wish.
+None : %n;你没有察觉到，自己真正的愿望。
+
+None
+None : %n;過去においては憎悪と羨望に目が眩み、現在においては罪悪と欲望に目を塞がれ。
+None : %n;Your eyes were clouded with jealousy and hatred in the past. In the present, they are hazy with guilt and greed.
+None : %n;以前，憎恨和艳羡使你的双眼昏眩，现在，罪恶和欲望使你的双眼紧闭。
+
+None
+None : %n;決してあなたはその願いに気づかない。
+None : %n;So you would never realize that wish.
+None : %n;你绝对注意不到那个愿望。
+
+None
+None : %n;それでも、それは確かにそこにある。決して気づかない場所にある。
+None : %n;But it's still there, somewhere you'll never find.
+None : %n;但它确实存在那里。在你绝对不会注意到的地方。
+
+None
+None : %n;憎悪と殺意の奥にひそむ――さかしまの夢。
+None : %n;It's hiding somewhere deep within that hatred and bloodlust... This upside-down dream of yours.
+None : %n;藏在憎恨和杀意深处的——颠倒的梦。
+
+None
+None : ねえ、ゆり。
+None : Hey, Yuri...
+None : 听我说，百合。
+
+None
+None : %n;私、本当は、本当はね……
+None : %n;You know... the truth is...
+None : %n;我啊，其实，其实啊……
+
+None
+None : %n;あの花咲く学校で、あの光さす庭で、あなたの手を握って……
+None : %n;I always wanted to hold your hand. In that flowery school... In the sunstruck garden...
+None : %n;想在那鲜花遍地的校园中，在那日光洒落在的庭院里，握住你的手……
+
+None
+None : %n;あなたとずっと一緒に……
+None : %n;I wanted to be with you forever...
+None : %n;跟你永远在一起……
+
+None
+None : %n;ねえ、ゆり……あなたの夢はなに？
+None : %n;Hey, Yuri... What would be your dream come true?
+None : %n;告诉我吧，百合……你的梦想是什么？
+
+None
+None : %n;それはね、りら……あなたとずっと一緒にいることよ
+None : %n;Well, Lila... I think it'd be if you and I were together forever.
+None : %n;我的梦想啊，莉罗……就是跟你永远在一起啊
+

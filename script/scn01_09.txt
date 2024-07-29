@@ -1,0 +1,120 @@
+夏夏
+夏夏 : 「うーん……」
+Natsuka : "Hrmm..."
+夏夏 : "嗯……"
+
+リルヤ
+リルヤ : 「１分４３秒ぶり、５度目だ」
+Lilja : "That was your fifth one. The last one was a minute and forty-three seconds ago."
+丽露娅 : "这是第五次了，距离上次间隔1分43秒"
+
+夏夏
+夏夏 : 「え？　何がですか？」
+Natsuka : "Huh? My fifth what?"
+夏夏 : "咦？　您是说什么？"
+
+リルヤ
+リルヤ : 「お前が唸るのが」
+Lilja : "Your fifth groan."
+丽露娅 : "你的呻吟"
+
+夏夏
+夏夏 : 「えっ、数えてたんですか？」
+Natsuka : "Wait, don't tell me you've been counting..."
+夏夏 : "啊，还数了次数吗？"
+
+リルヤ
+リルヤ : 「３度目からな。気もそぞろだが、どうせまひるのことだろう」
+Lilja : "I started counting after the third one. I take it that you're feeling restless because you're thinking about Mahiru?"
+丽露娅 : "第三次的时候开始算的。我看你心不在焉的，反正肯定在想真昼吧"
+
+夏夏
+夏夏 : 「はいー……やっぱり、あの台詞が気になってですね」
+Natsuka : "Yes... Something bothers me about what she said."
+夏夏 : "是的……我还是很在意那句话"
+
+リルヤ
+リルヤ : 「『夜が来る』か？　合理的に考えずとも、誤魔化しだろうな」
+Lilja : "About it getting dark? There's no need to give it much thought—it's obvious she was trying to distract us from something."
+丽露娅 : "那句‘夜来了’？　就算不合理思考，也能发现她后面在糊弄你啊"
+
+夏夏
+夏夏 : 「やっぱりそう思いますか！？　わたしが気づいてるくらいですもんね、リルヤさんにはお見通しですよね？」
+Natsuka : "You think so, too!? If I noticed it, then I %i1knew%id you would as well!"
+夏夏 : "您也这么认为吗！？　毕竟我都发现了呢，丽露娅小姐没道理发现不了的吧？"
+
+夏夏
+夏夏 : 「うーん……まひるさんは、なんであんな嘘を吐いたんでしょうね」
+Natsuka : "Hrmm... Why would Mahiru-san lie to us like that?"
+夏夏 : "唔……真昼小姐，为什么要撒那样的谎呢"
+
+リルヤ
+リルヤ : 「目的があるのだろうな。この前まひるを嘘つきだといったが、正確には完全な虚偽ではない」
+Lilja : "She must have a specific reason. I called her a liar the other day, but to be fair, it wasn't a complete lie."
+丽露娅 : "她肯定是有目的吧。之前我也说过真昼满嘴谎言，但其实她并不是一个虚伪的人"
+
+リルヤ
+リルヤ : 「だが、曖昧で、混乱と勘違いを生み出すように、あえて喋っている」
+Lilja : "It would be more accurate to say she's intentionally keeping her statements vague in a way that encourages confusion and misunderstanding."
+丽露娅 : "不过，她总会把话说一半，为了引来混乱与误解，她会故意这样做"
+
+夏夏
+夏夏 : 「リルヤさんは、もう色々なことがわかっているんですねえ……」
+Natsuka : "You've already found out so much, Lilja-san..."
+夏夏 : "看来丽露娅小姐已经明白很多事了呢……"
+
+リルヤ
+リルヤ : 「必要な情報は、既に手に入れている」
+Lilja : "I've already obtained all the necessary information."
+丽露娅 : "我已经得到必要的信息了"
+
+夏夏
+夏夏 : 「でもそれは、わたしに必要のない情報ですよね？」
+Natsuka : "But that's not the information %i1I%id need, is it?"
+夏夏 : "但是那些信息，于我来说是不需要的对吧？"
+
+リルヤ
+リルヤ : 「ああ、そうだ。私がお前に求めることは常にひとつだ」
+Lilja : "Exactly. There's only one thing I want from you right now."
+丽露娅 : "是的。我对你从来只有一个要求"
+
+夏夏
+夏夏 : 「そうですね。もう忘れませんよ。わたしのなすべきこと、したいことは、リルヤさんに『光』をもたらすこと」
+Natsuka : "I know. I could never forget what my true purpose is—it's to bring you 'light.'"
+夏夏 : "是呢。我已经不会忘了。我该做的事，我想做的事，就是为丽露娅小姐带来‘光芒’"
+
+夏夏
+夏夏 : 「そしてそれは、まひるさんの世界をひっくり返す力にもなるんです」
+Natsuka : "That light will turn into a force powerful enough to turn Mahiru-san's world upside down."
+夏夏 : "而这‘光芒’，会颠覆真昼小姐现在的世界"
+
+夏夏
+夏夏 : 「リルヤさんは、わたしを信じています。わたしも、わたしがリルヤさんに『光』をもたらす力を信じます」
+Natsuka : "You believe in me, so I also believe in my power to bring you that light."
+夏夏 : "丽露娅小姐相信我。我也相信我能为您带来‘光芒’"
+
+リルヤ
+リルヤ : 「ああ、それで良い」
+Lilja : "Yes, good."
+丽露娅 : "没错，这样就好"
+
+夏夏
+夏夏 : 「まひるさんは、リルヤさんの絵を欲しがった。依頼人の世界を変えるリルヤさんの絵を」
+Natsuka : "Mahiru-san wants a painting from you—a painting that has the power to change a client's world."
+夏夏 : "真昼小姐想要丽露娅小姐的画。想要能改变委托人世界的画"
+
+夏夏
+夏夏 : 「そして、今の自分の世界をひっくり返して欲しいって言いました」
+Natsuka : "She said she wanted to have her world turned upside down."
+夏夏 : "同时她也说过，希望那幅画能颠覆自己的世界"
+
+夏夏
+夏夏 : 「いつだってそれが一番大切な答だと思うんです」
+Natsuka : "I think that's always the most important answer."
+夏夏 : "无论何时，这都是最为重要的回答"
+
+夏夏
+夏夏 : 「だから、あとは行動あるのみです！　突撃です！　もちろんまひるさんの許可をいただいてからですが！」
+Natsuka : "Now it's my turn to act! I'm gonna charge in! With Mahiru-san's permission, of course!"
+夏夏 : "所以，之后就只剩下行动了！　一鼓作气解决问题！　当然，是在征得真昼小姐的同意之后再开始！"
+

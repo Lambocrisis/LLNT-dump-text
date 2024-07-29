@@ -1,0 +1,385 @@
+まひる
+まひる : 「はー……」
+Mahiru : "Hahh..."
+真昼 : "哈……"
+
+まひる
+まひる : （結局、報酬は絵で受け取れっていわれて、しかもわざわざ部屋にまで持ってこられたし……）
+Mahiru : (In the end, they told me to accept the painting as my reward, and they even delivered it to my room...)
+真昼 : （到头来还是给她们逼着拿画当报酬，而且还特地拿到我房间来了……）
+
+まひる
+まひる : （まだ、見てないけど、ぶっちゃけ、かなり邪魔さね）
+Mahiru : (I haven't even looked at it yet, but it's already getting in the way.)
+真昼 : （画我还没看，不过说真的，挺碍事的）
+
+まひる
+まひる : （このまま、絵を受け取らずに消えてもいいけど……そこまで恩知らずにはなりたくないしね……）
+Mahiru : (I %i1could%id just leave the painting and disappear... But I don't wanna act ungrateful for everything they've done for me...)
+真昼 : （虽然我也可以不收画直接就离开……不过我也不想这么不领情……）
+
+まひる
+まひる : （正直、リルヤを怒らせたのはまずかった。それがわかっているから、こっちも強く出られない）
+Mahiru : (I knew it was terrible of me to make Lilja upset. She knows I wouldn't want to do anything to make things worse.)
+真昼 : （老实说，我不该惹丽露娅生气的。知道了这点，我也没法硬气起来啊）
+
+まひる
+まひる : （でもあたしも、あのとき追い詰められてたんだよ……）
+Mahiru : (But I was driven into a corner... I didn't know what to do...)
+真昼 : （不过那时候我也被逼到绝路了……）
+
+まひる
+まひる : 「…………」
+Mahiru : "..."
+真昼 : "…………"
+
+まひる
+まひる : 「――でっけえ絵」
+Mahiru : "Such a huge canvas."
+真昼 : "——好大的画"
+
+まひる
+まひる : （これだけのものを、あの目の見えないリルヤが描いた……ある意味、あたしのために）
+Mahiru : (Lilja can't even see, yet she painted this... for me...)
+真昼 : （那个盲眼的丽露娅，画了这么大一幅啊……而且某种意义上还是为了我画的画）
+
+まひる
+まひる : （もちろんリルヤ自身のためでもあるのはわかっている。でも……）
+Mahiru : (Of course, she also painted it for herself, but...)
+真昼 : （当然我也明白这也是为了丽露娅自己画的。不过……）
+
+まひる
+まひる : 「は～～～～～～～っ」
+Mahiru : "Hahhhhhhh..."
+真昼 : "哈～～～～～～～"
+
+まひる
+まひる : 「見なくてもいいってあいつは言ったさね！　このまま売ればいい金になるさね！！　別に見ても！　見なくても！　いい！」
+Mahiru : "They said I didn't %i1have%id to look at it if I didn't want it, so I %i1could%id just sell it! It's gotta be worth a pretty penny! Then it won't make a difference whether I look at it or not!"
+真昼 : "那家伙说了不看也没关系吧！　直接拿去卖了能换一笔钱吧！！　不管我看，还是不看，都无所谓！"
+
+まひる
+まひる : 「どっちでも、いい……」
+Mahiru : "It won't... make a difference..."
+真昼 : "都，无所谓……"
+
+まひる
+まひる : 「…………」
+Mahiru : "..."
+真昼 : "…………"
+
+まひる
+まひる : （……苦しい）
+Mahiru : (I can't breathe...)
+真昼 : （……好难受）
+
+まひる
+まひる : （今、胸が苦しいのは、あたしのせいだ。あたしがここにいるのも、出て行くのも、全部、あたしの責任だ。あたしの選択だ）
+Mahiru : (My chest feels so tight. I know it's my own fault. It's my own fault that I'm stuck in this situation, and it's my own choice that I'm going to leave.)
+真昼 : （现在心里这么难过，都怪我。我现在不论是在这里，还是出去，都是我自己的责任。都是我做出的选择）
+
+まひる
+まひる : （でも……）
+Mahiru : (But...)
+真昼 : （但是……）
+
+まひる
+まひる : （リルヤは何を描いたのか、あたしのために、あたしの依頼を、夏夏の手を借りて、どう解釈して、どう表現した？）
+Mahiru : (What did Lilja paint? How did she interpret my request through Natsuka's eyes? How did she express it?)
+真昼 : （丽露娅画了什么，她为了我，在夏夏的帮助下，对我的委托进行了怎样的解释，进行了怎样的表达？）
+
+まひる
+まひる : （あの天才画家が……）
+Mahiru : (She's a genius painter...)
+真昼 : （那个天才画家……）
+
+まひる
+まひる : 「…………」
+Mahiru : "..."
+真昼 : "…………"
+
+まひる
+まひる : （やめろ……やめておけ、見てもきっと碌でもない。きっと後悔しかしない。なのに……どうして……）
+Mahiru : (No... I shouldn't. Nothing good will come out of looking at it. I'm sure I'll regret it. But... why am I so curious...?)
+真昼 : （算了……还是算了吧，看了也没啥好处。看了肯定会后悔……但是……为什么……）
+
+まひる
+まひる : （あたしは、このままでよかったのに……どうして、リルヤに絵を描いて欲しいと……望んだ？）
+Mahiru : (I would've been fine with things staying the way they were... Why did I want Lilja to paint for me?)
+真昼 : （本本来我只用照旧就可以了……那为什么我还会想让丽露娅为我画画？）
+
+None
+None : ――はい！　リルヤさんの絵は実際すごいので！
+None : "Yes! Lilja-san's paintings really are that amazing!"
+None : ——是的！　丽露娅小姐的画特别厉害的！
+
+まひる
+まひる : （どうしてあたしは、あの言葉を信じたくなったのだろう？）
+Mahiru : (Why did I want to believe in those words?)
+真昼 : （为什么，我会想去相信那句话呢？）
+
+まひる
+まひる : （わかってる、終わりにしたかった……もう終わらせたい……どうか、あたしの醜い恋を……どうか……）
+Mahiru : (I know why—I wanted to put an end to it all... I was done with it... I wanted to get rid of my ugly love... no matter the cost.)
+真昼 : （我知道为什么，我想要结束……想结束这一切……快点，把我这丑陋的恋情……快……）
+
+まひる
+まひる : （ああ、あたしの手がのびる、のびてしまう。あたしの手が布にかかって……絵を覆う布がすべり落ちて……）
+Mahiru : (Ahh, my hand is reaching out for the cloth covering the canvas... It's sliding off...)
+真昼 : （哎，我的手，我的手伸出去了。它抓在了蒙布上……画上的蒙布滑了下去……）
+
+まひる
+まひる : 「――！！」
+Mahiru : "...Oh!!"
+真昼 : "——！！"
+
+まひる
+まひる : 「っ！！　はっはあっ……あっ……くっ……うっ、ううっ……！」
+Mahiru : "Nngh!! Hahh, hahh...! Ah! Ggh, nngh, ngggh...!"
+真昼 : "！！　哈，啊……啊……呃……呜、呜呜……！"
+
+None
+None : その絵は――一瞬であたしを引き戻した。
+None : The painting took me back in an instant.
+None : 那幅画——一瞬间将我带了回去。
+
+None
+None : あの過去へ。あの廃墟へと。
+None : Back to that day at the abandoned church.
+None : 把我带到了那个过去，带到了那个废墟。
+
+まひる
+まひる : （苦しい……！　息ができ、ない……！！）
+Mahiru : (I'm suffocating... I can't... breathe!!)
+真昼 : （好难受……！　呼吸不了了……！！）
+
+None
+None : 生々しい感触が蘇る。
+None : The feeling vividly comes back to me.
+None : 有种真实的触感。
+
+None
+None : 首に巻きつくマフラーの感触、あいつの殺意。
+None : A scarf wrapped around my neck. The bloodlust.
+None : 缠在脖子上的围巾的触感，来自她的杀意。
+
+まひる
+まひる : （首を絞めているのは、あいつだ、あの女、あのストーカー……！）
+Mahiru : (It's %i1her!%id That woman—the stalker! She's strangling me...!)
+真昼 : （勒着我脖子的，是那家伙，是那个女人，是那个跟踪狂……！）
+
+まひる
+まひる : （ずっと夜にまとわりついていた。あのままだと、きっと夜に危害が及ぶとわかっていた）
+Mahiru : (She'd been following Yoru around for a while. I knew she would end up hurting her if I didn't do something.)
+真昼 : （她一直在纠缠夜。放任不管的话，总有一天会对夜带来危害）
+
+まひる
+まひる : （だから、あたしは、夜がいないタイミングで……あいつに罠をしかけたんだ）
+Mahiru : (So I set up a trap when Yoru wasn't there.)
+真昼 : （所以我，趁夜不在的时候……给那家伙设了个圈套）
+
+まひる
+まひる : （あの女から、夜を守るために、あの廃墟にあいつを誘い込んで……そして、怒り狂ったあの女に、首を絞められて……！）
+Mahiru : (To protect Yoru, I led that woman to the abandoned church... And then, she went berserk and started strangling me!)
+真昼 : （为了保护夜，我把那个女人引到了那个废墟……然后她气急败坏地勒住了我的脖子……！）
+
+まひる
+まひる : 「ふっうぅう……うっうう……くうぅ……！」
+Mahiru : "Hnnngh... Ugh... Ghhhh...!"
+真昼 : "呜……呜呜呜……呜……！"
+
+None
+None : どれだけあがいても、どれだけ手をのばしても、首に巻きついたマフラーは緩まない。
+None : No matter how much I struggle and flail my hands, the scarf doesn't loosen.
+None : 无论怎么挣扎，怎么伸手，勒在脖子上的围巾都没有松懈一点。
+
+まひる
+まひる : （苦しい、苦しい、苦しい……！！）
+Mahiru : (It hurts! It hurts! It hurts...!!)
+真昼 : （好难受好难受好难受……！！）
+
+None
+None : 冷たい地面、水たまりの感触、緑の風景。嫉妬の色。
+None : The next thing I feel is the cold ground. A puddle of icy water. The green forest before my eyes—the color of jealousy.
+None : 冰冷的地面，水洼的触感，绿色的风景。嫉妒的颜色。
+
+None
+None : 世界が暗くなっていく。全てが終わっていく。
+None : The world grows dim.
+None : 世界变得越来越暗，一切都将结束。
+
+None
+None : この場所で、この廃墟で。
+None : Everything is coming to an end here in these ruins.
+None : 在那个地方，在那个废墟。
+
+まひる
+まひる : （嫌だ……こんな冷たい暗闇は嫌だ……）
+Mahiru : (No... I don't like this cold darkness...)
+真昼 : （不要……我不要这么冰冷的黑暗……）
+
+まひる
+まひる : （あたしが知っている暗闇は……もっと優しい……）
+Mahiru : (The darkness I know... is gentler... warmer...)
+真昼 : （我所知道的黑暗……要更温柔一点……）
+
+まひる
+まひる : （夜。夜）
+Mahiru : (Yoru. Yoru.)
+真昼 : （夜，夜）
+
+まひる
+まひる : （あんなに苦い酒ばかり飲むのに、甘いコーヒーしか飲めない夜。あたしの隣でちいさな猫のように眠る夜）
+Mahiru : (Yoru, who loves that bitter cider, yet likes her coffee sweet. Yoru, who sleeps next to me curled up like a kitten.)
+真昼 : （总喝那么苦的酒，但只能喝下加满砂糖的咖啡的夜。在我的身边像猫一样蜷缩着熟睡的夜）
+
+まひる
+まひる : （あんたは、明るい世界がすこしだけしんどいあたしにとっての、ちいさな暗がりだった）
+Mahiru : (She always provided the shade I needed whenever the world was just a bit too bright for me.)
+真昼 : （你是我明亮的世界里的一小片黑暗，让我不再感到不适）
+
+まひる
+まひる : （夜。あたしだけの夜）
+Mahiru : (Yoru... My dear Yoru...)
+真昼 : （夜，只属于我的夜）
+
+まひる
+まひる : （リルヤ、今、あんたは見事にあたしの望みを暴いた）
+Mahiru : (Lilja, you completely exposed what I really wanted.)
+真昼 : （丽露娅，你刚才，成功地揭露了我的愿望）
+
+まひる
+まひる : （あたしが隠しつづけた、醜い望み）
+Mahiru : (The ugly desire I've been hiding all this time.)
+真昼 : （我一直隐藏起来的，丑陋的愿望）
+
+まひる
+まひる : （あの廃墟での出来事が、あたしの望んだ、たったひとつの選択の結果だったとしても……）
+Mahiru : (The events that took place at the abandoned church may have been a result of my own choices, but...)
+真昼 : （哪怕在那个废墟发生的事情，只是我所期望的、一个选择的结果……）
+
+夜
+？？？ : 「る……ひる……！」
+??? : "...ru... hiru...!"
+??? : "昼……真昼……！"
+
+まひる
+まひる : （だけど、あたしは……）
+Mahiru : (But I...)
+真昼 : （但是，我……）
+
+夜
+？？？ : 「まひる、まひる……まひる！！」
+??? : "Mahiru, Mahiru... Mahiru!!"
+??? : "真昼，真昼……真昼！！"
+
+まひる
+まひる : 「よ、る……」
+Mahiru : "Yo... ru..."
+真昼 : "夜……"
+
+夜
+夜 : 「まひる……よかった……！！」
+Yoru : "Mahiru... I'm so glad...!!"
+夜 : "真昼……太好了……！！"
+
+まひる
+まひる : （それでも、あたしは、夜――。あのとき、あんたに、助けて欲しかったんだ）
+Mahiru : (I still... wanted you to save me that night, Yoru...)
+真昼 : （就算如此，我也希望那个时候，夜——你能来救救我）
+
+まひる
+まひる : 「夜……」
+Mahiru : "Yoru..."
+真昼 : "夜……"
+
+夜
+夜 : 「まひる、まひる……まひる！　私はあなたを絶対に許さない……！　こんな風にひとりで、倒れて……！！」
+Yoru : "Mahiru, Mahiru... Mahiru! I'll never forgive you! Why are you lying here collapsed by yourself!?"
+夜 : "真昼……真昼！　我绝不会原谅你……！　居然一个人像这样倒在这里……！！"
+
+夜
+夜 : 「私の大切な人を大切にしないあなたを絶対に許さない！」
+Yoru : "I hate you for not taking better care of the one I love!"
+夜 : "我不会原谅不珍惜我最爱的人的你！"
+
+夜
+夜 : 「私は、あなたにずっと復讐する。あなたを諦めてなんてやらない……あなたをずっと、ずっと好きでいてやるから……！」
+Yoru : "I will have my revenge on you forever. I'll never give up on you... I'll keep loving you forever...!"
+夜 : "我不会停下我对你的复仇。我永远不会放弃你……我会一直，会一直喜欢你的……！"
+
+まひる
+まひる : （夜。私の緑の怪物、私の望まない結末、愛される資格がないといった私を愛することこそが、復讐だとわかっているあなた……）
+Mahiru : (Yoru... My green-eyed monster... She knows that loving me in a way I don't deserve is the cruelest vengeance she can take...)
+真昼 : （夜。我的绿色怪物，你非常清楚，给我带来我不想要的结局，爱着认为自己不配被爱的人，就是对我的复仇……）
+
+まひる
+まひる : （ついに、追いつかれてしまった）
+Mahiru : (She finally caught up with me.)
+真昼 : （到头来，还是被追上了）
+
+まひる
+まひる : 「はは……」
+Mahiru : "Haha..."
+真昼 : "哈哈……"
+
+夜
+夜 : 「な、なんで笑うの……！？」
+Yoru : "Wh-Why are you laughing?"
+夜 : "笑、笑什么啊……！？"
+
+まひる
+まひる : 「ひどい顔だから、きれいな顔なのに……涙でぐしゃぐしゃ」
+Mahiru : "Because your pretty face looks awful right now... You're a teary mess."
+真昼 : "瞧瞧你的脸成啥样了，本来这么好看一张脸……现在却泪眼婆娑的"
+
+夜
+夜 : 「私の顔なんてどうでもいい、こんな顔だから、碌な目に遭ってない」
+Yoru : "Who cares about my face? This face has brought me nothing but trouble."
+夜 : "别管我的脸了，因为这张脸，我就没好受过"
+
+まひる
+まひる : 「別に顔だけじゃないよ。性格の問題」
+Mahiru : "It's not just your face—I think it's also your personality."
+真昼 : "又不光是脸的问题。你性格也够过分的"
+
+夜
+夜 : 「久しぶりの再会なのに、憎まれ口ばっかり叩いて……」
+Yoru : "We finally have our tearful reunion and now you're trash talking me...?"
+夜 : "好不容易见个面，你还在这嚼舌根……"
+
+まひる
+まひる : 「そう、さね」
+Mahiru : "Yep, I sure am."
+真昼 : "是、啊"
+
+まひる
+まひる : 「ねえ、夜。もう『そここ』って呼んでくれないの？」
+Mahiru : "Say, Yoru, you're not calling me 'Sokoko' anymore?"
+真昼 : "我说，夜。你已经不会叫我‘马虎虎’了吗？"
+
+夜
+夜 : 「そこそこじゃないから、もう呼ばない……あなたは私の……大事なたったひとつの『まひる』だから……」
+Yoru : "No. You're not so-so anymore, so I won't call you that... You're my dear Mahiru, the only one..."
+夜 : "你又不马虎了，已经不会叫了……你是我的……我最重要的，仅有一个的‘真昼’啊……"
+
+夜
+夜 : 「ひとりじゃ明けなかった夜が、やっと明けたの……もう離さない……」
+Yoru : "Dawn has finally risen on my endless night now that we're together again... I'll never let you go..."
+夜 : "我不会再离开你了……孤身一人无法结束的夜晚，终于结束了……"
+
+夜
+夜 : 「大嫌いで大好きなまひる……」
+Yoru : "My dear, despicable Mahiru..."
+夜 : "我最讨厌又最喜欢的真昼……"
+
+夜
+夜 : 「私は、ずっとあなたを許さないから……ずっと、ずっと……許さないでいるから……」
+Yoru : "Remember that I'll never forgive you... I'll never, ever forgive you..."
+夜 : "我永远，都不会原谅你的……永远，永远……都不会原谅你的……"
+
+まひる
+まひる : 「うん……どうか、ずっとあたしを許さないで……夜」
+Mahiru : "Yeah... Please don't. Don't ever forgive me... Yoru."
+真昼 : "嗯……请永远不要原谅我啊……夜"
+

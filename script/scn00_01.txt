@@ -1,0 +1,65 @@
+None
+None : それはまるで、御伽噺のような噂噺――
+None : A rumor like a fairy tale...
+None : 这是一则如神话传说一般的神秘传闻——
+
+None
+None : 夜の水面に波紋を描く水滴のように、ぽつぽつと、ネットの海に広がり……
+None : A drop of water on the surface of the lake that is the internet that spreads like a ripple.
+None : 如同在夜晚的水面上勾画出波纹的水滴，一滴、两滴，慢慢扩散到互联网的大海之中……
+
+None
+None : 凪の湖面に細波を立てる風のように、さあさあと、リアルの人の間を渡っていく。
+None : A gentle breeze that caresses the calm waters, pushing them toward the shore so they can reach those in the real world.
+None : 如同在平静的湖面上轻挑起涟漪的微风，一缕、两缕，渐渐吹进现实的茫茫人海之间。
+
+None
+None : 正体不明の天才絵描きが、あなたが描いて欲しい絵を描いてくれる、という。
+None : "There's an anonymous genius painter who will paint anything you request."
+None : 神秘的天才画家会描绘出你心中所想的画——
+
+None
+None : 都市伝説よりも不確かな、おまじないよりも曖昧な、そんな噂噺。
+None : It's less certain than an urban legend and more dubious than a magical charm.
+None : 这是一则比都市传说还荒诞、比魔法还令人难以置信的传闻。
+
+None
+None : その噂は消えることなくネットとリアルを漂って、いつか、あなたにたどり着く。
+None : Yet it's persistent enough to reach you in the real world through the massive void that is cyberspace.
+None : 它并没有石沉大海，而是飘荡在网络与现实之间，终有一天，它会进入你的内心。
+
+None
+None : あなたの心に、波紋が広がる。あなたの瞼の裏に、ひとつの光景が浮かびあがる。
+None : The ripple spreads across your heart, and a picture begins to form in your mind's eye.
+None : 在你的心中泛起涟漪。合上双眼，一片景象就会浮现眼前。
+
+None
+None : あなたはサイトを訪れ、描いて欲しい絵について語る。
+None : You go online and write up an email about the picture you want to request.
+None : 你打开网站，形容画的构想。
+
+None
+None : あなたは心のなかでつぶやく。
+None : It's nothing but a tiny whisper in the back of your mind.
+None : 你在心中低语。
+
+None
+None : 期待はしないわ。
+None : You don't expect anything to come from it.
+None : “我本就不会抱什么期待”
+
+None
+None : だって、これは宝くじのようなもの。当たれば最高、外れても当然。
+None : It's sort of like the lottery—it would be amazing if you won, but you accept that the odds are very much not in your favor.
+None : 它和彩票别无二致。不中奖无可厚非，中了便是锦上添花。
+
+None
+None : でも、当たればうれしいわ。
+None : But still, what if you %i1did%id hit the jackpot?
+None : 当然，如果中奖肯定是好事一桩。
+
+None
+None : だってその絵は、新しい生活をはじめるわたしたちへの、最高の祝福になるはずだから。
+None : That painting would be the best blessing imaginable. It would serve as a light, guiding you to a new life.
+None : 因为这幅画，将会成为向即将开启崭新生活的我们献上的，最美好的祝福。
+

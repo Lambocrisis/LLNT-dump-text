@@ -1,0 +1,835 @@
+None
+None : かみさま……
+None : Lord above...
+None : 上帝啊……
+
+None
+None : かみさまおねがいします……
+None : I beg of you...
+None : 上帝啊，求求你……
+
+None
+None : わたしはどうなってもかまいませんから……
+None : I don't care what happens to me...
+None : 我愿意付出一切……
+
+None
+None : どうかあのひとをたすけてください……
+None : But please, save her...
+None : 请你救救那个人吧……
+
+夏夏
+夏夏 : 「むぅ～～～～～～～～～～～ん！！」
+Natsuka : "Hnnngh!"
+夏夏 : "呣～～～～～～～～～～～！！"
+
+夏夏
+夏夏 : 「かみさま、かみさま、お願いしますっ！　どうか２等賞の特上カルビセットをなにとぞ～～～～！！」
+Natsuka : "O lord above, I'm begging you! Please let me get the second prize beef special!"
+夏夏 : "上帝啊，老天爷啊，求求你了！　请让我抽中二等奖的特级肋条牛排套餐吧～～～～！！"
+
+夏夏
+夏夏 : 「むぅ～～～～～～～～～～～ん！！」
+Natsuka : "Hnnngh!"
+夏夏 : "呣～～～～～～～～～～～！！"
+
+夏夏
+夏夏 : 「てやっ！」
+Natsuka : "And stop!"
+夏夏 : "嘿呀！"
+
+None
+None : ――コロン
+None : Pop!
+None : ——咕噜
+
+夏夏
+夏夏 : 「はうわ！？」
+Natsuka : "Wah!?"
+夏夏 : "嚯哇！？"
+
+法被を着たお姉さん
+法被を着たお姉さん : %130;「なんと出ました～特賞！　おめでとうございます～！！」
+Lottery Attendant : %130;"Can you believe it!? You've won a very special prize! Congratulations!"
+穿着发披的大姐姐 : %130;"竟然抽出了特等奖！　恭喜您～！"
+
+モブＡ
+モブＡ : 「いいな～！」
+Bystander A : "Wow, nice!"
+路人A : "真好啊～！"
+
+モブＢ
+モブＢ : 「うらやまし～い！」
+Bystander B : "I'm so jealous!"
+路人B : "好羡慕啊！"
+
+夏夏
+夏夏 : 「えっほ、えっほ、えっほ……！！」
+Natsuka : "And heave...! And ho...! %i1Hup!%id"
+夏夏 : "嘿咻、嘿咻、嘿咻……！！"
+
+夏夏
+夏夏 : 「ふ～～～～やっと、ここまで来ました！」
+Natsuka : "Phew! Man, I finally made it!"
+夏夏 : "呼～～～～可算到这里了！"
+
+夏夏
+夏夏 : 「しかしめちゃめちゃ注目されちゃいましたね……しかたないですね、なにせシロクマさんこれだけ大きいですし……」
+Natsuka : "Ugh, everyone was staring at me... But I guess that's what happens when you carry a polar bear this big around."
+夏夏 : "一路上被很多人盯着看呢……但是没办法嘛，白熊先生这么大……"
+
+夏夏
+夏夏 : 「――は！」
+Natsuka : "Gasp!"
+夏夏 : "——哈！"
+
+夏夏
+夏夏 : 「うっかりしてましたが、いきなり連れて行くにはこの子はややアレというかなんというか……」
+Natsuka : "I wasn't even thinking! It might be awkward if I just drag this thing in like it's no big deal..."
+夏夏 : "真是粗心，要是突然把白熊先生带去的话好像不太妙……"
+
+夏夏
+夏夏 : 「まずはおうかがいを立てなくては、ですね！」
+Natsuka : "I've gotta ask first!"
+夏夏 : "首先得去看看情况呢！"
+
+夏夏
+夏夏 : 「ただいまです！　あの、突然ですが、リルヤさん！」
+Natsuka : "I'm hooome! Hey, question for you, Lilja-san!"
+夏夏 : "我回来啦！　丽露娅小姐，我有个不情之请！"
+
+リルヤ
+リルヤ : 「シロクマだろう？」
+Lilja : "Is it about the polar bear?"
+丽露娅 : "是白熊吧？"
+
+夏夏
+夏夏 : 「！？？？！？？　どっどうしてわかるんですか？」
+Natsuka : "Wha!? H-How the heck did you know!?"
+夏夏 : "！？？？！？？　为、为什么会知道啊？"
+
+リルヤ
+リルヤ : 「最近のお前は、私と通話アプリで繋がっているのを、高確率で忘れがちだな」
+Lilja : "You have a habit of forgetting to hang up when we call lately."
+丽露娅 : "最近你有很大概率会忘记和我正在通话一事啊"
+
+夏夏
+夏夏 : 「そういえばそうでした！！　ついうっかり忘れちゃうんですよねえ。あっ、トイレはちゃんと気をつけているんですが……！」
+Natsuka : "Oh, hey! I guess I do! I'm good about it when I'm going to the bathroom, though!"
+夏夏 : "说起来是这样呢！！　会不经意间就忘掉了呢。啊，去厕所的时候我倒是会注意一下……！"
+
+夏夏
+夏夏 : 「ということは、わたしが商店街のオータム大抽選会の２等賞狙いに挑んで、特賞と１等賞を当てたのもばっちりご理解いただいている！？」
+Natsuka : "Okay, so you know that I was trying to get the second prize at the downtown autumn lottery and wound up getting the first prize and the special prize too!?"
+夏夏 : "也就是说，您能理解我在商店街的秋季大抽奖上，为了二等奖而来，结果拿了特等奖和一等奖走的心情了！？"
+
+リルヤ
+リルヤ : 「ああ。ばっちりご理解いただいているぞ」
+Lilja : "Indeed I do."
+丽露娅 : "是啊。很能理解"
+
+夏夏
+夏夏 : 「ううっ、２等賞欲しかったですう……」
+Natsuka : "Man... I really wanted the second prize..."
+夏夏 : "呜呜，人家本来想要二等奖的……"
+
+夏夏
+夏夏 : 「シロクマさんが嫌なわけじゃなくてですね、ただどうしても２等賞が欲しくてですね……ああ、特上カルビセットぉ～～～」
+Natsuka : "It's not like I hate the polar bear or anything, I just really, really, %i1reeeally%id wanted the second prize... Ohh how I'll miss you, my precious beef set..."
+夏夏 : "我也不是讨厌白熊先生的，但是怎么都想要二等奖啊……唉，我的特级肋条牛排套餐～～～"
+
+夏夏
+夏夏 : 「はっ、いやいや、哀しみにくれるよりも先に新しい出会いに感謝しないとですね」
+Natsuka : "Hahh, I can't be like this forever! I've gotta celebrate our new friend!"
+夏夏 : "哈，不行不行，与其沉浸在悲伤里，还是先感谢一下崭新的邂逅吧"
+
+夏夏
+夏夏 : 「ということでリルヤさん、シロクマさんが当たったんです」
+Natsuka : "So long story short, I've got a polar bear now."
+夏夏 : "就是这样，丽露娅小姐，我抽中白熊先生了哦"
+
+夏夏
+夏夏 : 「そのシロクマさんなんですが、とても大きくてですね。ぶっちゃけわたしよりも大きいんです。そして重い」
+Natsuka : "It's like, really big, though. Like bigger than me, and heavy to boot."
+夏夏 : "而白熊先生，它特别大呢。说实话比我都大。而且还重"
+
+夏夏
+夏夏 : 「たぶん等身大ですね。シロクマ１／１です」
+Natsuka : "Y'know, it might actually be life-size. Like, a 1:1 scale of the real thing."
+夏夏 : "估计是等身大的吧。1/1的白熊"
+
+リルヤ
+リルヤ : 「シロクマは小柄なメスでも体長２メートル、体重は２００キロを優に越えるが、お前はそんなに巨大なものをひとりで運んできたのか？」
+Lilja : "Even a small female polar bear would be about two meters tall and two hundred kilograms. Are you telling me you managed to carry something like that all by yourself?"
+丽露娅 : "小体型的雌性白熊体长两米，体重怎么也超过200公斤，你能一个人搬动这种东西吗？"
+
+夏夏
+夏夏 : 「ぴゃっ！？　い、いえ、そこまで重くはないですー！！」
+Natsuka : "Huh? N-No way! It wasn't %i1that%id heavy!"
+夏夏 : "！？　不、不会吧，应该没这么重吧！！"
+
+夏夏
+夏夏 : 「でも、大きさはそのくらいある気がします。座った格好で、わたしよりも背が高いので」
+Natsuka : "But it's probably about that size. It's taller than me when it's sitting down."
+夏夏 : "不过感觉体型应该是比较大的。坐着比我站着都高"
+
+夏夏
+夏夏 : 「でも不思議なんですよね。去年の特賞は、すごいおいしいトーストを焼けるオーブントースターで、１等賞はペアの温泉旅行券だったので」
+Natsuka : "It's so weird, though. Last year, the special prize was this toaster oven that could make the %i1best%id toast ever, and the top prize was a pair of tickets for a hot springs getaway."
+夏夏 : "但是真不可思议啊。去年的特等奖是能烤出香香吐司的烤面包机，一等奖是双人温泉旅行券"
+
+リルヤ
+リルヤ : 「なぜ今年の商店街組合は、そのような巨大なぬいぐるみを、抽選会の特賞にしようとしたのか、か？」
+Lilja : "Are you wondering why the district association decided to make a large stuffed animal like that the special prize this year?"
+丽露娅 : "你是想问，为什么今年的商店街公会，会把巨型毛绒玩具作为抽奖的特等奖吗？"
+
+夏夏
+夏夏 : 「そうなんです謎なんです――はっ！　もしかしてリルヤさんには、お見通しですか？」
+Natsuka : "That's exactly what I'm wondering! It's a total mystery! Wait! Don't tell me you've already got it figured out?"
+夏夏 : "对呀这就是个谜团嘛——哈！　难道说丽露娅小姐已经全部看透了吗？"
+
+リルヤ
+リルヤ : 「謎というほどではないがな」
+Lilja : "It really isn't that much of a mystery."
+丽露娅 : "也说不上是谜团吧"
+
+リルヤ
+リルヤ : 「シロクマを手に入れたとき、周りからうらやましいという声があがっていただろう」
+Lilja : "Do you recall all the jealous voices around you when you won the polar bear?"
+丽露娅 : "你拿到白熊的时候，周围不少人发出了特别羡慕的声音了对吧"
+
+夏夏
+夏夏 : 「そういえば？」
+Natsuka : "Oh, huh. Yeah, I do!"
+夏夏 : "说起来好像也是？"
+
+リルヤ
+リルヤ : 「抽選会会場からここまで来る途中も、かなり注目されていたと、お前はつぶやいていただろう」
+Lilja : "And I imagine you received abundant attention your entire way back, yes?"
+丽露娅 : "你刚刚在说，从抽奖会场回到这里的途中，也一直备受瞩目，对吧"
+
+夏夏
+夏夏 : 「確かに！」
+Natsuka : "I sure did!"
+夏夏 : "确实如此！"
+
+リルヤ
+リルヤ : 「単に巨大なぬいぐるみを抱えているだけで、そこまで衆目を集めるほど、ここは田舎ではない」
+Lilja : "We don't live in such a rural area that carrying a large stuffed animal would garner that much attention, do we?"
+丽露娅 : "这里不是乡下，抱着巨大玩偶，不至于像这样备受瞩目"
+
+夏夏
+夏夏 : 「そういえば、この前、巨大なくまのぬいぐるみを連れていたおねーさんたちがいましたが、そこまで注目されてませんでしたね？」
+Natsuka : "Come to think of it, I remember seeing some ladies carrying a big stuffed bear before, and they didn't get %i1nearly%id as much attention."
+夏夏 : "说起来，之前我看到有几个大姐姐带着一只巨型熊玩偶，也没这么被盯着看啊？"
+
+リルヤ
+リルヤ : 「集客が目的である大抽選会の特賞が、巨大なシロクマのぬいぐるみだったこと。当たったときの周囲の反応」
+Lilja : "Consider that the special prize—which was meant to draw customers' attention—was this giant polar bear. And consider the response when you won it."
+丽露娅 : "以揽客为目的的抽奖，其特等奖是巨大的白熊玩偶。再加上你中奖时周围的反应"
+
+リルヤ
+リルヤ : 「それらの情報から、シロクマ自体に注目される意味があると考えるのが合理的だろう」
+Lilja : "It's only logical to assume, based on that information, that there was a reason the polar bear was attracting so much attention."
+丽露娅 : "以这些情报为根据，可以推出瞩目的是白熊本身，这样比较合理"
+
+リルヤ
+リルヤ : 「調べてみたところ、今期、この街を舞台にした深夜ドラマで、シロクマのぬいぐるみが非常に重要な役割を果たしたらしい」
+Lilja : "After doing some research, I discovered that there was a late-night drama that took place in this town. A giant polar bear stuffed animal played a major part in it."
+丽露娅 : "就我调查的结果来看，这个季度，在以这条街为舞台的深夜电视剧里，白熊玩偶完成了特别重要的任务"
+
+夏夏
+夏夏 : 「このあたりは、ロケとかよくやってますもんねえ。これだけ素敵な町並みならば、わかる気がしますが！」
+Natsuka : "Oh yeah! This area gets used a lot for TV shows and stuff. It's a really nice townscape, so I can kinda see why."
+夏夏 : "毕竟这周围经常被当做取景地嘛。这么美丽的街景，也不是不能理解！"
+
+リルヤ
+リルヤ : 「つまり、シロクマのぬいぐるみは、特賞たる理由が十分にあったというわけだ」
+Lilja : "And that's why that polar bear was so perfectly suited to being the special prize."
+丽露娅 : "换句话说，他们有十足的理由，把特等奖设为白熊玩偶"
+
+夏夏
+夏夏 : 「な、なるほどー！？　だとしたら、そのドラマの存在すら知らないわたしが当ててしまって申し訳ないことをしましたね……」
+Natsuka : "Whoooa! I totally get it now! Now I feel kinda bad about winning it since I didn't even know about that show!"
+夏夏 : "原、原来如此！？　那对这电视剧一无所知的我中了这个奖，有点不好意思啊……"
+
+リルヤ
+リルヤ : 「ならば、戻してくるか？」
+Lilja : "Then are you going to return it?"
+丽露娅 : "那你拿回去？"
+
+夏夏
+夏夏 : 「いえ！　これも何かのご縁です。シロクマさんだって、いきなりわたしが手放したら、なんか釈然としないと思う気がします！」
+Natsuka : "No way! This was fate. I just know it. And besides, I bet this big guy wouldn't be too happy if I abandoned him, either!"
+夏夏 : "不！　这也是种缘分。而且我觉得，白熊先生被我突然就转手了，也不会答应的吧！"
+
+夏夏
+夏夏 : 「ということで、ですね。そのシロクマさんを、このおうちに連れてきて、大丈夫でしょうか？」
+Natsuka : "So with that mystery solved, is it... okay for me to keep it here?"
+夏夏 : "综上所述。我把白熊先生带进这个家，没问题吗？"
+
+リルヤ
+リルヤ : 「うちじゃ飼えません、元いたところに置いてきなさい」
+Lilja : "No, you'll have to take it back to where you got it."
+丽露娅 : "我们家养不起。放回去吧"
+
+リルヤ
+リルヤ : 「……とでも言うと思ったのか？」
+Lilja : "...Just kidding. You didn't think I'd be that cruel, right?"
+丽露娅 : "……你以为我会这样说吗？"
+
+夏夏
+夏夏 : 「リルヤさんに限ってそんなことは！　でもですね、一応雇い主兼家主にはおうかがいを立てた方がいいサイズかなあと」
+Natsuka : "Well, of course not! But y'know, it was so big, I figured I should make sure my employer and landlady was okay with it."
+夏夏 : "丽露娅小姐肯定不会说这种话的！　但是白熊先生的尺寸让我觉得还是得跟雇主兼房屋所有者商量一下才行"
+
+リルヤ
+リルヤ : 「では面接でもするか？」
+Lilja : "Then shall we conduct an interview?"
+丽露娅 : "那面试一下？"
+
+夏夏
+夏夏 : 「めん！　せつ！　ぬいぐるみのシロクマさんに！！？」
+Natsuka : "With who? The bear!?"
+夏夏 : "面！　试！ 跟白熊先生玩偶面试！！？"
+
+リルヤ
+リルヤ : 「そうだ。こういうのを遊び心というのだろう？」
+Lilja : "Why not? A bit of... playfulness? That might be nice."
+丽露娅 : "没错。这就是所谓的玩心吧？"
+
+夏夏
+夏夏 : 「合理性の塊みたいなリルヤさんが……遊び心をゲット！？」
+Natsuka : "Miss Rationality herself... is feeling %i1playful!?%id"
+夏夏 : "丽露娅小姐这个合理性的集合体……终于产生玩心了！！？"
+
+リルヤ
+リルヤ : 「私もお前に日々学んでいるからな」
+Lilja : "I learned it from watching you."
+丽露娅 : "我每天也在向你学习啊"
+
+夏夏
+夏夏 : 「わたしとの会話から、非合理で非効率な発想を、リルヤさんのなかに取り込んでいるってこと……ですか？」
+Natsuka : "Are you saying you're... %i1learning%id from all my irrational and illogical ideas during our conversations?"
+夏夏 : "也就是说……丽露娅小姐通过和我交流，开始吸收那些不合理且毫无效率的想法了吗？"
+
+リルヤ
+リルヤ : 「ああ。無論エミュレートにすぎないがな。私がただいたずらにお前との会話を浪費しているわけがなかろう」
+Lilja : "Indeed, I am. It's but an emulation, though. I'm not going to waste our valuable conversation by mindlessly fooling around."
+丽露娅 : "当然。不过也只是模拟罢了。我怎么会浪费和你的对话时间呢"
+
+夏夏
+夏夏 : 「な、なるほどー！　なんかわかんないけど、すごいです！？」
+Natsuka : "I-I see! I don't really get it, but you're amazing!"
+夏夏 : "原、原来如此！　虽然不是很懂，但好厉害啊！？"
+
+リルヤ
+リルヤ : 「ということで、私自らが提案した、ぬいぐるみとの面接という非合理な発想から得られる経験を、獲得しようじゃないか」
+Lilja : "I wish to find out what kind of experience I can gain from proposing an irrational idea such as interviewing a stuffed polar bear."
+丽露娅 : "所以，来试试由我提出的，与玩偶面试这一不合理行为能得到怎样的经验吧"
+
+夏夏
+夏夏 : 「のすっと登場しましたはシロクマさんです！　名前はまだないです！」
+Natsuka : "Here he is! Say hello to polar bear-san! It doesn't have a name yet."
+夏夏 : "啪嗒一声登场的是白熊先生！　名字还没起！"
+
+リルヤ
+リルヤ : 「確かに圧を感じるな、かなりの大きさだ」
+Lilja : "Its size is definitely impressive."
+丽露娅 : "确实有种压力啊，体型真大"
+
+夏夏
+夏夏 : 「まずは握手ですかね？」
+Natsuka : "How about you start with a handshake?"
+夏夏 : "先从握手开始吧？"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Okay."
+丽露娅 : "好"
+
+None
+None : ――のす
+None : Squeeze...
+None : ——啪嗒
+
+リルヤ
+リルヤ : 「ん。肉球の形状もよく再現されているな」
+Lilja : "Hmm. It has very realistic paw pads for a stuffed animal."
+丽露娅 : "嗯。连肉垫都好好还原了啊"
+
+リルヤ
+リルヤ : 「かといって生きているシロクマの完全再現を目論んではおらず、ぬいぐるみ独特の触り心地のよさが第１に考えられている」
+Lilja : "However, it's not as if the creators attempted to faithfully recreate a polar bear. They clearly prioritized the pleasant sensation people expect to feel when touching a stuffed animal."
+丽露娅 : "但这不是完全还原了白熊的肉垫，而是为了凸显玩偶独特的舒适触感而设计的"
+
+夏夏
+夏夏 : 「次は、だっこですかね？」
+Natsuka : "Do you wanna try hugging it?"
+夏夏 : "接着是抱抱吧？"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Yes."
+丽露娅 : "没错"
+
+None
+None : ――ぼふっ
+None : Hug...
+None : ——噗呼
+
+リルヤ
+リルヤ : 「……ん」
+Lilja : "Mm..."
+丽露娅 : "……嗯"
+
+夏夏
+夏夏 : （おお～……リルヤさんが、目を閉じて黙ってしまいました）
+Natsuka : (Ohh... Lilja-san closed her eyes!)
+夏夏 : （哦哦～……丽露娅小姐沉默着闭上眼了）
+
+リルヤ
+リルヤ : 「これは、なかなかよいものだと言わざるを得ないな」
+Lilja : "I have to admit that it's a very pleasant feeling."
+丽露娅 : "这真是好东西啊"
+
+リルヤ
+リルヤ : 「やわらかくあたたかい。そして香りもよい。外にしばらくいたせいか、ひなたの香りもする」
+Lilja : "It's soft and warm, and it has a nice scent. It smells like the sun, perhaps because it's been outdoors for a while."
+丽露娅 : "柔软又暖和。而且味道也不错。估计是放在外面，还有一股太阳的味道"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （リルヤさんが、目を閉じてくつろいでいる雰囲気がめっちゃ漂ってきます……！　これは、シロクマさん面接、無事通過なのでは！？）
+Natsuka : (I can just %i1feel%id Lilja-san relaxing from the way she's closing her eyes and hugging the bear...! I think that means it passes its interview, right!?)
+夏夏 : （丽露娅小姐闭着眼一副悠然自得的样子……！　白熊先生的面试肯定是过了吧！？）
+
+リルヤ
+リルヤ : 「シロクマといえば……」
+Lilja : "Polar bears remind me of..."
+丽露娅 : "说起白熊……"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yes!?"
+夏夏 : "嗯！"
+
+リルヤ
+リルヤ : 「皮肉過程理論だな」
+Lilja : "The ironic process theory."
+丽露娅 : "也就是讽刺性反弹吧"
+
+夏夏
+夏夏 : 「ひにくかていりろん？？？？」
+Natsuka : "What's that!?"
+夏夏 : "后抑制反弹效应？？？？"
+
+リルヤ
+リルヤ : 「俗にいうシロクマ効果だ。シロクマ実験ともいわれる」
+Lilja : "Otherwise known as the white bear problem, or the polar bear experiment."
+丽露娅 : "也就是白熊效应。也被称作白熊实验"
+
+リルヤ
+リルヤ : 「詳細は割愛するが、考えまいと抑制すればするほど考えてしまう、そして最初に抑制された方が、抑制していない方よりも、より考えてしまうという実験の俗称だ」
+Lilja : "I'll spare you the details, but it's a popular experiment. It proves that the harder you try not to think about something, the more you actually think about it."
+丽露娅 : "详细情况不过多赘述，简而言之也就是越不去思考某件事越会去想，而且一开始强迫自己不去思考的人，会比不强迫的人想得更多，这一实验被称为白熊实验"
+
+夏夏
+夏夏 : 「え、ええと？」
+Natsuka : "Umm...?"
+夏夏 : "咦、咦？"
+
+リルヤ
+リルヤ : 「わからないか？」
+Lilja : "You don't understand?"
+丽露娅 : "不明白吗？"
+
+夏夏
+夏夏 : 「うう、すみません。全然わからないです～～」
+Natsuka : "Hmm, I'm sorry, but I have no idea what you're talking about."
+夏夏 : "呜呜，对不起。我完全不明白～～"
+
+リルヤ
+リルヤ : 「夏夏、お前は食べることが好きだな？」
+Lilja : "Natsuka, you like to eat, don't you?"
+丽露娅 : "夏夏，你喜欢吃对吧？"
+
+夏夏
+夏夏 : 「そうですね！」
+Natsuka : "I do!"
+夏夏 : "是呢！"
+
+リルヤ
+リルヤ : 「肉が好きだな？」
+Lilja : "You like meat, right?"
+丽露娅 : "喜欢吃肉吧？"
+
+夏夏
+夏夏 : 「好きですね！！　いいですねお肉！」
+Natsuka : "I love it!! I love me some meat!"
+夏夏 : "喜欢哦！！　肉好好吃的！"
+
+リルヤ
+リルヤ : 「たとえばだ。一週間、肉を禁じられたお前と、肉を禁じられなかったお前がいるとしよう」
+Lilja : "Imagine a version of yourself that has been told they can't eat meat for a week. Now compare that to the version of yourself that %i1hasn't%id been forbidden from eating meat."
+丽露娅 : "我举个例子。假设同时有禁肉一周的你，和没有禁肉的你存在"
+
+リルヤ
+リルヤ : 「一週間後に肉を解禁されたら、どちらが肉を大量に食べると思う？」
+Lilja : "Which version of you would eat more meat the next week?"
+丽露娅 : "一周后让你们吃肉，你觉得哪边会吃得更多？"
+
+夏夏
+夏夏 : 「それは、肉を禁じられた方が食べるのではないでしょうか！」
+Natsuka : "I think the me who was told they couldn't eat meat would eat more of it after!"
+夏夏 : "那，应该是被禁肉的吃得多吧！"
+
+リルヤ
+リルヤ : 「そうだ。ここで皮肉なのは、肉を禁じられなかったお前が、たとえ一週間肉を食べていなかったとしても、肉を禁じられていたお前の方が、肉を大量に食べるという結果になることだ」
+Lilja : "Exactly. The irony here is that, regardless of whether the Natsuka who %i1wasn't%id forbidden from eating meat actually did or not, the Natsuka who %i1was%id forbidden from eating meat would eat a lot more of it afterward."
+丽露娅 : "没错。这里讽刺反弹的是，就算一直吃着肉的你一周没吃到肉，但之前禁肉食的你，比起前者还是会吃得更多"
+
+夏夏
+夏夏 : 「なるほど……それは皮肉ですね」
+Natsuka : "I see... That's very ironic."
+夏夏 : "这样啊……确实很讽刺呢"
+
+リルヤ
+リルヤ : 「夏夏、お前がミス優のときに私に語ったあの逃避の発想は、現実的に考えれば、考えまいとする思考抑制によるリバウンドの陥穽に嵌まる可能性が高い」
+Lilja : "Natsuka, the escapism you talked about when we were working on Miss Yuu's request is similar to suppressing your thoughts. There's a higher risk of a rebound afterward."
+丽露娅 : "夏夏，在优女士那个事件里你对我描述过的逃避思想，放在现实中来考虑，会有很大几率陷入‘不去思考’这一抑制力所带来的反弹陷阱"
+
+リルヤ
+リルヤ : 「だが、恐怖がそこにあるのなら徹底して逃げられればいいという非現実的な発想が、私にはよかった」
+Lilja : "I liked your unrealistic idea of running away completely from the source of one's fear, though."
+丽露娅 : "不过，于我而言，面对恐惧打算彻底逃避，这一不现实的想法，是不错的"
+
+リルヤ
+リルヤ : 「私が求めているのは常に、私にはない非合理的な、非効率的な発想だ。それは非現実的な、夢のようなと言い換えてもいい」
+Lilja : "I'm always looking for irrational, inefficient ideas that I'd never be able to come up with myself. They're so unrealistic that it's like a dream."
+丽露娅 : "我需要的总是那些我不曾有的，不合理、没效率的想法。而说这些不现实、像梦想也可以"
+
+リルヤ
+リルヤ : 「だがそれでいいのだ。私のインスピレーションを刺激するものならば――な」
+Lilja : "However, it's fine that way—as long as the ideas stimulate my inspiration."
+丽露娅 : "但是这样就行。只要是能刺激到我的灵感——就行"
+
+夏夏
+夏夏 : 「リルヤさんは、シロクマさんを抱きしめていても、難しいことを考えるんですねえ……」
+Natsuka : "You keep thinking about complicated stuff even when you're hugging a fluffy polar bear, huh?"
+夏夏 : "丽露娅小姐抱着白熊先生，想的事好复杂啊……"
+
+リルヤ
+リルヤ : 「――ふ、違いない」
+Lilja : "Heh, you're right about that."
+丽露娅 : "——呼，也没错"
+
+リルヤ
+リルヤ : 「ところで夏夏、ぬいぐるみやクッションなどのやわらかくふわふわしたものを抱きしめると、ストレスが軽減するそうだぞ」
+Lilja : "By the way, Natsuka, it's been proven that cuddling something soft and fluffy like a stuffed animal or a cushion reduces stress."
+丽露娅 : "说起来夏夏，抱着玩偶或者垫子这种软绵绵轻飘飘的东西，能释放压力的哦"
+
+夏夏
+夏夏 : 「なるほど、リルヤさん気持ちよさそうですし、シロクマさんはリルヤさんと一緒にいてもいい気がしますね」
+Natsuka : "That makes sense! You look super relaxed right now, so the polar bear doesn't feel out of place at all with you."
+夏夏 : "原来如此，丽露娅小姐抱着白熊先生挺开心的，那让它和丽露娅小姐待一起也不错"
+
+リルヤ
+リルヤ : 「いや、私は既に有しているからいい」
+Lilja : "I don't need it. I already have something that fulfills the same purpose."
+丽露娅 : "不，我已经有软绵绵轻飘飘的东西了"
+
+夏夏
+夏夏 : 「リルヤさんが持っている、やわらかくてふわふわしているもの……？」
+Natsuka : "You already have... something warm and soft that helps you relax?"
+夏夏 : "丽露娅小姐有的，软绵绵轻飘飘的东西……？"
+
+夏夏
+夏夏 : 「――は！？　それってわたしのことですね！？」
+Natsuka : "...Gasp! Could you be talking about %i1me!?%id"
+夏夏 : "——哈！？　这不就是我吗！？"
+
+夏夏
+夏夏 : 「確かによくおなかをぽよぽよされてますがね！？　まあいいです！　リルヤさんのストレス軽減になっていれば！」
+Natsuka : "I know you like to touch my belly, but... really!? It's okay, though! If it helps take your stress away, then I'm happy!"
+夏夏 : "丽露娅小姐确实经常拍我的肚子呢！？　不过也无所谓啦！　能让您减轻压力比什么都好！"
+
+リルヤ
+リルヤ : 「それに合理的に考えなくとも、お前が当てたのだからこれはお前のものだ。お前の部屋に置くのが妥当だろう」
+Lilja : "Logically speaking, you're the one who won the polar bear, so it belongs to you. It would be appropriate for you to keep it in your room."
+丽露娅 : "而且就算不合理考虑，这东西是你抽到的，那就肯定是你的东西。应该放在你的房间吧"
+
+夏夏
+夏夏 : 「わたしの部屋に……ですか」
+Natsuka : "In my room..."
+夏夏 : "我的房间……吗"
+
+リルヤ
+リルヤ : 「何の問題もなかろう？　いくらでも置き場所はある」
+Lilja : "Is there a problem with that? There should be enough space for it."
+丽露娅 : "没什么问题吧？　你那放得下的"
+
+夏夏
+夏夏 : 「確かにわたしの部屋は、めっちゃ荷物すくないですけど！」
+Natsuka : "It's true that I don't have a lot of stuff in my room...!"
+夏夏 : "确实我房间没怎么放东西！"
+
+夏夏
+夏夏 : 「……でも、すごいですねえ」
+Natsuka : "But this... This is incredible!"
+夏夏 : "……但是，好了不得啊"
+
+リルヤ
+リルヤ : 「すごい、か？」
+Lilja : "What is?"
+丽露娅 : "了不得，吗？"
+
+夏夏
+夏夏 : 「はい。荷物が増えるってなんかすごいことです」
+Natsuka : "%i1This%id. The fact that I'll have more things in my room now."
+夏夏 : "是的。总感觉房间里的东西增加是间很了不得的事"
+
+夏夏
+夏夏 : 「ここでご厄介になるまでは、荷物はリュックに入るだけで、いつでも出て行けるようにしていましたので」
+Natsuka : "Before I moved in here, I could easily fit all of my belongings into a single bag. And I've kept it that way so I could move out again if I ever had to."
+夏夏 : "直到我受这里照顾之前，行李只有旅行包里的东西而已，方便随时离开"
+
+夏夏
+夏夏 : 「わたし、ここにいていいんだなあって……えへへ」
+Natsuka : "But this means it's okay for me to stay here, right? Hehehe..."
+夏夏 : "就觉得，我可以呆在这里啊……嘿嘿"
+
+リルヤ
+リルヤ : 「当たり前のことをいう。お前は私の目と足だろう？」
+Lilja : "Obviously. You're my eyes and my legs, aren't you?"
+丽露娅 : "这不是当然吗。你是我的眼睛与双腿吧？"
+
+夏夏
+夏夏 : 「はいっ」
+Natsuka : "Yeah!"
+夏夏 : "是的"
+
+夏夏
+夏夏 : 「それでは、このシロクマさんはわたしの部屋に置いておきますが、リルヤさんがぎゅっとしたいときはいつでも遊びにきてくださいね！」
+Natsuka : "In that case, I'll leave it in my room, but if you ever feel like hugging it, please help yourself at any time!"
+夏夏 : "那么，这只白熊先生我就放自己房间了，不过丽露娅小姐想抱抱的话随时来玩哦！"
+
+リルヤ
+リルヤ : 「嬉しそうだな」
+Lilja : "You look happy."
+丽露娅 : "挺开心啊"
+
+夏夏
+夏夏 : 「はいっ、実は自分のぬいぐるみってはじめてなので！」
+Natsuka : "Yeah! I've actually never had a stuffed animal before!"
+夏夏 : "是的，其实这是我的第一个玩偶！"
+
+夏夏
+夏夏 : 「あっ、りるりゃさんもいますが……」
+Natsuka : "Oh, though I do have Li'l Ya-san, of course..."
+夏夏 : "啊，还有丽露喵……"
+
+夏夏
+夏夏 : 「あの子はちょっとぬいぐるみとは違うんですよね、メッセンジャーですし！　依頼人さんの心を癒やすコンパニオンぬいですし！」
+Natsuka : "But she's not an animal, y'know? She's a messenger and companion to help comfort our clients!"
+夏夏 : "它和玩偶稍微有点不一样呢，是信使呢！　是治愈委托人的接待布偶呢！"
+
+夏夏
+夏夏 : 「あっ、そうです！　シロクマさん、名前どうしましょう？　もしかしたら、ドラマでも名前があったんでしょうか？」
+Natsuka : "Oh, right! What shall we name the polar bear? Did it have a name in the drama it appeared in?"
+夏夏 : "啊，对了！　白熊先生的名字怎么办？　莫非它在电视剧里有名字？"
+
+リルヤ
+リルヤ : 「いや？　名前はないようだった」
+Lilja : "No, not that I could find."
+丽露娅 : "不？　应该是没有名字的"
+
+夏夏
+夏夏 : 「そうなんですね！　だったら、リルヤさんつけてもらえますか？」
+Natsuka : "I see! In that case, can I ask you to give it a name?"
+夏夏 : "这样啊！　那，能让丽露娅小姐起个名吗？"
+
+リルヤ
+リルヤ : 「私が名付け親になるということだな、かまわない」
+Lilja : "I don't mind, if %i1you%id don't mind me being its godmother."
+丽露娅 : "也就是让我当起名人啊，没问题"
+
+リルヤ
+リルヤ : 「そうだな……ルミでどうだ」
+Lilja : "How about... Lumi?"
+丽露娅 : "我想想……鲁米怎样"
+
+夏夏
+夏夏 : 「ルミちゃん！　いいですね、どういう意味ですか？」
+Natsuka : "Lumi-chan! I like it! What does it mean?"
+夏夏 : "小鲁米！　真不错，是什么意思呀？"
+
+リルヤ
+リルヤ : 「私の国の言葉で、雪という意味だ。真っ白なそのぬいぐるみにはふさわしかろう」
+Lilja : "It means 'snow' in my native language. It's rather fitting for a white bear, isn't it?"
+丽露娅 : "在我们国家的语言里，鲁米的意思是雪。挺适合这全身雪白的玩偶吧"
+
+夏夏
+夏夏 : 「はい！　ふかふかのやわらかくてあったかい雪ですね、ふふ」
+Natsuka : "Yeah! It's like soft, fluffy, warm snow! Hehe..."
+夏夏 : "是的！　热乎乎软绵绵，就像温暖的雪一样呢，呵呵"
+
+リルヤ
+リルヤ : 「――ああ、そうだな」
+Lilja : "Yes, it is."
+丽露娅 : "——嗯，是啊"
+
+夏夏
+夏夏 : 「リルヤさんの名前にも意味があったりするんですか？」
+Natsuka : "Does your name also mean something, Lilja-san?"
+夏夏 : "丽露娅小姐的名字也有意义存在吗？"
+
+リルヤ
+リルヤ : 「私の名前は百合を意味する。祖母がつけてくれた名前だ」
+Lilja : "My name means 'lily,' like the flower. My grandmother named me."
+丽露娅 : "我的名字意味着百合花。是祖母给我取的名字"
+
+夏夏
+夏夏 : 「百合！　いいですね、リルヤさんにぴったりです」
+Natsuka : "A lily! That suits you perfectly, Lilja-san."
+夏夏 : "百合花！　真不错，和丽露娅小姐的印象完美契合"
+
+リルヤ
+リルヤ : 「そうだな。私もそう自認している」
+Lilja : "It does. I like it, too."
+丽露娅 : "是啊。我也这么觉得"
+
+夏夏
+夏夏 : 「自他共に認めるってやつですね！」
+Natsuka : "Everybody agrees!"
+夏夏 : "也就是公认的意思啊！"
+
+リルヤ
+リルヤ : 「ところで夏夏、シロクマばかりにかまけていると、１等賞の薔薇が萎れるのではないか？」
+Lilja : "By the way, Natsuka. If you keep your attention focused on the polar bear, won't the roses you won as the first prize wilt?"
+丽露娅 : "说回来夏夏，光在这在意白熊，一等奖的玫瑰会枯萎的哦？"
+
+夏夏
+夏夏 : 「はっ！　そうでした。ていうか、薔薇だってよくわかりましたね！？」
+Natsuka : "Ahh! You're right! Wait, how did you know the other prize was roses!?"
+夏夏 : "哈！　是这么回事。丽露娅小姐怎么知道是玫瑰的！？"
+
+リルヤ
+リルヤ : 「香りでわかる」
+Lilja : "I can smell them."
+丽露娅 : "从香味判断出来的"
+
+夏夏
+夏夏 : 「そうなんですねえ、わたしは本物の薔薇の香りって、じっくり嗅いだのははじめてかもです。トイレの芳香剤のにおいとは違いましたね」
+Natsuka : "Oh, I see. I'd never gotten a good whiff of real roses until now. It's so different from those rose-scented air fresheners they sell."
+夏夏 : "是呢，我还是第一次仔细嗅到真正玫瑰的香味呢。和厕所芳香剂不一样呢"
+
+リルヤ
+リルヤ : 「天然と人工の香料の違いだな」
+Lilja : "It's the difference between a natural and an artificial scent."
+丽露娅 : "天然与人工香料的区别吧"
+
+夏夏
+夏夏 : 「ですね！　１等賞の薔薇はですね、すごいきれいな赤い薔薇なんですよ。新種の薔薇で、なんと、棘がないんです！」
+Natsuka : "Right! The first prize was a bouquet of beautiful, red roses. It's a new variety that doesn't have any thorns!"
+夏夏 : "是呢！　这一等奖的玫瑰啊，是很漂亮的红玫瑰呢。还是没有刺的新品种哦！"
+
+夏夏
+夏夏 : 「あとすごくいい香りで、しかも花持ちがいいから、花嫁さんの花冠やクラッチブーケにするといいみたいです」
+Natsuka : "They smell really nice, and apparently the flowers last a long time, so they're perfect to use in bridal flower crowns and bouquets."
+夏夏 : "而且这种玫瑰香味很浓，活得也久，适合用在新娘子的花冠和花束上呢"
+
+夏夏
+夏夏 : 「来年くらいには量産できるようになって、市場にも流通するみたいですけど、その貴重な薔薇が１等賞だったんですよね」
+Natsuka : "Apparently they won't become commercially available until next year, so that explains why they're precious enough to be the first prize in the lottery."
+夏夏 : "说是差不多明年就能量产，到时候能买到了。这么贵重的玫瑰是一等奖呢"
+
+リルヤ
+リルヤ : 「薔薇違いで残念だったな」
+Lilja : "It's a shame you didn't win the roses you wanted."
+丽露娅 : "可惜不是你想要的玫瑰啊"
+
+夏夏
+夏夏 : 「薔薇違い？？？？」
+Natsuka : "What do you mean?"
+夏夏 : "不是我想要的玫瑰？？？？"
+
+リルヤ
+リルヤ : 「２等賞の特上カルビセット。カルビはバラ肉だろう？」
+Lilja : "The second prize was a beef set—more specifically, beef rose meat."
+丽露娅 : "二等奖是特级肋条牛排套餐。不就是五花肉吗？"
+
+夏夏
+夏夏 : 「カルビはバラ！　そうなんですね！？　知りませんでした。焼き肉屋さんでずっとバイトもしてたのに、カルビはカルビだと……」
+Natsuka : "Rose meat! Is that what it was!? I didn't know! I worked part-time at a barbecue restaurant for a while, but we didn't have rose meat on the menu..."
+夏夏 : "五花肉！　是这样一回事啊！？　我还不知道呢。明明在烤肉店打了那么久的工，一直以为肋条肉就是肋条肉……"
+
+リルヤ
+リルヤ : 「それほど肉が食べたいのならば、今からでも近所の焼肉屋から肉を取り寄せれば良い。そのためにカードは渡してあるだろう」
+Lilja : "If you want to eat meat that badly, you could just get takeout from the barbecue restaurant. I gave you a credit card for shopping, didn't I?"
+丽露娅 : "这么想吃肉的话，现在去邻近的烤肉店买来吃就行了。为此我给过你卡的吧"
+
+夏夏
+夏夏 : 「それはものすごく嬉しい提案ですけど、でもでも、ただで食べられる肉ってところに価値があったんですよ！！　リルヤさん！」
+Natsuka : "That's a really tempting idea, but... but... I wanted that prize because eating meat for free just hits different, Lilja-san!"
+夏夏 : "这确实很有魅力，但是但是，正因为能免费吃，这肉才有价值哦！！　丽露娅小姐！"
+
+夏夏
+夏夏 : 「特上カルビセット当たりますように～～～～あああああ当たったあああやったあああああって喜びが最高のスパイスになるんですよ～～！」
+Natsuka : "If I won it, I wanted to yell out, like, 'Yaaaaaay! I got the special beef set!' The joy of winning would've been the best spice I can imagine!"
+夏夏 : "当中特级肋条牛排套餐的期待得到满足以后欢呼雀跃的感觉才是最棒的调味料啊～～！"
+
+リルヤ
+リルヤ : 「なるほど射幸心はたやすく人を狂わせると聞いたが、身近にここまでわかりやすいサンプルがいるとはな」
+Lilja : "I've heard that gambling can easily drive a person insane, but I never thought I'd get to see such a fine specimen this close to home."
+丽露娅 : "原来如此，听说侥幸心理会使人疯狂，没想到我的身边有这么个浅显易懂的参考样本"
+
+夏夏
+夏夏 : 「言い方！　でも事実だから反論できません！！」
+Natsuka : "That's mean! I won't deny that you're right, though!!"
+夏夏 : "太不好听了！　不过这是事实，我无从狡辩！！"
+
+リルヤ
+リルヤ : 「くり返すが、お前が食べたければいくらでも買ってきていいのだぞ」
+Lilja : "Let me repeat: if you want to eat meat, you can buy as much of it as you want."
+丽露娅 : "不过我重申一遍，你想吃随时都可以去买"
+
+夏夏
+夏夏 : 「ありがとうございます！　ではあとで買いにいきますね！　他人のお金で食べるお肉は最高といいますし、感謝しかありません！！」
+Natsuka : "Thank you! Then I'll go and buy some later! Meat bought with someone else's money must be just as tasty as meat won for free, so I really appreciate it!!"
+夏夏 : "谢谢！　那我等会就去买哦！　都说用别人的钱买的肉最好吃，我满脑子只有对丽露娅小姐的感谢了！！"
+
+夏夏
+夏夏 : 「……あ、でもですね？　お肉にガツガツしてしまった我が身を反省し、真面目な話をしますと……」
+Natsuka : "Ah, but you know...? All this talk about meat made me realize how greedy I must've sounded."
+夏夏 : "……啊，但是哦？　反省一下，认真说的话……"
+
+夏夏
+夏夏 : 「わたしが一番美味しいと感じるのは、労働の後のお肉だと思うのですよ」
+Natsuka : "In the end, I think meat tastes best after a hard day of work."
+夏夏 : "最好吃的，还得是劳动后吃的肉"
+
+リルヤ
+リルヤ : 「なるほど、私はお前の射幸心を満たすことは望まないが、贈与、あるいは、労働に対する正当な報酬を与えることはできるな」
+Lilja : "I see. I may not be able to satisfy your urge to gamble, but what I %i1can%id do is give you a reward for some very hard work."
+丽露娅 : "原来如此，虽然我无法满足你的侥幸心理，但赠与，或者说基于劳动的正当报酬倒是能给你"
+
+夏夏
+夏夏 : 「労働……仕事……」
+Natsuka : "Hard work... work..."
+夏夏 : "劳动……工作……"
+
+夏夏
+夏夏 : 「はっ！」
+Natsuka : "Oh!"
+夏夏 : "哈！"
+
+夏夏
+夏夏 : 「リルヤさん、新しい依頼を受けるんですか！？」
+Natsuka : "Lilja-san, did we get a new request!?"
+夏夏 : "丽露娅小姐，又有新委托了吗！？"
+

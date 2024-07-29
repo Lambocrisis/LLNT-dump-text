@@ -1,0 +1,390 @@
+夏夏
+夏夏 : 「着きました！　やっぱり空でっかーい！」
+Natsuka : "I'm here! The sky's just as big as last time!"
+夏夏 : "我到啦！　果然这天空好辽阔！"
+
+夏夏
+夏夏 : 「この空の下に長くのびている線路、やっぱり、どこまでもどこまでもつづいているように見えますね」
+Natsuka : "The tracks stretch out beneath the vast sky, as if they'll go on forever."
+夏夏 : "在这片天空下，铁轨不断延伸，似乎一眼望不到尽头呢"
+
+夏夏
+夏夏 : 「このまま走ったら世界の果ての先までいけちゃいそうです」
+Natsuka : "I feel like I'll reach the end of the world if I run along them."
+夏夏 : "沿着跑下去感觉能到世界尽头呢"
+
+夏夏
+夏夏 : 「と、いうことで……走ります！」
+Natsuka : "So... I'll run!"
+夏夏 : "于是，我……开始跑咯！"
+
+夏夏
+夏夏 : 『うりゃ～～～！！』
+Natsuka : "Hyahhhh!!"
+夏夏 : "冲呀～～～！！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : 『もちろん線路の上は駄目ですよ！？　でも、並走している道があるからラッキーですね！』
+Natsuka : "I'm not running %i1on%id the tracks, of course! That would be dangerous! Luckily for me, there's a road that runs parallel to the tracks!"
+夏夏 : "我当然不是在铁轨上跑的哦！？　不过，幸好铁轨旁边有人行道呢！"
+
+夏夏
+夏夏 : 『わたしめっちゃ走ってます！　手をのばして！　ぐんぐん走れます、なんかテンションあがってきました！　鳥になった気分です！』
+Natsuka : "I'm running really fast! I'm swinging my arms really hard! This is so exciting—I feel like I'm a bird who's about to take off!"
+夏夏 : "我在不停奔跑！　张开双臂！　越跑越带劲，就连情绪也高涨起来了！　把自己当作一只小鸟！"
+
+夏夏
+夏夏 : 『は～～～し～～～り～～～ま～～～～す！』
+Natsuka : "I'm runniiiiiiing!"
+夏夏 : "跑～～～呀～～～跑！"
+
+夏夏
+夏夏 : 『暑いけど、風が気持ちいいです！　空に雲が白く光っています！　本当に誰もいな～～～～い！！』
+Natsuka : "It's hot outside, but the wind feels nice! The white clouds in the sky look like they're sparkling! And there's absolutely nobody else around!"
+夏夏 : "好热，但是迎面而来的风好舒服！　飘在天际的白云也在闪闪发亮！　而且身边没有一个人～～～～！！"
+
+夏夏
+夏夏 : 『わはははははははははははは！！』
+Natsuka : "Wahahahahahahahahaha!!"
+夏夏 : "哇哈哈哈哈哈哈哈哈！！"
+
+夏夏
+夏夏 : 『はあっはあっ！！　すごいっわはははっ、でもっ、おおっ、なんか線路が二叉にっ、これが引き込み線ですかねっこっちにいきますねっ』
+Natsuka : "Hahh! Hahh! This is amazing! O-Ohhh, there's a fork in the tracks! That must be the siding! I'll go that way!"
+夏夏 : "哈啊、哈啊！！　好爽呀哇哈哈，但是，哦哦，好像有分叉路，这就是支线吗那我往这边跑哦"
+
+夏夏
+夏夏 : 『走れ走れわたし～～～走って走って走って走って～～～～！！』
+Natsuka : "Run, Natsuka, run! Run run run run!"
+夏夏 : "跑呀跑呀跑呀～～～～！　我跑跑跑～～～～！！"
+
+夏夏
+夏夏 : 『着きました！！』
+Natsuka : "I'm here!"
+夏夏 : "到啦！！"
+
+リルヤ
+リルヤ : 「何がある？」
+Lilja : "What do you see?"
+丽露娅 : "你看到了什么？"
+
+夏夏
+夏夏 : 『線路の終わりです。線路の終着点ですね。三角の車止めと、終着の標識が立っています』
+Natsuka : "I'm at the end of the tracks. It really is a dead end. There's a triangular stopblock and a sign that indicates that it's the end of the line."
+夏夏 : "是铁轨的尽头。也是这条线路的终点呢。设置了三角形的挡车器，以及终点的标志"
+
+夏夏
+夏夏 : 『その先は崖かなあ……あ、底に川が流れています。崖っていうか渓谷ですね。廃線になる前は、橋が渡してあったのかもしれません』
+Natsuka : "There's a cliff up ahead... Oh, I can see a river down there. It's more like a ravine or a gorge. Maybe there was a bridge here before the stations on the other side were abandoned?"
+夏夏 : "再往前就是悬崖了吧……啊，下面有水流。说是溪谷应该更贴切吧。在这条铁轨停运之前，说不定那边还架着桥"
+
+リルヤ
+リルヤ : 「だが廃線になり、橋は撤去された……」
+Lilja : "It may have been removed after the line was shut down..."
+丽露娅 : "但是因为铁轨停运，桥也被拆了……"
+
+夏夏
+夏夏 : 『そうみたいです。橋の向こうに、線路の残骸みたいなのも見えますし』
+Natsuka : "It seems that's the case. There appear to be some old tracks on the other side of the gorge as well."
+夏夏 : "应该是了。在溪谷对面，能看到一部分铁轨的残骸"
+
+夏夏
+夏夏 : 『ここが、優さんがいっていたおまじないの場所なんでしょうか……』
+Natsuka : "Do you think this is the 'magic' place Yuu-san was talking about?"
+夏夏 : "这里就是优小姐曾说的与魔咒相关的场所吗……"
+
+リルヤ
+リルヤ : 「リボンは彼女たちにとって重要な意味をもっていた。告白の手段であり、恋の成就の証だった。ならば、そこの意味は明白だ」
+Lilja : "For the students, their uniform ribbons were special. They were a means to confess their feelings and a testimony to the fulfillment of their love. Therefore, the symbolic meaning of that place is clear as day."
+丽露娅 : "缎带对她们而言意义非凡。既是告白的手段，也是代表恋情结果的证明。那么，这里的意义就很明确了"
+
+リルヤ
+リルヤ : 「恋を諦めるための場所。終着点にリボンを結んで、恋を手放した。まさに初恋の墓場だな」
+Lilja : "It's a place to give up love. They must have tied their ribbons to the end of the tracks to symbolize the end of their love. It's like a graveyard of first crushes."
+丽露娅 : "这里是用来让人放弃恋情的地方。在终点处绑下缎带，代表放手这份恋情。正可谓是初恋的坟场啊"
+
+夏夏
+夏夏 : 『でも優さんは埋めたって』
+Natsuka : "But Yuu-san said that she buried something..."
+夏夏 : "但优小姐说自己埋了些什么"
+
+リルヤ
+リルヤ : 「適当に掘ってみろ」
+Lilja : "Try digging into the ground."
+丽露娅 : "那你随便挖挖看吧"
+
+夏夏
+夏夏 : 『えっ、わ、わかりました！』
+Natsuka : "Huh? O-Okay!"
+夏夏 : "咦，我、我知道了！"
+
+夏夏
+夏夏 : 『シャベルは持ってきているので！　今回は、泊まるかもしれないな～って思って、キャンプ道具も持ってきてるんですよ』
+Natsuka : "Luckily, I have a shovel with me! I actually brought all of my camping gear because I thought I might end up spending the night out here."
+夏夏 : "还好把铲子带过来了！　想到这次估计要在这边过夜，我还准备了露营道具呢"
+
+夏夏
+夏夏 : 「さーやりますよ！　わっせわっせ！　――て！　箱が！　箱がいっぱい出てきますよ、リルヤさん！！」
+Natsuka : "All right, I'll start digging! Dig, dig... Whoa, I've unearthed a box! Wait, multiple boxes! There's a ton of them, Lilja-san!!"
+夏夏 : "那么要开挖咯！　嘿咻嘿咻！　——啊！　是盒子！　有好多盒子呢，丽露娅小姐！！"
+
+リルヤ
+リルヤ : 『そうだろうな。ミス優以外にも、恋を諦めるために、箱を埋めた少女たちは、いくらでもいたということだ』
+Lilja : "I figured. Miss Yuu likely wasn't the only person who came to bury their love."
+丽露娅 : "我就知道。这就表明，除了优女士以外，还有很多少女为了让自己死心，把盒子埋了进去"
+
+夏夏
+夏夏 : 「結んだり、埋めたり……とにかく、ここに恋を置いて、そして忘れたかったんですね……」
+Natsuka : "Some ribbons were tied to the tracks, while others got buried... All of these girls must have wanted to forget about their love..."
+夏夏 : "把缎带系上，埋下盒子……也就是把恋心埋进土里，以此来忘记这一切……"
+
+夏夏
+夏夏 : 「優さんも初恋を忘れてしまいたかった。片思いで苦しかったから。だから、初恋の人の顔も忘れてしまった」
+Natsuka : "And Yuu-san was one of them. Her unrequited love made her suffer, so she wanted to forget it. In the end, she even forgot the face of the one she loved."
+夏夏 : "优小姐也想忘记自己的初恋。因为单相思是那么痛苦。于是，她连自己的初恋，那人的长相都忘掉了"
+
+夏夏
+夏夏 : 「今思い返せば些細なことが、どうしようもなく切実だった……」
+Natsuka : "These girls sincerely felt like these seemingly trifling things were matters of grave importance..."
+夏夏 : "现在回想起来不足挂齿的小事，对那时的她而言是那么迫切……"
+
+夏夏
+夏夏 : 「行き止まりの恋、終わってしまった恋、ここに埋めて忘れてしまった……恋」
+Natsuka : "Love that leads to nothing but a dead end... All that love... was buried here."
+夏夏 : "没有未来的恋爱，已经结束的恋爱，以及被埋藏于此抛在脑后的……恋爱"
+
+夏夏
+夏夏 : 「その恋を怖れて、そこから逃げようとしている……優さん？」
+Natsuka : "And Yuu-san... fears that love. Is that what she's running away from?"
+夏夏 : "而优小姐对此感到恐惧，说什么也想从中逃脱……吗？"
+
+夏夏
+夏夏 : 「う～ん……」
+Natsuka : "Hmm..."
+夏夏 : "嗯……"
+
+夏夏
+夏夏 : 「う～～～～～～～～～～ん！」
+Natsuka : "Hmmmmmmmmmm!"
+夏夏 : "嗯～～～～～～～～～～！"
+
+夏夏
+夏夏 : 「リルヤさん、わたしやっぱり、逃避自体が悪いことだとは思えないんですよね」
+Natsuka : "Lilja-san, I still don't think that running away is always a bad thing."
+夏夏 : "丽露娅小姐，我果然还是觉得，逃避本身并不是什么坏事"
+
+夏夏
+夏夏 : 「たとえばですけど、もし、過去に何を埋めたかがわかれば、優さんだって怖がる必要はなくなるかもしれない」
+Natsuka : "I mean, if we could find out what exactly Yuu-san buried in the past, then maybe she wouldn't have to be afraid of it anymore."
+夏夏 : "举个例子，要是想起了过去到底埋下了什么，优小姐说不定也就不会害怕了"
+
+夏夏
+夏夏 : 「でも、ここから優さんが埋めた箱を見つけて、わたしが中身を確かめて……」
+Natsuka : "I could try to find out which one of these boxes is Yuu-san's and see what's inside..."
+夏夏 : "但是，要是我在这里找到了优小姐埋的盒子，然后查看了盒子的内容物……"
+
+夏夏
+夏夏 : 「ほらたいしたことないですよ、全然平気ですよって優さんに見せるのって、どうなんでしょう？」
+Natsuka : "Then I could show it to Yuu-san and tell her that it's not a big deal, and that there's nothing to be afraid of. How about that?"
+夏夏 : "然后对优小姐说，这没什么大不了的，完全没必要害怕，那她会怎么想呢？"
+
+夏夏
+夏夏 : 「でも優さんは、本当は思い出したいのかもしれないんですよね……。じゃないと、ここまで来た意味なんて言わない気がします」
+Natsuka : "But maybe Yuu-san really does want to remember it herself... Otherwise she wouldn't have thought about her coming being meaningless."
+夏夏 : "但是优小姐，其实是想回忆起来的吧……不然她也不会说自己来这里的意义云云了"
+
+夏夏
+夏夏 : 「優さんは過去のこと忘れちゃっていたけれど、無意識でずっともやもやしてたのかもしれない」
+Natsuka : "She may have forgotten what happened in the past, but maybe it still bothered her deep inside all this time."
+夏夏 : "虽然她忘掉了过去，但潜意识还在挣扎"
+
+夏夏
+夏夏 : 「だから、無意識にそれを思い出そうとして、この思い出の場所に来て、何かを思い出しかけた」
+Natsuka : "So she's subconsciously trying to remember it, which may have caused her to come here... And she's close to remembering it."
+夏夏 : "因此，她潜意识中打算回想起这些，来到这个回忆之地，并且即将想起了某些东西"
+
+夏夏
+夏夏 : 「でもやっぱり怖くて、過去から逃げようとしている」
+Natsuka : "But she's still scared, and now she's trying to run away from the past."
+夏夏 : "但是她还是相当害怕，打算逃避过去"
+
+夏夏
+夏夏 : 「わからないから怖い……怖いから逃げたい……でも箱は開いてしまった。ならば、いつかはきっと思い出す……それなら……」
+Natsuka : "She's scared because she doesn't understand... And she's running away because she's scared. But if the box of her memories has been opened already, she'll definitely remember someday."
+夏夏 : "因未知而感到恐惧……因恐惧而想逃避……但是盒子已经打开了。那么她总有一天会想起来……那么……"
+
+夏夏
+夏夏 : 「気が済むまで、逃げられる翼があればいいのに……」
+Natsuka : "I wish people had the wings to fly away from everything until they felt better..."
+夏夏 : "要是拥有助我逃避，直到释然的翅膀该多好呢……"
+
+リルヤ
+リルヤ : 『何だって？』
+Lilja : "What did you say?"
+丽露娅 : "你说什么？"
+
+夏夏
+夏夏 : 「いや、記憶の箱が開きかけてしまったからもう逃げられないって、なんかちょっと嫌だなあって」
+Natsuka : "Nothing... I was just thinking, if the box of her memories has already started to open, there would be no escape anymore. I don't like the idea of that."
+夏夏 : "不是，记忆的盒子打开之后，就再也没法从中逃脱，这种说法，我不是很喜欢"
+
+夏夏
+夏夏 : 「やば！　あいちゃった！　でもたんま！　もうちょっと待って！？　って、どうしてできないんでしょうかね？」
+Natsuka : "It should be like, 'Oh no, it opened! But let's put the lid back on! Just for now!' ...I wonder why it's not possible to do that."
+夏夏 : "不好！　我打开了这个盒子了！　不过先等等！　能再给点时间让我做下心理准备吗！？　——为什么不能这样呢？"
+
+夏夏
+夏夏 : 「いいじゃないですか、そのくらいのフレキシブルさがあっても」
+Natsuka : "It's okay to feel that way. That's the kind of flexibility people should have."
+夏夏 : "稍微通融一下，不也挺好吗"
+
+夏夏
+夏夏 : 「だから、すごい勢いで逃げられるといいなって思ったんですよね」
+Natsuka : "I just think it'd be nice if we are free to run away as fast as we could."
+夏夏 : "我就觉得啊，要是能一溜烟地逃掉就好了"
+
+夏夏
+夏夏 : 「過去の自分からは逃げられない。ってよくいうじゃないですか」
+Natsuka : "Have you ever heard people say, 'You can't escape from your past self'?"
+夏夏 : "大家不是常说嘛，人是逃离不了自己的过去的"
+
+夏夏
+夏夏 : 「もちろん、それはそうだと思います。いつか立ち向かわなくてはならない日はやってくる」
+Natsuka : "Of course, I agree with that. One day, you %i1have%id to face your past."
+夏夏 : "我当然也是这样想的。总有一天，人会被迫直面自己的过去"
+
+夏夏
+夏夏 : 「でもそれは、今じゃなくてもいい。嫌だって思うなら、過去の自分からも、今の自分からも逃げられるすごい翼があればいいなって」
+Natsuka : "But that doesn't have to be %i1now%id. That's why I wish we had wings—so that we could run away from our past and our present selves."
+夏夏 : "但那并不是非得要立刻马上。如果现在不想面对，那么我希望能有一双翅膀，能带我从过去的自己，甚至现在的自己那里逃开"
+
+夏夏
+夏夏 : 「さっきすごい勢いで走ってて思い出したんですけど、自転車でめちゃめちゃ走っていると、忘れちゃうんですよね。色々なことを」
+Natsuka : "When I was running along the train tracks earlier, it reminded me of riding a bicycle. When you're pedaling as fast as you can, your mind just goes blank, and you can forget about everything."
+夏夏 : "在刚刚我拼命奔跑的时候突然想起来了呢，骑着自行车飞奔的话，会忘掉很多东西呢"
+
+夏夏
+夏夏 : 「忘れるというか、どうでもよくなるというか。まあいっかなって思えるようになるんですよ」
+Natsuka : "Maybe 'forgetting' isn't the right word. It's more like you stop caring and nothing matters anymore."
+夏夏 : "其实说是忘掉了，其实是觉得无所谓了。会让我觉得那些事都有点鸡毛蒜皮呢"
+
+夏夏
+夏夏 : 「みなさんは、わたしほど単純じゃないかもしれませんけど、でもずっとずっと逃げていればいつか気が済むんじゃないかなって」
+Natsuka : "Maybe not everyone is as simple as I am, but I feel like if you could keep on running forever, you would eventually just start feeling better."
+夏夏 : "其他的人可能不及我这么单细胞，但我感觉人如果一直逃避下去，总会觉得无所谓的"
+
+夏夏
+夏夏 : 「忘れるんじゃなくて、見て見ぬふりをするのでもなくて、全力で逃げるんです。逃避行です」
+Natsuka : "I don't mean that you should forget or pretend that problems don't exist. The point is to flee as fast as you can."
+夏夏 : "并非遗忘，也不是视而不见，而是拼命逃避。说白了就是逃避之旅吧"
+
+夏夏
+夏夏 : 「ほら、映画でも、何もかもが嫌になって全部忘れたくなった主人公が、海を見に行ったり、なんかすごい田舎に行ったりするじゃないですか」
+Natsuka : "Don't they always do that in movies? When the main character wants to forget their problems, they'll go to look at the ocean, or travel somewhere deep into the countryside."
+夏夏 : "就像电影里那些厌倦一切想要忘记所有的主角，总会跑到海边看海，或者跑去特别偏远的村落"
+
+夏夏
+夏夏 : 「それでなんか色々あって気が済んで帰ってくるじゃないですか。ああいう感じっていうか……いや、ちょっと違うかな？」
+Natsuka : "And after having lots of adventures there, they always come back feeling better. I think that's what it'd be like... Or maybe not really?"
+夏夏 : "结果在那里发生各种事情调整好心态，然后重新回归不是吗。差不多就那种感觉……不，稍微有点不一样吧？"
+
+夏夏
+夏夏 : 「とにかくですよ。怖くて逃げたいなら、逃げた方がいいんですよ。立ち向かわなくていいんです」
+Natsuka : "Anyway, if you're so scared that you want to run away, then you should just run. There's no need to face all your troubles head-on right now."
+夏夏 : "反正啊。要是觉得害怕，就该撒腿就跑呢。不需要勉强自己直面恐惧"
+
+夏夏
+夏夏 : 「逃げられるうちは、逃げて、逃げて、逃げて……どこまでも逃げて、どこまでも飛んでいけるような翼があればいいんですよ」
+Natsuka : "Keep running away for as long as you can, as far as you can... All you'd need is a pair of wings."
+夏夏 : "趁着还能逃避的时候，逃着，逃着，逃着……逃到天涯海角，为此，要是有双能飞到任何地方的翅膀就好了"
+
+夏夏
+夏夏 : 「でもそれって、すごくエネルギーがいると思うんですよね？　全身全霊をかけて全力疾走で逃げるわけですから」
+Natsuka : "Oh, but I guess you'd need a lot of energy, too. You'll be dedicating your entire body and soul to running."
+夏夏 : "但是这样做，应该也特别费力吧？　因为要驱使自己全身的力气飞奔嘛"
+
+夏夏
+夏夏 : 「だから――そう！　そうです！　片翼よりもふたつの翼があった方がいいんですよ！」
+Natsuka : "That's why... Right, I know! One pair of wings wouldn't be enough. You'd need two pairs!"
+夏夏 : "所以——没错！　就是这样！　比起单翼，两个翅膀要更好呢！"
+
+リルヤ
+リルヤ : 『……比翼連理か』
+Lilja : "Like a pair of lovebirds?"
+丽露娅 : "……所谓比翼连理么"
+
+夏夏
+夏夏 : 「そうです！　ひとつの目、ひとつの翼じゃあ、どっちかがいなくなったら飛べなくなっちゃう」
+Natsuka : "Right! A pair of wings and a pair of eyes just aren't enough to keep on going!"
+夏夏 : "没错！　只有一只眼睛，只有一个翅膀，那么失去了任意一方就再也飞不起来"
+
+夏夏
+夏夏 : 「そんなんじゃ逃げられない！　好きな人を怖いことから逃がすことができない！」
+Natsuka : "It's not enough to run away! And it's not enough to protect the one you love, either."
+夏夏 : "那样就根本逃避不了！　无法把自己喜欢的人带离恐惧！"
+
+夏夏
+夏夏 : 「でも、どっちもふたつの目と翼をもっていたら、どんどん飛んでいけると思うんですよね！！」
+Natsuka : "But if you could share two pairs of eyes and two pairs of wings with someone, I think you'd be able to fly as far as you wanted!"
+夏夏 : "但是，如果两只鸟都有一双眼睛和一双翅膀，那么就可以随心所欲地飞翔了！！"
+
+夏夏
+夏夏 : 「疲れたら支え合えるように、全力で飛ぶときにはふたりで思いっきり飛べるように、好きなひとが逃げたいならその力になれるように」
+Natsuka : "You could support each other when you get tired, and then fly again with all your might. Then you could help the person you love escape, too."
+夏夏 : "累了可以两人互相支撑，想全力以赴的时候都可以尽情翱翔，要是喜欢的人想要逃避也能成为助力"
+
+夏夏
+夏夏 : 「ふたりで逃げて逃げて逃げまくって、世界の果てまでいっちゃって、それで気が済んだら……」
+Natsuka : "You could run away together, all the way to the end of the world! And then, once you feel better..."
+夏夏 : "两人逃呀逃，逃到天涯海角，最后要是能释怀……"
+
+夏夏
+夏夏 : 「そうしたら、逃げたかったことにもちょっとは立ち向かえるかもしれない。なんかわかんないけど、そう思うんです」
+Natsuka : "Perhaps then you'll be able to face the problem you wanted to run away from. I don't %i1know%id that, but I can %i1feel%id it."
+夏夏 : "那么到时候，也差不多能直面自己所逃避的事物了吧。我不是很懂，但是这样想的"
+
+リルヤ
+リルヤ : 『支離滅裂だな』
+Lilja : "Your ramblings are rather incoherent."
+丽露娅 : "真是语无伦次啊"
+
+夏夏
+夏夏 : 「で、ですよね～？」
+Natsuka : "I-I know..."
+夏夏 : "我、我猜也是～？"
+
+リルヤ
+リルヤ : 『しかも自分で何をいっているかも理解してない』
+Lilja : "You don't seem to understand what you're talking about yourself."
+丽露娅 : "而且你连自己在说什么都没有理解"
+
+夏夏
+夏夏 : 「うっ、ちょっとだけ図星！」
+Natsuka : "Ah... You're kinda right about that!"
+夏夏 : "呜，有点被说中了！"
+
+リルヤ
+リルヤ : 『だが、それでいい。お前は私の目と足であり、考えるのは私の役目だ』
+Lilja : "It's all right, though. You're my eyes and my legs. Thinking is my job."
+丽露娅 : "不过，这样就好。你是我的眼睛与双腿，思考这些是我的职责"
+
+リルヤ
+リルヤ : 『お前は私の目と足。お前がその足で歩き、その目で見たものすべてが『声』となって私の中で鳴り響き、この暗闇を切り裂く『光』となる』
+Lilja : "You are my eyes and my legs. The distances you travel and the sights you witness, transmitted to me by your very own voice, resound within me to become the light that cuts through my darkness."
+丽露娅 : "你是我的眼睛与双腿。你用双腿行走于地，你的双眼所见之物均化为‘声音’回响于我之中，而这将会成为撕裂黑暗的‘光芒’"
+
+夏夏
+夏夏 : 「えっ、それってつまり……？」
+Natsuka : "Huh? What does that mean?"
+夏夏 : "咦，这也就是说……？"
+
+リルヤ
+リルヤ : 『我が鳩は、橄欖の葉を携えり。あとは――私の仕事だ』
+Lilja : "My little dove has brought me an olive leaf! It's now my turn to take care of the rest."
+丽露娅 : "我的白鸽，已将橄榄叶带回我的身边。之后——就是我的工作了"
+

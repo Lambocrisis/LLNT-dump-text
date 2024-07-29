@@ -6,36 +6,40 @@ save_path = './parsed'
 if not os.path.exists(dir):
     os.mkdir(dir)
 
+def process(text):
+    
+    name0 = str(text[0])
+
+    name1 = str(text[1][0][0])
+    if name1 == "None":
+        name1 = str(text[0])
+    stc1 = str(text[1][0][1])
+
+    name2 = str(text[1][1][0])
+    if name2 == "None":
+        name2 = str(text[0])
+    stc2 = str(text[1][1][1])
+
+    name3 = str(text[1][2][0])
+    if name3 == "None":
+        name3 = str(text[0])
+    stc3 = str(text[1][2][1])
+
+    return name0 + '\n' + name1 + " : " + stc1+'\n' + name2+ " : " + stc2+'\n' + name3 + " : " + stc3 + '\n'
+
 def parse(filename):
-    completeName = os.path.join(save_path, filename + ".txt")
+    baseName = os.path.splitext(os.path.splitext(filename)[0])[0]
+    completeName = os.path.join(save_path, baseName + ".txt")
     with open(filename, 'r', encoding = 'utf-8') as json_file:
         data = json.load(json_file)
     createFile = open(completeName, 'w', encoding = 'utf-8')      
     scnLength = (len(data['scenes']))
     for texts in range(scnLength):
         try:
-        #    llnt = ""
             for i in range(len(data['scenes'][texts]['texts'])):
                 scns = data['scenes'][texts]['texts'][i]
-        #        for r in range(len(scns)):
-        #            name = scns[r][0]
-        #            name_jp = scns[r][1][0][0]
-        #            name_en = scns[r][2][0][0]
-        #            name_cn = scns[r][3][0][0]
-        #            text_jp = scns[r][1][1][0]
-        #            text_en = scns[r][2][1][0]
-        #            text_cn = scns[r][3][1][0]
-        #            oneline = (
-        #                    f"name: {name}\n"
-        #                    f"name_jp: {name_jp}\n"
-        #                    f"text_jp: {text_jp}\n"
-        #                    f"name_en: {name_en}\n"
-        #                    f"text_en: {text_en}\n"
-        #                    f"name_cn: {name_cn}\n"
-        #                    f"text_cn: {text_cn}\n\n"
-        #                )
-        #            llnt += oneline
-                createFile.write(str(scns) + "\n")
+                rslt = process(scns)
+                createFile.write(rslt + "\n")
         except KeyError:
             pass
 

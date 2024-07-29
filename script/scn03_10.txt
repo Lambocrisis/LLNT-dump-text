@@ -1,0 +1,385 @@
+夏夏
+夏夏 : 「それでは、ベッドに降ろしますね～、よっ……と」
+Natsuka : "Okaaay, I'm gonna set you down on the bed now..."
+夏夏 : "那我就把您放床上了哦～嘿……咻"
+
+リルヤ
+リルヤ : 「ありがとう」
+Lilja : "Thank you."
+丽露娅 : "谢谢"
+
+夏夏
+夏夏 : 「どういたしまして、です！」
+Natsuka : "You're so very welcome!"
+夏夏 : "不用谢！"
+
+リルヤ
+リルヤ : 「……実際、感心している。お前は小柄なのに、随分と軽々と私を抱きあげるのだな」
+Lilja : "...I'm quite impressed. You seem so thin, but you carried me as though I were light as a feather."
+丽露娅 : "……其实我还挺意外的。你明明这么娇小，没想到能这样轻松地抱起我"
+
+夏夏
+夏夏 : 「力持ちなんで！　車椅子ごと持ちあげることだってできますよ！」
+Natsuka : "That's 'cause I'm strong! I could even carry you %i1and%id your wheelchair at the same time!"
+夏夏 : "我力气可大啦！我可以连着轮椅一起抱起来哦！"
+
+夏夏
+夏夏 : 「それにリルヤさんは、妖精みたいに軽かったので！　全然らくらくでした」
+Natsuka : "Besides, you're as light as a fairy anyway! So it was like nothing at all."
+夏夏 : "而且丽露娅小姐，您跟妖精一样轻盈！抱起来小菜一碟啦"
+
+リルヤ
+リルヤ : 「もうすこし筋肉をつけるか」
+Lilja : "Perhaps I should do some more muscle training."
+丽露娅 : "我要不要多锻炼一下肌肉呢"
+
+夏夏
+夏夏 : 「それもいいですね、筋トレのバイトもしたことあるので、リルヤさんがやりたいときにはおまかせください！」
+Natsuka : "That could be fun! I help with muscle training at one of my jobs, so if you'd ever like to work out, you know who to call!"
+夏夏 : "这也挺好的呀，我也做过健身的兼职，如果丽露娅小姐有想法的话那个时候就交给我吧！"
+
+リルヤ
+リルヤ : 「そうだな。そのときはよろしく頼む」
+Lilja : "I see. Well, I'll be counting on you then."
+丽露娅 : "是啊。到时候就拜托你了"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "And I'll be there!"
+夏夏 : "好的！"
+
+リルヤ
+リルヤ : 「…………（うと）」
+Lilja : "*nod*..."
+丽露娅 : "…………（眼困）"
+
+夏夏
+夏夏 : （眠いんですね……ずっとプールにいましたしね……けっこう体力つかうんですよね……水の中は……）
+Natsuka : (Lilja-san must be sleepy... Makes sense. She's been in the pool this whole time... It definitely uses up a lot of stamina, being in the water like that...)
+夏夏 : （她好困呢……毕竟一直都在泳池里嘛……应该消耗了不少体力吧……在水里……）
+
+夏夏
+夏夏 : 「おやすみなさい、リルヤさん」
+Natsuka : "Good night, Lilja-san."
+夏夏 : "晚安，丽露娅小姐"
+
+リルヤ
+リルヤ : 「ああ……おやすみ」
+Lilja : "Yes... Good night."
+丽露娅 : "嗯……晚安"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （寝ちゃいました……）
+Natsuka : (She's fast asleep...)
+夏夏 : （睡着了……）
+
+夏夏
+夏夏 : （寝顔を見るのは、はじめてですね……）
+Natsuka : (This is the first time I've ever seen her sleeping...)
+夏夏 : （我还是第一次看见她的睡脸……）
+
+夏夏
+夏夏 : （子どもみたいなお顔をして眠るんですね……）
+Natsuka : (She almost looks like a little kid...)
+夏夏 : （睡觉的时候表情就像个孩子一样……）
+
+夏夏
+夏夏 : （あ、指が布団から出てますね……そっとしまいましょう）
+Natsuka : (Oh, her finger's sticking out from under the covers... Lemme just fix that.)
+夏夏 : （啊，手指露到被子外面了呢……轻轻给她盖上吧）
+
+夏夏
+夏夏 : （わ、握られちゃいました……！？）
+Natsuka : (Whoa! She just grabbed me!)
+夏夏 : （哇，握上来了……？！）
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+夏夏
+夏夏 : （えっ、えっと、寝てます？　起きてます？）
+Natsuka : (Uhh... Umm... She %i1is%id asleep, right? Or is she still awake?)
+夏夏 : （哎？　这是，睡着了？　还是醒了？）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （……寝てますね）
+Natsuka : (Nope, she's definitely asleep.)
+夏夏 : （……睡着了呢）
+
+夏夏
+夏夏 : （赤ちゃんみたいなこと、するんですね。なんだか可愛いです）
+Natsuka : (Even Lilja-san can be pretty babyish when she sleeps. She's so cute.)
+夏夏 : （做的事情像个小婴儿一样呢。感觉好可爱呀）
+
+夏夏
+夏夏 : （リルヤさんの指、ひんやりしてると思いましたけど、ほんのすこしだけあったかくて……安心します）
+Natsuka : (I thought her finger would be cool to the touch, but there's just the slightest warmth to it... It's really calming.)
+夏夏 : （丽露娅小姐的手指，我还以为会是冰凉凉的，结果还是稍微有点热度的……很让人安心）
+
+夏夏
+夏夏 : （なんだか、こういう時間、久しぶりです。誰かの寝顔を見ながら、夜をすごすのは……）
+Natsuka : (It's been ages since I've done something like this. Spending the night watching over someone as they sleep...)
+夏夏 : （总觉得，这样的时光，好久没有遇到过了。看着谁的睡脸，度过夜晚……）
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : （さっきは、全然違うっていっちゃいましたけど、全然重ねてないといえば嘘になっちゃうんでしょうね……）
+Natsuka : (I did say Lilja-san and my sister were nothing alike before, but that doesn't mean I've never compared them...)
+夏夏 : （虽然我刚刚说，完全是不一样的，但是如果要说完全没有重叠的话实在难说是句实话啊……）
+
+夏夏
+夏夏 : （でも、やっぱり全然違うんです）
+Natsuka : (But when I think about it, they really %i1are%id nothing alike.)
+夏夏 : （但是，果然是完全不一样的）
+
+夏夏
+夏夏 : （リルヤさんは、わたしを見てくれている。わたしという存在と向き合ってくれている）
+Natsuka : (Lilja-san looks at %i1me%id. She faces me, Utsugi Natsuka, as a human being.)
+夏夏 : （丽露娅小姐会看着我。会面对我这个人）
+
+夏夏
+夏夏 : （お姉ちゃんの傍にいるときのわたしは、何も考えないで、ただお姉ちゃんのいうとおりにすればよくて……）
+Natsuka : (When I was with my sister, I didn't have to think about anything. I'd just do whatever she told me.)
+夏夏 : （在姐姐身边的时候，我什么都不会考虑，只是对姐姐言听计从而已……）
+
+夏夏
+夏夏 : （わたしとお姉ちゃんの境目がよくわかっていなくて……）
+Natsuka : (It was like I couldn't tell where my sister ended and I began.)
+夏夏 : （我不知道自己跟姐姐的分界线在哪里……）
+
+夏夏
+夏夏 : （でも、リルヤさんといると、わたしがここにいるんだってすごく感じます。わたしの存在を感じます）
+Natsuka : (But when I'm with Lilja-san, I really feel like I'm %i1here%id. Like I really exist as my own person.)
+夏夏 : （但是，和丽露娅小姐在一起的时候，我会感觉此时此刻我就在这里。我能感受到自己的存在）
+
+夏夏
+夏夏 : （リルヤさん、わたしはここにいますか？）
+Natsuka : (Lilja-san... Am I really here?)
+夏夏 : （丽露娅小姐，我在这里吗？）
+
+夏夏
+夏夏 : （わたしとリルヤさんの指と指……つないだ指先から感じるリルヤさんの体温……）
+Natsuka : (Lilja-san's fingers are intertwined with mine... I can feel her warmth through the tips of her fingers...)
+夏夏 : （我和丽露娅小姐交织在一起的手指……从她的指尖能够感受到丽露娅小姐的体温……）
+
+夏夏
+夏夏 : （ああ……わたしは、ここにいるんですね）
+Natsuka : (Yeah... I really am here.)
+夏夏 : （是啊……我就在这里啊）
+
+夏夏
+夏夏 : （わたしがわたしでいるって知れること……わたしがわたしを感じられること……）
+Natsuka : (I know that I really am here... I know that I really am my own person...)
+夏夏 : （我能够知道我在这里……我能够感觉到我是我自己……）
+
+夏夏
+夏夏 : （今はそれがとても――嬉しい）
+Natsuka : (And that makes me... so very happy...)
+夏夏 : （现在这让我非常地——开心）
+
+夏夏
+夏夏 : 「……（うと）」
+Natsuka : "*nod*..."
+夏夏 : "……（眼困）"
+
+夏夏
+夏夏 : （わたしも眠くなってきました……部屋に、戻らないと……）
+Natsuka : (Oh jeez, I'm getting pretty sleepy too... I should get back to my room.)
+夏夏 : （我也有点困了……得赶快，回房间去……）
+
+夏夏
+夏夏 : （でも、リルヤさんの指……ほどきたくないな……）
+Natsuka : (But Lilja-san's still holding onto me... I don't want to let go...)
+夏夏 : （但是，我不想松开……丽露娅小姐的手……）
+
+夏夏
+夏夏 : （もう少しだけ、このままで……）
+Natsuka : (Maybe I'll stay for just a little bit longer...)
+夏夏 : （再稍微，这样待一会……）
+
+夏夏
+夏夏 : （もう、すこしだけ……この……ままで……）
+Natsuka : (Just a little... bit... longer...)
+夏夏 : （再待会……就……这样……）
+
+夏夏
+夏夏 : 「ふわあ……よく寝ました」
+Natsuka : "Fwahh... Wow, I slept great!"
+夏夏 : "哈……睡得真舒服"
+
+夏夏
+夏夏 : （ってここ、リルヤさんのお部屋……？　ああ、そうでした。昨日はあのまま、眠っちゃったんでした）
+Natsuka : (Wait, isn't this Lilja-san's room...? Oh, right. I wound up falling asleep like that.)
+夏夏 : （哎这里，是丽露娅小姐的房间吗……？啊，对了。我昨天就那样睡着了啊）
+
+夏夏
+夏夏 : （リルヤさんよく眠ってますね……）
+Natsuka : (Lilja-san's a really heavy sleeper, isn't she?)
+夏夏 : （丽露娅小姐睡得很熟呢……）
+
+夏夏
+夏夏 : （あ、指……まだほどけてなかったんですね……）
+Natsuka : (She's still holding onto me, too...)
+夏夏 : （啊，手……还没有松开呢……）
+
+夏夏
+夏夏 : （起こさないようにそうっと……）
+Natsuka : (Let's see if I can get away without waking her up...)
+夏夏 : （动作轻点别吵醒她了……）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「朝、か……」
+Lilja : "Morning already...?"
+丽露娅 : "早上了，吗……"
+
+夏夏
+夏夏 : （あっ、しまったです……起こしちゃいま――）
+Natsuka : (Aww, shoot... Guess I woke her up...)
+夏夏 : （啊，糟糕了……把她弄醒了——）
+
+リルヤ
+リルヤ : 「おはよう、夏夏」
+Lilja : "Good morning, Natsuka."
+丽露娅 : "早上好，夏夏"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （言葉が出ない……）
+Natsuka : (I can't speak...)
+夏夏 : （说不出话……）
+
+夏夏
+夏夏 : （今、この瞬間、胸にこみあげるこの気持ちを――言葉にできない）
+Natsuka : (The feelings welling up inside me are so strong, I can't... I can't speak.)
+夏夏 : （现在，在这一瞬间，涌上我心头的感觉——难以言表）
+
+リルヤ
+リルヤ : 「……どうした、夏夏」
+Lilja : "...Is something the matter, Natsuka?"
+丽露娅 : "……怎么了吗，夏夏"
+
+夏夏
+夏夏 : 「……あ、のっ、わたし」
+Natsuka : "Um, er... I..."
+夏夏 : "……那、个、我"
+
+リルヤ
+リルヤ : 「泣くな、夏夏」
+Lilja : "There's no need to cry."
+丽露娅 : "别哭啊，夏夏"
+
+夏夏
+夏夏 : 「……えっ？　泣いてないですよ、ほら」
+Natsuka : "...Huh? I'm not crying. See?"
+夏夏 : "……哎？我没哭啊，你看"
+
+夏夏
+夏夏 : 「ね？」
+Natsuka : "See?"
+夏夏 : "是吧？"
+
+リルヤ
+リルヤ : 「そうか……」
+Lilja : "Is that so..."
+丽露娅 : "是吗……"
+
+リルヤ
+リルヤ : 「そうだな」
+Lilja : "I suppose it is."
+丽露娅 : "是啊"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "嗯！"
+
+夏夏
+夏夏 : （リルヤさんありがとう）
+Natsuka : (Thank you, Lilja-san.)
+夏夏 : （丽露娅小姐谢谢您）
+
+夏夏
+夏夏 : （わたしにおはようっていってくれて、ありがとう）
+Natsuka : (Thank you for saying good morning to me.)
+夏夏 : （谢谢您跟我说早上好）
+
+夏夏
+夏夏 : （わたしの名前を呼んでくれて、ありがとう）
+Natsuka : (Thank you for saying my name.)
+夏夏 : （谢谢您用名字称呼我）
+
+夏夏
+夏夏 : （ただそれだけのことが……）
+Natsuka : (I never knew something so simple...)
+夏夏 : （仅此而已我就……）
+
+夏夏
+夏夏 : （こんなにも嬉しい）
+Natsuka : (...Could make me this happy.)
+夏夏 : （开心得不得了了）
+
+夏夏
+夏夏 : （世界の中心にリルヤさんがいます）
+Natsuka : (Lilja-san is right there in the center of my world.)
+夏夏 : （丽露娅小姐在世界的中心）
+
+夏夏
+夏夏 : （リルヤさんがそこにいるだけで、世界はとてもキラキラして、すごくきれいで……）
+Natsuka : (With Lilja-san there, the world around me shimmers so beautifully...)
+夏夏 : （丽露娅小姐只是在那里，世界就变得闪闪发光，非常美丽……）
+
+夏夏
+夏夏 : （昨日と同じ世界なのに、すべてが輝いて見えます）
+Natsuka : (Even though it's the same world I saw yesterday, it's like everything is glowing.)
+夏夏 : （明明跟昨天是同样的世界，一切却变得耀眼起来了）
+
+夏夏
+夏夏 : （ああ……）
+Natsuka : (Wow...)
+夏夏 : （这样啊……）
+
+夏夏
+夏夏 : （わたし、わかっちゃいました）
+Natsuka : (I think I get it now.)
+夏夏 : （我明白了）
+
+夏夏
+夏夏 : （リルヤさんのお祖母様がいっていた心震わせるものがなんなのか、わかっちゃいました）
+Natsuka : (I think I get what Lilja-san's grandmother wanted her heart to be moved by.)
+夏夏 : （我现在终于明白，丽露娅小姐的外婆所说的震撼内心之物是什么了）
+
+夏夏
+夏夏 : （リルヤさん、わたし……頑張ります！）
+Natsuka : (I'll do my very best, Lilja-san!)
+夏夏 : （丽露娅小姐，我……会加油的！）
+
+夏夏
+夏夏 : （自分史上、最高に心が震えたこの感動を、リルヤさんに語ってみせます！　リルヤさんの心を震わせるために！！）
+Natsuka : (I'm going to tell you all about the thing that touched my heart more than anything I've ever felt! And maybe that will move you too!)
+夏夏 : （我要把在我过往的人生中，最震撼的内心的感动，讲述给丽露娅小姐听！为了能让丽露娅小姐的内心也受到震撼！！）
+

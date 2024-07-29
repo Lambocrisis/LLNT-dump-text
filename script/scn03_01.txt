@@ -1,0 +1,815 @@
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+None
+None : 暗く、ガランとした何もない部屋に、少女がひとり座っている。少女は目を閉じ、スピーカーからの音に耳を傾けている。
+None : A girl sits alone in a dark, empty room. She closes her eyes and listens to the sounds coming from her speakers.
+None : 一名少女独自坐在昏暗空旷的房间里。她闭着眼睛，倾听着从音响中传来的声音。
+
+None
+None : 全部で１０台あるスピーカーから、様々な声が流れてくる。
+None : There are ten speakers in total, each with different voices coming from them.
+None : 总计10台的音响中，传出了各种各样的声音。
+
+None
+None : つづきましては、クローズアップです。今日は世界が注目する、日本のスパイスを使った蒸留酒です。
+None : "Coming up next, it's %i1Close-Up%id. Today, we're going to introduce you to a liquor that uses Japanese spices and has gotten everyone's attention these days!"
+None : "接下来让我们拉近镜头。今天为大家带来的是世界瞩目的，使用了日本香料的蒸馏酒。"
+
+None
+None : クロモジ、山椒、柚子などの、日本独特の香りをつけたジンが世界で注目されるようになり……
+None : "This gin is taking the world by storm with its fundamentally Japanese scents of spicebush, Japanese peppers, and yuzu..."
+None : "加入了具有日本独特香味的大叶钓樟、山椒、柚子等香料的金酒开始受到全世界的关注……"
+
+None
+None : え、水飴って砂糖は使ってないんですか？　色がついてるのは食べたことあるけど……んお？　やわらかひ～おいひぃ～。
+None : "Wait, so %i1mizuame%id doesn't contain sugar? I've had the colored versions before, but... Mmm!? Thish ish sho shoft and yummy!"
+None : "哎？水饴里是没有加白砂糖的吗？我以前吃过有颜色的……嗯嗯？好软啊～好吃～"
+
+None
+None : とろとろしてて、甘さがあっさりしてて……料理にも使えるんですか、そっか～買って帰ろ。
+None : "It's got just the right amount of sweetness, and it just melts in your mouth... Wow, so you can use it for cooking, too? I'll have to buy some on my way home!"
+None : "吃起来黏黏的，甜味也很清香……做菜的时候也可以用吗，这样啊～那我买点回去吧"
+
+None
+None : ある日の暮方の事である。一人の下人が、羅生門の下で雨やみを待っていた。
+None : "One evening, a lone man came to stand under the Rashomon gate in Kyoto to escape the rain."
+None : "话说一天黄昏时分，有个仆役在罗生门下等待雨住。"
+
+None
+None : 広い門の下には、この男のほかに誰もいない。ただ、所々丹塗の剥げた、大きな円柱に、蟋蟀が一匹とまっている。
+None : "There was nobody other than him under the large gate. Nobody except a lone cricket, which had come to rest on one of the large, flaked-off red pillars."
+None : "宽阔的门下，此人孑然一身。朱漆斑驳的硕大圆柱上，唯独落着一只蟋蟀。"
+
+None
+None : さてさて、お気に入りのキャンプ場に到着です。今日は車中泊なので、テントを張る必要はないのですが……
+None : "Awrighty, we've gotten to the campsite I like. We're gonna camp out in the car today, so we don't need to set up a tent or anything."
+None : "好，现在我到了这个选好的露营地。今天住在车子里，就不用搭帐篷了……"
+
+None
+None : 車の中で心地よくすごせるように、ちょっとしたアイテムを買ってきましたので紹介しようと思います。
+None : "That being said, I actually bought a little something to make camping in the car more comfortable. Lemme tell you all about it!"
+None : "为了能在车中舒适地度过一宿，我买了些东西，给大家介绍一下"
+
+None
+None : はい、ここを決めると、かなりの短縮になるので、はい、いけました。
+None : "Right, so when you get here, you can really speed through. See? Done."
+None : "好，如果选择这里的话，能够节省很多时间，好，做到了。"
+
+None
+None : 空中で樽を投げて、空中で被弾、ここでこのタイミングでここに投げると、はい、ワープしました。それで、ここでローリングっと……
+None : "Throw the barrel while in midair, then shoot it, and if you time it just right when you throw it... Check it. We managed to warp to a new area. So now, we're gonna roll..."
+None : "在空中投掷木桶，在空中被击，这里在这个时候往这里丢过去的话，好，传送了。然后，在这里翻滚……"
+
+None
+None : ニュースを読み上げる冷静な声。旅番組を進行する弾んだ声。読みあげソフトの朗読の落ち着いた声。
+None : A collected voice reading the news. An energetic voice introducing local specialties on a travel show. A calm text-to-speech voice reading a story.
+None : 新闻播报时平静的声音。旅行节目进行时兴奋的声音。语音软件朗读时沉着的声音。
+
+None
+None : 配信でソロキャンプを楽しむ声。ゲームを実況する淡々とした声……。
+None : A stream of someone excitedly going camping. A bored voice doing a Let's Play of a game.
+None : 单人露营直播时欢快的声音。游戏实况解说时轻松的声音……
+
+None
+None : 歌、演技、笑い、驚き、説明、主張、感激、涙――声で紡がれる言葉という情報の群体が、少女の部屋に響いて、跳ねて、渦巻く。
+None : Songs. Performances. Laughter. Surprise. Explanations. Debates. Inspiration. Tears. A right colony of information, voices spinning words into tales, resound and bounce and swirl around the girl's room.
+None : 歌曲、表演、欢笑、惊吓、说明、主张、感激、哭泣——由声音所编织而成的语言所构成的信息集群，在少女的房间中响彻着，跳跃着，回旋着。
+
+None
+None : ほっそりとした白い指が、ピアノの鍵盤を打つように車椅子のソフトキーを操作する。ソフトキーは１０台のスピーカーと連動している。
+None : Her slender white fingers operate the softkeys on her wheelchair as though they were keys of a piano. Each softkey is connected to one of the ten speakers.
+None : 纤细白皙的手指像敲打着钢琴琴键般操作着轮椅上的软键盘。软键盘同时连接着10台音响。
+
+None
+None : 指が優美に動くたびに、スピーカーの声が切り替わっていく。絡み合う声の群を糸のように選り分け、少女は求める情報を探していく。
+None : Every delicate movement of her fingers would switch a voice on one of the speakers. She deftly sifts through the cacophony of voices to find the information she so desires.
+None : 每当手指优雅地舞动起来，音响里的声音也会随之切换。少女将缠绕在一起的声音集合如同丝线一般挑出，找寻着她所需要的信息。
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+None
+None : 少女の目が細くひらく。
+None : The girl's eyes widen.
+None : 少女微微睁开了眼睛。
+
+夏夏
+ひとつの声 : 『わたし、今、見ています』
+Voice : "You should see what I see right now."
+一个声音 : "我现在，正看着"
+
+夏夏
+ひとつの声 : 『空から沢山の星が落ちてきているのを見ています……！！』
+Voice : "I'm watching tons of stars falling from the sky!"
+一个声音 : "我正看着从天上落下的繁星……！！"
+
+夏夏
+ひとつの声 : 『しゅっしゅって、夜空に細い線が光のナイフみたいに入っています、あれが流星なんですね』
+Voice : "It's like a knife is cutting these tiny lines of light through the night sky. So that's what a shooting star is, huh?"
+一个声音 : "咻咻地，细细的线条如同光做的小刀一般划过夜空，那就是流星吧"
+
+None
+None : 声と言葉の奔流のなかで、少女の耳にずっと残りつづける声がある。
+None : Among the constant stream of words and voices, one voice stands out among the rest.
+None : 在声音与话语的流淌中，有个声音一直停留在少女的耳畔。
+
+夏夏
+ひとつの声 : 『あたりは真っ暗で、夜とわたしと星しかないみたいです。すごい……世界ってすごいです……！』
+Voice : "It's pitch black around here, so it's like it's just me and the stars here. It's incredible... This world is so amazing!"
+一个声音 : "周围伸手不见五指，仿佛这个世界上只有夜晚、我和星星一般。好神奇……这个世界真是太神奇了……！"
+
+夏夏
+ひとつの声 : 『空ってこんなに大きいんですね、星ってこんなに光るんですね、星ってこんなに沢山、光りながら落ちてくるんですね』
+Voice : "It's like, the sky really is enormous. The stars really can shine this bright. There really are this many stars, and they really can fall, shining all the way!"
+一个声音 : "天空居然能这么大，星星居然能这么亮，居然会有这么多星星发着光落下来呢"
+
+夏夏
+ひとつの声 : 『何もかも自分で決めて、ここまで来て、ずっとここで星を見ています……そうか、自由ってこんな感じなんですね……』
+Voice : "This was all my choice. I decided to come out here and watch the stars this whole time... Yeah. This is what it really means to be free, huh...?"
+一个声音 : "自己决定了一切，跑到这里来，在这里一直看着星星……这样啊，原来这就是自由的感觉啊……"
+
+None
+None : 少女の指がなめらかに車椅子の表面をすべり、すべての音が消えた。
+None : The girl strokes the surface of her wheelchair with her finger, and all the sound disappears.
+None : 少女的手指在轮椅的表面上轻轻滑动，所有的声音都随即消去。
+
+リルヤ
+リルヤ : 「決めた」
+Lilja : "I've made my choice."
+丽露娅 : "我决定了"
+
+夏夏
+夏夏 : 「すっ……」
+Natsuka : "Whoa..."
+夏夏 : "好……"
+
+夏夏
+夏夏 : 「すっっっっっごい立派なマンションです！！！」
+Natsuka : "Holy ravioli!"
+夏夏 : "好豪华的公寓啊！！！"
+
+夏夏
+夏夏 : （こんな立派なマンションで働けるかもしれないなんて、わたしってばすごいラッキーなのでは！？）
+Natsuka : (How super lucky do I have to be to have the opportunity to maybe possibly work in a swanky condo like this!?)
+夏夏 : （居然能有机会在这么豪华的公寓里工作，难不成说其实我运气相当好？！）
+
+夏夏
+夏夏 : （これはもうめちゃくちゃ頑張るしかないですね！）
+Natsuka : (I better work my butt off to make this work!)
+夏夏 : （这下不拼命工作可不行了啊！）
+
+夏夏
+夏夏 : （いろんなバイト派遣に登録しておいてよかったです！！　ねこのて家政婦紹介所の担当のおねーさんにも、大大大感謝です！）
+Natsuka : (Boy, am I ever glad I applied to as many places as I could! I've gotta thank the heck outta that nice lady at the Kittypaw Housekeeping Agency too!)
+夏夏 : （登记了各种外派的兼职真是太对了！！实在是太太太感谢猫爪保姆介绍所当班的大姐姐了！）
+
+夏夏
+夏夏 : （おねーさんから、あらかじめ向こうでわたしの身辺調査をするけど大丈夫かって聞かれたのはちょっとびっくりでしたが……）
+Natsuka : (I was kinda shocked when she asked if I was cool with the employer already doing a background check on me...)
+夏夏 : （大姐姐当时一本正经地跟我说，那边要对我进行社会关系调查，问我介不介意的时候我还吓了一跳……）
+
+夏夏
+夏夏 : （そこまできちんと調べるってことは、やんごとないお立場の方なんでしょうか？）
+Natsuka : (But the fact they're going that far has to mean this person's like, super high class, right!?)
+夏夏 : （需要这么仔细的调查，对方的身份应该也很尊贵吧？）
+
+夏夏
+夏夏 : 「んぎゅっ」
+Natsuka : "Oof..."
+夏夏 : "唔哎……"
+
+夏夏
+夏夏 : （あはは、さすがに、まるっと一日食べてないと、おなかの音も盛大ですねえ）
+Natsuka : (Haha... My stomach's making some pretty showy sounds to match. Guess that's what I get for missing a whole day of eating.)
+夏夏 : （啊哈哈，不管怎么说一整天没吃饭，肚子的叫声也小不了啊）
+
+夏夏
+夏夏 : （これから面接と採用テストをするそうですが、今日もバイト代はいただけるそうです。と、いうことは……）
+Natsuka : (But I'm supposed to have a working interview here, so I'll be getting a bit of pay for that. And that means...)
+夏夏 : （接下来好像还要进行面试和入职测试，不过今天应该也能拿到工钱。也就是说……）
+
+夏夏
+夏夏 : （ご飯が食べられる！！！　すごい！！　ありがたい！！　まだお顔も知りませんが雇い主さん、ありがとうございます！）
+Natsuka : (I'll finally get to eat! I'm so, so grateful! I don't know who you are yet, but I could kiss you right now, Employer-san!)
+夏夏 : （有饭吃了！！！太棒了！！感谢！！虽然还没见过面但是谢谢您，我的雇主！）
+
+夏夏
+夏夏 : （しかも採用されたら、住み込みで働けるそうですよ！？　もはや神様では！？）
+Natsuka : (And if they decide to hire me, I'll be a live-in worker! Like, are they an angel, or what!?)
+夏夏 : （而且如果被录用了的话，这个工作好像还包住哦？！简直是位神仙啊？！）
+
+夏夏
+夏夏 : （ねこのてさんと雇い主さんがどういう契約を交わされたのかわかりませんが、今回は直接雇い主さんからお給料がいただけるそうです）
+Natsuka : (I don't know what kind of contract the lady at Kittypaw has with this employer, but I'm supposed to get my paycheck directly from the employer today.)
+夏夏 : （不知道猫爪跟我的雇主是签的是什么样的合同，不过这次好像是雇主直接给我发工资）
+
+夏夏
+夏夏 : （ちょっと変わってます。というか、はじめてですね？）
+Natsuka : (Kinda weird. Actually, I think that's a first for me, too.)
+夏夏 : （有点奇怪。而且，这样的还是第一次呢）
+
+夏夏
+夏夏 : （わたしとしましては、早めにお給料がいただけれは、もうもうそれだけでありがたいのですが！）
+Natsuka : (But hey, I'm not gonna complain about an early paycheck, that's for sure!)
+夏夏 : （不过对我来说，光是能够早点拿到工资这一点，就已经足够让我感激涕零了！）
+
+夏夏
+夏夏 : （とにかく全力で頑張ります！！　そりゃもうめちゃくちゃ頑張ります！）
+Natsuka : (Anyway, I'm gonna do my best! No, I'm gonna do even better than my best!)
+夏夏 : （总之我要全力以赴才行！！而且要拼命努力才行！）
+
+夏夏
+夏夏 : （もちろん、ただ頑張るだけじゃなくて――）
+Natsuka : (And I'm not just gonna work hard!)
+夏夏 : （当然，光努力是不够的——）
+
+夏夏
+夏夏 : （お役に立てるといいですね！）
+Natsuka : (I'm gonna make sure I'm useful while I do it!)
+夏夏 : （能帮上忙才是最好的！）
+
+夏夏
+夏夏 : （おおお……エントランスも立派ですね。ええと、部屋番号を押して、呼び出しチャイムをぽちっと！）
+Natsuka : (The entrance is pretty grandiose, too... All right, let's see. Enter the room number, and press call!)
+夏夏 : （喔……连入口都这么豪华。我看看，输入房间号，然后按下呼叫铃！）
+
+夏夏
+夏夏 : （うう～どきどきします……！）
+Natsuka : (Omigosh, I am %i1so%id nervous...!)
+夏夏 : （唔～好紧张啊……！）
+
+リルヤ
+？？？ : 『――はい』
+??? : "Yes?"
+??? : "你好——"
+
+夏夏
+夏夏 : 「あっ、はじめまして！　ねこのて家政婦紹介所の紹介でまいりました空木夏夏ともうし――」
+Natsuka : "Oh, nice to meet you! I'm Utsugi Natsuka from the Kittypaw Housekeeping Agen—"
+夏夏 : "啊，初次见面！我是猫爪保姆介绍所介绍来的空木夏夏——"
+
+リルヤ
+？？？ : 『鍵はあけておく。勝手に入れ』
+??? : "The door's open. Come in."
+??? : "门没锁。你自己进来吧"
+
+夏夏
+夏夏 : 「えっ？　あっ？　はい！」
+Natsuka : "Huh? Oh, uh, right!"
+夏夏 : "哎？啊？好的！"
+
+夏夏
+夏夏 : （色々展開が早い！？　ていうかすごい綺麗な声の人でしたよ！？　今の人が、わたしの新しい雇い主さんかもしれない御方……！）
+Natsuka : (This feels way too fast! And like, her voice was so super pretty!? Is %i1she%id gonna be my maybe-new boss!?)
+夏夏 : （感觉发展得好快！？而且她的声音好好听！？刚刚说话的那位就是可能会成为我新雇主的人吗……！）
+
+夏夏
+夏夏 : （名前は、リルヤ・メリさん。外国の方ですよね？　でも、すごーく流暢に日本語でお話しされてました……）
+Natsuka : (Her name's Lilja Meri, which means she's definitely a foreigner, right? But her Japanese was totally natural...)
+夏夏 : （名字是，丽露娅·梅莉小姐。是外国人吧？但是她日语说得好流利……）
+
+夏夏
+夏夏 : 「はっ！？」
+Natsuka : "Bwah!"
+夏夏 : "啊！？"
+
+夏夏
+夏夏 : （ぼんやりしていたせいで、自動ドアが閉まる！？）
+Natsuka : (The automatic door's closing! How long was I spacing out!?)
+夏夏 : （发了会呆结果自动门快关上了！？）
+
+夏夏
+夏夏 : 「だめだめ閉まらないで～！　待って～待って～入ります～！！」
+Natsuka : "Wait, wait, wait! Don't close, please! Wait for meeee!"
+夏夏 : "不行不行别关上～！等等我～等等我～马上进去～！！"
+
+夏夏
+夏夏 : 「おじゃましまーす……」
+Natsuka : "I'm coming iiin..."
+夏夏 : "打扰了……"
+
+夏夏
+夏夏 : （おお～……とっても立派です……）
+Natsuka : (Holy moly... This place is so fancy...)
+夏夏 : （喔～……好豪华啊……）
+
+夏夏
+夏夏 : （ここが、メリさんのおうちですか……すごいきれいで、すっきりしてて、めちゃめちゃ片付いています……）
+Natsuka : (So this is what Meri-san's house looks like... It's so clean and tidy. Like there's not a single thing outta place...)
+夏夏 : （这里就是梅莉小姐的家吧……非常漂亮但又很精简、收拾得也很整洁……）
+
+夏夏
+夏夏 : （でも……ここって……）
+Natsuka : (But it looks a bit like maybe...)
+夏夏 : （但是……这里是……）
+
+リルヤ
+リルヤ : 「来たか」
+Lilja : "So you've come."
+丽露娅 : "来了吗"
+
+夏夏
+夏夏 : 「はっ！　はじめまして！　ねこのて家政婦紹介所からまいりま――」
+Natsuka : "Eep! Nice to meet you! I'm from the Kittypaw Housekeeping Agen—"
+夏夏 : "啊！您好！我是猫爪保姆介绍所介绍来——"
+
+リルヤ
+リルヤ : 「――汗」
+Lilja : "You're sweating."
+丽露娅 : "——汗"
+
+夏夏
+夏夏 : 「汗……？」
+Natsuka : "Huh?"
+夏夏 : "汗……？"
+
+夏夏
+夏夏 : 「は！」
+Natsuka : "Ack!"
+夏夏 : "啊！"
+
+夏夏
+夏夏 : 「すっ、すみません！　こちらにおじゃまする前に、できるだけ汗はぬぐってきたんですが！！」
+Natsuka : "I-I'm so sorry! I thought I'd wiped it all away before I came in!"
+夏夏 : "抱、抱歉！我在来这边之前，已经尽量擦过汗了！！"
+
+夏夏
+夏夏 : （やっぱり水洗いだけじゃ、服も頭もにおいますよねー！？？？）
+Natsuka : (My hair and clothes probably still stink since I only had a sponge bath, huh!?)
+夏夏 : （只靠水洗，衣服和头上的味道果然还是会有的啊——？！）
+
+None
+None : グゥゥウウウウウウウウウウウウウウウウウウウウウ！！
+None : %i1Grumble!!
+None : 咕噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜噜！！
+
+夏夏
+夏夏 : 「びやあああ！！　すみませんすみません今のはわたしのおなかの音で、昨日から何も食べてないものでして……！！」
+Natsuka : "Yaaargh!! I'm so, so, so sorry! My stomach's been super loud today because I haven't eaten anything since yesterday, and...!"
+夏夏 : "哎呀！！抱歉抱歉刚刚是我肚子叫了，因为我昨天到现在什么东西都没吃……！！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「風呂に入って着替えて何か食べろ」
+Lilja : "Take a bath, get changed, and eat something."
+丽露娅 : "你先去洗个澡换身衣服吃点东西吧"
+
+夏夏
+夏夏 : 「わっわかりました！　すぐに家に帰って――」
+Natsuka : "O-Okay! I'll hurry back home and—"
+夏夏 : "好的！我这就回一趟家——"
+
+夏夏
+夏夏 : （ああっでもわたしってば、無一文なのでしたー！！？？）
+Natsuka : (Rrrgh, but I can't, because I'm totally broke!)
+夏夏 : （啊不过我现在身无分文啊——？？！！）
+
+夏夏
+夏夏 : （でもいきなり初対面の雇い主（仮）さんに前借りをお願いしたら、それこそ一発不合格でしょうし……！？）
+Natsuka : (But I can't just ask my maybe-employer if she'll lend me some money up front! That's just asking to fail this whole thing!)
+夏夏 : （但是刚一见面就向雇主（未定）借用浴室的话，肯定直接就不合格了吧……？！）
+
+夏夏
+夏夏 : （ここは、トラの子の子ブタさん貯金箱を使うしか！？　トラの子だけど子ブタのとっておきの貯金箱を！！！）
+Natsuka : (Am I gonna have to break into my poor baby piggy bank!? Like, it's my precious savings and all, but sacrifices have to be made, right!?)
+夏夏 : （现在，只能用上老虎之子的小猪仔存钱罐了吧？！就是我珍藏的那个虽然叫老虎之子却是个小猪仔的存钱罐！！！）
+
+リルヤ
+リルヤ : 「違う。ここでだ」
+Lilja : "No. I mean here."
+丽露娅 : "不用。就在这里解决"
+
+夏夏
+夏夏 : 「へっ？　いいんですか？」
+Natsuka : "Huh? Are you sure?"
+夏夏 : "哎？可以吗？"
+
+リルヤ
+リルヤ : 「合理的に考えて、それが最善手だろう」
+Lilja : "It's the most rational decision given the circumstances."
+丽露娅 : "合理思考的话，这是最合适的方式吧"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （なるほど合理的！　メリさんはそういう風に考える方なのですね！　了解しました！）
+Natsuka : ("Rational," huh!? So you prefer to think about stuff rationally! Understood!)
+夏夏 : （原来如此理性吗！梅莉小姐是会用这种方式思考的人啊！明白了！）
+
+夏夏
+夏夏 : 「わかりました！　ありがとうございます、それではお言葉に甘えて、お借りしますね！！」
+Natsuka : "Got it! Thank you so much! If you're fine with it, then I'll go right on ahead!"
+夏夏 : "我明白了！非常感谢，那我就恭敬不如从命，借用一下浴室了！！"
+
+リルヤ
+リルヤ : 「バスルームへは、私のベッドルームかトイレを通って入れ」
+Lilja : "You can get to the bathroom through either my bedroom or the washroom."
+丽露娅 : "要去浴室的话，穿过我的卧室或者卫生间进去"
+
+夏夏
+夏夏 : （ベッドルームか、トイレ？？？）
+Natsuka : (Through the bedroom %i1or%id the washroom?)
+夏夏 : （卧室，或者卫生间？？？）
+
+リルヤ
+リルヤ : 「洗面所には洗濯機がある。風呂に入り、洗濯をしろ。入浴、洗濯に必要なものは、洗面所のすぐにわかる場所にあるから自由に使え」
+Lilja : "There's a washing machine in the bathroom. Take a bath and wash your clothes. You'll find everything you need for the bath and laundry in plain sight."
+丽露娅 : "化妆间里有洗衣机。洗澡的时候把衣服洗了吧。洗澡、洗衣服需要的东西，你一进化妆间就能看到，你自己看着用吧"
+
+夏夏
+夏夏 : 「わっ、わかりました！！」
+Natsuka : "U-Understood!"
+夏夏 : "我、我知道了！！"
+
+夏夏
+夏夏 : （なるほど。トイレに向かい合った２つのドアがあって、そこから洗面所に入れるんですねえ）
+Natsuka : (Now I get it. There were two doors on each side of the washroom, and that's how you get to the bathroom.)
+夏夏 : （原来如此。卫生间里有两扇对着的门，从这里应该就可以进到化妆间吧）
+
+夏夏
+夏夏 : 「トイレからおじゃましまーす……」
+Natsuka : "Well, bathroom, here I come..."
+夏夏 : "那我就从卫生间这边进去了……"
+
+夏夏
+夏夏 : 「！！！」
+Natsuka : "Oh!!!"
+夏夏 : "！！！"
+
+夏夏
+夏夏 : （すっすごい！！　洗面所めっちゃ広いです！？　わたしの下宿先の部屋よりも余裕で広いですね！？）
+Natsuka : (I can't believe it! How huge %i1is%id this place!? The washroom's bigger than my whole room at the boardinghouse!)
+夏夏 : （好、好夸张！！这化妆间也太宽敞了吧？！比我租的房间还要宽敞得多？！）
+
+夏夏
+夏夏 : （全自動洗濯機がふたつもありますよ、豪華！　前住民さんの２層式が壊れたあと、シンクとたらいで洗っているので眩しいです！）
+Natsuka : (And there's two entire automatic washing machines! This place is so fancy! The previous tenant at my place broke the machine, so we can only use the sink or a washbasin to clean our clothes! I'm so starstruck!)
+夏夏 : （居然有两台全自动洗衣机，太豪华了！上一个住户留下来的双桶洗衣机坏了之后，我都是用洗手台蓄水后自己手洗的，这个场面对我来说实在是太耀眼了！）
+
+夏夏
+夏夏 : （なるほど、このおうちはメリさんの一人暮らしを前提にしたリフォームをされているんですね）
+Natsuka : (This whole place must have been renovated knowing Meri-san was going to live here alone.)
+夏夏 : （原来如此，这间屋子以梅莉小姐独居为前提改造过了啊）
+
+夏夏
+夏夏 : （だから、メリさんが暮らしやすいように最適化されています）
+Natsuka : (So they did whatever would make it easiest for Meri-san to get around.)
+夏夏 : （所以为了让梅莉小姐更方便地生活改造成了现在这个样子啊）
+
+夏夏
+夏夏 : （トイレの２つのドアも、お客さんの通過を想定してるんじゃなくて、リビングからも洗面所からも入れるようにしているんですね）
+Natsuka : (The two doors in the washroom aren't there for guests to use, it's so she can get from the living room to the bathroom easier.)
+夏夏 : （卫生间装有两扇门，并不是从客人会通过的角度去考虑的，而是为了让梅莉小姐从卧室和化妆间都能进入吧）
+
+夏夏
+夏夏 : （それってつまり、メリさんはお泊まりのお客さんを、最初から勘定に入れていないということで……）
+Natsuka : (Which means having guests wasn't even part of the equation when they were renovating...)
+夏夏 : （也就是说，从最开始梅莉小姐就没有考虑过会有客人留宿吧……）
+
+夏夏
+夏夏 : （滅多に来ないお客さんよりも、日々の生活を完全に優先している……）
+Natsuka : (It makes sense to prioritize everyday comfort over guests who probably won't come very often...)
+夏夏 : （比起基本不会来的客人，更优先考虑了日常生活……）
+
+夏夏
+夏夏 : （優先順位の問題ですがなかなかできることではない気がします）
+Natsuka : (I know it's a matter of prioritization, but it feels like a hard decision to make.)
+夏夏 : （虽然是有孰重孰轻的问题不过我感觉一般不会真的这样做吧）
+
+夏夏
+夏夏 : （本当に合理的なんですねえ……メリさんは）
+Natsuka : (Meri-san really %i1is%id all about practicality...)
+夏夏 : （真是个合理的人啊……梅莉小姐）
+
+夏夏
+夏夏 : 「お待たせしました！」
+Natsuka : "Sorry to keep you waiting!"
+夏夏 : "久等了！"
+
+夏夏
+夏夏 : 「あの洗濯機すごいですね、わたしがお風呂に入っている間に乾燥まで完璧に終わっていて、着心地がふわっふわでさらっさらです！」
+Natsuka : "Those washing machines were amazing! They managed to finish drying my clothes all the way through while I was in the bath! My clothes are so fluffy and silky smooth now!"
+夏夏 : "那台洗衣机太厉害了，我洗个澡的时间连洗带烘全都完成了，穿上去感觉柔软又清爽！"
+
+夏夏
+夏夏 : 「洗剤も、シャンプーもボディソープもむちゃむちゃいいにおいで、今、自分史上、一番きれいでいい香りな気がします！」
+Natsuka : "And the detergent, shampoo, and body soap all smelled so good! I think I'm cleaner and fresher smelling than I've ever been in my life!"
+夏夏 : "洗衣液、洗发水和沐浴露的味道都非常香，我感觉现在的我，在我过往的人生中是最干净，最香的一刻了！"
+
+夏夏
+夏夏 : 「メリさんありがとうございます！！」
+Natsuka : "Thank you so much, Meri-san!"
+夏夏 : "真的很感谢梅莉小姐！！"
+
+リルヤ
+リルヤ : 「リルヤでいい」
+Lilja : "You can call me Lilja."
+丽露娅 : "叫我丽露娅就行"
+
+夏夏
+夏夏 : 「わかりました、リルヤさんですね！」
+Natsuka : "Got it, Lilja-san!"
+夏夏 : "好的，丽露娅小姐对吧！"
+
+リルヤ
+リルヤ : 「玄関前に料理が届いている。それを食べると良い」
+Lilja : "I had some food delivered. It's on the doorstep. Go ahead and eat it."
+丽露娅 : "饭菜已经送到玄关前面了。你去吃了吧"
+
+夏夏
+夏夏 : 「えっ、ごはんまで！？　いいんですか！？」
+Natsuka : "Wait, you're treating me to food too!? Are you really sure!?"
+夏夏 : "哎？连饭都有吗？！真的可以吗？！"
+
+リルヤ
+リルヤ : 「あんな腹の音を鳴らされては、私の気が散る。早く食べて、本来の仕事に戻るぞ」
+Lilja : "I wouldn't be able to concentrate if your stomach kept gurgling like that. Please, eat. Then we can get back to the day's work."
+丽露娅 : "你肚子叫会让我走神的。快点吃，然后回来干正事"
+
+夏夏
+夏夏 : 「わかりました！！」
+Natsuka : "Roger that!"
+夏夏 : "好的！！"
+
+夏夏
+夏夏 : 「持ってきました！　あの、なんか大量なのですが！？　もしかして、リルヤさんも食べるんですか？」
+Natsuka : "Food retrieved! There's so much here! Were you going to have some too?"
+夏夏 : "我拿过来了！那个，是不是有点太多了？！还是说，丽露娅小姐也要吃吗？"
+
+リルヤ
+リルヤ : 「食べない」
+Lilja : "No."
+丽露娅 : "我不吃"
+
+夏夏
+夏夏 : 「そうなんですね、わかりました！」
+Natsuka : "Oh, okay! All for me, then!"
+夏夏 : "这样啊，我明白了！"
+
+夏夏
+夏夏 : 「それでは、いただきます！」
+Natsuka : "Meal for one, comin' right up!"
+夏夏 : "那，我开动了！"
+
+夏夏
+夏夏 : 「（ぱくっ……もぐもぐもぐ）」
+Natsuka : "Nom nom nom..."
+夏夏 : （啊呜……吧唧吧唧吧唧）
+
+夏夏
+夏夏 : 「お、おいひい……！　おいひいです！　リルヤさん……！！」
+Natsuka : "Omigosh! Ish sho tashty, Lilja-shan!"
+夏夏 : "好、好好吃……！太好吃了！丽露娅小姐……！！"
+
+夏夏
+夏夏 : 「目の前に光がぱ～と見えるくらいにおいしかったです！！　こんなにおいしいご飯を食べたのは自分史上はじめてな気がします！」
+Natsuka : "It's so delicious, I'm totally seeing stars! I think this is the tastiest food I've ever eaten in my entire life!"
+夏夏 : "好吃得感觉眼前都能看见光了！！我感觉这是在我过往的人生中第一次吃到这么好吃的饭！"
+
+夏夏
+夏夏 : 「あっもちろん食べられるご飯はすべてありがたいものですし、作ってくださった方にも感謝でいっぱいなの――」
+Natsuka : "Oh, but I'm grateful for all the other food I've eaten, too! The people who made it put so much—"
+夏夏 : "啊当然对在此之前吃过的饭我也都保有敬意，真的很感谢那些为我做过饭的人——"
+
+リルヤ
+リルヤ : 「いいから黙ってさっさと食べ終えろ」
+Lilja : "Please, concentrate on eating."
+丽露娅 : "少说两句赶紧吃完"
+
+夏夏
+夏夏 : 「はひ！」
+Natsuka : "Got it!"
+夏夏 : "好的！"
+
+夏夏
+夏夏 : 「（もぐもぐ！　もぐもぐもぐもぐもぐもぐもぐ！！）」
+Natsuka : "Nom nom nom nom nom nom!"
+夏夏 : （吧唧吧唧！吧唧吧唧吧唧吧唧吧唧吧唧吧唧！！）
+
+リルヤ
+リルヤ : （よく味わいつつ、できるだけ早く食べようとしている……）
+Lilja : (She's trying to eat as quickly as she can, but she's still savoring the flavor...)
+丽露娅 : （她在保证能够品尝出味道的同时尽快地吃……）
+
+夏夏
+夏夏 : 「っぷはー！！」
+Natsuka : "Mmm!"
+夏夏 : "噗哈——！！"
+
+夏夏
+夏夏 : 「おいしかったです、ありがとうございますリルヤさん！」
+Natsuka : "That was amazing! Thank you so much, Lilja-san!"
+夏夏 : "太好吃了，太感谢您了丽露娅小姐！"
+
+リルヤ
+リルヤ : 「同じ話を三度もしなくていい。お前のプロフィールは、既に入手している。お前は空木夏夏、私はリルヤ・メリ。確認は以上だ、いいな？」
+Lilja : "You sound like a broken record. Now then, I've already read your profile. You're Utsugi Natsuka, I'm Lilja Meri. That's enough introductions, yes?"
+丽露娅 : "同样的话不要说三遍。你的简历已经在我这里了。你是空木夏夏，我是丽露娅·梅莉。确认好了，没问题吧？"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+リルヤ
+リルヤ : 「問題は？」
+Lilja : "Is there a problem?"
+丽露娅 : "有问题吗？"
+
+夏夏
+夏夏 : 「いえ！　ありません！　よろしくお願いしますねリルヤさん！」
+Natsuka : "No, none at all! It's a pleasure to work with you, Lilja-san!"
+夏夏 : "没有！没问题！请您多多指教丽露娅小姐！"
+
+リルヤ
+リルヤ : 「それでは採用テストにはいる」
+Lilja : "Then let's begin the working interview."
+丽露娅 : "然后现在有个入职测试"
+
+夏夏
+夏夏 : 「わかりました！！　掃除ですか？　ご飯ですか？　それとも――」
+Natsuka : "Got it! You need me to clean? Cook? Or maybe—"
+夏夏 : "好的！！是打扫卫生吗？还是做饭吗？还是说——"
+
+リルヤ
+リルヤ : 「夏の雪をみせろ」
+Lilja : "I want you to show me snow in summer."
+丽露娅 : "让我看看夏天的雪"
+
+リルヤ
+リルヤ : 「何をしてもいい。この部屋を濡らしてもいい。この家の中ならば、何を壊してもいい。とにかく私に夏の雪をみせてみろ」
+Lilja : "There are no limits to what I'll allow. You can soak this room if you wish. You can break whatever you want, as long as it's within this house. All I care is that you show me snow in summer."
+丽露娅 : "你想做什么都行。把这间屋子都弄湿也行。只要是在这间屋子里的东西，搞破坏也没事。总之让我看一下夏天的雪"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （これが採用テストなんでしょうか？　なんていうか、かぐや姫の難題みたいですね）
+Natsuka : (%i1This%id is the working interview? It kinda feels more like one of the labors of Heracles or something...)
+夏夏 : （这就是入职测试吗？怎么感觉跟辉夜姬的难题一样）
+
+リルヤ
+リルヤ : 「質問は？」
+Lilja : "Any questions?"
+丽露娅 : "有什么要问的？"
+
+夏夏
+夏夏 : 「はい！　それはリルヤさんが絵を描くためですか？」
+Natsuka : "Yes! Is this to help you paint?"
+夏夏 : "有的！找这个因为丽露娅小姐要画画吗？"
+
+リルヤ
+リルヤ : 「なぜそう思う？」
+Lilja : "What makes you think that?"
+丽露娅 : "你为什么会这样想？"
+
+夏夏
+夏夏 : 「リビングの奥にアトリエっぽいエリアがありますし、リルヤさんからも絵の具のにおいがしましたので！」
+Natsuka : "I saw what looked like a studio in the back of the living room, and I can smell the scent of paint on you!"
+夏夏 : "客厅里面有一片像画室一样的区域，从丽露娅小姐身上也闻到了颜料的味道！"
+
+リルヤ
+リルヤ : 「――ふん」
+Lilja : "Heh."
+丽露娅 : "——哼"
+
+リルヤ
+リルヤ : 「最低限の観察眼はあるようだな。その最低限の目配りに敬意を払い、答えてやろう」
+Lilja : "You seem to have some base-level observational skills. I can respect that."
+丽露娅 : "最基础的洞察力你还是有的呢。为了向你最低限度的观察表示敬意，我就回答你的问题吧"
+
+リルヤ
+リルヤ : 「私が絵を描くかどうかは、お前次第だ」
+Lilja : "Whether I paint or not is up to you."
+丽露娅 : "我画还是不画，取决于你"
+
+夏夏
+夏夏 : 「わたし次第なんですね！　それは責任重大です、頑張ります！　その夏の雪は、いつまでに用意すればよいのでしょう？」
+Natsuka : "It's up to me!? Talk about pressure! But I'll do my best! How long do I have to show you this snow in summer?"
+夏夏 : "取决于我啊！那我还真是肩负重任啊，我会努力的！您说的夏天的雪，需要我什么时候准备好呢？"
+
+リルヤ
+リルヤ : 「１時間後だ」
+Lilja : "You have one hour."
+丽露娅 : "一个小时后"
+
+夏夏
+夏夏 : 「いっ！？」
+Natsuka : "Bwugh!?"
+夏夏 : "一……？！"
+
+夏夏
+夏夏 : 「がっ、頑張ります！！！　いってきます！！！」
+Natsuka : "O-Okay! I'll be back in a bit!"
+夏夏 : "我，我会努力的！！！我出下门！！！"
+
+リルヤ
+リルヤ : 「待て」
+Lilja : "Wait."
+丽露娅 : "等等"
+
+夏夏
+夏夏 : 「――っ！！」
+Natsuka : "Eep!"
+夏夏 : "——！！"
+
+夏夏
+夏夏 : 「はい！　なんでしょう？　リルヤさん！」
+Natsuka : "Yes! What is it, Lilja-san!?"
+夏夏 : "好的！怎么了吗？丽露娅小姐！"
+
+リルヤ
+リルヤ : （よく訓練された犬のようだな）
+Lilja : (She's like a well-trained puppy.)
+丽露娅 : （真像只训练有素的狗啊）
+
+リルヤ
+リルヤ : 「これを持っていけ」
+Lilja : "Take this."
+丽露娅 : "把这个带上"
+
+夏夏
+夏夏 : 「えっと……インカムとお財布、ですね？」
+Natsuka : "Er... A headset and a wallet...?"
+夏夏 : "这是……耳机和钱包吗？"
+
+リルヤ
+リルヤ : 「タイムリミットを１時間に設定した以上、資金はあるべきだ。金があるとないとでは、選択肢の幅がまるで違うからな」
+Lilja : "I set the time limit for an hour, so I thought I should give you funds to work with as well. You'll have a lot more options if you have access to money."
+丽露娅 : "时间限定在一小时以内的话，资金是必要的。有钱和没钱，可以选择的空间也大相径庭"
+
+リルヤ
+リルヤ : 「それから、これが私の通話アプリのアカウントのＱＲコードだ」
+Lilja : "Also, here is the QR code for my account on this phone app."
+丽露娅 : "还有，这个是我通话软件的二维码"
+
+リルヤ
+リルヤ : 「常に通話状態にしておけ。お前が何を考えて何を選ぶか、そして何を語らないかを聞くためだ」
+Lilja : "Keep it on at all times. I want to hear what you're thinking when you make decisions, and what you will and won't communicate to me."
+丽露娅 : "电话要一直通着。因为我要听你是如何思考、如何选择的，以及有什么话没说的"
+
+リルヤ
+リルヤ : 「何を喋ってもいい。何も喋らなくてもいい。ただし、ずっと通話状態にしておくことだけが条件だ」
+Lilja : "You can say whatever you want. Or, you can stay quiet. All that matters is that you leave it on."
+丽露娅 : "说什么都行。什么都不说也行。但是，条件是电话要一直通着"
+
+夏夏
+夏夏 : 「わかりました！！　テストですもんね！」
+Natsuka : "Got it! This %i1is%id a test, after all!"
+夏夏 : "明白了！！毕竟这是测试嘛！"
+
+リルヤ
+リルヤ : 「使い方はわかるか」
+Lilja : "Do you know how it works?"
+丽露娅 : "知道怎么用吗？"
+
+夏夏
+夏夏 : 「大丈夫です！　前にバイトで使ったことあるタイプですので！」
+Natsuka : "I sure do! I used one of these at one of my previous jobs!"
+夏夏 : "这个我会用的！以前打工的时候我用过这种耳机！"
+
+夏夏
+夏夏 : 『あーあーもしもし聞こえますか？』
+Natsuka : "Testing, testing! Can you hear me?"
+夏夏 : "喂？喂？听得到吗？"
+
+夏夏
+夏夏 : 「スピーカーから、ばっちりわたしの声が流れてますね！」
+Natsuka : "Wow, I can hear my voice through the speakers!"
+夏夏 : "音响中准确地传出了我的声音呢！"
+
+リルヤ
+リルヤ : 「お前が玄関から出たところからスタートだ」
+Lilja : "I'll start your time once you leave my condo."
+丽露娅 : "从你出了玄关后就开始计时"
+
+夏夏
+夏夏 : 「わかりました！　頑張って見つけてきますから、楽しみに待っててくださいね、リルヤさん！！」
+Natsuka : "Got it! I'll do my best to bring you snow in summer, so just sit tight, Lilja-san!"
+夏夏 : "好的！我会努力找到的，请您静候佳音，丽露娅小姐！！"
+
+リルヤ
+リルヤ : 「――ふん」
+Lilja : "Heh."
+丽露娅 : "——哼"
+
+リルヤ
+リルヤ : 「……想像以上のさわがしさだな」
+Lilja : "She's even more energetic than I imagined."
+丽露娅 : "……没想到会这么吵闹呢"
+

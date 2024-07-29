@@ -1,0 +1,345 @@
+夏夏
+夏夏 : 「庭の屋根が閉じる前に、ちょっとだけ降ってきていたカエルさんを捕まえました。あとで『ペットショップたなか』さんに相談しにいきますね」
+Natsuka : "Before the courtyard skylight automatically closed, I caught one of the frogs that fell from the sky. I think I'll take it to Pet Shop Tanaka later."
+夏夏 : "我在院子的天花板关掉之前，抓到些掉下来的青蛙。回头找田中宠物店商量一下好了"
+
+まひる
+まひる : 『食べちゃえばいいのに』
+Mahiru : "You could just eat it."
+真昼 : "直接让它下锅不就行了"
+
+夏夏
+夏夏 : 「カエルは身が淡泊でちょっとささみっぽいんですよね……でも、毒とかあると怖いのでやっぱり調べますね」
+Natsuka : "Frog meat does have a mild taste kinda like a chicken tender... But I'm scared it might be poisonous, so I wanna know what species it is."
+夏夏 : "青蛙肉没什么味道，有点像鸡胸肉……最主要的是怕有毒，所以我得去问问"
+
+まひる
+まひる : 『食べたことあるんかい』
+Mahiru : "You've had frog before?"
+真昼 : "你吃过的吗"
+
+夏夏
+夏夏 : 「色々とやってますんで！　今度作りましょうか？」
+Natsuka : "I've worked a ton of odd jobs! Should I cook some up for you sometime?"
+夏夏 : "我可是身经百战呢！　下次让我下厨吧？"
+
+まひる
+まひる : 『食べちゃえばいいとか言ったけど、あたしはパスさせてもらうさね』
+Mahiru : "I know I'm the one who suggested eating it, but I'll pass."
+真昼 : "提是我提的，但绝对别给我吃啊"
+
+まひる
+まひる : 『まあ、あんたなら問題ないと思うけど、騙して食べさせるとか、絶対にしないで欲しい案件さね』
+Mahiru : "Also, I don't think you'd do this, but if you ever trick me into eating it by telling me it's something else, I'll hate you."
+真昼 : "不过我也不是不相信你的料理水平，但我可不希望你骗我吃"
+
+夏夏
+夏夏 : 「騙して食べさせるとか絶対にしませんよ！？？？」
+Natsuka : "I would never do anything like that!!"
+夏夏 : "我才不会骗你吃呢！？？？"
+
+夏夏
+夏夏 : 「こっそりニンジンとかでも傷つくのに、カエルを知らずに食べたとか、トラウマレベルですし」
+Natsuka : "It's already pretty mean when someone puts finely chopped carrots in your food when you don't like them, but frogs? That'd be traumatic!"
+夏夏 : "光是在菜里偷偷加胡萝卜就已经够伤人了，要是不知不觉吃下了青蛙，估计会有心理阴影吧"
+
+夏夏
+夏夏 : 「でも、もし仮にどうしても食べなくちゃいけないときには、カエルだってわからないように料理することはできますから、お任せください！」
+Natsuka : "Oh, but if it ever comes down to it, I %i1can%id cook them and you'd never be able to tell the difference, so you can count on me!"
+夏夏 : "不过，如果到了不得不吃的情况，我会尽可能把它做得看不出是青蛙的，放心交给我吧！"
+
+まひる
+まひる : 『はいはい、それは誠にどーもさね。そんな日が永遠に来ないように祈っておくさね』
+Mahiru : "That's very reassuring, thank you. I'll just pray that situation never arises."
+真昼 : "行了行了，那是真的谢谢你。希望那一天永远都不会到来"
+
+夏夏
+夏夏 : 「それにしても、どうしてカエルが空から降ってきたんでしょうか？」
+Natsuka : "Anyway, why did it suddenly start raining frogs?"
+夏夏 : "话说回来，为什么青蛙会从天上掉下来啊？"
+
+まひる
+まひる : 『ファフロッキーズとかさね？』
+Mahiru : "Could it be fafrotskies?"
+真昼 : "应该是怪雨？"
+
+夏夏
+夏夏 : 「ファフロッキーズ？」
+Natsuka : "Fafrotskies?"
+夏夏 : "怪雨？"
+
+まひる
+まひる : 『falls from the skies.略してfafrotskies』
+Mahiru : "It's a portmanteau of 'falls from the skies.'"
+真昼 : "源自英语Falls from the skies，简称fafrotskies"
+
+まひる
+まひる : 『本来ならあり得ない物が、ざんざか大量に空から降ってくる現象の総称さね』
+Mahiru : "It's a phenomenon where flightless animals suddenly start falling from the skies in large numbers."
+真昼 : "本来不可能从天而降的物品，不断从天上掉落于地的现象，其总称就是这个"
+
+リルヤ
+リルヤ : 「原因がわかっている場合は、当てはまらないがな」
+Lilja : "You can't call it that if there's a known cause, though."
+丽露娅 : "不过，知道了缘由，就算不上怪雨了"
+
+夏夏
+夏夏 : 「えっ、じゃあもう原因はわかってるんですか？」
+Natsuka : "Huh? Don't tell me you know why it rained frogs?"
+夏夏 : "咦，那你们已经知道为什么会下青蛙了吗？"
+
+まひる
+まひる : 『そそ。あたしが第一発見者で、もう通報済みさね。ま、直接あたしが通報したわけじゃないけどね』
+Mahiru : "Yep yep! I was the first person to discover it, so it's already been reported to the authorities. But it's not like I called 'em myself or anything."
+真昼 : "没错没错。我是第一发现者，而且已经报完警了。不过，倒也不是我本人报的警"
+
+夏夏
+夏夏 : 「そうなんですか？」
+Natsuka : "Why not?"
+夏夏 : "是这样的吗？"
+
+まひる
+まひる : 『当たり前さね。警察に事情徴収とかまじ勘弁さね～。口の固い人間に、こっそりリークさね』
+Mahiru : "Gimme a break! If you call the police, they start to ask you a lot of questions. It's such a pain! Instead, I leaked the intel to someone who can keep a secret."
+真昼 : "那可不。我可不想被警察叫去盘问～就把情报泄露给了管得住嘴的人而已"
+
+まひる
+まひる : 『無事に犯人も逮捕されたようだし。一件落着さね』
+Mahiru : "They've already apprehended the culprit, so everything's settled now."
+真昼 : "而且罪魁祸首已经顺利落网了。这件事就这么结束了"
+
+夏夏
+夏夏 : 「どうやって見つけたんですか？」
+Natsuka : "How did you know who did it?"
+夏夏 : "你是怎么发现犯人的？"
+
+まひる
+まひる : 『これさね』
+Mahiru : "With this!"
+真昼 : "靠这个"
+
+夏夏
+夏夏 : 「あ、それ知ってます。ドローンですよね」
+Natsuka : "Oh, I know what that is. It's a drone, right?"
+夏夏 : "啊，这个我知道。是无人机"
+
+夏夏
+夏夏 : 「リルヤさんから聞いたことがあります。リルヤさんと会った頃に、必要なら使うかもしれなかったので」
+Natsuka : "Lilja-san has told me about these before! When I first met her, I thought I'd have to use them."
+夏夏 : "丽露娅小姐之前有跟我说过。在刚与丽露娅小姐相遇那会，说是需要的话会使用"
+
+まひる
+まひる : 『そう。ドローンでの遠隔空中散歩は、あたしの趣味のひとつさね。ちなみに他の趣味は通販とネットのウォッチ』
+Mahiru : "Yep, taking virtual walks in the sky via my drones is one of my hobbies alongside online reselling and following celebrity gossip."
+真昼 : "没错。使用无人机进行远距离空中散步是我其中一个兴趣。顺带一提，其他的兴趣分别是网购和网络观察"
+
+夏夏
+夏夏 : 「なるほどその子のおかげで、カエル予報もできたんですね。まひるさんとドローンさんに感謝ですね！」
+Natsuka : "You were able to accurately predict the frog rain thanks to your drone? Now we know who to thank!"
+夏夏 : "原来如此，多亏了真昼小姐的无人机，才知道天上会下青蛙吧。真是要好好感谢它呢！"
+
+夏夏
+夏夏 : 「ドローンで空中散歩していたときに、どっかでカエルを降らせようとしている誰かを見つけたんですか？」
+Natsuka : "Were you just taking a stroll in the sky when you noticed someone who looked like they were about to drop some frogs?"
+夏夏 : "是在用无人机空中散步的时候，看到有人打算倒青蛙下去吗？"
+
+まひる
+まひる : 『そそ。ドローンで散歩していたら、上空で変な動きをしているヘリがあったからね』
+Mahiru : "Yep yep! I noticed a helicopter that was making some really strange maneuvers."
+真昼 : "没错没错。正在我用无人机散步的时候，有看到天上有架直升机形迹可疑啊"
+
+まひる
+まひる : 『気になって見に行ったら、ヘリの中になんと大量のカエルが！』
+Mahiru : "When I flew over to have a look, I saw that it was carrying a whole bunch of frogs!"
+真昼 : "有点在意我就让无人机飞近点看，结果直升机里有一大堆青蛙！"
+
+リルヤ
+リルヤ : 「ヘリの音なら私も聞いた」
+Lilja : "I heard the helicopter, too."
+丽露娅 : "我也听到直升机的声音了"
+
+夏夏
+夏夏 : 「そういえば、『プロペラの音が』っていってましたね」
+Natsuka : "Oh yeah, you mentioned you heard a propeller sound."
+夏夏 : "说起来，您确实说过有螺旋桨的声音啊"
+
+まひる
+まひる : 『あんなに朗々と歌ってたくせに、あんなちいさなリルヤの声に気づいてたさね？』
+Mahiru : "You could hear Lilja's soft voice over how loud you were singing?"
+真昼 : "你唱得那么忘我，真能注意到丽露娅那么小的声音吗？"
+
+夏夏
+夏夏 : 「一応、そのためにいますから！」
+Natsuka : "It's part of my job!"
+夏夏 : "姑且我是为此留在这里的！"
+
+まひる
+まひる : 『そのためってなんさね』
+Mahiru : "What %i1is%id your job, exactly?"
+真昼 : "为此是什么意思啊"
+
+夏夏
+夏夏 : 「えーと……リルヤさんの『何か』に気づくためですかね？　リルヤさんの大切なこと、拾えたらいいなあって思ってます」
+Natsuka : "Um... I'm here to notice things for Lilja-san, I guess? I'm hoping I can pick up on things that might be important to her."
+夏夏 : "嗯……是为了察觉到丽露娅小姐的‘某种行为’对吧？　要是能捕捉到丽露娅小姐重要的事物就好了"
+
+リルヤ
+リルヤ : 「九割九分九厘はできていないがな」
+Lilja : "99.9 percent of the time, you're unsuccessful, though."
+丽露娅 : "虽然其中九成九分九厘你都没做到"
+
+夏夏
+夏夏 : 「つまり、残りの一厘はできてるってことですよね？」
+Natsuka : "That means that I'm successful one in a thousand times, right?"
+夏夏 : "换言之，其中一厘还是做到了吧？"
+
+リルヤ
+リルヤ : 「違いない」
+Lilja : "Correct."
+丽露娅 : "没错"
+
+まひる
+まひる : 『はいはい。ま、とにかく、ヘリと、カエルと、撮影現場。何も起きないはずがなく……ってことさね』
+Mahiru : "Sure, whatever. Anyway, when you've got a helicopter, frogs, and a movie set, %i1something's%id bound to happen... Right?"
+真昼 : "行了行了。反正吧，直升机与青蛙，以及拍摄现场。没道理不会发生事情……就这个意思吧"
+
+夏夏
+夏夏 : 「そういえば、このマンションの前で撮影してましたね」
+Natsuka : "Oh yeah, it looked like they were filming just outside the building."
+夏夏 : "说起来，是在这栋公寓前面进行摄影的吧"
+
+まひる
+まひる : 『そそ。主に海外で活躍している若手女優が、日本にプロモで一時帰国してるって』
+Mahiru : "Yep yep! Apparently a young actress who mostly works overseas is back in Japan for a promo."
+真昼 : "没错没错。说是以海外为主进行工作的年轻女演员，为了来日本宣传新电影而暂时回国了"
+
+まひる
+まひる : 『撮影はそのプロモ関係さね。多少癖があるタイプのせいか、ストーカー被害に頻繁に遭っている』
+Mahiru : "They're filming something related to that. The actress is a bit quirky, so she tends to attract a lot of stalkers."
+真昼 : "摄影估计和宣传脱不开干系。她性格有些奇怪，因此很容易遇到跟踪狂"
+
+まひる
+まひる : 『女優はカエルが嫌いだからね』
+Mahiru : "She also hates frogs."
+真昼 : "而且她很讨厌青蛙啊"
+
+まひる
+まひる : 『派手なつきまといやストーカー被害に遭いやすい女優の撮影現場の上空にカエルを満載したヘリとくれば、誰だってははーんとなるさね？』
+Mahiru : "So, a helicopter drops a crate of frogs on a movie set where an actress who's prone to stalking and harassment is filming. Who %i1wouldn't%id think something's up?"
+真昼 : "在一位经常被人跟踪的女演员的摄影现场上空有架满载青蛙的直升机，任谁知道了都会会心一笑的吧？"
+
+リルヤ
+リルヤ : 「詳しいな」
+Lilja : "You know a lot about her."
+丽露娅 : "你很懂啊"
+
+まひる
+まひる : 『さっきも言ったさね、ウォッチが趣味だって。トラブルが多い対象はおのずとチェックが増えるさね』
+Mahiru : "I love following celebrity gossip, remember? Especially if they're prone to trouble."
+真昼 : "刚刚我也说过，观察是我的兴趣之一。时常遭遇麻烦的人自然会关注更多"
+
+まひる
+まひる : 『ウォッチは、代わり映えのしない日々に膿む引きこもり（主語でか）にとって最高のスパイスになるさね』
+Mahiru : "Following that kind of stuff is the perfect spice for a (self-proclaimed) shut-in's bland daily life."
+真昼 : "所谓观察，对那些仅仅只是无聊度过毫无变化的每一天的死宅（主语修饰过多）来说，乃是最棒的香辛料"
+
+まひる
+まひる : 『対象へのお触りもなく、ネット上でもある程度閉ざされた場所でなら、完全な外部の立場を保ちつつ……』
+Mahiru : "You don't have to leave your room or interact with anyone, and if you stay within a safe space on the internet, you can maintain your position as a complete outsider..."
+真昼 : "丝毫不用接触观察对象，只用在网络上半封闭的圈子里，以彻底的局外人视角……"
+
+まひる
+まひる : 『自らの言説の正しさを損なわずに好き勝手ジャッジできる。いいエンタメさね』
+Mahiru : "It's good entertainment because you can judge all you want without leaving your statements open to criticism."
+真昼 : "无需扭曲自己发言中的正确性，随心所欲地对观察对象进行审判。可谓是非常不错的娱乐手段"
+
+リルヤ
+リルヤ : 「ともあれ、いい判断だった」
+Lilja : "Regardless, your judgment is accurate."
+丽露娅 : "反正你的判断是正确的"
+
+まひる
+まひる : 『つまり今回のあたしは、特別ボーナスもらってもいいくらいの働きをしたってことさね？』
+Mahiru : "In other words, you think I deserve a special bonus on top of my usual salary this month?"
+真昼 : "换句话来说，这次我干的活，足够让我拿到奖金了吧？"
+
+リルヤ
+リルヤ : 「ああ。今回の働きは臨時ボーナスに足る。あとで希望の金額を連絡しておくと良い。いつもの口座に振り込んでおく」
+Lilja : "Yes. Your work certainly warrants a bonus. Let me know how much you want, and I'll transfer it to your usual account."
+丽露娅 : "没错。这次你干的工作足够得到额外津贴了。回头你把自己想要的金额告诉我就行。随时都能转到你的账上"
+
+まひる
+まひる : 『ああ、今回は金はいいわ。代わりにあんたの絵をちょうだいよ』
+Mahiru : "Oh, I don't need any extra money. Can you give me one of your paintings instead?"
+真昼 : "喔，这次我就不要钱了。我想要一幅你的画"
+
+リルヤ
+リルヤ : 「ほう？　私の絵には興味がなかったはずだが？」
+Lilja : "Oh? I thought you weren't interested in my work?"
+丽露娅 : "嚯？　你应该对我的画不感兴趣吧？"
+
+まひる
+まひる : 『今でも興味はないけどね、そのまま保存しておけば、けっこうな資産価値になりそうだと思ってね』
+Mahiru : "I'm not, but I think they'll be worth a pretty penny in the future if they're preserved properly."
+真昼 : "我现在也没啥兴趣，只是觉得保存一幅你的画，以后能成为很不错的资产"
+
+リルヤ
+リルヤ : 「その意見に反対はしない。それで、どんな絵が欲しい？」
+Lilja : "I don't disagree with that. That said, what kind of painting would you like?"
+丽露娅 : "我不反对。于是，你想要怎样的画？"
+
+まひる
+まひる : 『描いてくれるさね？』
+Mahiru : "So you'll paint one for me?"
+真昼 : "你会画给我的吧？"
+
+リルヤ
+リルヤ : 「まだわからない。いうだけいってみろ」
+Lilja : "I don't know yet. Try telling me what you want, first."
+丽露娅 : "我还不清楚。说说也无妨"
+
+まひる
+まひる : 『なるほど、今回もあんたのインスピレーションの源泉になれるかどうかにかかっているわけさね』
+Mahiru : "I see, so it depends on whether my request is a source of inspiration."
+真昼 : "原来如此，你的灵感源泉是否会干活，取决于我接下来的发言吧"
+
+リルヤ
+リルヤ : 「ああ。描かなかったら、これまでに描いた絵から適当に選べ。遠隔で、保管庫を案内させる」
+Lilja : "Yes. If I can't paint anything custom for you, you can choose something from my past works. I can give you a digital tour of my vault."
+丽露娅 : "正是如此。如果画不出来，你就从我的历史作品中随意选一幅吧。我在线上导航你去保管库"
+
+まひる
+まひる : 『了解さね。でもさ、残念ながら、あたしが描いて欲しいものはたいして面白みはないさね』
+Mahiru : "Gotcha. I'm afraid my request isn't all that interesting, though."
+真昼 : "我知道了。不过可惜的是，我想让你画的画可不是什么有意思的东西"
+
+リルヤ
+リルヤ : 「それも聞いてみなければわからない。夏夏」
+Lilja : "I can't judge until I hear it first. Natsuka?"
+丽露娅 : "那我也得等你说过了才知道。夏夏"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "在！"
+
+リルヤ
+リルヤ : 「お前にまかせる。私はすこし調べ物をする」
+Lilja : "I'll leave things to you. I'm going to do a little bit of research."
+丽露娅 : "交给你了。我去查点东西"
+
+夏夏
+夏夏 : 「わかりました！」
+Natsuka : "You got it!"
+夏夏 : "收到！"
+
+まひる
+まひる : 『調べ物？　いつものリサーチ会社に依頼さね？』
+Mahiru : "Research? Are you going to contact that detective agency?"
+真昼 : "你查东西？　是交给调研公司调查吗？"
+
+リルヤ
+リルヤ : 「いや？　ネットでわかる程度の調べ物だ」
+Lilja : "No, just basic research on the internet."
+丽露娅 : "不是啊？　在网上查查就知道的东西"
+

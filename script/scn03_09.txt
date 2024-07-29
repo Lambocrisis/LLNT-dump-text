@@ -1,0 +1,1010 @@
+夏夏
+夏夏 : 「ふんふんふ～ん♪」
+Natsuka : "Hm, hm, hmmm! %f$記号$;♪%fuser;"
+夏夏 : "哼哼～哼♪"
+
+夏夏
+夏夏 : 「急なバイトでしたが、無事になんとかなってよかったです！」
+Natsuka : "That job kinda came outta nowhere, but I managed!"
+夏夏 : "虽然是个很紧急的兼职，不过没发生什么事真是太好了！"
+
+夏夏
+夏夏 : 「リルヤさんにもいいおみやげ話がありますし、終わり良ければすべてよしってやつですね」
+Natsuka : "And I got a good story to tell Lilja-san about, so all's well that ends well!"
+夏夏 : "给丽露娅小姐也带回了不错的话题，只要结果好一切就都好"
+
+夏夏
+夏夏 : 「バイト代でおみやげも買いましたし、リルヤさんが気に入ってくれるとうれしいですね！」
+Natsuka : "I got to buy a souvenir with my paycheck too! Oooh, I hope Lilja-san likes it!"
+夏夏 : "用兼职赚到的钱买了点伴手礼，要是丽露娅小姐能喜欢就好了！"
+
+夏夏
+夏夏 : 「リルヤさんただいまですー！」
+Natsuka : "Lilja-san, I'm hoooome!"
+夏夏 : "丽露娅小姐，我回来了！"
+
+夏夏
+夏夏 : 「あれ、リルヤさん？」
+Natsuka : "Huh? Lilja-san?"
+夏夏 : "咦？丽露娅小姐？"
+
+夏夏
+夏夏 : （いま、音が……中庭ですかね……？）
+Natsuka : (I think I heard something... in the courtyard maybe?)
+夏夏 : （刚刚，声音是……从院子里传来的吧……？）
+
+夏夏
+夏夏 : 「！！！」
+Natsuka : "Oh!!!"
+夏夏 : "！！！"
+
+リルヤ
+リルヤ : 「帰ったか」
+Lilja : "Ah, you're back."
+丽露娅 : "回来了吗"
+
+夏夏
+夏夏 : 「はい帰りました！　ただいまです！」
+Natsuka : "I am! Back I am!"
+夏夏 : "嗯是的！我回来了！"
+
+リルヤ
+リルヤ : 「動揺させたな。まずかったか？」
+Lilja : "You seem perturbed. Should I have been more discreet?"
+丽露娅 : "你很慌张啊。很不妙吗？"
+
+夏夏
+夏夏 : 「いえ、それほどでも。でも、綺麗ですごいびっくりしました。まるで、星空に浮かぶ妖精みたいで」
+Natsuka : "No, it's not that big of a deal! It's just, you're so pretty that it shocked me. Like a fairy floating among the starry sky."
+夏夏 : "不，不会这么意外。只是因为太漂亮而感到吃惊。就好像是，漂浮在星空中的妖精一样"
+
+リルヤ
+リルヤ : 「――ふ」
+Lilja : "Heh."
+丽露娅 : "——呵"
+
+リルヤ
+リルヤ : 「てらいがないにも程があるな。しかし、賞賛を拒否するいわれもない。そのまま受け取っておこう」
+Lilja : "You know, there's such a thing as being %i1too%id honest. But I have no reason to turn down such a lovely compliment. Thank you."
+丽露娅 : "直言不讳也要有分寸。不过，我也不好说什么回绝你的称赞。就不客气地接受了吧"
+
+リルヤ
+リルヤ : 「水着は着脱が非常に面倒だ。そして、私はずっとひとりで暮らしていた。ならば合理的に考えて、水着などいらないだろう？」
+Lilja : "It's particularly difficult to put on and take off a swimsuit. And since I've lived by myself all this time, rationally speaking, there was no real point in having one."
+丽露娅 : "穿脱泳衣非常繁琐。而且我之前一直都是一个人生活着的。合理地考虑的话，泳衣是不需要的吧？"
+
+リルヤ
+リルヤ : 「だが、今はお前がいたな」
+Lilja : "But you're here now."
+丽露娅 : "不过，现在有你在了呢"
+
+夏夏
+夏夏 : 「いえ、わたしは全然気にしませんので、リルヤさんが好きなように暮らすのが一番ですよ」
+Natsuka : "I really don't mind it at all. All I care about is that you're living life the way you want!"
+夏夏 : "没事，我完全不在意，丽露娅小姐能按自己喜欢的方式生活才是最好的"
+
+リルヤ
+リルヤ : 「そうか、ならばこれでいい」
+Lilja : "Well, then this is how I'd like to."
+丽露娅 : "是吗，那这样就行"
+
+夏夏
+夏夏 : 「運動ですか？」
+Natsuka : "Are you exercising?"
+夏夏 : "是在运动吗？"
+
+リルヤ
+リルヤ : 「そうだ。車椅子生活だとどうしても筋力も体力も低下するからな。水中の運動は、安全かつ効率的だ」
+Lilja : "Indeed. Being wheelchair-bound weakens one's muscle mass and stamina. Exercising in the water is safer and more efficient for me."
+丽露娅 : "是的。只是坐在轮椅上生活的话力量和体力肯定是会下降的。在水中做运动的话，安全又有效率"
+
+リルヤ
+リルヤ : 「カロリー消費も普通のウォーキングよりも上で、精神的なリラックス効果もある」
+Lilja : "It burns more calories than a standard walk, and it's also quite relaxing."
+丽露娅 : "卡路里的消费量比单纯走路要高，精神上还有放松的效果"
+
+リルヤ
+リルヤ : 「むろん溺死の危険性はあるがな」
+Lilja : "Though naturally, there's always the danger of drowning."
+丽露娅 : "当然还是有溺死的风险的"
+
+リルヤ
+リルヤ : 「しかし、私の身にすこしでも危険があれば、すぐに対処できるようにしてあるから、問題はない」
+Lilja : "But I have made arrangements should anything even remotely dangerous occur, so there's nothing to worry about there."
+丽露娅 : "不过，一旦我的人身安全出现任何危险，立刻就会有人采取相应的措施，所以不会有问题的"
+
+夏夏
+夏夏 : 「えーとつまり、リルヤさんが何かしらのピンチになっても、すぐに助けがくるってことでしょうか？」
+Natsuka : "Umm... So like, you've got people who can help you right away if something happens?"
+夏夏 : "嗯——也就是说，丽露娅小姐如果发生了什么的话，马上就会有人来救您的意思？"
+
+リルヤ
+リルヤ : 「正解だ」
+Lilja : "Correct."
+丽露娅 : "正确的"
+
+夏夏
+夏夏 : 「でもその場合には人に見られてしまうわけですが……」
+Natsuka : "But then those people would see you..."
+夏夏 : "但是那时不就会被别人看见了吗……"
+
+リルヤ
+リルヤ : 「女性スタッフが来るように手配している。お前が懸念しているのは、見られた場合の羞恥心だろう？」
+Lilja : "I've also made arrangements so that only female staff will come to my aid. You're worried I'd be embarrassed at the thought of someone seeing me in the pool, yes?"
+丽露娅 : "会来这里的人我安排的是女性。你担忧的是被看到的时候感到羞耻吗？"
+
+リルヤ
+リルヤ : 「万が一のリスクの可能性と、普段の生活における合理性を天秤にかけた結果、普段の生活を取ったまでだ」
+Lilja : "When weighing whether I wished to prioritize a very unlikely risk versus streamlining my everyday life, I decided on streamlining my life."
+丽露娅 : "只把万一会发生的事情的可能性，和正常生活的合理性一起放在天平上，我选择了正常的生活"
+
+リルヤ
+リルヤ : 「お前については……」
+Lilja : "As for being seen by you..."
+丽露娅 : "至于你……"
+
+リルヤ
+リルヤ : 「犬に見られたところで、恥ずかしがる飼い主もいまいよ」
+Lilja : "Well, I doubt there's a pet owner alive who would be embarrassed by their dog seeing them in the pool."
+丽露娅 : "没有主人会因为给自己养的狗看到而感到害羞的"
+
+夏夏
+夏夏 : 「やっぱりわたし犬ですかー！？」
+Natsuka : "I'm still a dog to you!?"
+夏夏 : "我果然是狗吗——？！"
+
+リルヤ
+リルヤ : 「冗談だ」
+Lilja : "I'm joking."
+丽露娅 : "开玩笑的"
+
+リルヤ
+リルヤ : 「お前は人間だよ」
+Lilja : "You're a human being."
+丽露娅 : "你是人类"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah, I am!"
+夏夏 : "嗯！"
+
+夏夏
+夏夏 : 「あ！　でも、盲導犬さんってすっごいお役立ちなんですよね。お役立ちというか大事な相棒で導き手で友達以上の存在？」
+Natsuka : "Oh! But seeing-eye dogs are super useful, huh? They're like, really useful %i1and%id they're a trusty companion, guide, and a friend like no other!"
+夏夏 : "啊！但是导盲犬可是能起大作用的呢。与其说是起作用不如说是能担任向导的最重要的伙伴，是超越朋友的存在？"
+
+夏夏
+夏夏 : 「ううーん、あれと同じ――には、なれてない気もします！　もっとお役に立てるように頑張りたいですねえ」
+Natsuka : "Hrm... Yeah, I think I could be... Well, no, I'm not quite as useful as one yet! But I'm gonna do my best to be even %i1more%id useful than a seeing-eye dog!"
+夏夏 : "嗯——感觉我也没有——成为那样的存在！我会努力为您帮上更多的忙的"
+
+リルヤ
+リルヤ : 「たとえば？」
+Lilja : "And how would you do that?"
+丽露娅 : "比如说？"
+
+夏夏
+夏夏 : 「たとえばですか？　そうですねえ……」
+Natsuka : "How? Uh... well..."
+夏夏 : "比如说？我想想……"
+
+夏夏
+夏夏 : 「一緒に泳ぐとかですかね！」
+Natsuka : "I could swim with you!"
+夏夏 : "一起游泳这样！"
+
+リルヤ
+リルヤ : 「私はかまわないが。入るか？」
+Lilja : "I wouldn't mind that. Would you like to hop in?"
+丽露娅 : "我倒是不介意。你要进来吗？"
+
+夏夏
+夏夏 : 「えっいいんですか？　ありがとうございます。入ります！」
+Natsuka : "Oh, you're okay with that? Thank you! Don't mind if I do!"
+夏夏 : "哎？可以吗？谢谢您。那我进去啦！"
+
+夏夏
+夏夏 : 「水着はないので、服のまま失礼します！」
+Natsuka : "I don't have a swimsuit, so I'm just gonna hop in in my clothes!"
+夏夏 : "我没有泳衣，就这样穿着衣服游吧，打扰了！"
+
+夏夏
+夏夏 : 「あ、あったかいんですねえ……ちゃぷちゃぷ」
+Natsuka : "Wow, it's nice and warm... Splashy splashy!"
+夏夏 : "啊，好暖和啊……我划我划"
+
+リルヤ
+リルヤ : 「季節に合わせて、最適な水温に設定してある」
+Lilja : "It's set to have the ideal temperature for the season."
+丽露娅 : "设定的是最适合当前季节的水温"
+
+夏夏
+夏夏 : 「なるほど。便利ですねえ」
+Natsuka : "Wow, that's pretty convenient."
+夏夏 : "原来如此。太方便了"
+
+夏夏
+夏夏 : 「星は、あんまり見えませんねえ」
+Natsuka : "It's kinda hard to see the stars, huh?"
+夏夏 : "不怎么能看得见星星啊"
+
+リルヤ
+リルヤ : 「この土地だからな」
+Lilja : "It's our location, sadly."
+丽露娅 : "因为是在这片地区啊"
+
+夏夏
+夏夏 : 「そういえば、今日の急なバイト先、プラネタリウムだったんですよ。投影機操作のスタッフさんが急な用事で来られなくなっちゃって」
+Natsuka : "Oh yeah, the job I had to get to really suddenly today was at a planetarium. The staff member running the projector had something come up, so I had to step in."
+夏夏 : "说起来今天那个紧急的兼职，是去操作天象仪呢。原本操作投影仪的工作人员因为突然有事来不了了"
+
+夏夏
+夏夏 : 「しかもそのうえ、ナレーションを流す音声機械が壊れちゃって……」
+Natsuka : "And to make matters worse, the audio device they use to play the narration was broken too."
+夏夏 : "更糟糕的是，播放解说词语音的机器还坏掉了……"
+
+夏夏
+夏夏 : 「しょうがないので、即興でわたしがナレーションをやりました！」
+Natsuka : "We were outta options, so I just improvised the narration myself!"
+夏夏 : "没办法，只好由我来即兴说解说词了！"
+
+リルヤ
+リルヤ : 「今の季節の物語か」
+Lilja : "Seasonal stories, I take it?"
+丽露娅 : "当前季节的故事吗"
+
+夏夏
+夏夏 : 「はい。せっかくなので今月の星座のお話をしました。姉が星にまつわる伝説やお話が好きで、よく読み聞かせたので」
+Natsuka : "Yeah. I figured since I was there, I'd talk about this month's constellations. My sister used to love legends and stories about the stars, so we'd always read them to each other."
+夏夏 : "是的。机会难得我就讲了这个月的星座的故事。我姐姐很喜欢关于星座的传说和故事，我经常读给她听"
+
+夏夏
+夏夏 : 「リルヤさん、ちょっと手を触っていいですか？」
+Natsuka : "Do you mind if I hold your hand, Lilja-san?"
+夏夏 : "丽露娅小姐，我可以碰一下您的手吗？"
+
+リルヤ
+リルヤ : 「かまわない」
+Lilja : "Not at all."
+丽露娅 : "可以"
+
+夏夏
+夏夏 : 「あそこにあるのが、北斗七星です。一年中見られる星ですね」
+Natsuka : "So right over there is the Big Dipper. It's a constellation you can see all year round."
+夏夏 : "在那里的是北斗七星。全年都可以看见的星星"
+
+夏夏
+夏夏 : 「姉は北斗七星が好きでした。わたしは、あんまり見えない星座が好きですねえ。きりん座とか」
+Natsuka : "My big sister loved the Big Dipper, but I like the ones you can't see very well. Like Camelopardalis!"
+夏夏 : "我姐姐很喜欢北斗七星。我就比较喜欢不怎么能够看得到的星星。比如说鹿豹座"
+
+リルヤ
+リルヤ : 「きりん座か。最も明るい星でも４．０２等だから、この街では見つけにくいだろう」
+Lilja : "Camelopardalis? Its brightest star is only 4.02 magnitude, so I doubt you'd be able to see it from here."
+丽露娅 : "鹿豹座吗。即使是最亮的星也只有4.02等，在这个地区很难看见吧"
+
+夏夏
+夏夏 : 「そうですね。比較的新しい星座だから、伝説もなくて……でもけっこう好きで探しちゃう星座なんですよね」
+Natsuka : "Yeah. It's a relatively new constellation too, so there's not a lot of legends about it. But I still like it, so I always try looking for it."
+夏夏 : "是啊。相对来说是比较新的星座，所以也没有传说……但是这个星座我非常喜欢，忍不住就会去找呢"
+
+夏夏
+夏夏 : 「あのへんにあるんだろうな～って」
+Natsuka : "Like, maybe it's over there...?"
+夏夏 : "会不会在那块地方啊～"
+
+夏夏
+夏夏 : 「星って、見えなくてもそこにあるっていうのがいいですね」
+Natsuka : "I really like that stars are there even if you can't see them, you know?"
+夏夏 : "星星，即使看不见也在那里，真好啊"
+
+夏夏
+夏夏 : 「昔いた場所で、考えていたんですけど……」
+Natsuka : "I was thinking once a while back..."
+夏夏 : "以前在我所处的地方，曾这样想过……"
+
+夏夏
+夏夏 : 「ここからは見えなくても、他の場所で見あげている人には、たくさんの星がきらきら光って見えるんだろうなあって」
+Natsuka : "Even if we can't see them here, there are probably people in other places looking up at tons of beautiful, glittering stars."
+夏夏 : "即使从这里看不到，在其他地方仰望的人中，也是有能看到闪闪发光的繁星的吧"
+
+夏夏
+夏夏 : 「さっきあんまり見えないっていいましたが、見えている星は、とてもきれいですね」
+Natsuka : "I know I said you can't really see them very well, but the ones you %i1can%id see are really gorgeous, huh?"
+夏夏 : "虽然我刚刚说几乎看不到星星，不过能看到的星星，还是很漂亮的呢"
+
+夏夏
+夏夏 : 「ちいさな星の粒が、銀色のアラザンみたいにきらきらしてます」
+Natsuka : "Each little star twinkles like a silver dragée..."
+夏夏 : "小小的星星，就像银珠糖一样发着光"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+リルヤ
+リルヤ : 「きりん座はあそこにある」
+Lilja : "Camelopardalis is over there."
+丽露娅 : "鹿豹座就在那里"
+
+夏夏
+夏夏 : 「！」
+Natsuka : "Oh!?"
+夏夏 : "！"
+
+夏夏
+夏夏 : 「リルヤさんは、方向、わかるんですね」
+Natsuka : "You know which direction it's in?"
+夏夏 : "丽露娅小姐，您能分辨出方向啊"
+
+リルヤ
+リルヤ : 「北斗七星がわかれば、星座の位置は割り出せる。自分がどの向きで浮かんでいるかも、把握しているからな」
+Lilja : "If you know where the Big Dipper is, you can determine where the other constellations are. It helps that I know which direction I'm floating as well."
+丽露娅 : "知道了北斗七星的位置，就能推测出其他星座的位置。我也能大概掌握到自己所朝向的方位"
+
+夏夏
+夏夏 : 「すごいです！　わたしは大体あのへんかな？　って思ってたんですけど、ちょっとずれてたみたいです」
+Natsuka : "Wow, that's amazing! I was just kinda taking a shot in the dark. I guess I was kinda off though!"
+夏夏 : "太厉害了！我只能猜到大概在那块吧？这样，不过看来还是猜偏了一点"
+
+夏夏
+夏夏 : 「そっかーあのへんにあるのかあ……きりん座さん……」
+Natsuka : "So Camelopardalis is over that way, huh...?"
+夏夏 : "是吗——原来在那里啊……鹿豹座……"
+
+夏夏
+夏夏 : 「リルヤさんも詳しいですね、星座」
+Natsuka : "You really know your constellations, Lilja-san!"
+夏夏 : "丽露娅小姐对星座真了解呢"
+
+リルヤ
+リルヤ : 「いやそうでもない。ただ、あそこには私だけのアステリズムがあるからな」
+Lilja : "No, that's not quite true. I just have a personal asterism over there."
+丽露娅 : "并不是。只是那里有只属于我的星群"
+
+夏夏
+夏夏 : 「アステリズム……ですか？」
+Natsuka : "An... asterism?"
+夏夏 : "星群……吗？"
+
+リルヤ
+リルヤ : 「ああ、私的な星座とでも思えば良い」
+Lilja : "Yes. Think of it as a personal constellation."
+丽露娅 : "是的，你就当是我的星座就好"
+
+リルヤ
+リルヤ : 「星と星を線で結んでできた形……私はそれを祖母からもらった」
+Lilja : "You connect the stars to make a shape... This is one my grandmother passed down to me."
+丽露娅 : "星星和星星用线连起来的形状……是外婆给我的"
+
+夏夏
+夏夏 : 「どんな形なんですか？」
+Natsuka : "What shape is it?"
+夏夏 : "是什么样的形状？"
+
+リルヤ
+リルヤ : 「こうだ」
+Lilja : "It's like this."
+丽露娅 : "这样的"
+
+夏夏
+夏夏 : （リルヤさんの指が動いて、星と星を結んでいきます……）
+Natsuka : (Lilja-san's tracing the stars with her finger...)
+夏夏 : （丽露娅小姐的手指动了起来，把星星和星星连在了一起……）
+
+夏夏
+夏夏 : 「……四角い形？」
+Natsuka : "...A rectangle?"
+夏夏 : "……四方形？"
+
+リルヤ
+リルヤ : 「ああ、祖母は花瓶座だといっていた」
+Lilja : "Yes. My grandmother called it the flower vase constellation."
+丽露娅 : "是的，外婆跟我说叫做花瓶座"
+
+夏夏
+夏夏 : 「花瓶座、ですか」
+Natsuka : "A flower vase, huh?"
+夏夏 : "花瓶座，吗？"
+
+リルヤ
+リルヤ : 「ああ。祖母は花が好きでな。庭でたくさんの花を咲かせ、その花を花瓶にいれて飾っていた」
+Lilja : "Yes. My grandmother loved flowers. She grew so many in our yard, and she'd place them in vases for us."
+丽露娅 : "是的。外婆很喜欢花。在院子里种满了花，开花后会把花放进花瓶里装饰"
+
+リルヤ
+リルヤ : 「私の家にある唯一の花瓶は、祖母の花瓶だ」
+Lilja : "The only vase in this house is my grandmother's vase."
+丽露娅 : "我家里仅有的那一只花瓶，就是我外婆的花瓶"
+
+夏夏
+夏夏 : 「花瓶……」
+Natsuka : "Oh..."
+夏夏 : "花瓶……"
+
+夏夏
+夏夏 : （花は要らないといったので、ずっと空っぽの花瓶……）
+Natsuka : (The one that's always empty... The one she said she didn't need any flowers for...)
+夏夏 : （她说不需要放花的，一直空着的那个花瓶……）
+
+夏夏
+夏夏 : 「……夜空の花瓶にも、花は生けられてないのでしょうか？」
+Natsuka : "...Is the vase in the night sky empty too?"
+夏夏 : "……夜空中的花瓶里，也没有插着花吗？"
+
+リルヤ
+リルヤ : 「いや、花瓶座には、不在の花が生けられている」
+Lilja : "No. The vase constellation has a flower of absence within it."
+丽露娅 : "不，花瓶座里，插着未至的花"
+
+夏夏
+夏夏 : 「不在の花、ですか？」
+Natsuka : "A what?"
+夏夏 : "未至的，花吗？"
+
+リルヤ
+リルヤ : 「空の花瓶、空の椅子、岩につきささった剣……それらは、常に不在を意味する。いつかやってくる花を、人を、王を、待っている」
+Lilja : "A vase without a flower. An empty chair. A stone with a sword in it. These are all representations of absence. They're always waiting for a flower, a person, or a king."
+丽露娅 : "空的花瓶、空的椅子、扎入石头中的剑……这些都常常象征着未至。等待着总有一天会来的花、人、王"
+
+リルヤ
+リルヤ : 「祖母はそういっていた。そして私がいつか花瓶を得て、その花瓶に花がもたらされることを望んでいた」
+Lilja : "That's what my grandmother said. Then, she said that I would obtain a vase of my own and hoped it would bring me a flower one day."
+丽露娅 : "外婆是这样跟我说的。而我曾一直盼望着有一天我能得到花瓶，且能有花被带到这个花瓶里"
+
+リルヤ
+リルヤ : 「あるいは私が、自ら花を見出すことを」
+Lilja : "Or that I would find a flower to place in it myself."
+丽露娅 : "或者是，我自己找出花"
+
+夏夏
+夏夏 : 「リルヤさんに花瓶を……ですか？」
+Natsuka : "In... your empty vase...?"
+夏夏 : "她把花瓶交给了丽露娅小姐……吗？"
+
+リルヤ
+リルヤ : 「そうだ。花瓶とはひとつの限界であり、境界である。その限界こそが祖母が私に求めたものだということだ」
+Lilja : "That's right. A vase is a vessel—a boundary. That boundary is what my grandmother wanted for me."
+丽露娅 : "是的。花瓶既是一种界限，也是一种境界。这个界限就是外婆对我的期待"
+
+夏夏
+夏夏 : 「む、難しいですね？」
+Natsuka : "I-I don't really get it..."
+夏夏 : "唔、好复杂啊"
+
+リルヤ
+リルヤ : 「わからなくていい。ともあれ、祖母は私にひとつの指針を示すために、私のために、あの花瓶と、花瓶座を遺していった」
+Lilja : "That's fine. Regardless, my grandmother left me that vase and the vase constellation to impress upon me that singular guiding principle."
+丽露娅 : "你不理解也没关系。不管怎么样，外婆给我指明了一个方向，为了我，把那只花瓶留给了我"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「あの、リルヤさんのお祖母様は……」
+Natsuka : "Is your grandmother still...?"
+夏夏 : "那个，丽露娅小姐的外婆……"
+
+リルヤ
+リルヤ : 「ああ、亡くなったよ。だが祖母は、沢山のものを遺していってくれた。花瓶座もそのひとつだ」
+Lilja : "No. She's passed. But she left me much to remember her by, including the vase constellation."
+丽露娅 : "是的，已经去世了。不过外婆给我留下了很多东西。花瓶座也是其中之一"
+
+夏夏
+夏夏 : 「お祖母様のいっていた花ってなんでしょう？」
+Natsuka : "What do you think the flower she was talking about could've been?"
+夏夏 : "您外婆所说的花是什么呢？"
+
+リルヤ
+リルヤ : 「そうだな……端的にいえば私の心を震わせるものだろう」
+Lilja : "Well... To put it bluntly, I believe it's something that can move me emotionally."
+丽露娅 : "是啊……简单说的话就是能让我的内心震撼的东西吧"
+
+夏夏
+夏夏 : 「リルヤさんの心を震わせるもの……」
+Natsuka : "Something that can move you..."
+夏夏 : "能让丽露娅小姐的内心震撼的东西……"
+
+夏夏
+夏夏 : 「お祖母様は、リルヤさんに色々なことを教えてくれたんですね」
+Natsuka : "Your grandmother taught you a whole lot, didn't she?"
+夏夏 : "外婆教给了丽露娅小姐您很多东西啊"
+
+リルヤ
+リルヤ : 「そうだな。多くのことを教えられ、多くのものを与えられた」
+Lilja : "She did indeed. She taught me and left me so very much."
+丽露娅 : "是的。教了我很多，也给了我很多"
+
+リルヤ
+リルヤ : 「祖母が一番私に与えたかったものは、与えられなかったがな」
+Lilja : "Though she was unable to give me the thing she wanted to the most."
+丽露娅 : "我最想让外婆给我的东西，却没有给我"
+
+リルヤ
+リルヤ : 「いや、祖母は最初から私にそれを与えようとも思っていなかった。ただいつかの花の訪れを、鳥が歌うように望みつづけた」
+Lilja : "Perhaps it's more accurate to say she never tried to. All she'd say is that she'd wait for that flower to come, the way a bird sings."
+丽露娅 : "不，我最开始就不觉得外婆会给我。只是我一直像唱着歌的鸟一样盼望着有一天花会到来"
+
+リルヤ
+リルヤ : 「不在の花のおとないを」
+Lilja : "Hoping that the flower of absence would one day arrive."
+丽露娅 : "盼望着未至的花的到访"
+
+リルヤ
+リルヤ : 「祖母は自分の理想の言葉を、私に押しつけるきらいがあった」
+Lilja : "My grandmother had a habit of shoving idealistic words like that upon me."
+丽露娅 : "外婆总是将自己理想的言语强加在我身上"
+
+リルヤ
+リルヤ : 「言葉は押しつけるくせに、しかし、心では少しも強制しなかった」
+Lilja : "Though no matter how she forced me to hear them, she never forced me to take them to heart."
+丽露娅 : "明明是强加给我的，但是，在我的心里一点也没有被强迫的感觉"
+
+リルヤ
+リルヤ : 「ただ自分が美しいと思う世界を、ひたすら楽しそうに嬉しそうに語りつづけた」
+Lilja : "She just enjoyed telling me of the world she thought was beautiful."
+丽露娅 : "她只是在一昧地开心、兴奋地讲述着自己觉得美丽的世界"
+
+夏夏
+夏夏 : 「リルヤさんは、お祖母様がお好きだったんですね」
+Natsuka : "You really loved your grandmother, huh?"
+夏夏 : "丽露娅小姐，很喜欢自己的外婆呢"
+
+リルヤ
+リルヤ : 「そうだな。私が想像する以上に私という形に、祖母は多くの影響をもたらしているだろう」
+Lilja : "I did. She had far more of an effect on the person I am today than I ever could have imagined."
+丽露娅 : "是啊。我自己的形状，受到了比我想象中还要多的外婆的影响"
+
+リルヤ
+リルヤ : 「お前の姉がお前に多大な影響をもたらしたようにな」
+Lilja : "Just as your older sister had quite the effect on you as well."
+丽露娅 : "如同你受到了你姐姐很大的影响一样"
+
+夏夏
+夏夏 : 「わたしの……」
+Natsuka : "My sister..."
+夏夏 : "我的……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「わたしは……」
+Natsuka : "I..."
+夏夏 : "我……"
+
+夏夏
+夏夏 : 「確かにわたしにとって、お姉ちゃんはすごい影響力を持っていました」
+Natsuka : "You're right. My sister really did have a strong effect on me."
+夏夏 : "确实姐姐对我的影响很大"
+
+夏夏
+夏夏 : 「わたしのｗｅｂラジオも、お姉ちゃんが見ることのできなかった風景を語るような気持ちではじめましたし」
+Natsuka : "I even started my podcast because I wanted to tell my sister about all the scenery she couldn't see."
+夏夏 : "我做网络电台，也是用讲述姐姐看不到的风景的心情开始的"
+
+夏夏
+夏夏 : 「自転車に乗ってあちこちの景色を見て回って、色々な話をしました」
+Natsuka : "I rode my bike all over, looking for new surroundings, talking about all sorts of stuff."
+夏夏 : "骑着自行车去看各个地方的景色，讲述形形色色的事"
+
+夏夏
+夏夏 : 「そういえば、今日のプログラムで、少し前の流星群についての再現映像を見たんですよ」
+Natsuka : "Oh, come to think of it! Today's program at the planetarium was actually playing footage of the meteor shower from a little while ago."
+夏夏 : "说起来，今天在节目里，我看到了不久之前流星雨的重播录像"
+
+夏夏
+夏夏 : 「はじめて、ｗｅｂラジオをしようって決めたときのことを思い出しました」
+Natsuka : "It made me remember when I first decided to start podcasting."
+夏夏 : "这让我想起来我刚开始决定要做网络电台时候的事情"
+
+夏夏
+夏夏 : 「自分で見たいものを選んで、ひとりで行く場所を決めて、自転車で移動して、丘に寝転がって、流星群を見ました」
+Natsuka : "I chose what I wanted to see on my own, decided where I wanted to go on my own, biked out there on my own, lay down on the hill, and just watched the meteor shower overhead."
+夏夏 : "选择自己想看的东西，自己决定要去的地方，骑着自行车前往，睡在山坡上、看到了流星雨"
+
+夏夏
+夏夏 : 「満天の空から落ちる星をひとりで見ながら、自由ってこんな感じかなって思っていました」
+Natsuka : "Watching the sky full of stars passing through the sky all by myself, I felt like, 'this is what real freedom feels like.'"
+夏夏 : "一个人看着满天滑落的星星，我心想这就是自由啊"
+
+リルヤ
+リルヤ : 「自由か」
+Lilja : "Freedom, you say..."
+丽露娅 : "自由吗"
+
+夏夏
+夏夏 : 「はい。自由はすこしさみしくて、でも、わたしの目に映る世界は、とてもきれいだなって思いました」
+Natsuka : "Yeah. Freedom can be a bit lonely, but the world I saw before me was so beautiful."
+夏夏 : "是的。自由有一点寂寞，不过，我觉得映入我眼帘的世界，真的是非常的漂亮"
+
+リルヤ
+リルヤ : 「よく覚えている」
+Lilja : "I remember that quite well."
+丽露娅 : "我记得"
+
+夏夏
+夏夏 : 「え？」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+リルヤ
+リルヤ : 「それが私がはじめて聞いた、お前の言葉だった」
+Lilja : "That was the first time I'd heard your words."
+丽露娅 : "这是我听到你说的第一句话"
+
+夏夏
+夏夏 : 「！　そうだったんですね」
+Natsuka : "That's amazing!"
+夏夏 : "啊！原来是这样"
+
+夏夏
+夏夏 : 「そうかあ……あれが、わたしのはじめて見た景色が、はじめて自分で考えて発信した言葉が、リルヤさんに届いたんですね……」
+Natsuka : "Wow... To think the first time I really looked at the scenery around me %i1and%id the first time I ever spoke for myself managed to reach you..."
+夏夏 : "这样啊……那是，我最开始看到的景色，我最开始自己思考而脱口而出的话，居然传到了丽露娅小姐的耳朵里……"
+
+夏夏
+夏夏 : 「なんだか嬉しいです」
+Natsuka : "That makes me pretty happy."
+夏夏 : "感觉好开心啊"
+
+リルヤ
+リルヤ : 「私はお前の姉の代わりにはならないが、それでも、お前が嬉しければそれでいい」
+Lilja : "I won't be a replacement for your sister, but if it makes you happy, that's all that matters."
+丽露娅 : "我并不能代替你的姐姐，不过，这样你也能开心就好"
+
+夏夏
+夏夏 : 「そんな！　何度もいっていますが、リルヤさんをお姉ちゃんの代わりなんて思ったこと、一度もないですよ。全然似てないですし」
+Natsuka : "Aw, don't be like that! I know I sound like a broken record, but I've never even once thought of you as a replacement for my sister. You're nothing alike."
+夏夏 : "没有的事！不管说多少次我还会强调的，我一次都没有把丽露娅小姐当做是我姐姐的替代。而且你们完全不像"
+
+夏夏
+夏夏 : 「お姉ちゃんは……いつでも、どこか遠くを見ているひとでした。わたしの方を見ずに、ずっと別の何かを見ていました」
+Natsuka : "My sister... She always had this distant expression on her face. She never once looked at me. She was always looking somewhere far, far away."
+夏夏 : "我姐姐……她是个总看着远处的某个地方的人。不是看着我，而是一直看着其他的什么东西"
+
+夏夏
+夏夏 : 「でもあの頃のわたしは、お姉ちゃんの傍にいるだけで幸福だったんです」
+Natsuka : "But back then, I was happy as long I could stay by my sister's side."
+夏夏 : "不过对那个时候的我来说，能待在姐姐身旁就很幸福了"
+
+夏夏
+夏夏 : 「だからお姉ちゃんの傍にいて、ずっとお姉ちゃんが言うとおりに生きていました」
+Natsuka : "That's why I went through life just doing whatever she told me to."
+夏夏 : "所以我待在姐姐的旁边，一直遵照着姐姐的话生活着"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「言うとおりに従うだけの道具としてもか……？」
+Lilja : "You mean that you were a tool who merely did what she was told?"
+丽露娅 : "只是作为言听计从的道具而已吗……？"
+
+夏夏
+夏夏 : 「道具というよりも、部品みたいなものでしたね。わたしはお姉ちゃんの目そのもので、お姉ちゃんの一部だったんです」
+Natsuka : "I was less like a tool and more like an extension of her. I was her only set of eyes, so I was just a part of her."
+夏夏 : "与其说是道具，不如说是零件。我就是姐姐的眼睛，姐姐的一部分"
+
+夏夏
+夏夏 : 「でも……」
+Natsuka : "But..."
+夏夏 : "但是……"
+
+夏夏
+夏夏 : 「やっぱりわたしはわたしだったんですよね」
+Natsuka : "Now I realize that I'm my own person."
+夏夏 : "果然我就是我啊"
+
+夏夏
+夏夏 : 「うまくいえませんけど……」
+Natsuka : "I don't know how to put it..."
+夏夏 : "我不能很好地形容……"
+
+夏夏
+夏夏 : 「あの家から外に出て、すごくそう感じています」
+Natsuka : "But after I left my house, I was overwhelmed by that feeling."
+夏夏 : "从那个家里出来以后，我就很有这样的感觉"
+
+リルヤ
+リルヤ : 「そうだな。残念ながら人は生まれ落ちたときから、一人の人間として生きることを宿命づけられている」
+Lilja : "Unfortunate as it is, we're all fated to be a single person within the human race from the moment we're born."
+丽露娅 : "是啊。遗憾的是从呱呱坠地开始，人就被赋予了作为一个人类活下去的宿命"
+
+リルヤ
+リルヤ : 「どれだけひとつになりたいとしても、人が人である以上、いつかその望みは綻びとなる」
+Lilja : "No matter how much we may wish to become one with each other, it's a most human thing for that desire to one day come apart at the seams."
+丽露娅 : "不管有多想成为一体，只要人还是人，这种希望早晚会出现裂痕"
+
+夏夏
+夏夏 : 「綻びに……」
+Natsuka : "Really...?"
+夏夏 : "裂痕……"
+
+リルヤ
+リルヤ : 「お前もまた空の花瓶だな」
+Lilja : "You still have an empty vase too."
+丽露娅 : "你也还是只空花瓶"
+
+夏夏
+夏夏 : 「わたしがですか？」
+Natsuka : "I do?"
+夏夏 : "我吗？"
+
+リルヤ
+リルヤ : 「ああ。お前は過酷な生育歴のなかで花瓶を壊さずに、外に出た」
+Lilja : "Indeed. Despite the cruel upbringing you had, you escaped without your vase being broken."
+丽露娅 : "是的。在你苛刻的成长历程中花瓶并没有损坏，出到了外面"
+
+リルヤ
+リルヤ : 「そして今はその花瓶のなかに、自らの意思で花を生けている」
+Lilja : "And now, you are trying to plant a flower in it of your very own will."
+丽露娅 : "而现如今你靠着自己的意志，在那个花瓶里插上了花"
+
+夏夏
+夏夏 : 「花を……」
+Natsuka : "I am..."
+夏夏 : "插上了花……"
+
+夏夏
+夏夏 : 「きっとお姉ちゃんがいたときは、わたしの花瓶はお姉ちゃんが満たしてくれてたんですね」
+Natsuka : "I think when my sister was alive, she might have been who filled my vase."
+夏夏 : "姐姐还在世的时候，我的花瓶里一定是被她装满了吧"
+
+夏夏
+夏夏 : 「だから壊れずに済んだんだと思います」
+Natsuka : "That's why I think it never broke."
+夏夏 : "所以才没有损坏"
+
+リルヤ
+リルヤ : 「一冊の本、一本の映画、だな」
+Lilja : "Through those books and films you shared, I imagine."
+丽露娅 : "一本书、一部电影，是吧"
+
+夏夏
+夏夏 : 「……！」
+Natsuka : "...!"
+夏夏 : "……！"
+
+夏夏
+夏夏 : 「そうですね、きっとそうです。お姉ちゃんと一緒に見た本や、映画が……たくさんの物語が……」
+Natsuka : "Yeah... I think you're right. All those books we read and films we watched together had so many vast stories..."
+夏夏 : "是啊，一定是这样的。和姐姐一起看的书、电影……许许多多的故事……"
+
+夏夏
+夏夏 : 「わたしの世界を無限大にしてくれて、わたしの心を守ってくれたんですね」
+Natsuka : "They made my world seem infinite and kept my heart from breaking."
+夏夏 : "让我的世界变得无限大，守护着我的内心"
+
+夏夏
+夏夏 : 「リルヤさん、わたしに花瓶座のこと教えてくれてありがとうございます」
+Natsuka : "Lilja-san, thank you for telling me about the flower vase constellation."
+夏夏 : "丽露娅小姐，谢谢您跟我讲花瓶座的事情"
+
+夏夏
+夏夏 : 「リルヤさんの指が描く線が、星と星を結んで……わたしにも、花瓶座が見えるようになりました」
+Natsuka : "Watching your finger trace the stars together... I see it now too."
+夏夏 : "丽露娅小姐的手指描绘出来的线，将星星和星星连在了一起……让我也看见了花瓶座"
+
+夏夏
+夏夏 : 「さっきまでは、ただの星が並んでいたところに、見えていても見えなかったところに、花瓶が見えるようになりました」
+Natsuka : "Up until this point, I just thought of them as plain old stars. Even if I was looking right at it, I wouldn't have been able to see it. But now I see a vase clear as day."
+夏夏 : "刚刚那里还只是有几颗星星单纯地排列在那里而已，现在若隐若现的，感觉能够看出花瓶了"
+
+夏夏
+夏夏 : 「これってなんかすごいですね」
+Natsuka : "It's really incredible, isn't it?"
+夏夏 : "感觉好神奇啊"
+
+夏夏
+夏夏 : 「リルヤさんといると、ああ、わたしはちゃんとここにいるんだなって思えて、だから、わたしはなんだか嬉しくなってしまうんです」
+Natsuka : "When I'm with you, it's like... I feel like I really exist here. And I think that's why I'm so happy."
+夏夏 : "和丽露娅小姐在一起的时候，让我感觉此时此刻我就在这里，所以，我也不由自主地开心起来了"
+
+夏夏
+夏夏 : 「今は、ひとりであちこち巡っていた頃よりもっと楽しいです。リルヤさんの隣で、リルヤさんにきれいな世界を語れるのが嬉しいんです」
+Natsuka : "I'm having so much more fun right now than I did just running around all willy-nilly. I'm so glad I can be by your side, telling you all about the beautiful world around me."
+夏夏 : "现在比我自己一个人到各个地方旅行的时候还要开心。能在丽露娅小姐的身边，跟丽露娅小姐讲述美丽的世界真的很开心"
+
+夏夏
+夏夏 : 「今は、何を見ても、どれを見ても、リルヤさんに話したくなります。たくさんのことを話したいです」
+Natsuka : "No matter what I see or how I come across it, I'm always wanting to tell you all about it. I have so much I want to talk to you about."
+夏夏 : "现在，不管看到什么，不管看到谁，我都想和丽露娅小姐说话，说很多很多的话"
+
+夏夏
+夏夏 : 「さっきも水に浮かんでいるリルヤさん、宝石でできた妖精みたいだなって感動して、話したくなりましたし」
+Natsuka : "Like when I saw you floating in the water earlier! I was so impressed with how you looked like a fairy made of jewels or something, I just had to tell you!"
+夏夏 : "刚刚浮在水中的丽露娅小姐，有如宝石做成的妖精一般让我感动，让我情不自禁地就想说出来了"
+
+リルヤ
+リルヤ : 「そうだな。私は客観的に見て美しいからな」
+Lilja : "Right. So I'm objectively beautiful, then?"
+丽露娅 : "是啊。客观地看我也很美"
+
+夏夏
+夏夏 : 「はい、とってもきれいです！」
+Natsuka : "You bet you are!"
+夏夏 : "是的，非常漂亮！"
+
+夏夏
+夏夏 : （でも、リルヤさんのこのきれいな目には何も映らないんだ……）
+Natsuka : (But Lilja-san can't see anything from those beautiful eyes of hers...)
+夏夏 : （不过，丽露娅小姐的这双美丽的双眼却不会映入任何东西……）
+
+夏夏
+夏夏 : （リルヤさん、睫毛も白いんですね……お人形さんみたいに長いです……ほっぺたも白くて……）
+Natsuka : (Her eyelashes are white, too... And they're as long as a doll's lashes... And her cheeks are so light...)
+夏夏 : （丽露娅小姐，睫毛也是白色的呢……就像布娃娃一样长……脸蛋也很白……）
+
+夏夏
+夏夏 : 「あの、リルヤさん」
+Natsuka : "Hey, Lilja-san?"
+夏夏 : "那个，丽露娅小姐"
+
+リルヤ
+リルヤ : 「なんだ？」
+Lilja : "Yes?"
+丽露娅 : "怎么了？"
+
+夏夏
+夏夏 : 「ほっぺに触ってもいいですか？」
+Natsuka : "May I touch your cheek?"
+夏夏 : "我可以摸一下您的脸吗？"
+
+リルヤ
+リルヤ : 「唐突だな。理由は？」
+Lilja : "That's awfully sudden. Why?"
+丽露娅 : "真突然啊。为什么？"
+
+夏夏
+夏夏 : 「理由はないです。ただ触りたくなっただけです」
+Natsuka : "No reason. I just want to touch it."
+夏夏 : "没有为什么。就是想摸一下而已"
+
+リルヤ
+リルヤ : 「非合理的だな。だがかまわない。触るといい。触って、お前の感動を聞かせてみせろ」
+Lilja : "That's hardly rational of you. But go right ahead, touch away. Touch my cheek and tell me what you feel."
+丽露娅 : "真不合理啊。但是无所谓。摸吧。摸了之后，跟我讲讲你的感动"
+
+夏夏
+夏夏 : 「感動するの前提ですか？」
+Natsuka : "You're sure I'm gonna be moved, huh?"
+夏夏 : "把我会感动作为前提了吗？"
+
+リルヤ
+リルヤ : 「それはもう」
+Lilja : "Why, of course."
+丽露娅 : "那当然"
+
+夏夏
+夏夏 : 「では失礼しまして……」
+Natsuka : "Then... Here goes."
+夏夏 : "那我失礼了……"
+
+夏夏
+夏夏 : 「……（そっ）」
+Natsuka : "*stroke*..."
+夏夏 : "……（摸）"
+
+夏夏
+夏夏 : 「おお……すべすべです」
+Natsuka : "Wow... It's so smooth."
+夏夏 : "喔……好光滑"
+
+夏夏
+夏夏 : 「白くて冷たくてすべすべしてて……でも触れてると、ほんのりあたたかみを感じます……やわらかな陶器みたいです」
+Natsuka : "It's so light and cool and smooth... But with just the slightest amount of warmth. It's like if porcelain were soft."
+夏夏 : "又白又冰还滑滑的……不过摸上去还是能感受到微微的热度……感觉就像是柔软的瓷器一样"
+
+リルヤ
+リルヤ : 「やわらかな陶器か。悪くない感嘆だ」
+Lilja : "Soft porcelain? That's quite the impression."
+丽露娅 : "柔软的瓷器吗。这个感叹也不坏"
+
+リルヤ
+リルヤ : 「……ふむ。お前はもうすこし手入れをした方がいいな」
+Lilja : "...Hmm. I think you should take better care of yours."
+丽露娅 : "……嗯。你还是稍微做一下护肤会更好"
+
+夏夏
+夏夏 : 「えっ、そんなにお肌ざらざらですか！？」
+Natsuka : "Huh!? Why, is it that bad!?"
+夏夏 : "哎？我的皮肤有这么粗糙吗？！"
+
+夏夏
+夏夏 : 「確かに、まったくお手入れしてなかったことは認めます！　でも、身近にここまでの美肌マスターがいる――ということは、ですよ！？」
+Natsuka : "Like, I know I don't really do anything to take care of it! But I never thought I'd have a skincare %i1master%id right next to me or anything, you know!?"
+夏夏 : "确实，我承认我几乎没有做过护肤！不过，没想到我身边居然有这样的皮肤保养大师——也就是说？！"
+
+夏夏
+夏夏 : 「ここは張り切って、美肌を目指すタイミングかもしれませんね！　レッツすべすべ！！」
+Natsuka : "So now's as good a time as ever to start taking care of my skin! Let's get smooth, baby!"
+夏夏 : "现在也许就是开始努力保养出美丽肌肤的好时机！Let's变滑滑！！"
+
+リルヤ
+リルヤ : 「れっつすべすべ……」
+Lilja : "Baby...?"
+丽露娅 : "Let's变滑滑……"
+
+夏夏
+夏夏 : 「はい、この前食べた大福のようなすべすべに！」
+Natsuka : "Yeah! I'm gonna be as smooth as that %i1daifuku%id we ate earlier!"
+夏夏 : "是的，就像之前吃的大福那样滑滑的！"
+
+リルヤ
+リルヤ : 「……はは」
+Lilja : "Haha..."
+丽露娅 : "……哈哈"
+
+夏夏
+夏夏 : （えっ、今笑うところだったでしょうか？　リルヤさんの笑いのツボは謎ですね？？？？）
+Natsuka : (Wait, did Lilja-san just %i1laugh!?%id I really can't figure out what gets her to smile...)
+夏夏 : （哎？刚刚有什么好笑的地方吗？丽露娅小姐的笑点可真是个谜啊？？？？）
+
+リルヤ
+リルヤ : 「いい」
+Lilja : "It's fine."
+丽露娅 : "挺好的"
+
+夏夏
+夏夏 : 「へ？」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+リルヤ
+リルヤ : 「お前はこのままでいい」
+Lilja : "You're fine the way you are."
+丽露娅 : "你就这样挺好的"
+
+夏夏
+夏夏 : 「……はい！」
+Natsuka : "...Okay!"
+夏夏 : "……好的！"
+
+リルヤ
+リルヤ : 「夏夏」
+Lilja : "Natsuka."
+丽露娅 : "夏夏"
+
+夏夏
+夏夏 : 「はい、何でしょうリルヤさん」
+Natsuka : "Yes? What is it, Lilja-san?"
+夏夏 : "我在，请问有什么吩咐吗丽露娅小姐"
+
+リルヤ
+リルヤ : 「私はそろそろプールから出る。お前は私を風呂まで運び、髪を乾かし、着替えをさせて、ベッドに運ぶといい」
+Lilja : "I'm going to get out of the pool now. I want you to take me to the bath, dry my hair, change my clothes, and carry me to my bed."
+丽露娅 : "我过会就要从泳池里出来了。你把我送到浴室，帮我把头发吹干、换好衣服，再把我送到我的床上"
+
+夏夏
+夏夏 : 「えっ！？　いいんですか！？」
+Natsuka : "What!? Are you sure!?"
+夏夏 : "哎？！这样好吗？！"
+
+リルヤ
+リルヤ : 「合理的に考えて、お前に任せる方が効率的だと判断した」
+Lilja : "Rationally speaking, I decided relying on you was the most efficient way to go about it."
+丽露娅 : "从合理的角度出发，我判断交给你来是最有效率的"
+
+夏夏
+夏夏 : 「わかりました！　誠心誠意全身全霊でリルヤさんのお世話をさせていただきます！」
+Natsuka : "You've got it! Then I'll do my utmost bestest to take care of you!"
+夏夏 : "好的！我一定会诚心诚意全心全意地照顾好丽露娅小姐的！"
+
+リルヤ
+リルヤ : 「いつもどおりでいい」
+Lilja : "Just do it like you normally would."
+丽露娅 : "像往常一样就好"
+
+夏夏
+夏夏 : 「わかりました！！」
+Natsuka : "Then I'll do my normalest to take care of you!"
+夏夏 : "好的！！"
+

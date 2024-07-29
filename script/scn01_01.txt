@@ -1,0 +1,415 @@
+夏夏
+夏夏 : 「んふんふっ　んふんふっ　んふふっふふふぅ～ん♪」
+Natsuka : "Hmm-hmm, hmm-hmm, hmmm-hmmmm... %f$記号$;♪%fuser;"
+夏夏 : "嗯哼嗯哼　嗯哼嗯哼　嗯哼哼哼哼哼～♪"
+
+夏夏
+夏夏 : 「あっめあっめ　ふっれふっれ　いっまは～ふらなくていいけど～実際ふってないけっどお～」
+Natsuka : "Rain, rain, go away! Come again another day! It's not actually raining though..."
+夏夏 : "雨呀雨呀，下吧下吧，现在～不下也无碍～其实确实也没下～"
+
+夏夏
+夏夏 : 『きょっうの～ご飯は～なんだろな～？　わったしがつくるんですけどねえ～　おいしいの～をっつっくりたいな～』
+Natsuka : "What's for dinner today? I'll be the one making it, but still... I wanna cook something yummy!"
+夏夏 : "今天～的晚饭～是什么呀～？　是我来做饭呢～想做点～好好吃的东西呢～"
+
+夏夏
+夏夏 : 『ぴっちぴっち　ちゃっぷちゃっぷらんらんら～ん♪』
+Natsuka : "Rain, rain, go away... %f$記号$;♪%fuser;"
+夏夏 : （哼歌）
+
+夏夏
+夏夏 : 『あっれ～？　なんかひとごみ？　がっやがやしてますね～？　さつえいちゅうかな～？』
+Natsuka : "Huh? What's with the crowd? Is there a film crew in town?"
+夏夏 : "咦～？　好像一堆人呢？　一堆接着一堆呢～？　是在摄影吗～？"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「プロペラの……音」
+Lilja : "I hear... propellers."
+丽露娅 : "螺旋桨的……声音"
+
+リルヤ
+リルヤ : 「リビングの窓が、閉まる……」
+Lilja : "The living room window is closing..."
+丽露娅 : "客厅的窗户关上了……"
+
+まひる
+ラジオの声？ : 『えーえー……本日は晴天なり？　突然ですが、天気予報です。本日の予報は――』
+Radio? : "Ahem... Testing, testing... Let's see what the weather will be like today."
+广播? : "嗯嗯……今天艳阳高照？　突然插播一条消息，是今天的天气预报。今天的天气是——"
+
+まひる
+ラジオの声？ : 『はれときどきカエルです』
+Radio? : "Sunny with a chance of frogs."
+广播? : "晴，局部地区有青蛙阵雨"
+
+リルヤ
+リルヤ : 「――ふ」
+Lilja : "...Heh."
+丽露娅 : "——呵"
+
+夏夏
+夏夏 : %120;「でええええええええええ！？？？　カエルぅううう！？？？」
+Natsuka : "Whaaaaaaat!? Why's it raining frogs!!?"
+夏夏 : "咦——！？？？　青蛙——！？？？"
+
+夏夏
+夏夏 : 「リルヤさん！！」
+Natsuka : "Lilja-san!!"
+夏夏 : "丽露娅小姐！！"
+
+夏夏
+夏夏 : 「リルヤさん！　大丈夫ですか！？」
+Natsuka : "Lilja-san! Are you okay!?"
+夏夏 : "丽露娅小姐！！　你没事吧！？"
+
+夏夏
+夏夏 : 「窓あけっぱなしで、カエルっカエルがっげっげこげこげこげげこげでっ」
+Natsuka : "I left the window open, and there's froggies everywhere going ribbit ribbit ribbit ribbit croak croak croak!"
+夏夏 : "窗户也开着没关，青蛙在呱呱呱乱叫呢"
+
+夏夏
+夏夏 : 「あっ頑張ったので踏み潰してはいませんが、お部屋がプールがお庭がカエルまみ――」
+Natsuka : "Ahh, I did my best to not step on any of them, but the condo, the pool, and the courtyard are all gonna be filled with frog—"
+夏夏 : "我好不容易才没有把它们踩扁，但是房间里，泳池里，院子里到处都是青——"
+
+夏夏
+夏夏 : 「れ？」
+Natsuka : "Huh?"
+夏夏 : "蛙？"
+
+夏夏
+夏夏 : 「窓、閉まってます？」
+Natsuka : "The window's... closed?"
+夏夏 : "窗户，已经关上了？"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Yes."
+丽露娅 : "那是当然"
+
+夏夏
+夏夏 : 「ああっでもお庭が！　プールがカエルまみれに！」
+Natsuka : "Ahh, but the courtyard! The pool's gonna be filled with frog—"
+夏夏 : "啊啊但是院子里！　游泳池里都是青蛙！"
+
+夏夏
+夏夏 : 「れっ？」
+Natsuka : "Huh?"
+夏夏 : "咦？"
+
+夏夏
+夏夏 : 「カエル……いない？　あ、ガラスの天井が閉まって……る？」
+Natsuka : "There's... no frogs? Oh, and the skylight's closed... Huh?"
+夏夏 : "怎么没有……青蛙？　啊，玻璃天棚是关上……的？"
+
+夏夏
+夏夏 : 「そうでした！　お庭はスライド式のガラス天井でしたね。あんまり慌てて、おもいっきり忘れてました」
+Natsuka : "That's right! I forgot the courtyard is covered by a big skylight! I completely forgot that was there!"
+夏夏 : "想起来了！　院子的玻璃天棚是滑动式的呢。我太急了忘得一干二净"
+
+夏夏
+夏夏 : 「は～よかったです～。リルヤさんがカエルまみれになっているかと……さすがは、全天候対応型自動開閉窓ですね」
+Natsuka : "Ahhh... I'm so glad I didn't find you drowning in frogs, Lilja-san! That automatic skylight with integrated weather sensors sure is impressive."
+夏夏 : "哈～太好了～还以为丽露娅小姐被青蛙埋掉了呢……不愧是有着全天候对策的自动窗"
+
+リルヤ
+リルヤ : 「いや、さすがにカエルへの対応はしていない」
+Lilja : "I don't think it was designed to detect frogs, though."
+丽露娅 : "不，再怎么说这东西也没有应对青蛙的程序"
+
+夏夏
+夏夏 : 「えっ、じゃあどうやって？」
+Natsuka : "Huh!? Then why did it close!?"
+夏夏 : "咦，那丽露娅小姐你是怎么办到的？"
+
+リルヤ
+リルヤ : 「保険が利いた」
+Lilja : "The back-up system must have done its job."
+丽露娅 : "我设的保险生效了"
+
+夏夏
+夏夏 : 「ほけん？」
+Natsuka : "Back-up system?"
+夏夏 : "保险？"
+
+まひる
+ラジオの声？ : 『はいはいーあたしあたし』
+Radio? : "Heeere! That's meee!"
+广播? : "这里这里！　是我是我！"
+
+夏夏
+夏夏 : 「えっ？　あっ？」
+Natsuka : "Huh? What?"
+夏夏 : "咦？　啊？"
+
+まひる
+ラジオの声？ : 『あーあんたには、こっちの方がいいかね』
+Radio? : "Ahh, maybe this'll work better for you."
+广播? : "啊，对你而言，这样比较好吧"
+
+まひる
+ラジオの声？ : 『どーも保険でーす』
+Radio? : "Hello, I'm the back-up system."
+广播? : "您好，我是推销保险的"
+
+夏夏
+夏夏 : 「保険屋さん！」
+Natsuka : "A human back-up system!?"
+夏夏 : "是保险公司吗！"
+
+リルヤ
+リルヤ : 「まひるだ。この家の警備を担当している」
+Lilja : "That's Mahiru, the security manager of the building."
+丽露娅 : "这是真昼。负责这栋房子的警备"
+
+夏夏
+夏夏 : 「そういえば、機械だけだとカバーしきれないところを担当している人がいるって……それが、こちらのまひるさんなんですね」
+Natsuka : "Now that you mention it, I heard there was someone who took care of the stuff the automatic systems don't cover... So that's you, Mahiru-san."
+夏夏 : "说起来，之前有说过有人在负责那些机器无法覆盖的区域……难道那个人就是真昼小姐吗"
+
+まひる
+まひる : 『そうそう、それがあたし。この家の専属自宅警備員さね』
+Mahiru : "Yep, that's me. I'm this building's private security guard."
+真昼 : "没错就是我。我是这栋房子的专属自宅警卫员"
+
+夏夏
+夏夏 : 「空木夏夏です。いつもリルヤさんの安全を守ってくださってありがとうございます！」
+Natsuka : "I'm Utsugi Natsuka. Thank you for always ensuring that Lilja-san is kept safe!"
+夏夏 : "我叫空木夏夏。谢谢你一直保护丽露娅小姐的安全！"
+
+まひる
+まひる : 『ちょこちょこ寝てるから、完全２４時間対応じゃないけどね。でも、ほぼ２４時間、いつでもどこでもばっちりあなたを監視します』
+Mahiru : "I admit that I'm not a 24-hour security system, since I have to sleep at some point. But I try to keep an eye out seven days a week, anytime, anywhere."
+真昼 : "我不小心就会打瞌睡，所以24小时不间断工作是办不到的。不过，可以保证几乎24小时以内，不论在哪里，我都能监视你"
+
+夏夏
+夏夏 : 「どこでもってことは、お風呂もなんですよね？」
+Natsuka : "Anywhere? Like, in the bathroom, too?"
+夏夏 : "不论在哪里，也包括浴室吗？"
+
+リルヤ
+リルヤ : 「安全面をカバーするのに合理的だからな」
+Lilja : "It's a reasonable security measure if you want to ensure thorough coverage."
+丽露娅 : "从安全的角度上思考确实是合理的"
+
+まひる
+まひる : 『あ、でも、当たり前だけど風呂やトイレはよっぽどの非常時でなければ見ないし、当然、夏夏ちゃんの風呂はのぞいてないから安心するさね』
+Mahiru : "Of course, but I don't look in there unless there's an emergency, so you don't have to worry about me peeping on you while you're bathing, Natsuka-chan."
+真昼 : "啊，不过，浴室和洗手间只要不是特别特殊的情况我都不会看，另外我也没偷看过夏夏你洗澡，这点你大可放心"
+
+まひる
+まひる : 『部屋の物音や会話も、基本的には聞いてないさね』
+Mahiru : "I don't usually listen in on sounds or conversations inside the condo, either."
+真昼 : "室内的声响以及对话我基本也没有听过"
+
+リルヤ
+リルヤ : 「私はひとりで暮らせることを、常に証明しつづける必要があるからな」
+Lilja : "I %i1do%id need to keep proving that I'm able to live on my own."
+丽露娅 : "因为我要不断证明，自己能一个人独立生活啊"
+
+まひる
+まひる : 『この人、生まれながらのお姫様だったから、人に裸を見られることに抵抗がないんじゃないさね？』
+Mahiru : "As a born princess, I bet she's not embarrassed at all to be seen naked."
+真昼 : "这人生来就是公主，被人看裸体应该没什么抵触情绪吧？"
+
+まひる
+まひる : 『王族って、場合にもよるけど基本的にプライバシーとかゼロらしいし？』
+Mahiru : "I've heard that royals practically have zero privacy, y'know?"
+真昼 : "而且我听说，身为王族，在某些场合几乎没有隐私吧？"
+
+まひる
+まひる : 『あたしはカメラ越しだけど、それこそトイレにもガードマンが入るような暮らしだってあり得るわけさね』
+Mahiru : "I only watch via the cameras, but some royals have actual people stand guard in their bathrooms."
+真昼 : "我是从影像资料里知道的，不过在洗手间里都有保镖待机的生活也不是天方夜谭吧"
+
+リルヤ
+リルヤ : 「トイレにガードマンが入るような暮らしではなかったが、似たような状況はあったな」
+Lilja : "I've never lived in a house that had guards in the bathrooms, but I've experienced similar situations."
+丽露娅 : "我那时候还不至于连厕所都有保镖，不过也大差不差吧"
+
+夏夏
+夏夏 : 「そういえばそうでした！　ヨーロッパの北の方にあるちいさな国のお姫様なんですよね？」
+Natsuka : "Now that you mention it, that's right! You're a princess from a small country in northern Europe, after all!"
+夏夏 : "说起来好像也是啊！ 是北欧那边一个小国的公主对吧？"
+
+まひる
+まひる : 『このいかにもなやんごとなき顔面や態度と四六時中つきあっていて、お姫様なことを忘れるなんて、大したタマさね』
+Mahiru : "I can't believe you forgot that she's a princess when you have to deal with her impudent attitude and smug face every hour of the day."
+真昼 : "一天二十四小时都看着这有气质的面容，还能感受她那高贵的态度，结果能把她是公主这件事给忘掉，不愧是你"
+
+夏夏
+夏夏 : 「リルヤさんは、リルヤさんですから！」
+Natsuka : "Lilja-san is just Lilja-san to me!"
+夏夏 : "因为丽露娅小姐，就是丽露娅小姐嘛！"
+
+まひる
+まひる : 『わけわかんないさね。ああ、そういえば、あんたも人の裸を見てもまったく動じないさね？』
+Mahiru : "I'm afraid I don't really get it... Oh, but you aren't too bothered by seeing people naked yourself, are you?"
+真昼 : "不是很懂。喔对了，你看到别人的裸体也不会动摇的吧？"
+
+夏夏
+夏夏 : 「わたしは、裸に慣れてますから！　この前は、百ノ湯のおばあさんがぎっくり腰で動けないとき、銭湯の番頭もやりましたし！」
+Natsuka : "I'm used to it! I worked part-time at the Momo no Yu bathhouse when the old lady who runs it sprained her hip!"
+夏夏 : "我都习惯了！　之前百之汤的老奶奶闪了腰的时候，还去帮着收了段时间的银呢！"
+
+まひる
+まひる : 『相変わらず謎のバイトしまくってるさねえ』
+Mahiru : "You're still doing all those quirky part-time jobs, huh?"
+真昼 : "你又在打些奇奇怪怪的工呢"
+
+夏夏
+夏夏 : 「なので、しょっちゅう留守にしちゃうんですが……」
+Natsuka : "Yeah, that's why I'm not around sometimes."
+夏夏 : "所以，我经常不在家……"
+
+夏夏
+夏夏 : 「でもそんなわたしの留守中に、リルヤさんをカエルさんたちから守ってくださって、改めてありがとうございます！」
+Natsuka : "Thanks again for protecting Lilja-san from the barrage of frogs in my absence!"
+夏夏 : "再次谢谢你在我外出时，从青蛙的魔爪中保护住了丽露娅小姐！"
+
+リルヤ
+リルヤ : 「そのための保険だからな。無事に機能して何よりだ」
+Lilja : "That's why I have a back-up system. I'm glad it still appears to be functioning."
+丽露娅 : "为此所准备的保险。能派上用场就好"
+
+夏夏
+夏夏 : 「すごいです。仮にわたしがここにいても、そんなに迅速に対応できていたかどうか、自信がないです」
+Natsuka : "It's amazing! I don't think I could have dealt with the situation as quickly even if I was here."
+夏夏 : "好厉害的。就算我在家，感觉也没什么自信能做出这么快的反应"
+
+まひる
+まひる : 『あはは、実際あんたはいてもいなくても問題ないからねえ』
+Mahiru : "Hahaha, it's no problem whether you're here or not."
+真昼 : "啊哈哈，其实你在不在不是问题的"
+
+夏夏
+夏夏 : 「そのとおりなんですよね。リルヤさんはひとりで暮らせるように、完全に生活を構築してますから」
+Natsuka : "You're absolutely right. Lilja-san has designed her life in such a way that she can live completely independently."
+夏夏 : "也是啊。为了能一个人生活，丽露娅小姐的生活安排总是滴水不漏的"
+
+夏夏
+夏夏 : 「ご飯も、掃除も、洗濯も、お買い物も……とにかく、全部ひとりで完結できるようになってて、ほんとすごいです」
+Natsuka : "She can cook, clean, do laundry, and take care of the shopping all by herself if she wants to. It's really incredible."
+夏夏 : "做饭、扫除、洗衣服、买东西……反正该做的她都能自己完成，真的非常厉害"
+
+リルヤ
+リルヤ : 「当たり前だ。お前は常に余剰であり、無駄であり、必要以外の必要性のために置いている」
+Lilja : "It's only natural. You're just an extra—a redundancy put in place to fulfill needs beyond the basic necessities."
+丽露娅 : "理所当然。你始终是多余的，无意义的，为了寻求超乎必需以上的必需性我才将你留在身边的"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "是的！"
+
+リルヤ
+リルヤ : 「それから、今のでよく理解しただろうが、まひるは性格が悪く、露悪的だ。話半分に聞いておくのが効率的だと理解すると良い」
+Lilja : "Also, I'm sure you've realized this, but Mahiru doesn't have the best personality. She enjoys making a show of her own faults. You'd be better off taking most of what she says with a grain of salt."
+丽露娅 : "另外，我想你通过刚才的对话就已经理解了，真昼这人性格很过分，而且毫不遮掩自己的缺点。她的话听一半更有效率"
+
+夏夏
+夏夏 : 「話半分に聞いた方がいいかどうかは、とりあえずもうちょっとお付き合いしてから決めたいですね」
+Natsuka : "I think I'll decide that for myself after spending some more time with her."
+夏夏 : "听一半与否，还是先聊一段时间才能明白的吧"
+
+リルヤ
+リルヤ : 「私の助言を無為にするのか？　非効率的だな」
+Lilja : "You're disregarding my advice? How inefficient."
+丽露娅 : "你把我的建议当成耳旁风了？　真是吃力不讨好"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "没错！"
+
+夏夏
+夏夏 : 「あっそういえば、今日のおやつを買ってきてたんですよ。すごい偶然なんですけど……ほら！　見てください、ゲコトッツォです！」
+Natsuka : "Before I forget, I bought some snacks for today. This is a total coincidence, but... Look! I got some ribbitozzo!"
+夏夏 : "啊说起来，今天我买了点零食回来。虽然真的有些巧……来！　快看，是呱呱托佐！"
+
+まひる
+まひる : 『あーあの、一時期異常に流行ったマリトッツォの亜種。あっというまに見なくなったけど、まだ存在してたさね』
+Mahiru : "Ohh, you mean those strangely shaped maritozzi that were weirdly popular a while back? I rarely see them anymore these days. I didn't know they still sold them."
+真昼 : "啊，是那个啊，有段时间特别流行的马里托佐衍生品。不过流行了一阵后很快就没人聊了，现在还能买到啊"
+
+夏夏
+夏夏 : 「そうみたいですね！　和菓子のカエルのおまんじゅうに、みっちり生クリームが挟まったお菓子です」
+Natsuka : "Yup, they still do! They're like those Japanese-style frog-shaped steamed buns, but they're filled with whipped cream instead of sweet bean paste."
+夏夏 : "好像是的！　这个是在青蛙馒头里，夹上生奶油制成的点心呢"
+
+夏夏
+夏夏 : 「バイト先では好評でずっと取り扱ってるんですよ。これがとってもおいしくて、わたしもお気に入りの一品なんです！」
+Natsuka : "They're super popular at the shop I work part-time at, so we always carry them. They're one of my favorite snacks!"
+夏夏 : "这个点心在我打工的地方一直很好卖。特别好吃，我是相当推荐的哦"
+
+夏夏
+夏夏 : 「あ、写真撮りますね。ぱしゃっ、と」
+Natsuka : "Ah, let me take a pic. Snap!"
+夏夏 : "啊，我先来拍张照片。啪嚓"
+
+まひる
+まひる : 『でもそれって、リルヤには食べにくいんじゃないさね？』
+Mahiru : "Aren't they hard for Lilja to eat?"
+真昼 : "不过这个，丽露娅吃起来有点麻烦吧？"
+
+リルヤ
+リルヤ : 「問題ない。気にせずに好きなものを買うようにいってある」
+Lilja : "It's not a problem. She's welcome to buy me whatever snacks she likes."
+丽露娅 : "没问题。我让她不必顾虑，想买什么买什么"
+
+夏夏
+夏夏 : 「大丈夫です！　わたしが、はいあーんってしますから」
+Natsuka : "No worries! I'll feed them to her with all the care in the world!"
+夏夏 : "没关系的！　我来喂她就行"
+
+まひる
+まひる : 『あそ……』
+Mahiru : "Oh..."
+真昼 : "啊这样……"
+
+夏夏
+夏夏 : 「まひるさんも食べますか？　そちらに持っていきますよ」
+Natsuka : "Do you want some too, Mahiru-san? I can bring you some."
+夏夏 : "真昼小姐你也吃吗？　要不我给你带过去"
+
+まひる
+まひる : 『あ、じゃあ、宅配ロッカーに入れといてくれるさね？』
+Mahiru : "Oh, in that case, could you put them in my parcel locker?"
+真昼 : "啊，那你把东西放进快递柜里吧"
+
+夏夏
+夏夏 : 「一階の宅配ロッカーにですか？」
+Natsuka : "You mean the one in the entry hall on the first floor?"
+夏夏 : "在一楼的那个？"
+
+まひる
+まひる : 『そう。ロッカーがそのままダムウェーターになっているから、荷物は勝手にこっちまで運ばれてくるって寸法さね』
+Mahiru : "Yup, it's actually a dumbwaiter, so anything placed inside will get sent up automatically."
+真昼 : "对，快递柜已经被我改装成物用升降机了，放进去的东西会自动送到我的房间里"
+
+夏夏
+夏夏 : 「すごい！　便利ですね？」
+Natsuka : "Wow! That's so convenient."
+夏夏 : "好厉害！　这么方便吗？"
+
+まひる
+まひる : 『まあね、特別製なのさ。あたしはそんじょそこらの仮性と違って、真性の引きこもりだからね』
+Mahiru : "I had it specially made for this place. I'm a true shut-in, you know, unlike those fakers you see everywhere these days."
+真昼 : "算是吧，这可是我订制的。我和那群假东西不一样，可是宅到骨子里的"
+
+夏夏
+夏夏 : 「徹底してるんですね！」
+Natsuka : "You're a hardcore shut-in!"
+夏夏 : "做得很彻底呢！"
+
+まひる
+まひる : 『そうさね、やるからには徹底的に。それがあたしの信条さね』
+Mahiru : "Yep, I don't like doing things half-assed on principle."
+真昼 : "没错，干什么都得要彻底。这是我的信条"
+

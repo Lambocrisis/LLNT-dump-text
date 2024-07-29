@@ -1,0 +1,3171 @@
+{
+  "hash": "f4847a5f389d4a2d1f9fe49d5aee25d6",
+  "languages": ["en","cn"],
+  "llmap": [{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41],
+      "name": "scn00_02_en.ks"
+    },{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41],
+      "name": "scn00_02_cn.ks"
+    }],
+  "name": "scn00_02.ks",
+  "outlines": [],
+  "scenes": [{
+      "files": ["bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","eyecatch_00.png","eyecatch_00.png","eyecatch_loc00.png","eyecatch_loc00.png","ev001l.png","mask_yuge.png","ev001l.png","mask_yuge.png","ev001l.png","mask_yuge.png","ev001b.png","ev001b.png"],
+      "firstLine": 0,
+      "label": "*start",
+      "lines": [[1,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "link": "",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 1,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,2],["envupdate","update",[["init",0],["new","bgm","bgm"],{
+              "action": [null],
+              "name": "env"
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "env"
+              }]
+          }],[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,2],["startline"],["meswinload","page","both"],[3,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,2],["envupdate","update",[["new","se","se"],{
+              "name": "se",
+              "replay": {
+                "filename": "se109c",
+                "start": null,
+                "time": 3000,
+                "volume": 100.0
+              }
+            }]],[4,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["envupdate","update",[["new","bg","stage"],{
+              "action": [["zpos",233.33333333333337],["leveloffset",""],null,["zoomx",null],["zoomy",null]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "eyecatch_00"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "universal",
+            "rule": "wipe01e",
+            "time": "3000"
+          }],"cg_eyecatch_00",[5,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["startline"],["envupdate","update",[{
+              "name": "se",
+              "stop": 1000
+            }]],[6,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["fg5","bgeffect",{
+                  "class": "bgeffect",
+                  "name": "fg5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_loc00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["envupdate","update",[["new","fg5","bgeffect"],{
+              "action": [null,["zoomx",null],["zoomy",null]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "eyecatch_00"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [["leveloffset",""],null,["order",0]],
+              "class": "bgeffect",
+              "link": "",
+              "name": "fg5",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "eyecatch_loc00"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "universal",
+            "rule": "wipe01e",
+            "time": "1500"
+          }],"cg_eyecatch_00","cg_eyecatch_loc00",[7,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["fg5","bgeffect",{
+                  "class": "bgeffect",
+                  "name": "fg5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_loc00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["startline"],["wait","time","1000"],[8,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["fg5","bgeffect",{
+                  "class": "bgeffect",
+                  "name": "fg5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "eyecatch_loc00"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["startline"],["envupdate","update",[{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "name": "fg5",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg"],["del","fg5"]]],[9,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["startline"],["envupdate","update",[["new","lse","loopse"],{
+              "action": [["fade",60]],
+              "name": "lse",
+              "replay": {
+                "filename": "se151",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "4000"
+              },
+              "update": {
+                "state": 1
+              }
+            }]],["envupdate","update",[["new","lse2","loopse"],{
+              "action": [["fade",80]],
+              "name": "lse2",
+              "replay": {
+                "filename": "se300",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "4000"
+              },
+              "update": {
+                "state": 1
+              }
+            }]],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": "3000",
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "lay_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "3000"
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_lay_white",[10,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",60]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,25],["startline"],["wait","time","1000"],[11,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",60]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },1,null,35,1752,null,null],["startline","vflag",3,"name","夏夏","text",1],1,[12,1,null,null,35],["startline"],["msgoff","time","0"],["envupdate","update",[{
+              "action": [["fade",60],["fade",[{
+                      "handler": "MoveAction",
+                      "time": 1000,
+                      "value": 30
+                    }]]],
+              "name": "lse",
+              "update": {
+                "state": 1
+              }
+            }]],["envupdate","update",[{
+              "action": [["fade",80],["fade",[{
+                      "handler": "MoveAction",
+                      "time": 1000,
+                      "value": 40
+                    }]]],
+              "name": "lse2",
+              "update": {
+                "state": 1
+              }
+            }]],[13,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-500],["ypos",500],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev3","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,40],["envupdate","update",[["del","ev"],["new","ev","event"],["new","ev2","event"],["new","ev3","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["xpos",500],["ypos",500],["xpos",[{
+                      "accel": "const",
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 50000,
+                      "value": -500
+                    }]]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ev001l"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-66.666666666666657],null],
+              "class": "event",
+              "link": "",
+              "name": "ev2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_yuge"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-66.666666666666657],null],
+              "class": "event",
+              "link": "",
+              "name": "ev3",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "lay_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "universal",
+            "rule": "wipe23",
+            "time": "1000"
+          }],"cg_ev001l","cg_mask_yuge","cg_lay_white",[14,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-500],["ypos",500],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev3","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },2,null,54,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "2000",
+                      "value": 0
+                    }]]],
+              "name": "ev3",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "2000"
+              }
+            }]],2,[15,2,3,null,58,1736,null,null],["envupdate","update",[["del","ev3"]]],["startline","vflag",3,"name","リルヤ","text",1],3,[16,3,4,null,64,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],4,[17,4,5,null,68,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],5,[18,5,null,null,68],["startline"],["msgoff","time","0"],["envupdate","update",[["del","ev"],["new","ev","event"],["del","ev2"],["new","ev2","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["ypos",-370],["xpos",-900],["xpos",[{
+                      "accel": "const",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": -900,
+                      "time": 50000,
+                      "value": -550
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ev001l"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-66.666666666666657],null],
+              "class": "event",
+              "link": "",
+              "name": "ev2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_yuge"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_ev001l","cg_mask_yuge",[19,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },6,null,94,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm002",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 0
+              }
+            }]],"bgm_BGM002",6,[20,6,7,null,100,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],7,[21,7,8,null,104,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],8,[22,8,9,null,108,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],9,[23,9,10,null,113,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],10,[24,10,11,null,117,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],11,[25,11,12,null,121,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],12,[26,12,13,null,125,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],13,[27,13,14,null,129,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],14,[28,14,null,null,129],["startline"],["msgoff"],["envupdate","update",[{
+              "action": [["fade",30],["fade",[{
+                      "handler": "MoveAction",
+                      "time": 200,
+                      "value": 80
+                    }]]],
+              "name": "lse",
+              "update": {
+                "state": 1
+              }
+            }]],["envupdate","update",[{
+              "name": "lse2",
+              "replay": {
+                "filename": "se300",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "200"
+              }
+            }]],[29,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,138],["envupdate","update",[["del","ev"],["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "lay_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "name": "ev2",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "universal",
+            "rule": "wipe19b",
+            "time": "500"
+          }],["envupdate","update",[["del","ev2"]]],"cg_lay_white",[30,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,141],["startline"],["wait","time","1500"],[31,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,145],["startline"],["envupdate","update",[{
+              "name": "lse",
+              "replay": {
+                "filename": "se151",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "0"
+              }
+            }]],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se153e",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[32,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,152],["envupdate","update",[{
+              "action": [["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ev001b"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_ev001b",[33,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },15,null,161,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],15,[34,15,16,null,165,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],16,[35,16,17,null,169,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],17,[36,17,18,null,173,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],18,[37,18,19,null,179,1736,null,null],["startline","vflag",3,"name","リルヤ","text",1],19,[38,19,20,null,183,200,null,null],["startline","vflag",3,"name","リルヤ","text",1],20,[39,20,null,null,183],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm002",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "1000"
+              }
+            }]],["envupdate","update",[{
+              "name": "se",
+              "stop": 1000
+            }]],[40,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,194],["envupdate","update",[["tag",{
+                "runLineStr": "[msgoff][bgm stop time=1000][allse stop time=1000][begintrans][env resetcolor][clearlayers][camera_closeend][allimage delete][黒][endtrans trans=%trans|normal time=%time|2000 wait=%wait|0][bgm wait][wait time=1000][macropop]",
+                "taglist": ["tagname"],
+                "tagname": "clearlayers"
+              }],["tag",{
+                "runLineStr": "[msgoff][bgm stop time=1000][allse stop time=1000][begintrans][env resetcolor][clearlayers][env camerazoom=100 shiftx=0 shifty=0][macropop][allimage delete][黒][endtrans trans=%trans|normal time=%time|2000 wait=%wait|0][bgm wait][wait time=1000][macropop]",
+                "taglist": ["tagname"],
+                "tagname": "黒"
+              }],{
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "showmode": 2,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "2000"
+          }],["envupdate","update",[["del","ev"]]],[41,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,194],["startline"],["envupdate","wait",{
+            "list": [{
+                "mode": 0,
+                "name": "bgm"
+              }],
+            "wait": 1
+          }],[42,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,194],["startline"],["wait","time","1000"],[43,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,194],["startline","vflag",0,"name","","text",1],["er","all","true"],[44,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,195]],
+      "nexts": [{
+          "storage": "scn00_02.ks",
+          "target": "*end",
+          "type": 0
+        }],
+      "spCount": 44,
+      "texts": [["夏夏",[["明るい声の少女","「ですからね、リルヤさん」",13],["Cheerful Girl","\"Listen, Lilja-san...\"",22],["声音明亮的少女","\"所以啊，丽露娅小姐\"",11]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_001"
+            }],1752,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",60]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[["明るい声の少女","「それはどれだけ逃げても、どれだけ葬ろうとしても死なない。不滅なんですよ」",37],["Cheerful Girl","\"Your first love is immortal! It'll never die, no matter how hard you run away from it or try to bury it in the past.\"",118],["声音明亮的少女","\"不管逃到哪里，不管怎么杀多少次都不会死的。已经算得上是不朽了啊\"",33]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_002"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-500],["ypos",500],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「ホラーだな」",7],["Lilja","\"That's pure horror...\"",23],["丽露娅","\"你说的是恐怖片吧\"",10]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_001"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-500],["ypos",500],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[["明るい声の少女","「ホラーじゃないですよ！　愛の物語です！　ラブストーリー！」\\n   ",33,"「ホラーじゃないですよ！　愛の物語です！　ラブストーリー！」   ","「ホラーじゃないですよ！　愛の物語です！　ラブストーリー！」   "],["Cheerful Girl","\"It's not horror! It's romantic! I'm talking about a love story!\"",65],["声音明亮的少女","\"才不是恐怖片！　是爱情故事！　Love Story！\"",28]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_003"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-500],["ypos",500],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「どう考えてもホラーだろう。しかも[ししゅう,1]屍臭がする類いの」",26,"「どう考えてもホラーだろう。しかもししゅうがする類いの」","「どう考えてもホラーだろう。しかも屍臭がする類いの」"],["Lilja","\"No, it's most certainly horror. I can smell death in the air.\"",63],["丽露娅","\"怎么想都是恐怖片吧。还是带尸臭味的那种\"",21]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_002"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-500],["ypos",500],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[["明るい声の少女","「そんなどっかのオブ・ザ・デッドみたいに言って！　あ、お痒いところはございませんか？」",43],["Cheerful Girl","\"Don't say that! We're not living in a movie whose title ends with 'of the Dead'! Oh, does it itch anywhere?\"",109],["声音明亮的少女","\"是爱情故事，不是那种片名带活死人的东西！　啊，会不会有些痒？\"",32]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_004"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「[なつか,1]夏夏、それ、癖になっているな。ちなみにお痒いところはない」",30,"「なつか、それ、癖になっているな。ちなみにお痒いところはない」","「夏夏、それ、癖になっているな。ちなみにお痒いところはない」"],["Lilja","\"Natsuka, it's become a habit of yours to ask that. It doesn't itch anywhere.\"",78],["丽露娅","\"夏夏，这句话已经成为你的口头禅了。还有，我不痒\"",25]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_003"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「癖？　ああっ、すみません、ちょっと前まで理容師さんのアシスタントをしてたものでして……って、知ってますよね」",55],["Natsuka","\"Really? Oh, I'm sorry. I worked as a hairdresser's assistant for a while... You knew that, right?\"",99],["夏夏","\"口头禅？　哦，不好意思，前段时间我给理发店打过下手……啊，您应该是知道的吧\"",39]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_005"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「お前の雇用主として、副業についての最低限の把握はしている」",30],["Lilja","\"As your employer, I'm aware of your employment history and your side hustles.\"",79],["丽露娅","\"身为雇主，我好歹是知道你有什么副业的\"",20]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_004"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「徒歩５分先にある理容室『バーバー森』、今回は短期３日。孫のように可愛がられ、気軽にこき使われている」",51],["Lilja","\"Barber Mori is a five-minute walk from here. You've helped them out for the past three days. They doted on you like a granddaughter while exploiting your tendency to help with all sorts of odd jobs.\"",200],["丽露娅","\"从这里徒步五分钟就能到的阿森理发店，这次是三天的临时工。你被他们当孙女一般疼爱，然后干着牛马的活\"",50]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_005"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「森さんはこき使ってなんていませんよ！」",20],["Natsuka","\"Mori-san never exploited me!\"",30],["夏夏","\"我才没被他们当牛马！\"",12]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_006"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「２日前の午後４時３２分、森家の夕飯用のコロッケを、荒巻肉店まで買いに行かされていたのは誰だ？」",48],["Lilja","\"Who was sent on an errand to Aramaki Butcher Shop at 4:32 p.m. two days ago to buy croquettes for the Mori family's dinner?\"",125],["丽露娅","\"前天下午4点32分，是谁跑去荒卷肉店，帮森家买晚饭吃的可乐饼？\"",33]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_006"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「うぐ！　でででででもわたしも買ってもらいましたし！　ていうか、リルヤさんも食べましたよね？　……あ、泡、流しますね～」",60],["Natsuka","\"Nngh... B-B-B-B-But they gave me some to bring home! You ate them too, remember, Lilja-san? Oh, I'll rinse the foam off now.\"",126],["夏夏","\"唔！　不不不不不过我自己也买了的！　而且您也吃了吧？　……要冲泡泡了哦～\"",38]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_007"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「ん……」",5],["Lilja","\"Mm...\"",7],["丽露娅","\"嗯……\"",5]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_007"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",30]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["xpos",-550],["ypos",-370],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_yuge"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「はい、終わりました！」",12],["Natsuka","\"There, all nice and clean!\"",28],["夏夏","\"好，洗完啦！\"",8]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_008"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「これなら余裕で依頼人さんの来宅に間に合いますね！　えーと、今の時間は……」",38],["Natsuka","\"You'll have plenty of time to get ready before the client arrives. Umm, what time is it?\"",90],["夏夏","\"这下就只用等待客人上门了呢！　我看看，现在是……\"",26]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_009"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「１３時２６分５６秒」",11],["Lilja","\"It's one p.m., twenty-six minutes, and fifty-six seconds.\"",59],["丽露娅","\"13点26分56秒\"",11]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_008"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「すごい！　でもどうやって？」",15],["Natsuka","\"Wow! How do you know that?\"",28],["夏夏","\"好厉害！　怎么做到的？\"",13]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn00_02_010"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「初歩的なことだよ」",10],["Lilja","\"Elementary, my dear Natsuka.\"",30],["丽露娅","\"这是基础中的基础\"",10]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_009"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["リルヤ",[[null,"「頭の中で、数えていれば良い」",15],["Lilja","\"You simply count out the hours, minutes, and seconds in your head.\"",68],["丽露娅","\"自己在脑子里读秒就行\"",12]],[{
+              "name": "リルヤ",
+              "pan": 0,
+              "type": 0,
+              "voice": "LLY_scn00_02_010"
+            }],200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ev001b"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }]],
+      "title": ["おかゆいところはございませんか？","Does It Itch Anywhere?","请问您身上有地方痒痒的吗？"],
+      "version": 1.0
+    },{
+      "files": [],
+      "firstLine": 195,
+      "label": "*end",
+      "lines": [[1,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80],["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40],["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,195],["startline","vflag",0,"name","","text",0],"ac_SCN00_02クリア",[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm002",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",80]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se151",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse2","loopse",{
+                  "action": [["fade",40]],
+                  "name": "lse2",
+                  "replay": {
+                    "filename": "se300",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,198]],
+      "nexts": [{
+          "storage": "scn00_03.ks",
+          "target": "*start",
+          "type": 0
+        }],
+      "postevals": ["kag.errorCmd(\"実績:SCN00_02クリア\")"],
+      "spCount": 2,
+      "title": ["おかゆいところはございませんか？","Does It Itch Anywhere?","请问您身上有地方痒痒的吗？"],
+      "version": 1.0
+    }]
+}

@@ -1,0 +1,5248 @@
+{
+  "hash": "108720341c5dd05b076da620edf11ffa",
+  "languages": ["en","cn"],
+  "llmap": [{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,81,83,85,87,89,91,93,95,97,99,101,103,105,107,109,111,113,115,117,119,121,123,125,127,129,131,133,135,137,139,141,143,145,147,149,151,153],
+      "name": "scn03_19_en.ks"
+    },{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,81,83,85,87,89,91,93,95,97,99,101,103,105,107,109,111,113,115,117,119,121,123,125,127,129,131,133,135,137,139,141,143,145,147,149,151,153],
+      "name": "scn03_19_cn.ks"
+    }],
+  "name": "scn03_19.ks",
+  "outlines": [],
+  "scenes": [{
+      "files": ["bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","mask_noizu.png","mask_kaisouw.png","mask_noizu.png","mask_kaisouw.png","ci020.png","mask_kaisoub.png","ci020.png","mask_kaisoub.png","ci024.png","mask_kaisoub.png","ci024.png","mask_kaisoub.png","ci024.png","mask_kaisouw.png","ci024.png","mask_kaisouw.png","ci020.png","mask_kaisoub.png","ci020.png","mask_kaisoub.png","bg015s.png","bg015sn.png","bg015s.png","bg015sn.png","bg002l.png","mask_outlinew.png","bg002l.png","mask_outlinew.png","tlly01_m.pbd","tlly01_s.pbd","tlly01_l.pbd","tlly01_ll.pbd","tlly01_l_87.tlg"],
+      "firstLine": 0,
+      "label": "*start",
+      "lines": [[1,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm015",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "action": [["fade",60],["fade",60]],
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se244",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,2],["envupdate","update",[["init",0],["new","bgm","bgm"],{
+              "action": [null],
+              "name": "env"
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "env"
+              }]
+          }],[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,2],["startline"],["meswinload","page","both"],[3,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,2],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[4,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,20],["envupdate","update",[["new","se","se"],{
+              "name": "se",
+              "replay": {
+                "filename": "se155b",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[5,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,23],["wait","time","500"],[6,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,23],["startline","vflag",0,"name","","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "200",
+                      "value": 0
+                    }]]],
+              "name": "ev",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "200"
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],["envupdate","update",[["del","ev"]]],[7,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },1,null,28,192,null,null],1,[8,1,2,null,30,192,null,null],["startline","vflag",0,"name","","text",1],2,[9,2,null,null,30],["startline"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[10,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,30],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155b",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[11,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,33],["wait","time","500"],[12,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,33],["startline","vflag",0,"name","","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "200",
+                      "value": 0
+                    }]]],
+              "name": "ev",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "200"
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],["envupdate","update",[["del","ev"]]],[13,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },3,null,38,192,null,null],3,[14,3,4,null,40,704,null,null],["startline","vflag",0,"name","","text",1],4,[15,4,null,null,40],["startline"],["msgoff"],["envupdate","update",[["new","bg","stage"],["new","ev5","noevent"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["opacity",64]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_noizu"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-66.666666666666657],null],
+              "class": "noevent",
+              "link": "",
+              "name": "ev5",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_kaisouw"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_mask_noizu","cg_mask_kaisouw",[16,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },5,null,56,216,null,null],["startline","vflag",1,"name","","text",1],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm014",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 0
+              }
+            }]],"bgm_BGM014",5,[17,5,6,null,58,712,null,null],["startline","vflag",0,"name","","text",1],6,[18,6,7,null,63,200,null,null],["startline","vflag",1,"name","","text",1],7,[19,7,8,null,65,712,null,null],["startline","vflag",0,"name","","text",1],8,[20,8,9,null,70,712,null,null],["startline","vflag",1,"name","","text",1],9,[21,9,10,null,75,712,null,null],["startline","vflag",1,"name","","text",1],10,[22,10,11,null,80,712,null,null],["startline","vflag",1,"name","","text",1],11,[23,11,12,null,85,200,null,null],["startline","vflag",1,"name","","text",1],12,[24,12,13,null,87,712,null,null],["startline","vflag",0,"name","","text",1],13,[25,13,14,null,92,712,null,null],["startline","vflag",1,"name","","text",1],14,[26,14,15,null,97,200,null,null],["startline","vflag",1,"name","","text",1],15,[27,15,null,null,97],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "name": "ev5",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg"],["del","ev5"]]],[28,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,101],["startline"],["envupdate","update",[["new","bg","stage"],["new","ev","event"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ci020"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_kaisoub"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_ci020","cg_mask_kaisoub",[29,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },16,null,116,216,null,null],["startline","vflag",0,"name","","text",1],16,[30,16,17,null,118,200,null,null],["startline","vflag",0,"name","","text",1],17,[31,17,18,null,120,200,null,null],["startline","vflag",0,"name","","text",1],18,[32,18,19,null,122,200,null,null],["startline","vflag",0,"name","","text",1],19,[33,19,20,null,125,200,null,null],["startline","vflag",0,"name","","text",1],20,[34,20,21,null,127,200,null,null],["startline","vflag",0,"name","","text",1],21,[35,21,22,null,129,200,null,null],["startline","vflag",0,"name","","text",1],22,[36,22,null,null,129],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "name": "ev",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg"],["del","ev"]]],[37,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,133],["startline"],["envupdate","update",[["new","bg","stage"],["new","ev","event"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ci024"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_kaisoub"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_ci024","cg_mask_kaisoub",[38,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },23,null,145,216,null,null],["startline","vflag",0,"name","","text",1],23,[39,23,24,null,147,200,null,null],["startline","vflag",0,"name","","text",1],24,[40,24,25,null,149,200,null,null],["startline","vflag",0,"name","","text",1],25,[41,25,26,null,151,200,null,null],["startline","vflag",0,"name","","text",1],26,[42,26,27,null,153,200,null,null],["startline","vflag",0,"name","","text",1],27,[43,27,28,null,155,200,null,null],["startline","vflag",0,"name","","text",1],28,[44,28,29,null,157,200,null,null],["startline","vflag",0,"name","","text",1],29,[45,29,30,null,159,200,null,null],["startline","vflag",0,"name","","text",1],30,[46,30,31,null,161,200,null,null],["startline","vflag",0,"name","","text",1],31,[47,31,null,null,161],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "name": "ev",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg"],["del","ev"]]],[48,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },32,null,184,192,null,null],["startline","vflag",0,"name","","text",1],32,[49,32,33,null,186,192,null,null],["startline","vflag",0,"name","","text",1],33,[50,33,34,null,188,192,null,null],["startline","vflag",0,"name","","text",1],34,[51,34,null,null,188],["startline"],["msgoff","time","0"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "lay_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "500"
+          }],"cg_lay_white",[52,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,193],["startline"],["envupdate","update",[["new","bg","stage"],["del","ev"],["new","ev","event"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ci024"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_kaisouw"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "500"
+          }],"cg_ci024","cg_mask_kaisouw",[53,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },35,null,203,216,null,null],["startline","vflag",0,"name","","text",1],35,[54,35,36,null,205,200,null,null],["startline","vflag",0,"name","","text",1],36,[55,36,null,null,205],["startline"],["msgoff","time","0"],["envupdate","update",[["del","ev"],["new","ev","event"],{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "lay_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "500"
+          }],["envupdate","update",[["del","bg"]]],"cg_lay_white",[56,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,210],["startline"],["envupdate","update",[["new","bg","stage"],["del","ev"],["new","ev","event"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ci020"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_kaisoub"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_ci020","cg_mask_kaisoub",[57,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },37,null,220,200,null,null],["startline","vflag",0,"name","","text",1],37,[58,37,38,null,222,200,null,null],["startline","vflag",0,"name","","text",1],38,[59,38,39,null,224,200,null,null],["startline","vflag",0,"name","","text",1],39,[60,39,null,null,224],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se139",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[61,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,228],["envupdate","update",[{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "name": "ev",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "universal",
+            "rule": "wipe01b",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg"],["del","ev"]]],[62,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,230],["startline"],["wait","time","1000"],[63,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,232],["startline"],["envupdate","update",[["new","bg","stage"],["new","bg2","stage"],{
+              "action": [null,["zpos",[{
+                      "accel": "const",
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 100000,
+                      "value": 233.33333333333337
+                    }]],["leveloffset",""],null,["ypos",400],["ypos",[{
+                      "accel": "const",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 400,
+                      "time": 100000,
+                      "value": -400
+                    }],1]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg015s"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [null,["zpos",[{
+                      "accel": "const",
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 100000,
+                      "value": 233.33333333333337
+                    }]],["leveloffset",""],null,["ypos",400],["ypos",[{
+                      "accel": "const",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 400,
+                      "time": 100000,
+                      "value": -400
+                    }],1]],
+              "class": "stage",
+              "link": "",
+              "name": "bg2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg015sn"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_bg015s","cg_bg015sn",[64,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },40,null,245,192,null,null],["startline","vflag",0,"name","","text",1],40,[65,40,41,null,247,192,null,null],["startline","vflag",0,"name","","text",1],41,[66,41,42,null,249,192,null,null],["startline","vflag",0,"name","","text",1],42,[67,42,43,null,251,192,null,null],["startline","vflag",0,"name","","text",1],43,[68,43,44,null,253,192,null,null],["startline","vflag",0,"name","","text",1],44,[69,44,45,null,255,192,null,null],["startline","vflag",0,"name","","text",1],45,[70,45,46,null,257,192,null,null],["startline","vflag",0,"name","","text",1],46,[71,46,47,null,259,192,null,null],["startline","vflag",0,"name","","text",1],47,[72,47,48,null,261,192,null,null],["startline","vflag",0,"name","","text",1],48,[73,48,49,null,263,192,null,null],["startline","vflag",0,"name","","text",1],49,[74,49,50,null,265,192,null,null],["startline","vflag",0,"name","","text",1],50,[75,50,51,null,267,192,null,null],["startline","vflag",0,"name","","text",1],51,[76,51,52,null,269,192,null,null],["startline","vflag",0,"name","","text",1],52,[77,52,53,null,271,192,null,null],["startline","vflag",0,"name","","text",1],53,[78,53,54,null,273,192,null,null],["startline","vflag",0,"name","","text",1],54,[79,54,55,null,275,192,null,null],["startline","vflag",0,"name","","text",1],55,[80,55,56,null,277,192,null,null],["startline","vflag",0,"name","","text",1],56,[81,56,57,null,279,192,null,null],["startline","vflag",0,"name","","text",1],57,[82,57,58,null,284,192,null,null],["startline","vflag",0,"name","","text",1],["envupdate","update",[{
+              "action": [["opacity",[{
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 20000,
+                      "value": 0
+                    }]]],
+              "name": "bg2",
+              "showmode": 3
+            }]],58,[83,58,59,null,286,192,null,null],["startline","vflag",0,"name","","text",1],59,[84,59,60,null,288,192,null,null],["startline","vflag",0,"name","","text",1],60,[85,60,61,null,290,192,null,null],["startline","vflag",0,"name","","text",1],61,[86,61,62,null,292,192,null,null],["startline","vflag",0,"name","","text",1],62,[87,62,63,null,294,192,null,null],["startline","vflag",0,"name","","text",1],63,[88,63,64,null,296,192,null,null],["startline","vflag",0,"name","","text",1],64,[89,64,65,null,298,192,null,null],["startline","vflag",0,"name","","text",1],65,[90,65,66,null,300,192,null,null],["startline","vflag",0,"name","","text",1],66,[91,66,67,null,302,192,null,null],["startline","vflag",0,"name","","text",1],67,[92,67,68,null,304,192,null,null],["startline","vflag",0,"name","","text",1],68,[93,68,69,null,306,192,null,null],["startline","vflag",0,"name","","text",1],69,[94,69,null,null,306],["startline"],["msgoff"],["envupdate","update",[["new","lse","loopse"]]],[95,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,310],["envupdate","update",[["del","bg"],["new","bg","stage"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "lay_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "name": "bg2",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "2000"
+          }],["envupdate","update",[["del","bg2"]]],"cg_lay_white",[96,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,313],["startline"],["wait","time","1000"],[97,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },70,null,329,192,null,null],["startline","vflag",0,"name","","text",1],70,[98,70,71,null,331,192,null,null],["startline","vflag",0,"name","","text",1],71,[99,71,72,null,333,192,null,null],["startline","vflag",0,"name","","text",1],72,[100,72,73,null,335,192,null,null],["startline","vflag",0,"name","","text",1],73,[101,73,74,null,337,192,null,null],["startline","vflag",0,"name","","text",1],74,[102,74,75,null,339,192,null,null],["startline","vflag",0,"name","","text",1],75,[103,75,null,null,339],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se320",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[104,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["xpos",-800],["ypos",300],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg002l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tlly","bu",{
+                  "action": [["leveloffset","#-67,-422,-136,-711,-613,-1902,-929,-2835"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tlly",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "リルヤ.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "眉0:目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_outlinew"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,345],["envupdate","update",[["new","tlly","character"],["new","ev","event"],{
+              "action": [["leveloffset",""],null,["xpos",-800],["ypos",300]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg002l"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_outlinew"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },["new","tlly","bu"],{
+              "action": [null,null,["xpos",0],["ypos",0],["order",0],["zpos",-50.0],["leveloffset","#-67,-422,-136,-711,-613,-1902,-929,-2835"]],
+              "class": "bu",
+              "link": "",
+              "name": "tlly",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "リルヤ.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "眉0:目1:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "universal",
+            "rule": "wipe20d",
+            "time": "1000"
+          }],"cg_bg002l","cg_リルヤ.stand","cg_mask_outlinew",[105,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["xpos",-800],["ypos",300],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg002l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tlly","bu",{
+                  "action": [["leveloffset","#-67,-422,-136,-711,-613,-1902,-929,-2835"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tlly",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "リルヤ.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "眉0:目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_outlinew"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },76,null,355,216,null,null],["startline","vflag",0,"name","","text",1],76,[106,76,null,null,355],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm014",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "1000"
+              }
+            }]],["envupdate","update",[{
+              "name": "se",
+              "stop": 1000
+            }]],[107,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,360],["envupdate","update",[["tag",{
+                "runLineStr": "[msgoff][bgm stop time=1000][allse stop time=1000][begintrans][env resetcolor][clearlayers][camera_closeend][allimage delete][黒][endtrans trans=%trans|normal time=%time|2000 wait=%wait|0][bgm wait][wait time=1000][macropop]",
+                "taglist": ["tagname"],
+                "tagname": "clearlayers"
+              }],["tag",{
+                "runLineStr": "[msgoff][bgm stop time=1000][allse stop time=1000][begintrans][env resetcolor][clearlayers][env camerazoom=100 shiftx=0 shifty=0][macropop][allimage delete][黒][endtrans trans=%trans|normal time=%time|2000 wait=%wait|0][bgm wait][wait time=1000][macropop]",
+                "taglist": ["tagname"],
+                "tagname": "黒"
+              }],{
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "showmode": 2,
+              "type": null
+            },{
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "showmode": 2,
+              "type": null
+            },{
+              "action": [["leveloffset","#-67,-422,-136,-711,-613,-1902,-929,-2835"]],
+              "class": "bu",
+              "link": "",
+              "name": "tlly",
+              "showmode": 2,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "2000"
+          }],["envupdate","update",[["del","bg"],["del","ev"],["del","tlly"]]],[108,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,360],["startline"],["envupdate","wait",{
+            "list": [{
+                "mode": 0,
+                "name": "bgm"
+              }],
+            "wait": 1
+          }],[109,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,360],["startline"],["wait","time","1000"],[110,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,360],["startline","vflag",0,"name","","text",1],["er","all","true"],[111,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,361]],
+      "nexts": [{
+          "storage": "scn03_19.ks",
+          "target": "*end",
+          "type": 0
+        }],
+      "spCount": 111,
+      "texts": [[null,[[null,"暗闇だけがある。",8],[null,"There's nothing but darkness.",29],[null,"眼前只有一片漆黑。",9]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"誰かの声が聞こえる。",10],[null,"I can hear someone's voice.",27],[null,"能听见不知道是谁的声音。",12]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あれはそう……ずっと昔のことのように思える。",22],[null,"It makes me think of things long past...",40],[null,"感觉那好像是……很久以前事情了。",16]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"けれど、まだ、ほんのすこし前のこと……",19],[null,"But also... things that happened recently.",42],[null,"但是，感觉又像是，前不久的事情……",17]],null,704,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お前が死ねばよかったのよ。",13],[null,"\"You should've been the one to die.\"",36],[null,"要是死的是你就好了。",10]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_001"
+            }],216,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お母さん。",5],[null,"Mom.",4],[null,"妈妈。",3]],null,712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"どうしてお前が生きているのに、あの子はここにいないのよ。",28],[null,"\"Why are you still alive when she's no longer here?\"",52],[null,"凭什么你活着，但是她不在了啊。",15]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_002"
+            }],200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お母さんごめんなさい。わたしが生きていて、ごめんなさい。",28],[null,"I'm sorry, Mom. I'm sorry I'm still alive.",42],[null,"对不起，妈妈。活下来的是我，对不起。",18]],null,712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"どうして気づかなかったの。あんたが傍にいてどうして。",26],[null,"\"How could you not have seen it coming? You were always by her side.\"",69],[null,"你为什么没注意到啊。明明就在你旁边，为什么啊。",23]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_003"
+            }],712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あの子だけが私の全てだったのに。",16],[null,"\"She was everything to me.\"",27],[null,"她可是我的一切啊。",9]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_004"
+            }],712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お前に生きている価値なんてないのに、あの子は死んで、どうしてお前が生きているの。",40],[null,"\"But now she's gone, and all I have left is %i1you.%id A worthless daughter who has no right to be alive.\"",100,"\"But now she's gone, and all I have left is you. A worthless daughter who has no right to be alive.\"","\"But now she's gone, and all I have left is you. A worthless daughter who has no right to be alive.\""],[null,"你根本就没有活下去的价值，凭什么她死了，你却活下来了啊。",28]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_005"
+            }],712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お前が殺したのよ、あの子を。",14],[null,"\"You killed her. %i1You%id killed your sister.\"",41,"\"You killed her. You killed your sister.\"","\"You killed her. You killed your sister.\""],[null,"是你杀掉，是你把她杀掉的。",13]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_006"
+            }],200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"どうしようもない状況を、取り返しのつかない状況を、自分の命でどうにかできるなら、そうしたかった。",48],[null,"There was nothing I could do. I couldn't take it back. I thought if sacrificing my life was what it would take to make things right, then that's what I should do.",162],[null,"如果用我的命能够挽回这无能为力、无法挽回的局面，那我愿意献上。",31]],null,712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"やめてよ。死んだら誰がお前の処分をするのよ。ああ、動物みたいに粗大ゴミで捨てられたらいいのに。",47],[null,"\"Oh, don't even. Who do you think would have to clean up the mess if you died? I should just dump you with the oversized garbage like the filthy mongrel you are.\"",162],[null,"算了吧。你死了谁来给你处理后事啊。真麻烦，要是能像小动物一样当做大型垃圾丢掉就好了",41]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_007"
+            }],712,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お前はずっとこの地下室にいなさい。あの子を救えなかったことを悔やみ、反省をしつづけなさい。",45],[null,"\"Just stay in this basement forever. Sit down here. Lament and repent for how you couldn't save her.\"",101],[null,"你就永远待在这个地下室里吧。一直后悔、反省自己为什么没能救她吧。",32]],[{
+              "name": "夏夏の母",
+              "pan": 0,
+              "type": 0,
+              "voice": "MXF_scn03_19_008"
+            }],200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_noizu"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev5","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev5",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"地下室でずっと座っていた。",13],[null,"I sat in that basement for so long.",35],[null,"我一直坐在地下室里。",10]],null,216,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"暖房も冷房もない部屋で、ただずっと座りつづけていた。",26],[null,"I did nothing but sit in that room, with no heating or air conditioning, for so long.",85],[null,"我一直坐在这个没有空调和暖气的房间里。",19]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんがいなくなった。",13],[null,"My sister was no longer with me.",32],[null,"我没有姐姐了。",7]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あの頃のわたしにとっては、お姉ちゃんだけが世界のすべてだった。",31],[null,"Back then, my sister was my whole world.",40],[null,"对那个时候的我来说，姐姐就是我世界的全部。",21]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"でも、だからこそ、お姉ちゃんが死ぬことを選んだのなら、しかたないと思った。",37],[null,"But that's the very reason why, when my sister %i1chose%id to die, I thought there was nothing I could do to stop her.",112,"But that's the very reason why, when my sister chose to die, I thought there was nothing I could do to stop her.","But that's the very reason why, when my sister chose to die, I thought there was nothing I could do to stop her."],[null,"但是，正因如此，既然姐姐选择了死亡，我也只能接受。",25]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしがお姉ちゃんの選択をとめられる理由なんて、ひとつもなかった。",33],[null,"I didn't have a single reason to stop my sister from making that decision.",74],[null,"我没有任何理由阻止姐姐做出选择。",16]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"だってわたしは、お姉ちゃんの一部だったから。",22],[null,"Because I was just an extension of her.",39],[null,"因为我，是姐姐的一部分。",12]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"目の見えないお姉ちゃんの代わりに、\\nお姉ちゃんを運び、説明をし、質問に答えた。",38,"目の見えないお姉ちゃんの代わりに、お姉ちゃんを運び、説明をし、質問に答えた。","目の見えないお姉ちゃんの代わりに、お姉ちゃんを運び、説明をし、質問に答えた。"],[null,"My sister lost her sight. I'd carry her, describe what I saw, and answer any questions she had.",95],[null,"代替无法看见东西的姐姐，我推着她走，为她做说明，回答她的问题。",31]],null,216,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしはお姉ちゃんの目であり足だった。",19],[null,"I was her eyes and legs.",24],[null,"我是姐姐的双眼和双腿。",11]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんの体の一部であるわたしが、何をいえるというのだろう。",31],[null,"I was just an extension of her, so what could I have said?",58],[null,"作为姐姐身体的一部分，我又能说什么呢。",19]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんは、何もいってくれなかった。",19],[null,"My sister wouldn't talk to me about anything.",45],[null,"姐姐什么都没有告诉我。",11]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんはいつも上の空で、ずっとわたしには見えない何かを見ていた。",34],[null,"She was always staring off into space, looking at something far away that I could never see.",92],[null,"姐姐她总是心不在焉的，一直都看着我看不见的什么东西。",26]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんが見ていたものは、わたしにはわからなかったけれど……",31],[null,"I didn't know what she was seeing...",36],[null,"姐姐所看到的东西，虽然我不知道……",17]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"それでもよかった。",9],[null,"But I didn't mind.",18],[null,"但也没关系。",6]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんがいれば幸せだった。",15],[null,"I was happy as long as she was there.",37],[null,"只要有姐姐在我就很幸福了。",13]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんがそこにいればそれでよかった。",20],[null,"As long as my sister was by my side, I was happy.",49],[null,"只要姐姐在那里我就很幸福了。",14]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"もしお姉ちゃんの最後の言葉がなかったら、わたしは、ずっとあの地下室にいて飢え死にしていただろう。",48],[null,"If my sister hadn't given me her final words, I likely would have starved to death in that basement.",100],[null,"如果姐姐最后没有跟我说那些话的话，我肯定会一直待在地下室里直到饿死吧。",35]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"でも……",4],[null,"But...",6],[null,"但是……",4]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あのとき、死の間際に、お姉ちゃんがいったこと。",23],[null,"Right as my sister lay dying, she said something to me.",55],[null,"在那个时候，姐姐死的时候，她说了。",17]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"私のために泣かないで。これからはどうか、自由に生きて。",27],[null,"Don't cry for me. Please, be free now.",38],[null,"不要为我哭泣。今后，你一定要自由地活下去。",21]],null,216,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"どうか、自由に――。",10],[null,"All I ask... is that you be free...",35],[null,"一定要，自由地——",9]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci024"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisouw"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お母さんごめんなさい。わたしは死ぬまでここで反省すべきなんだろうけれど。",36],[null,"I'm sorry, Mom. I know I should repent here until the day I die.",64],[null,"妈妈，对不起。我本应该在这里反省直到我死去的。",23]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"でも、ここには自由がないから。",15],[null,"But there's no freedom here.",28],[null,"但是，这里没有自由。",10]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしは行きます。お姉ちゃんの願いを叶えるために。",25],[null,"I'm going now. I have to fulfill my sister's dying wish.",56],[null,"我要出去。为了实现姐姐的愿望。",15]],null,200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ci020"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_kaisoub"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんに自由に生きてといわれたから、わたしは外に出ました。",31],[null,"I went outside, because my sister told me to be free.",53],[null,"因为姐姐让我自由地活下去，所以我出到了外面。",22]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"でも、どうしていいかわからなかったから、わたしは、お姉ちゃんに語ることにしました。",41],[null,"But I didn't know what else to do, so I just talked to her.",59],[null,"但是，我不知道该怎么做，所以我决定讲述给姐姐听。",24]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんは、お姉ちゃんの知らない世界の話を聞くのが好きだったから。",34],[null,"She loved to hear stories about the worlds she didn't know.",59],[null,"姐姐她喜欢听她所不知道的世界的故事。",18]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんは遠くにいきたがっていたから、できるだけ遠くに。",29],[null,"She wanted to go far away, so I went as far as I could.",55],[null,"姐姐想去到很远的地方，所以我尽可能地去到更远的地方。",26]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"遠くの新しい知らない風景を見ながら、お姉ちゃんに話しかけるようにマイクに語りかけました。",44],[null,"And while gazing out on unfamiliar scenery, I'd talk into the microphone like I was talking to my sister instead.",113],[null,"看着远方全新的、未知的风景，我对着麦克风像讲给姐姐听那样讲了出来。",33]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃん、今回の風景はどうですか？",18],[null,"What'd you think of this scenery, Sis?",38],[null,"姐姐，这次的风景怎么样？",12]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしは楽しいけれど、あなたはどうですか？",21],[null,"I'm having a lot of fun. What about you?",40],[null,"我很开心，你呢？",8]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしの声が聞こえますか？　答はないけれど。",22],[null,"Can you hear my voice? I can't hear if you're responding.",57],[null,"能听到我的声音吗？虽然你回答不了。",17]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"（本当は誰も聞いていないけれど）",16],[null,"(I know nobody's listening.)",28],[null,"（其实根本没有人在听）",11]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"こんにちは　こんにちは",11],[null,"Hello? Hello?",13],[null,"你好 你好",5]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃん、そこにいますか",13],[null,"Are you there, Sis?",19],[null,"姐姐，你在那里吗？",9]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"そこからはすべての光景が見えますか",17],[null,"Can you see everything where you are?",37],[null,"从那里可以看见全部的景色吗？",14]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"ずっと行きたかった遠くにはいけましたか",19],[null,"Did you get to go as far as you always wanted to?",49],[null,"我去到的地方是你曾一直想去到的远方吗？",19]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃん、こっちの世界もきれいですよ",19],[null,"This world's really beautiful too, Sis.",39],[null,"姐姐，这里的世界也很漂亮哦",13]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"もしかしたらこっちの世界はもう見えないでしょうか　わたしの声は聞こえないでしょうか",41],[null,"You might not be able to see this world anymore. You might not be able to hear my voice anymore.",96],[null,"是不是你看不到这边的世界呢？是不是你听不到我的声音呢？",27]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わからないですね　わからないけれど",17],[null,"I don't know if you can. But even still...",42],[null,"我不知道呀 虽然我不知道",12]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしは、あなたにわたしの見た世界を話したいんです",25],[null,"I want to tell you all about the world I've seen.",49],[null,"但是，我想跟你讲述我看到的世界",15]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"だからもうすこしだけ　あなたに呼びかけさせてくださいね",27],[null,"So please, just let me keep talking to you. Just a little longer.",65],[null,"所以请允许我 再呼唤你一段时间吧",16]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんが死んで、家を出て、働くことができて、食べることができて、住むところができて。",44],[null,"When my sister died and I left home, I learned how to work, eat, and live on my own.",84],[null,"姐姐死后，我离开了家，开始了工作，吃到了饭，找到了住的地方。",30]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"住む場所もなくて、食べ物もなくても、外は楽しかった。",26],[null,"Even when I had nowhere to live and nothing to eat, the outside was so much fun.",80],[null,"即使没有住的地方，即使没有吃的东西，外面也很快乐。",25]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"どん底の人生といわれても、落ちるところまで落ちてるねといわれても、平気だった。",39],[null,"Even if people said I had fallen by the wayside, or that I had hit rock bottom, I was completely fine.",102],[null,"即使被人说是最底层的人生，即使被人说我落到谷底，也没有关系。",30]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"食べられなくても、住むところがなくても、きっとうまくいくって、どうしてか思えた。",40],[null,"Even if I didn't have food or shelter, I knew everything would be fine somehow.",79],[null,"即使没有东西吃，即使没有住的地方，我想一定也能活得很好，为什么呢。",33]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"たぶん、きっと、自由だったから。",16],[null,"It was probably... No, it was definitely because I was free.",60],[null,"这大概……一定是自由吧。",12]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"本当は何が自由なのか、まだわからなかったけれど。",24],[null,"Though I still didn't understand what freedom really was.",57],[null,"虽然我还不知道到底什么是自由。",15]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"そんな日々のなか、それでもこの目に映る風景に、何もかもを忘れる瞬間があって。",38],[null,"Even during those days, there were still times where I'd forget everything.",75],[null,"在这样的日子里，还是会有些能让我忘掉一切，只身投入我眼中所看到的风景中的时刻。",39]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"目の前の光景にただきれいです……としか言えないときがあって。",30],[null,"Where the world before me was just so beautiful... that all I could think to say was how beautiful it was.",106],[null,"有时候对于眼前的景色……除了真美啊以外我没有别的语言来形容。",30]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"そういうとき、わたしはここにいるんだって思えた。",24],[null,"Times like that helped me realize that I was truly myself.",58],[null,"在这种时候，我就能感受到我存在于这里。",19]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"そうやって……",7],[null,"And that's how...",17],[null,"就这样……",5]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"毎日、色々なことがよくわかんないなって思いながら、でもすこしずつ生きて。",36],[null,"Every day, by experiencing all sorts of things I didn't quite understand, I began to live. Bit by bit.",102],[null,"每一天，我就这样发觉着自己不知道这个不知道那个地，慢慢活了下去。",32]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"そうして、わたしはリルヤさんに出会った。",20],[null,"Then I met you, Lilja-san.",26],[null,"然后，我遇见了丽露娅小姐。",13]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015s"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg2","stage",{
+                  "action": [["opacity",0],["ypos",-400],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg015sn"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"リルヤさん。",6],[null,"Lilja-san...",12],[null,"丽露娅小姐。",6]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"お姉ちゃんが死んで、わたしは外に出たけれど、本当の意味では外に出ていなかった気がします。",44],[null,"I feel like, even though my sister died and I went to the outside world, I hadn't %i1truly%id stepped outside.",104,"I feel like, even though my sister died and I went to the outside world, I hadn't truly stepped outside.","I feel like, even though my sister died and I went to the outside world, I hadn't truly stepped outside."],[null,"姐姐死后，我出到了外面，但我感觉我并不是真正地出到了外面。",29]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"でも今は、違います。",10],[null,"But things are different now.",29],[null,"但是，现在不一样了。",10]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"リルヤさん――",7],[null,"Lilja-san...",12],[null,"丽露娅小姐——",7]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あなたがいて、あなたに世界を話すと、世界はもっと美しくなった気がします。",36],[null,"You being by my side, as I tell you all about the world around us, has made this world so much more beautiful than before.",122],[null,"有您在，向您讲述这个世界，我感觉世界变得更美了。",24]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"それはきっと",6],[null,"I'm certain it's because...",27],[null,"一定是因为",5]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "lay_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"わたしの空っぽの[こころ,1]花瓶に、あなたという花が咲いてくれたから――",30,"わたしの空っぽのこころに、あなたという花が咲いてくれたから――","わたしの空っぽの花瓶に、あなたという花が咲いてくれたから――"],[null,"You are the flower blooming in my once empty flower vase.",57],[null,"我空着的花瓶里，盛开着您这一朵鲜花啊——",20]],null,216,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["xpos",-800],["ypos",300],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg002l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tlly","bu",{
+                  "action": [["leveloffset","#-67,-422,-136,-711,-613,-1902,-929,-2835"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tlly",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "リルヤ.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "眉0:目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_outlinew"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }]],
+      "title": ["闇の奥","The Depths of Darkness","阴影的深处"],
+      "version": 1.0
+    },{
+      "files": [],
+      "firstLine": 361,
+      "label": "*end",
+      "lines": [[1,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,361],["startline","vflag",0,"name","","text",0],"ac_SCN03_19クリア",[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm014",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,364]],
+      "nexts": [{
+          "storage": "scn03_20.ks",
+          "target": "*start",
+          "type": 0
+        }],
+      "postevals": ["kag.errorCmd(\"実績:SCN03_19クリア\")"],
+      "spCount": 2,
+      "title": ["闇の奥","The Depths of Darkness","阴影的深处"],
+      "version": 1.0
+    }]
+}

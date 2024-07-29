@@ -1,0 +1,2078 @@
+{
+  "hash": "dc3cdcd7387f44ec14650c1b9ac24584",
+  "languages": ["en","cn"],
+  "llmap": [{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27],
+      "name": "scn00_01_en.ks"
+    },{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27],
+      "name": "scn00_01_cn.ks"
+    }],
+  "name": "scn00_01.ks",
+  "outlines": [],
+  "scenes": [{
+      "files": ["bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bgi_blueblack.png","bgi_hamon01w_drop.png","bgi_blueblack.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bg004l.png","wipe16.png","bg004l.png","wipe16.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bg004l.png","wipe16.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png","bgi_blueblack.png","bgi_blueblack.png","bgi_hamon01w_drop.png","bgi_hamon01w_drop.png"],
+      "firstLine": 0,
+      "label": "*start",
+      "lines": [[1,{
+            "data": [],
+            "env": {
+              "action": [null,null],
+              "name": "env"
+            }
+          },null,1,2],["envupdate","update",[["init",0],["new","bgm","bgm"],{
+              "action": [null],
+              "name": "env"
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "env"
+              }]
+          }],[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,2],["startline"],["meswinload","page","both"],[3,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,2],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[4,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,18],["envupdate","update",[["new","se","se"],{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[5,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,21],["wait","time","500"],[6,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,21],["startline","vflag",0,"name","","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "200",
+                      "value": 0
+                    }]]],
+              "name": "ev",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "200"
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],["envupdate","update",[["del","ev"]]],[7,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },1,null,26,192,null,null],1,[8,1,null,null,26],["startline"],["msgoff","time","0"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[9,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,28],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],["envupdate","update",[["new","bg","stage"],["new","ev2","event"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["opacity",50],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": "1000",
+                      "value": 100
+                    }],1]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_blueblack"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "1000"
+              },
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-66.666666666666657],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev2"
+              },{
+                "mode": 0,
+                "name": "ev2"
+              }]
+          }],"cg_bgi_blueblack","cg_bgi_hamon01w_drop",[10,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg","stage",{
+                  "action": [["opacity",50],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,31],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],["envupdate","update",[{
+              "action": [["opacity",[{
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 1000,
+                      "value": 100
+                    }]]],
+              "name": "bg",
+              "showmode": 3
+            }]],[11,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg","stage",{
+                  "action": [["opacity",50],["zpos",233.33333333333337],["opacity",[{
+                          "handler": "MoveAction",
+                          "nowait": "true",
+                          "time": 1000,
+                          "value": 100
+                        }]]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,34],["wait","time","500"],[12,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg","stage",{
+                  "action": [["opacity",50],["zpos",233.33333333333337],["opacity",[{
+                          "handler": "MoveAction",
+                          "nowait": "true",
+                          "time": 1000,
+                          "value": 100
+                        }]]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev2","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,34],["startline","vflag",0,"name","","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "200",
+                      "value": 0
+                    }]]],
+              "name": "ev2",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "200"
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "ev2"
+              }]
+          }],["envupdate","update",[["del","ev2"]]],[13,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg","stage",{
+                  "action": [["opacity",100],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,35],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "0",
+                      "value": 0
+                    }]]],
+              "name": "ev",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "0"
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],["envupdate","update",[["del","ev"]]],[14,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",100],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },2,null,41,192,null,null],2,[15,2,3,null,45,192,null,null],["startline","vflag",0,"name","","text",1],["envupdate","update",[{
+              "action": [["opacity",[{
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 30000,
+                      "value": 200
+                    }]]],
+              "name": "bg",
+              "showmode": 3
+            }]],3,[16,3,4,null,47,192,null,null],["startline","vflag",0,"name","","text",1],4,[17,4,5,null,49,192,null,null],["startline","vflag",0,"name","","text",1],5,[18,5,6,null,51,192,null,null],["startline","vflag",0,"name","","text",1],6,[19,6,null,null,51],["startline"],["msgoff","time","0"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[20,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,53],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[21,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",1700],["opacity",128],["zoomy",250],["ypos",800],["zoomx",250]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,56],["envupdate","update",[["new","bg2","stage"],["new","bg3","stage"],{
+              "name": "bg",
+              "showmode": 2
+            },{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["zoomx",250],["zoomy",250],["xpos",1700],["ypos",800],["opacity",128]],
+              "class": "stage",
+              "link": "",
+              "name": "bg2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg004l",
+                  "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["opacity",64]],
+              "class": "stage",
+              "link": "",
+              "name": "bg3",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "wipe16"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "name": "ev",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg"],["del","ev"]]],"cg_bg004l","cg_wipe16",[22,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",1700],["opacity",128],["zoomy",250],["ypos",800],["zoomx",250]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },7,null,64,192,null,null],["startline","vflag",0,"name","","text",1],7,[23,7,null,null,64],["startline"],["msgoff","time","0"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[24,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",1700],["opacity",128],["zoomy",250],["ypos",800],["zoomx",250]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,66],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[25,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["opacity",128],["zoomy",200],["ypos",1300],["zoomx",200]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,69],["envupdate","update",[["del","bg2"],["new","bg2","stage"],["del","bg3"],["new","bg3","stage"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["zoomx",200],["zoomy",200],["ypos",1300],["opacity",128]],
+              "class": "stage",
+              "link": "",
+              "name": "bg2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg004l",
+                  "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["opacity",64]],
+              "class": "stage",
+              "link": "",
+              "name": "bg3",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "wipe16"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "name": "ev",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","ev"]]],"cg_bg004l","cg_wipe16",[26,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["opacity",128],["zoomy",200],["ypos",1300],["zoomx",200]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },8,null,79,192,null,null],["startline","vflag",0,"name","","text",1],8,[27,8,null,null,79],["startline"],["msgoff","time","0"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[28,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["opacity",128],["zoomy",200],["ypos",1300],["zoomx",200]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,81],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[29,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,84],["envupdate","update",[["new","bg","stage"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null,["opacity",200]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_blueblack"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "name": "bg2",
+              "showmode": 2
+            },{
+              "name": "bg3",
+              "showmode": 2
+            },{
+              "name": "ev",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","bg2"],["del","bg3"],["del","ev"]]],"cg_bgi_blueblack",[30,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },9,null,91,192,null,null],["startline","vflag",0,"name","","text",1],9,[31,9,10,null,93,192,null,null],["startline","vflag",0,"name","","text",1],10,[32,10,11,null,95,192,null,null],["startline","vflag",0,"name","","text",1],11,[33,11,12,null,97,192,null,null],["startline","vflag",0,"name","","text",1],12,[34,12,13,null,99,192,null,null],["startline","vflag",0,"name","","text",1],13,[35,13,null,null,99],["startline"],["msgoff","time","0"],["envupdate","update",[["new","ev","event"],{
+              "action": [["zpos",-66.666666666666657],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 1000,
+                      "value": 100
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bgi_hamon01w_drop"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [{
+                "mode": 1,
+                "name": "ev"
+              },{
+                "mode": 0,
+                "name": "ev"
+              }]
+          }],"cg_bgi_hamon01w_drop",[36,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,103],["envupdate","update",[{
+              "name": "se",
+              "replay": {
+                "filename": "se155c",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": "2000",
+                      "value": 0
+                    }]]],
+              "name": "bg",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "sync": 1,
+                "time": "2000"
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "bg"
+              }]
+          }],["envupdate","update",[["del","bg"]]],[37,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,111],["startline"],["wait","time","1000"],[38,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,113],["startline","vflag",0,"name","","text",1],["er","all","true"],[39,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,116]],
+      "nexts": [{
+          "storage": "scn00_01.ks",
+          "target": "*end",
+          "type": 0
+        }],
+      "spCount": 39,
+      "texts": [[null,[[null,"それはまるで、御伽噺のような噂噺――",18],[null,"A rumor like a fairy tale...",28],[null,"这是一则如神话传说一般的神秘传闻——",18]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"夜の水面に波紋を描く水滴のように、ぽつぽつと、ネットの海に広がり……",34],[null,"A drop of water on the surface of the lake that is the internet that spreads like a ripple.",91],[null,"如同在夜晚的水面上勾画出波纹的水滴，一滴、两滴，慢慢扩散到互联网的大海之中……",39]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",100],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"凪の湖面に細波を立てる風のように、さあさあと、リアルの人の間を渡っていく。",37],[null,"A gentle breeze that caresses the calm waters, pushing them toward the shore so they can reach those in the real world.",119],[null,"如同在平静的湖面上轻挑起涟漪的微风，一缕、两缕，渐渐吹进现实的茫茫人海之间。",38]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"正体不明の天才絵描きが、あなたが描いて欲しい絵を描いてくれる、という。",35],[null,"\"There's an anonymous genius painter who will paint anything you request.\"",74],[null,"神秘的天才画家会描绘出你心中所想的画——",20]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"都市伝説よりも不確かな、おまじないよりも曖昧な、そんな噂噺。",30],[null,"It's less certain than an urban legend and more dubious than a magical charm.",77],[null,"这是一则比都市传说还荒诞、比魔法还令人难以置信的传闻。",27]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"その噂は消えることなくネットとリアルを漂って、いつか、あなたにたどり着く。",37],[null,"Yet it's persistent enough to reach you in the real world through the massive void that is cyberspace.",102],[null,"它并没有石沉大海，而是飘荡在网络与现实之间，终有一天，它会进入你的内心。",36]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あなたの心に、波紋が広がる。あなたの瞼の裏に、ひとつの光景が浮かびあがる。",37],[null,"The ripple spreads across your heart, and a picture begins to form in your mind's eye.",86],[null,"在你的心中泛起涟漪。合上双眼，一片景象就会浮现眼前。",26]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",1700],["opacity",128],["zoomy",250],["ypos",800],["zoomx",250]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あなたはサイトを訪れ、描いて欲しい絵について語る。",25],[null,"You go online and write up an email about the picture you want to request.",74],[null,"你打开网站，形容画的构想。",13]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg2","stage",{
+                  "action": [["zpos",233.33333333333337],["opacity",128],["zoomy",200],["ypos",1300],["zoomx",200]],
+                  "class": "stage",
+                  "name": "bg2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg004l",
+                      "redraw": [["doGrayScale"],["adjustGamma",2.0,0,255,2.0,0,255,2.0,0,255]]
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bg3","stage",{
+                  "action": [["opacity",64],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg3",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "wipe16"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"あなたは心のなかでつぶやく。",14],[null,"It's nothing but a tiny whisper in the back of your mind.",57],[null,"你在心中低语。",7]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"期待はしないわ。",8],[null,"You don't expect anything to come from it.",42],[null,"“我本就不会抱什么期待”",12]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"だって、これは宝くじのようなもの。当たれば最高、外れても当然。",31],[null,"It's sort of like the lottery—it would be amazing if you won, but you accept that the odds are very much not in your favor.",123],[null,"它和彩票别无二致。不中奖无可厚非，中了便是锦上添花。",26]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"でも、当たればうれしいわ。",13],[null,"But still, what if you %i1did%id hit the jackpot?",43,"But still, what if you did hit the jackpot?","But still, what if you did hit the jackpot?"],[null,"当然，如果中奖肯定是好事一桩。",15]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],[null,[[null,"だってその絵は、新しい生活をはじめるわたしたちへの、最高の祝福になるはずだから。",40],[null,"That painting would be the best blessing imaginable. It would serve as a light, guiding you to a new life.",106],[null,"因为这幅画，将会成为向即将开启崭新生活的我们献上的，最美好的祝福。",33]],null,192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["bg","stage",{
+                  "action": [["opacity",200],["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_blueblack"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }]],
+      "title": ["オープニング","Opening","开幕"],
+      "version": 1.0
+    },{
+      "files": ["bgi_hamon01w_drop.png"],
+      "firstLine": 116,
+      "label": "*end",
+      "lines": [[1,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657],["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "link": "",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 1,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,116],["startline","vflag",0,"name","","text",0],"ac_SCN00_01クリア",[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["se","se",{
+                  "name": "se"
+                }],["ev","event",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "event",
+                  "link": "",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bgi_hamon01w_drop"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,119]],
+      "nexts": [{
+          "storage": "scn00_02.ks",
+          "target": "*start",
+          "type": 0
+        }],
+      "postevals": ["kag.errorCmd(\"実績:SCN00_01クリア\")"],
+      "spCount": 2,
+      "title": ["オープニング","Opening","开幕"],
+      "version": 1.0
+    }]
+}

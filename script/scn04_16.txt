@@ -1,0 +1,810 @@
+None
+None : ここは……
+None : Where...
+None : 这里是……
+
+None
+None : ここはどこ？
+None : Where am I?
+None : 这里是哪？
+
+None
+None : 遠くに、聞こえる……あれは車の音。
+None : I hear something in the distance... The sound of a car.
+None : 我远远地能听到……车驶过的声音。
+
+None
+None : ああ――わかりました。
+None : Oh, I know.
+None : ——我知道了。
+
+None
+None : ここは、わたしの部屋。
+None : I'm in my room.
+None : 我在自己的房间。
+
+None
+None : わたしの部屋は、おねえちゃんの部屋の地下にありました。
+None : My room's right below Mana's.
+None : 我的房间在姐姐房间的正下方。
+
+None
+None : 冷たい壁と、床、ベッドと必要最低限の水回り。
+None : There's a bed, a small sink, a floor, and cold walls.
+None : 四周只有冰冷的墙壁，地板，床，以及最基本的用水设施。
+
+None
+None : ただそれだけの部屋。
+None : That's all there is in my room.
+None : 简陋不堪的地下房间。
+
+None
+None : 眠るときだけ、わたしは床の扉をあけて階段を降りていきました。
+None : I only open the hatch in Mana's room when I go downstairs to sleep.
+None : 只有要去睡觉的时候，我才会打开地板门走下楼梯。
+
+None
+None : 最後のあの日も。
+None : That last day, I came down here, too.
+None : 最后一天也是。
+
+None
+None : この地下室で、おかあさんが引っ越しをする音を聞いていました。
+None : I listened from my basement room while my mom was preparing to move out.
+None : 在这个地下室里我听得到妈妈搬家的声音。
+
+None
+None : おかあさん。
+None : Mom...
+None : 妈妈。
+
+None
+None : わたしはこのまま、ここに取り残されるんですね。
+None : She was going to leave me behind.
+None : 你要把我遗弃在这了呢。
+
+None
+None : ここでわたしは反省しつづけるんですね。ずっと。ずっと。おかあさんがわたしが反省したと認めてくれるまで。
+None : I was supposed to sit here in this basement, lamenting and repenting for how I couldn't save my sister.
+None : 我要一直在这里反省。永远，永远。直到你原谅我为止。
+
+None
+None : （でもそんな日は永遠にこない）
+None : I had to stay here until my mom said otherwise, but she never did.
+None : （但是这一天永远也不会来）
+
+None
+None : でも、それはしかたがないこと。
+None : There was nothing I could do.
+None : 但这也无可奈何。
+
+リルヤ
+？？？ : 「――――」
+??? : "..."
+??? : "————"
+
+None
+None : あれ……。
+None : Huh...?
+None : 咦……
+
+None
+None : 闇のなかでぼうっと、何か……誰かが立って。
+None : There's a silhouette in the darkness... Someone's standing there.
+None : 黑暗中有一团模糊的人影……是谁在那里
+
+None
+None : ――リルヤさん！
+None : Lilja-san!
+None : 是丽露娅小姐！
+
+None
+None : リルヤさん立っています！
+None : Lilja-san's standing!
+None : 是丽露娅小姐站在那里！
+
+None
+None : 歩くことができるようになったんですか？　目が見えるようになったんですか？
+None : Can she walk again? Can she see again?
+None : 您能走路了吗？您能看得见了吗？
+
+None
+None : 治療が成功したんですね！　よかったです！
+None : Her treatment must've been successful! I'm so glad!
+None : 看来治疗大获成功！太好了！
+
+None
+None : うわあ、どうしよう。わたし、すごくわくわくしています。
+None : Ahh, what should I do? I'm so, so excited.
+None : 哇，怎么办呀。我好激动呀。
+
+None
+None : ねえ、リルヤさん、一緒に色々なところにいきましょう。一緒にまだ見ぬ世界を見に行きましょう。
+None : Hey, Lilja-san... Let's travel to all sorts of places together. Let's go see a world we've never seen before.
+None : 丽露娅小姐，你听我说，我们去做各种各样的事情吧。一起去畅游未知的世界吧。
+
+None
+None : リルヤさんとなら世界一周もできますね！　リルヤさんといるとわくわくします。
+None : Lilja-san and I could travel the world together! It'd be so exciting with her.
+None : 我们两个人在一起必定能环游世界！只要和您在一起我就感觉有无穷的动力。
+
+None
+None : リルヤさん、リルヤさん……！
+None : Lilja-san, Lilja-san...!
+None : 丽露娅小姐，丽露娅小姐……！
+
+夏夏
+夏夏 : 「……！」
+Natsuka : "Ah...!"
+夏夏 : "……！"
+
+愛姫
+夏夏の姉 : 「ふふ……」
+Natsuka's Sister : "Hehe..."
+夏夏的姐姐 : "呵呵……"
+
+夏夏
+夏夏 : 「[まな,1]愛姫おねえ……ちゃん」
+Natsuka : "Mana..."
+夏夏 : "爱姬姐……姐"
+
+愛姫
+愛姫 : 「夏夏、あのときの約束、覚えている？」
+Mana : "Natsuka, do you remember our promise?"
+爱姬 : "夏夏，你还记得那个时候的约定吗？"
+
+None
+None : ……やくそく。
+None : Our promise...
+None : ……约定。
+
+None
+None : お姉ちゃん。
+None : Mana...
+None : 姐姐。
+
+None
+None : お姉ちゃんの周りに転がった、沢山の空の薬瓶。飲まずに密かにひとつずつ隠して溜めていた薬。
+None : She's surrounded by empty medicine bottles. She hasn't been taking them; instead, she's been hiding some every day, saving it up.
+None : 姐姐身边许多空药瓶横七竖八地倒在地上。这些药以往都是她偷偷藏的，并逐渐积攒起来，且从来没有被喝过。
+
+None
+None : 大丈夫です。わたしは忘れていません。あのときの約束を、わたしは忘れていません。
+None : Don't worry. I haven't forgotten. I've never once forgotten the promise we made that day.
+None : 没关系。我没有忘。我从来没有忘记那时候的约定。
+
+None
+None : それがお姉ちゃんの最後の望みだから。だから、わたしは――
+None : It's my sister's last wish, so I...
+None : 那可是姐姐最后的愿望，所以我——
+
+愛姫
+愛姫 : 「そうよ、それでいいのよ、夏夏」
+Mana : "Yes, good girl, Natsuka."
+爱姬 : "很好，你做得很好，夏夏"
+
+愛姫
+愛姫 : 「それでいいの、泣いてはだめ、さあ笑いなさい、夏夏」
+Mana : "You're doing great. You shouldn't cry. Come on, smile for me, Natsuka."
+爱姬 : "你做得很好，不要哭，来笑一个吧，夏夏"
+
+愛姫
+愛姫 : 「笑うのよ、笑って、笑いなさい」
+Mana : "You have to smile. You must..."
+爱姬 : "笑吧，给我笑，快给我笑"
+
+None
+None : 歪んでいく。
+None : My vision grows blurry.
+None : 然而一切都扭曲了。
+
+None
+None : 目の前でお姉ちゃんが、ぐにゃりと溶けた飴細工みたいに歪んでいく。
+None : Mana's face contorts like a twisty lollipop.
+None : 眼前的姐姐就像融化的橡皮糖一样扭曲着。
+
+愛姫
+愛姫 : 「笑いなさ笑い笑わわらわわわわわわわわわわわワワワワワワワワワホホホホホイヒヒヒヒハヒハハハヒヒヒイヒヒヒオホホホヒヒヒヒヒ」
+Mana : "Laugh for me, laugh! HehehehehaHAHAHAhaha! Hihihihihi! Ohohohohoho! Ahahahahaha!"
+爱姬 : "快给我笑啊啊啊啊啊啊啊啊啊啊啊啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+
+愛姫
+愛姫 : 「フフフフフホホホホホホホホホホホホイヒヒヒヒヒヒ、あなたは、そう笑いなさい、笑うの、笑うのホホホイヒヒヒヒヒハハハッハヒヒ」
+Mana : "Hehehehe, ohohohoho, AHAHAHA! C'mon, laugh with me! You %i1have%id to laugh! Ohohohoh, ahahahahahahahahahahaha!"
+爱姬 : "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈，快给我笑啊，哈哈哈哈哈，快给我笑，哈哈哈哈哈哈哈哈哈哈哈哈哈"
+
+None
+None : お姉ちゃんの体がねじれていく。
+None : Mana's body warps and twists.
+None : 姐姐的身体扭曲着。
+
+None
+None : ねじれて、ゆがんで、グルグルぞうきんみたいに捻れて……
+None : She crumples up like a dishcloth being wrung out.
+None : 像破抹布一样扭成一团……
+
+None
+None : 勢いよくねじれが元に戻ったら――
+None : Then, she twists in the opposite direction, returning back to normal, and...
+None : 扭曲得不成人形的她突然——
+
+None
+None : ぽん！
+None : Poof!
+None : 砰地一声，
+
+None
+None : 白鳥になった。
+None : She turns into a swan.
+None : 化为了天鹅。
+
+None
+None : お姉ちゃんが、白鳥になって飛んでいく。
+None : Then, the swan flies away.
+None : 姐姐变成天鹅飞在天上。
+
+愛姫
+愛姫 : 「ヤマトタケルは白鳥となって恋しい国へ帰って行ったのです」
+Mana : "Yamato Takeru turned into a swan and flew back to his beloved homeland."
+爱姬 : "日本武尊化为天鹅回归了心爱的故国"
+
+None
+None : お姉ちゃんがどこまでも飛んでいく。
+None : Mana flies away into the distance.
+None : 姐姐飞来飞去。
+
+None
+None : 飛んで飛んで飛んで――湖に降りる。
+None : She flies, and flies, and flies... until she reaches a lake.
+None : 飞着飞着——她降落到湖面上。
+
+None
+None : ぽん！
+None : Poof!
+None : 又随着砰地一声，
+
+None
+None : 白鳥がはじけて、別の生き物に変わる。
+None : The swan changes into a different creature.
+None : 天鹅的外形突然崩毁，姐姐又化成了其他生物。
+
+None
+None : お姉ちゃんの笑い声が響く。
+None : Mana's laughter rings in my ears.
+None : 四周回荡着姐姐的笑声。
+
+愛姫
+愛姫 : 「プッシュミープルユー」
+Mana : "Pushmi-pullyu."
+爱姬 : "pushmi-pullyu"
+
+None
+None : それは体の両方に頭がついている、伝説の動物。
+None : An animal of legend with heads at both ends.
+None : 姐姐变成了一种身体两侧都长着头的传说生物。
+
+愛姫
+愛姫 : 「あなたは、仲間を救ってくれた恩返しのために故郷から出て、遠く異国でサーカスに展示されて、それでいいのね」
+Mana : "You left your homeland to repay the doctor for his kindness to your friends, only to be put on display in a circus, and you're okay with that?"
+爱姬 : "你离开家乡只为报答朋友的救命之恩，在遥远的异国他乡被当作小丑，对吧"
+
+None
+None : お姉ちゃんの皮肉な声と共に、奇妙な動物の輪郭が闇に溶けて――
+None : The silhouette of the strange animal dissolves into the darkness, along with Mana's voice.
+None : 随着姐姐尖锐刺耳的声音，传说生物的轮廓溶于黑暗——
+
+None
+None : カラスに変わった。
+None : It turns into a raven.
+None : 接着又变成了乌鸦。
+
+None
+None : ネバーモアー！！　ネバーモアー！！
+None : Nevermore! Nevermore!
+None : Never more！！Never more！！
+
+None
+None : ここにはもういない。もう二度と。
+None : Gone forever.
+None : 这里没有姐姐，我再也没法见到她。
+
+None
+None : 足下が抜けた。
+None : A hole opens up below my feet.
+None : 我一脚踩空，
+
+None
+None : 奈落の底に――落ちていく。
+None : I fall into the abyss.
+None : 朝着深渊落下——
+
+None
+None : 落ちて……落ちて……どこまでも落ちて……
+None : I keep falling, and falling... into the bottomless abyss.
+None : 坠落……坠落……坠到无底深渊……
+
+夏夏
+夏夏 : 「あたっ」
+Natsuka : "Ow!"
+夏夏 : "好疼"
+
+夏夏
+夏夏 : 「え、これって……小石……？」
+Natsuka : "Huh? What was that...? A rock?"
+夏夏 : "哎，这是……小石子……？"
+
+夏夏
+夏夏 : 「……これは、あのときの……井戸の中の石」
+Natsuka : "It's... that rock I found at the bottom of the well."
+夏夏 : "……难道是那时的……井里的石头"
+
+None
+None : ――この石がこつっておでこに当たりまして、それで目を覚ましたんです。
+None : "This li'l rock bonked me on the head and woke me up!"
+None : "我被这个石头绊倒撞到了额头，然后我醒悟过来了"
+
+夏夏
+夏夏 : 「ここは、井戸の底じゃないみたいですけど……ただ黒くて暗い……何もない……場所」
+Natsuka : "It doesn't look like I'm inside a well right now, but... It's cold and dark and empty here..."
+夏夏 : "我好像不在井底……这里单纯只是一个……又黑又暗……还空无一物的地方……"
+
+夏夏
+夏夏 : 「わっ……！」
+Natsuka : "Wah!"
+夏夏 : "哇……！"
+
+夏夏
+夏夏 : 「リルヤさん！」
+Natsuka : "Lilja-san!"
+夏夏 : "丽露娅小姐！"
+
+リルヤ
+リルヤ : 「私は、お前の姉ではないよ。夏夏」
+Lilja : "I'm not your sister, Natsuka."
+丽露娅 : "我可不是你姐姐哦，夏夏"
+
+夏夏
+夏夏 : 「わかっています。リルヤさんはお姉ちゃんと全然違います」
+Natsuka : "I know. You're nothing like my sister."
+夏夏 : "我知道的。您和我姐姐是完全不同的人"
+
+夏夏
+夏夏 : 「お姉ちゃんとわたしはひとつの存在だったですけど、リルヤさんとわたしは違うふたりの人間同士ですから」
+Natsuka : "My sister treated me as an extension of herself, but you treat me like I'm my own person."
+夏夏 : "姐姐和我是一心同体的，但丽露娅小姐和我是两个完全不同的人"
+
+リルヤ
+リルヤ : 「夏夏、私を信じるか？」
+Lilja : "Natsuka, do you believe in me?"
+丽露娅 : "夏夏，你相信我吗？"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : 「信じます」
+Natsuka : "I do."
+夏夏 : "相信"
+
+夏夏
+夏夏 : 「わからないけど、絶対にそうした方がいいから。そう確信できるから」
+Natsuka : "I'm not sure why, but I feel like it's the right thing to do. I'm sure of it."
+夏夏 : "虽然不明白缘由，但是直觉让我必须相信您。"
+
+None
+None : リルヤさんだけじゃない。
+None : It's not just Lilja-san.
+None : 我不只是简单地相信丽露娅小姐。
+
+None
+None : 信じてる。信じています。
+None : I believe in all of them.
+None : 我十分相信她，坚信她。
+
+None
+None : 優さんも。まひるさんも。真璃子さんも。善乃さんも。みんな、みんな。
+None : In Yuu-san, in Mahiru-san, in Mariko-san, in Yoshino-san... In everyone.
+None : 不管是优小姐，真昼小姐，真璃子小姐，善乃小姐，大家都相信她
+
+None
+None : ずっと見ていました。皆さんのことを。
+None : I've been watching them closely.
+None : 丽露娅小姐注视着每个人。
+
+None
+None : どれだけ苦しんでも、逃げようとしても、諦めようとしても、自分を殺そうとしても、それでも、皆さんの世界は変わった。
+None : Even if they were suffering, or trying to run away, or trying to give up or kill themselves... Their worlds still changed.
+None : 无论她们多么痛苦，多么想逃离，多么想放弃，多么想自寻短见，她们的世界都因你改变了。
+
+None
+None : 皆さんの目の前に、新しい世界が広がったんです。
+None : A whole new world opened up before their eyes.
+None : 你在她们每个人的眼前都展现出崭新的世界。
+
+None
+None : だから、わたしも。
+None : It was the same for me. That's why I...
+None : 所以我也要相信您。
+
+夏夏
+夏夏 : 「わたしもあきらめません。必ずリルヤさんを見つけます」
+Natsuka : "I'm never giving up! I'll definitely find you, Lilja-san."
+夏夏 : "我绝不放弃。一定会找到您的"
+
+夏夏
+夏夏 : 「絶対に、絶対にです！！　わかんなくたって、なんだって、諦めなければ必ず……見つけられる！　リルヤさんを信じているから！！」
+Natsuka : "I must, and I will!! I may have no idea what's going on, but as long as I don't give up, I'll definitely find you! I believe in you!!"
+夏夏 : "绝对，绝对会找到您的！！就算不知道怎么找，我也绝对不放弃……一定会找到你！因为我相信您！！"
+
+リルヤ
+リルヤ : 「馬鹿か、お前は」
+Lilja : "Are you a fool?"
+丽露娅 : "笨蛋夏夏"
+
+夏夏
+夏夏 : 「ばっ！？」
+Natsuka : "Bwah!?"
+夏夏 : "笨！？"
+
+リルヤ
+リルヤ : 「私を信じることは良い。だがそれは大前提でしかない。そこで終わったら思考停止だ。わかるな？」
+Lilja : "Believing in me is fine, but that's merely the starting point. If you stop there, you'll never get anywhere. Do you understand?"
+丽露娅 : "相信我固然是好事。但是你不能把它作为行动的根本基础，止步于此就是停止思考了。你明白吗？"
+
+夏夏
+夏夏 : 「はいー……」
+Natsuka : "Yeah..."
+夏夏 : "知道了……"
+
+リルヤ
+リルヤ : 「いいか、夏夏。考えろ。これまで私とすごした日々のなかでお前は、直感的帰結とは異なる、論理的な思考ルーチンを獲得してきた」
+Lilja : "Think, Natsuka. During the time you've spent with me, you've developed a routine of logical thinking. You don't intuitively jump to conclusions anymore."
+丽露娅 : "听好了，夏夏。动动你的脑子。在和我相处的这些日子里，你已经养成了不同于直觉的逻辑思维"
+
+リルヤ
+リルヤ : 「だから感じて、そして考えろ。その心と、その頭で」
+Lilja : "You should think with your head and feel with your heart."
+丽露娅 : "所以去感受吧，然后思考吧。别忘了用心和用脑"
+
+リルヤ
+リルヤ : 「私を退屈させないために、私の傍にいるために、そうありたいと望んだのだろう？　そのための、私との日々だろう？」
+Lilja : "That's the way you wanted to be in order to stay by my side and prevent me from getting bored, right? Isn't that why you spent your days with me?"
+丽露娅 : "为了能每天陪在我身边，为了不让我无聊，这不就是你对自己未来的憧憬吗？这不就是我们相处这么多日夜的意义吗？"
+
+夏夏
+夏夏 : 「ほんと、そのとおりです」
+Natsuka : "You're absolutely right."
+夏夏 : "好像真的是这样"
+
+夏夏
+夏夏 : 「あはは……いわれないと気づけないなんて、わたしはイヌイさんのいうとおり、おばかさんなんですねえ」
+Natsuka : "Hahaha... To think, I didn't realize it until I had it pointed out to me... I guess I really am a dimwit like Inui-san said after all."
+夏夏 : "哈哈……不把话给我讲明白我就啥都不懂，正如伊伮依女士所说，我就是个大笨蛋"
+
+リルヤ
+リルヤ : 「ふ……」
+Lilja : "Heh..."
+丽露娅 : "嗯……"
+
+リルヤ
+リルヤ : 「――――だな」
+Lilja : "...Foibles."
+丽露娅 : "——样子呢"
+
+夏夏
+夏夏 : 「え？」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+夏夏
+夏夏 : 「今のって――」
+Natsuka : "Was that...?"
+夏夏 : "刚刚——"
+
+夏夏
+夏夏 : 「リルヤさん？」
+Natsuka : "Lilja-san?"
+夏夏 : "丽露娅小姐？"
+
+夏夏
+夏夏 : 「朝……」
+Natsuka : "It's morning..."
+夏夏 : "早上……"
+
+夏夏
+夏夏 : 「夢……？」
+Natsuka : "Was I dreaming...?"
+夏夏 : "梦……？"
+
+夏夏
+夏夏 : 「えーと……」
+Natsuka : "Umm..."
+夏夏 : "让我想想……"
+
+夏夏
+夏夏 : 「とりあえず、おはようございます。りるりゃさん」
+Natsuka : "Anyway, good morning, Li'l Ya-san."
+夏夏 : "总之先说声早安吧。丽露喵小姐早上好"
+
+夏夏
+夏夏 : 「は～……夢、でしたね。悪夢と良夢が混在してなんかもうすごかったですね、スペクタクルナイトメアって感じで」
+Natsuka : "Hahh... It was all a dream, huh? It sure was a rollercoaster of a nightmare, with good and bad dreams mixed together."
+夏夏 : "这是一个……梦吧？ 噩梦和美梦交织在一起，太神奇了，就像一场梦境奇缘"
+
+夏夏
+夏夏 : 「それにしても、夢のなかのリルヤさん、すごくリルヤさんっぽかったですね……確かにわたしは、おばかさんです」
+Natsuka : "And the Lilja-san in my dreams was exactly like the real Lilja-san... She's right, I'm a dimwit."
+夏夏 : "但是梦里的丽露娅小姐也太逼真了……我确实像个大笨蛋"
+
+夏夏
+夏夏 : 「信じることと思考停止は違いますね。反省です」
+Natsuka : "Believing in someone doesn't mean you should stop thinking critically. I'll keep that in mind."
+夏夏 : "相信她和停止思考是完全不同的概念。我已经在反省了"
+
+夏夏
+夏夏 : 「わたしの心で感じ、わたしの頭で考えるかあ……」
+Natsuka : "Feel with my heart, and think with my head, huh..."
+夏夏 : "我心中所感，脑中所想……"
+
+夏夏
+夏夏 : 「……うーん」
+Natsuka : "Hrmm..."
+夏夏 : "……嗯"
+
+夏夏
+夏夏 : 「そもそも、なんでわたし、ここにいるんでしょうね？」
+Natsuka : "What am I doing here, anyway?"
+夏夏 : "话说为什么我人在这里呀？"
+
+夏夏
+夏夏 : 「それは、マンションを追い出されたからです」
+Natsuka : "Right, I got locked out of the condo."
+夏夏 : "我从公寓里被扫地出门"
+
+夏夏
+夏夏 : 「でも、昨日も思いましたけど、イヌイさんが追い出しただけなら、わたしは用意された部屋に行けば良かったんです」
+Natsuka : "I had the same thought yesterday, but... I could have just gone to the place Inui-san prepared for me after she kicked me out."
+夏夏 : "但我昨天也在想，如果只是伊伮依女士执意要我走，那我去她安排好的地方就行了呀"
+
+夏夏
+夏夏 : 「でも、わたしはここに来ています」
+Natsuka : "And yet I'm here."
+夏夏 : "但是我却来到了这里"
+
+夏夏
+夏夏 : 「リルヤさんはものすごーく頭のいい人です」
+Natsuka : "Lilja-san is really, really smart."
+夏夏 : "丽露娅小姐是头脑特别发达的人"
+
+夏夏
+夏夏 : 「だとしたら、突然イヌイさんに入院させられることも、わたしがマンションから追い出されることも」
+Natsuka : "Wouldn't that mean she already factored in the possibility that Inui-san would suddenly make her go to the hospital and force me out of the condo?"
+夏夏 : "那么她突然被伊伮依女士带进医院，把我赶出公寓"
+
+夏夏
+夏夏 : 「わたしがこの家に来ることも、計算に入れているはずでは？」
+Natsuka : "And wouldn't she have also foreseen that I would come to this house in that case? Was this all part of her calculations?"
+夏夏 : "就连我来到这里，也全在她的计划之中吧？"
+
+夏夏
+夏夏 : 「わたしがここにいること、それがリルヤさんの想定したものならば、きっとこの家に何らかの答があるんです。あるいはヒントが」
+Natsuka : "If Lilja-san expected me to come here, then there should be an answer here—or at least a hint."
+夏夏 : "如果丽露娅小姐算到我在这里，那么这个房子肯定藏有什么答案，或者提示"
+
+夏夏
+夏夏 : 「だとしたら、わたしがこれからすることは……」
+Natsuka : "If that's the case, then I should..."
+夏夏 : "那么我接下来要做的是……"
+
+夏夏
+夏夏 : 「う～ん……」
+Natsuka : "Hrmmm..."
+夏夏 : "嗯……"
+
+夏夏
+夏夏 : 「リルヤさんは、ここでわたしに何をして欲しいんでしょう？」
+Natsuka : "What would Lilja-san want me to do once I got here?"
+夏夏 : "丽露娅小姐想要我在这里做什么呢？"
+
+夏夏
+夏夏 : 「違いますね。ここに来たわたしは、何をしたらいいんでしょう？」
+Natsuka : "No, that's not right. Um, what should I do now that I'm here?"
+夏夏 : "不对，来到这里的我要做什么呢？"
+
+夏夏
+夏夏 : 「これも違いますね。わたしは、ここで何をしたいんでしょう？」
+Natsuka : "No, that doesn't sound right either. What do I %i1want%id to do here?"
+夏夏 : "这也不对，我来到这里要做什么呢？"
+
+夏夏
+夏夏 : 「わたしの過去そのものであるおうちに来て、そして夢を見て……そして、わたしは……」
+Natsuka : "I came to the house that contains my whole past, and then I had that dream... And then, I..."
+夏夏 : "来到我过去本身的家，然后做梦……然后我……"
+
+夏夏
+夏夏 : 「わたしは……」
+Natsuka : "I..."
+夏夏 : "我……"
+
+夏夏
+夏夏 : 「……」
+Natsuka : "..."
+夏夏 : "……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "......"
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「………………」
+Natsuka : "........."
+夏夏 : "………………"
+
+夏夏
+夏夏 : 「よし！　決めました！」
+Natsuka : "All right! I've decided!"
+夏夏 : "好啦，我决定了！"
+
+夏夏
+夏夏 : 「つるはしです！！」
+Natsuka : "I'm getting a pickaxe!"
+夏夏 : "用鹤嘴锄！！"
+
+夏夏
+夏夏 : 「つるはしもって、お姉ちゃんの部屋にいきます！！」
+Natsuka : "Then, I'm gonna take it to Mana's room!!"
+夏夏 : "拿着鹤嘴锄去姐姐的房间！！"
+
+夏夏
+夏夏 : 「そして床を壊して、地下室への扉をあけます！！」
+Natsuka : "I'm gonna break through the floor and open a passageway into the basement!!"
+夏夏 : "砸坏地板，打开通往地下室的门！！"
+
+夏夏
+夏夏 : 「ていうか、やっぱりおかあさん間違っていますよ！」
+Natsuka : "I think Mom was wrong, after all!"
+夏夏 : "话说妈妈肯定有问题吧！"
+
+夏夏
+夏夏 : 「ていうか――はっきりいって、やばいです！」
+Natsuka : "Not just wrong—she's crazy!"
+夏夏 : "不如说——她真是糟透了！"
+
+夏夏
+夏夏 : 「反省のために地下室への扉を塗り込めて、そのまま引っ越ししちゃうとか、普通に殺意が強すぎます！！」
+Natsuka : "Sealing the hatch to the basement with your kid locked inside and then moving out of the house isn't a normal punishment! That's attempted murder!!"
+夏夏 : "为了让我反省就封死地下室的门，然后撒手不管就搬家了，这杀意未免也太强了！！"
+
+夏夏
+夏夏 : 「は～……それが当たり前だと思っていると、何も考えずにスルーしちゃうものですね……普通にお金払っていたわたしも改めてやばいです」
+Natsuka : "Hahh... When you believe something like that's normal, you don't think anything of it... But I realize now that I was just as crazy paying her without ever complaining."
+夏夏 : "哎……虽然理所当然，但是什么都不去思考，一笔带过的我也很有问题……而且照常付钱的我问题也很大"
+
+夏夏
+夏夏 : 「今度、リルヤさんに相談して、おかあさんとは二度と会わないように考えないとですね」
+Natsuka : "I'll have to ask Lilja-san sometime if she can help me come up with a way that I'll never have to see my mom again."
+夏夏 : "下次跟丽露娅小姐再谈谈，跟妈妈再见一次吧"
+
+夏夏
+夏夏 : 「残念ですが、おかあさんとは……たぶん、わかり合うことできないですから……」
+Natsuka : "It's a shame, but I don't think... Mom and I will ever be able to see eye to eye..."
+夏夏 : "不过很可惜，我觉得妈妈……大概不会听我说什么……"
+
+夏夏
+夏夏 : 「――うん」
+Natsuka : "Yeah..."
+夏夏 : "——嗯"
+
+夏夏
+夏夏 : 「これでいいと思います」
+Natsuka : "It's better that way."
+夏夏 : "这样就好"
+
+夏夏
+夏夏 : 「わたし、今、イヌイさんが先回りしてやったことと関係なく、わたしの気持ちだけで、おかあさんとどうしたいか、どうなりたいかを、決めることができました」
+Natsuka : "Regardless of what Inui-san did, I just made my own decision about my relationship with my mom based on my own feelings alone."
+夏夏 : "我现在可以仅凭自身感觉决定和妈妈如何相处，以后想成为什么样的人，而不必管伊伮依女士事先有什么动作"
+
+夏夏
+夏夏 : 「なんでしょうね……ただそれだけのことが、とても嬉しいです」
+Natsuka : "I wonder why... such a simple thing makes me so happy?"
+夏夏 : "真是奇妙……仅仅做到这步就让我这么高兴"
+
+夏夏
+夏夏 : （きっとたぶんそれは……奪われてしまったわたしの大事な決断を、取り戻せたような気がしているから）
+Natsuka : (It must be... because I'm taking back an important decision that was ripped away from me.)
+夏夏 : （大概就像……我已经决心收回自己被夺走的决断能力）
+
+夏夏
+夏夏 : 「そうです！　よかれと思っても勝手にやっちゃだめなんです！　だからイヌイさんは、絶対にしちゃいけないことをしたんです！」
+Natsuka : "That's it! You can't make decisions for someone, even if you think it's for their own good! Inui-san did something you're never supposed to do!"
+夏夏 : "对呀，即使自身感觉良好，但未经允许也不能擅自做决定！所以伊伮依女士的行为是绝对不能被允许的！"
+
+夏夏
+夏夏 : 「うん！　これでいい……わたしは、これでいいです！」
+Natsuka : "Yeah! This is fine... This is what I want!"
+夏夏 : "嗯！这样就好……我这样就好！"
+
+夏夏
+夏夏 : 「それで、改めてつるはしです。お母さんに地下室に閉じこめられたあと、まあ、なんやかんやで、わたしは窓から逃げたんですけど……」
+Natsuka : "Anyway, I was getting a pickaxe. After Mom locked me in the basement, I ended up escaping through the window..."
+夏夏 : "然后是鹤嘴锄。当年妈妈把我关到地下室后不久，我就使尽各种办法从窗户逃走了……"
+
+夏夏
+夏夏 : 「でも、だからといって、あの地下室をあのままにしておくのも、そうですねえ……あの頃のわたしがなんか可哀想なので！」
+Natsuka : "But I can't just leave the basement sealed up, because... That's right! I'd feel sorry for my past self!"
+夏夏 : "但话是这么说，我想起自己曾被关在地下室……还是太可怜了！"
+
+夏夏
+夏夏 : 「塗り込めた床を壊して、扉をあけて、わたしがわたしを助けちゃいますかね！　待っててくださいね、あの頃のわたし！！」
+Natsuka : "I'll break the floor open and set my past self free! Just wait for me, little Natsuka! I'm coming to save you!!"
+夏夏 : "我会打烂铺装好的地板，开门，救出自己的！过去的我，现在的我马上就过去！"
+
+夏夏
+夏夏 : （あと、夢の最後に、リルヤさんのいっていた言葉、うまく聞こえませんでしたけど、きっと何か重要なことだったと思います）
+Natsuka : (Also, I couldn't clearly make out what Lilja-san was saying at the end of my dream, but I feel like it was important.)
+夏夏 : （另外梦的最后丽露娅小姐隐约说了什么，我没听清。但总感觉很重要）
+
+夏夏
+夏夏 : （あとで、ちゃんと思い出せればいいのですが……）
+Natsuka : (I hope I'll remember it better later...)
+夏夏 : （之后再想想吧，能想起来最好……）
+
+夏夏
+夏夏 : （でも、今はとにかく、つるはしです！！）
+Natsuka : (But first, I need to get a pickaxe!!)
+夏夏 : （现在眼前最要紧的是找到鹤嘴锄！！）
+
+夏夏
+夏夏 : 「つるはし、つるはし……たしか裏庭に倉庫があって、あそこに……」
+Natsuka : "Pickaxe, pickaxe... There should be one in the storage shed out back..."
+夏夏 : "鹤嘴锄，鹤嘴锄……我记得在院子里的仓库，在那里……"
+
+夏夏
+夏夏 : 「倉庫の中身はそのまま放置で引っ越したんですねえ……これなら……ほっ……きっと……よっ……あるはず……」
+Natsuka : "I see she left everything in the shed as it was when she moved out... That must mean... it's here... Mmph..."
+夏夏 : "妈妈没管丢在仓库里的鹤嘴锄，直接就搬走了……那它……应该……在这……"
+
+夏夏
+夏夏 : 「ありました！」
+Natsuka : "Got it!"
+夏夏 : "找到了！"
+
+夏夏
+夏夏 : 「よし、夏夏、いっきまーす！」
+Natsuka : "All right! Natsuka, let's do it!"
+夏夏 : "好的，夏夏我要出发啦！"
+
+夏夏
+夏夏 : （見えてきました、お姉ちゃんの部屋の扉です！　やっぱり、ちょっと入るのが怖いです！）
+Natsuka : (I can see it! It's the door to Mana's room! I'm still a bit scared to enter!)
+夏夏 : （看到了，是姐姐房间的门！我还是怕进去呢！）
+
+夏夏
+夏夏 : （あと鍵かかっている可能性ある！？　ありますね！！　どうします、わたし！？）
+Natsuka : (What if it's locked!? It might be! What do I do then!?)
+夏夏 : （门有没有可能锁着呢？真锁了！！那怎么办呀！？）
+
+夏夏
+夏夏 : （鍵をさがします！？　それとも扉、壊しちゃいます！？）
+Natsuka : (Do I look for a key? Or do I just break the whole door down!?)
+夏夏 : （找钥匙吗！？还是砸门！？）
+
+夏夏
+夏夏 : （よし、それでいきましょう！　お姉ちゃんの部屋の扉、蹴り破っちゃいましょう！　勢い大事！！）
+Natsuka : (Right, that sounds good to me! I'll kick down the door to Mana's room! Let's get a running start!!)
+夏夏 : （好，那就一鼓作气，把姐姐房间的门踹开！气势不能输！！）
+
+夏夏
+夏夏 : 「うおりゃああああああああああああああああああ！！」
+Natsuka : "Raaahhhhhhhhhhhhh!!"
+夏夏 : "哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！"
+
+夏夏
+夏夏 : 「失礼しまーす！！！」
+Natsuka : "I'm coming iiiiin!!!"
+夏夏 : "对不起啦！！！"
+

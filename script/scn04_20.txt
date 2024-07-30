@@ -1,0 +1,395 @@
+夏夏
+夏夏 : 「まひるさん、リルヤさんが見つかったんですか！？」
+Natsuka : "Mahiru-san, did you find Lilja-san?"
+夏夏 : "真昼小姐，你找到丽露娅小姐了吗！？"
+
+まひる
+まひる : 『ばっちし特定できたさね！　やっぱり久住会系列の病院だったさね、場所は……』
+Mahiru : "I identified the hospital she's staying at! You were right that it's a Kuzumi Group hospital. The address is..."
+真昼 : "我有十足的把握能定位她，一定是在久住集团的医院里，地址是……"
+
+夏夏
+夏夏 : 「はい、わかりました！　いきます！！」
+Natsuka : "Got it! I'm on my way!!"
+夏夏 : "好，我明白了！现在就出发！！"
+
+夏夏
+夏夏 : 「そこなら、自転車の方が早いです！」
+Natsuka : "It'll be faster to go by bicycle!"
+夏夏 : "去那里骑自行车更快！"
+
+夏夏
+夏夏 : 「はっはっ……！！」
+Natsuka : "Hahh, hahh...!!"
+夏夏 : "呼，呼……！！"
+
+夏夏
+夏夏 : （リルヤさん……リルヤさん……！）
+Natsuka : (Lilja-san... Lilja-san...!)
+夏夏 : （丽露娅小姐……丽露娅小姐……！）
+
+まひる
+まひる : 『地図に指定した場所に夜がいるから、あいつに任せるといいさね』
+Mahiru : "If you go to the coordinates I sent you, you should find Yoru. She'll take over from there."
+真昼 : "夜就在我地图上标注的地方，之后的任务交给她就好"
+
+夏夏
+夏夏 : 「夜さん、日本にいるんですか！？」
+Natsuka : "Yoru-san's in Japan right now!?"
+夏夏 : "夜小姐竟然在日本吗！？"
+
+まひる
+まひる : 『ああ、あいつが変装して善乃の傍に潜入してたさね』
+Mahiru : "Yeah. She went undercover to keep an eye on Yoshino."
+真昼 : "对，那家伙变了装，潜伏在善乃的附近"
+
+まひる
+まひる : 『イヌイの近辺よりも、病院の関係者かつイヌイと緊密な関係である善乃の傍の方がいい、ってね』
+Mahiru : "She said it'd be wiser to stay around Yoshino, who has a close affiliation with the hospital %i1and%id a connection to Inui, than it would be to stay with Inui herself."
+真昼 : "她说宁可呆在与伊伮依关系密切的医院内部人士——善乃身边，也不愿意接近伊伮依"
+
+まひる
+まひる : 『そいで、そこの病院に出入りしている清掃業者のおばさんから裏が取れたから確定さね』
+Mahiru : "And she was right. She managed to obtain accurate information regarding Lilja's whereabouts from a cleaning lady who works at the hospital."
+真昼 : "我从经常出入医院的清洁工阿姨那里得到了证实"
+
+夏夏
+夏夏 : 「夜さんにお礼いっておいてください。いえ、わたしからいえばいいですね！」
+Natsuka : "Thank Yoru-san for me, okay? No, I should really be thanking her myself!"
+夏夏 : "请代我向夜小姐表达感谢之情。啊不对，应该是我亲口说出来！"
+
+夏夏
+夏夏 : （リルヤさん、やっと会えるんですね……！）
+Natsuka : (Lilja-san... I can finally see you!)
+夏夏 : （丽露娅小姐，我终于能见到你了……！）
+
+夏夏
+夏夏 : （わたしわかったんです。あの式の絵に隠された意味を。あの絵で、世界が変わったんです。それを伝えたいんです！）
+Natsuka : (I understood the message you hid in that painting of the "ceremony." That painting changed my world, and I want you to know it!)
+夏夏 : （我明白的，画中的那个仪式隐藏着什么意思，用那幅画改变世界。您就是想传达这点！）
+
+まひる
+まひる : 『夏夏、急いだ方がいい』
+Mahiru : "Natsuka, you'd better hurry."
+真昼 : "夏夏，动作快点比较好"
+
+夏夏
+夏夏 : 「もちろんです！　わたしも早く会いたいです！」
+Natsuka : "Of course! I want to see her as soon as I can, too!"
+夏夏 : "是！我也想快点见到她！"
+
+まひる
+まひる : 『……夜からちょっと嫌な話を聞いた』
+Mahiru : "...I heard something from Yoru that's not very pleasant."
+真昼 : "……不过我从夜那里听到了比较讨厌的传闻"
+
+夏夏
+夏夏 : 「えっ？」
+Natsuka : "Huh?"
+夏夏 : "什么？"
+
+まひる
+まひる : 『なんかちょっと……きな臭いっていうか、変な感じがするって』
+Mahiru : "She said something about this whole thing seems fishy..."
+真昼 : "她感觉医院里气氛有点诡异……不对劲"
+
+夏夏
+夏夏 : 「イヌイさんが何か企んでいるんですか？　リルヤさんを他の場所に運ぼうとしているとかですか？」
+Natsuka : "Is Inui-san plotting something again? Is she trying to take Lilja-san somewhere else?"
+夏夏 : "难道伊伮依女士在策划什么阴谋吗？比如把丽露娅小姐转移到别的地方？"
+
+まひる
+まひる : 『いや……善乃さね』
+Mahiru : "No... It's about Yoshino."
+真昼 : "不……源头在善乃身上"
+
+夏夏
+夏夏 : 「善乃さん？」
+Natsuka : "Yoshino-san?"
+夏夏 : "善乃小姐？"
+
+まひる
+まひる : 『真璃子と美彌子が苦しんでいるのを見て、善乃、相当、苦悩しているらしいさね』
+Mahiru : "It seems that she's in a lot of distress after seeing how much Mariko and Miyako have been suffering."
+真昼 : "目睹真璃子和美弥子遭受着痛苦，善乃极其烦恼"
+
+まひる
+まひる : 『もちろん善乃だってそれが理不尽な感情だと理解している。理性では逆恨みだとわかっていても、心が納得できていない』
+Mahiru : "Of course, Yoshino understands it's an irrational emotion, but even if she gets how they feel in her head, her heart hasn't quite caught up."
+真昼 : "善乃自己心里清楚这是不正常的感情。然而即使她的理智知道这是误会，但内心仍然没办法接受现实"
+
+まひる
+まひる : 『元々思い詰めやすい人さね。イヌイにそそのかされて、変なこと考えないといいけど、って、夜が……』
+Mahiru : "She's very prone to overthinking things, though. Yoru said she's hoping Yoshino isn't allowing Inui to provoke her into thinking any more weird thoughts."
+真昼 : "她这个人本来就特别爱钻牛角尖。夜也担心她会不会被伊伮依利用，误入歧途……"
+
+夏夏
+夏夏 : 「それって善乃さんがリルヤさんに何かするってことですか……？　まさか、リルヤさんを治療できるって騙して悪化させるとか」
+Natsuka : "You think Yoshino-san might do something to Lilja-san...? Could she be trying to make Lilja-san's condition worse while pretending to treat her?"
+夏夏 : "夜小姐难道担心善乃小姐会对丽露娅小姐意图不轨吗……？欺骗丽露娅小姐接受治疗，实际上则让她病情恶化"
+
+まひる
+まひる : 『…………』
+Mahiru : "..."
+真昼 : "…………"
+
+まひる
+まひる : 『それならまだ……いいけど』
+Mahiru : "That would be... the preferable scenario."
+真昼 : "如果仅仅是这样……就好了"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「すみません、走るのに集中するので切りますね」
+Natsuka : "I'm sorry, I'm gonna focus on getting there now, so let me let you go."
+夏夏 : "对不起，我得挂电话了，因为还在骑车"
+
+まひる
+まひる : 『わかったさね』
+Mahiru : "All right."
+真昼 : "知道了，注意安全"
+
+夏夏
+夏夏 : 「リルヤさん……」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐……"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+夏夏
+夏夏 : （行かなくちゃ……）
+Natsuka : (I have to go...)
+夏夏 : （再不赶到……）
+
+夏夏
+夏夏 : （早く、行かなくちゃ……！）
+Natsuka : (As quickly as I can...!)
+夏夏 : （我再不快点赶到……！）
+
+夏夏
+夏夏 : （ああ、お願いします……お願いします……）
+Natsuka : (Ahh, please... Please...)
+夏夏 : （求求你了……求求你了……）
+
+夏夏
+夏夏 : （これ以上、リルヤさんから何も奪わないでください）
+Natsuka : (Don't take anything else from Lilja-san...)
+夏夏 : （请你不要再剥夺丽露娅小姐的东西了）
+
+夏夏
+夏夏 : （神様！）
+Natsuka : (Please, God!)
+夏夏 : （上帝！）
+
+夜
+？？？ : 「こっちこっちよ、この配膳エレベーターに乗って！」
+??? : "Over here. Get in the service elevator!"
+??? : "过来过来，坐这个配餐专用电梯！"
+
+夏夏
+夏夏 : 「え……と」
+Natsuka : "Um...?"
+夏夏 : "你是……？"
+
+夜
+夜 : 「私よ」
+Yoru : "It's me."
+夜 : "是我，夜"
+
+夏夏
+夏夏 : 「よ、夜さん！？　え、でも全然」
+Natsuka : "Y-Yoru-san!? What!? I couldn't tell at all..."
+夏夏 : "夜，夜小姐！？哎，但是一点都不像"
+
+夜
+夜 : 「私の別人っぷりに驚いている場合じゃないでしょ。さっさと乗って」
+Yoru : "Now's not the time to be impressed by my disguise. Hurry, get in."
+夜 : "现在不是惊讶的时候，快进来"
+
+夏夏
+夏夏 : 「は、はい！」
+Natsuka : "O-Okay!"
+夏夏 : "好，好的！"
+
+夜
+夜 : 「もう遠慮はいらないから、リルヤをかついで強奪してきなさい。部屋は、廊下の突き当たりだから」
+Yoru : "Don't worry about anything else. Just go in there, grab Lilja, and run. Her room is at the end of the hall."
+夜 : "别再瞻前顾后的了，直接把丽露娅给抢回来。她的病房就在走廊尽头"
+
+夏夏
+夏夏 : 「……！　そうですね、そうします！」
+Natsuka : "Got it! I will!"
+夏夏 : "……！知道了，我马上就去！"
+
+夏夏
+夏夏 : 「はっはっ……！」
+Natsuka : "Hahh, hahh...!"
+夏夏 : "呼，呼……！"
+
+夏夏
+夏夏 : （あそこがリルヤさんの病室ですね……！）
+Natsuka : (That must be Lilja-san's room!)
+夏夏 : （丽露娅小姐的病房就在那……！）
+
+夏夏
+夏夏 : （もう少し、あと少しでリルヤさんに……！）
+Natsuka : (Finally, finally I can see her...!)
+夏夏 : （马上就能见到她了……！）
+
+夏夏
+夏夏 : （あれ？　病室のドアがあいて……）
+Natsuka : (Huh? The door's open...)
+夏夏 : （咦？门怎么是开着的……）
+
+夏夏
+夏夏 : （！？　善乃さん……！）
+Natsuka : (What!? Yoshino-san!)
+夏夏 : （！？善乃小姐……！）
+
+善乃
+善乃 : 「…………」
+Yoshino : "..."
+善乃 : "…………"
+
+夏夏
+夏夏 : （善乃さん、どうしてそんな冷たい目をして……）
+Natsuka : (Why is Yoshino-san giving me such a cold look?)
+夏夏 : （善乃小姐的目光为什么这么冰冷……）
+
+まひる
+まひる : 『真璃子と美彌子が苦しんでいるのを見て、善乃、相当、苦悩しているらしいさね』
+Mahiru : "It seems that she's in a lot of distress after seeing how much Mariko and Miyako have been suffering."
+真昼 : "目睹真璃子和美弥子遭受着痛苦，善乃极其烦恼"
+
+まひる
+まひる : 『もちろん善乃だってそれが理不尽な感情だと理解している。理性では逆恨みだとわかっていても、心が納得できていない』
+Mahiru : "Of course, Yoshino understands it's an irrational emotion, but even if she gets how they feel in her head, her heart hasn't quite caught up."
+真昼 : "善乃自己心里清楚这是不正常的感情。然而即使她的理智知道这是误会，但内心仍然没办法接受现实"
+
+まひる
+まひる : 『元々思い詰めやすい人さね。イヌイにそそのかされて、変なこと考えないといいけど、って、夜が……』
+Mahiru : "She's very prone to overthinking things, though. Yoru said she's hoping Yoshino isn't allowing Inui to provoke her into thinking any more weird thoughts."
+真昼 : "她这个人本来就特别爱钻牛角尖。夜也担心她会不会被伊伮依利用，误入歧途……"
+
+None
+None : ――善乃を信じてね
+None : "%i1Please believe in Yoshino.%id"
+None : ——请相信善乃
+
+None
+None : ――私を信じて欲しい
+None : "I want you to believe in me."
+None : ——我希望你相信我
+
+夏夏
+夏夏 : （いやだ……なんで……どうしてこんなタイミングでこんな風に思い出すんですか……）
+Natsuka : (No... Why... Why am I remembering that right now?)
+夏夏 : （可恶……为什么……为什么现在会闪过这种回忆……）
+
+善乃
+善乃 : 「――――」
+Yoshino : "..."
+善乃 : "————"
+
+夏夏
+夏夏 : 「善乃さん、善乃さん待って！」
+Natsuka : "Yoshino-san! Yoshino-san, wait!"
+夏夏 : "善乃小姐，善乃小姐请留步！"
+
+夏夏
+夏夏 : （待って！！　どうして！？　どうしてリルヤさんの病室から出てきたんですか、どうして！！）
+Natsuka : (Why won't she wait? Why won't she tell me what she was doing in Lilja-san's room? Why!?)
+夏夏 : （不要走呀！！为什么！？为什么你要离开丽露娅小姐的病房，为什么！！）
+
+夏夏
+夏夏 : 「大丈夫、大丈夫ですきっと大丈夫」
+Natsuka : "It'll be okay... I'm sure it'll all be okay."
+夏夏 : "没事的，一定没事的"
+
+None
+None : ――でも、もし、……たら？
+None : But... What if?
+None : ——可是，万一……呢？
+
+夏夏
+夏夏 : （そんなの許せません、もしリルヤさんに何かあったらわたし、許せない、こんなことってないです）
+Natsuka : (I'd never let her get away with it. If she did anything to Lilja-san, I'll never forgive her. She can't do this.)
+夏夏 : （我绝对不会原谅，如果丽露娅小姐有什么三长两短，打死我也不会原谅的）
+
+夏夏
+夏夏 : （どうしてリルヤさんが？　リルヤさんだけがこんな目に遭わなくちゃいけないんですか！？）
+Natsuka : (Why Lilja-san? What did Lilja-san do to deserve this!?)
+夏夏 : （为什么偏偏是丽露娅小姐！？为什么只有她要遭受这么大的痛苦！？）
+
+夏夏
+夏夏 : （ああ、遠い。どうしてこんなにも遠い……！）
+Natsuka : (Ahh, she's so far away... Why is she so far...?)
+夏夏 : （可恶，太远了。为什么还有这么远……！）
+
+夏夏
+夏夏 : （あのときは、わたし……）
+Natsuka : (That day, I couldn't...)
+夏夏 : （那时候，我还……）
+
+夏夏
+夏夏 : （でも、今度は……！！）
+Natsuka : (But this time, I will...!!)
+夏夏 : （但是这次……！！）
+
+夏夏
+夏夏 : （お願いします。お願いします、わたしの命なんていくらでも差し出しますから）
+Natsuka : (Please, please... If my life is valuable enough to offer in exchange, then please take it.)
+夏夏 : （上帝，我求求您了，我有多少条命都给您）
+
+夏夏
+夏夏 : （だから神様、リルヤさんを……守って！！）
+Natsuka : (God, please... save Lilja-san!!)
+夏夏 : （请您保佑丽露娅小姐吧……！！）
+
+夏夏
+夏夏 : 「リルヤさん！！」
+Natsuka : "Lilja-san!!"
+夏夏 : "丽露娅小姐！！"
+
+夏夏
+夏夏 : 「――！！！」
+Natsuka : "Ah...!!!"
+夏夏 : "——！！"
+
+夏夏
+夏夏 : 「なんで……どうして……だって信じてって……いって……」
+Natsuka : "Why... This can't be... She told me to believe in her..."
+夏夏 : "为什么……明明说好了……要相信你……"
+
+夏夏
+夏夏 : 「あ、ああ……」
+Natsuka : "Ah... Ahhh..."
+夏夏 : "呜呜……"
+
+夏夏
+夏夏 : 「リル、ヤさ……」
+Natsuka : "Lilja-sa..."
+夏夏 : "丽露娅，小姐……"
+
+夏夏
+夏夏 : 「あ、あ……」
+Natsuka : "Ah, ah..."
+夏夏 : "呜、呜……"
+
+夏夏
+夏夏 : 「あああああああああ……」
+Natsuka : "Ahhhhhhhhhh..."
+夏夏 : "呜哇哇哇哇哇哇哇哇……"
+
+夏夏
+夏夏 : 「ああああああああああああああああああああああああああああああああああああああああああああああああああああああああ！！！！」
+Natsuka : "Wahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!"
+夏夏 : "哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇！！！！"
+

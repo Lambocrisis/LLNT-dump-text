@@ -1,0 +1,435 @@
+夏夏
+夏夏 : 「ん～！　今日もいい天気ですね。空が高いです！」
+Natsuka : "Mmm! The weather's so nice today! The sky looks so vast!"
+夏夏 : "嗯～！今天天气真好。晴空万里啊！"
+
+夏夏
+夏夏 : 「今日は、リルヤさんの戴冠式のドレスの試着をするそうです。ドレス姿のリルヤさん、きっとすっごいきれいでしょうねえ」
+Natsuka : "Lilja-san's getting fitted for her dress for the coronation ceremony today. I'm sure she'll look totally stunning!"
+夏夏 : "今天丽露娅小姐要试穿加冕仪式的礼服。穿上礼服的丽露娅小姐肯定很漂亮吧"
+
+夏夏
+夏夏 : 「楽しみです！！」
+Natsuka : "I can't wait to see it!"
+夏夏 : "好期待！！"
+
+夏夏
+夏夏 : 「うわあ～……！」
+Natsuka : "Whoa...!"
+夏夏 : "哇～……！"
+
+夏夏
+夏夏 : 「リルヤさん、めちゃめちゃきれいですね！　白くて金色の星がいっぱいあって、星の女神さまみたいです！！」
+Natsuka : "Lilja-san! You look incredible! You're all covered in white and golden sparkles—you look like a star goddess!"
+夏夏 : "丽露娅小姐，您真是太漂亮啦！衣服上好多金灿灿的星星，您就像是星星的女神一样！！"
+
+リルヤ
+リルヤ : 「星の女神か。凡庸だが実感がこもっている感想だ」
+Lilja : "A star goddess, huh? That's a rather banal but realistic impression."
+丽露娅 : "星星的女神吗。平庸但是很真实的感想"
+
+夏夏
+夏夏 : 「はい、めちゃくちゃ感嘆してます！」
+Natsuka : "Yes! I'm super-duper impressed!"
+夏夏 : "嗯，真的是让我非常感慨！"
+
+リルヤ
+リルヤ : 「しかし、治療が功を奏するかもわからないうちからドレスを完成させるなど、実に非合理だ」
+Lilja : "I feel it's rather premature to work on this before we even know whether my treatment will be successful, though."
+丽露娅 : "不过，尚未知道治疗是否能奏效礼服却已经先做好了，实在是太不合理了"
+
+リルヤ
+リルヤ : 「ひとりで着替えができないのも、非効率すぎる」
+Lilja : "I can't even change into it on my own. It's the pinnacle of inefficiency."
+丽露娅 : "礼服没法一个人穿脱，太低效率了"
+
+夏夏
+夏夏 : 「着付けができるイヌイさんがいてくださってよかったですねえ。わたしだったら、こんな繊細なドレス、破っちゃいそうです」
+Natsuka : "I'm so glad Inui-san is here to help you with it! If it was me, I'd definitely end up tearing something this delicate..."
+夏夏 : "有能帮忙穿礼服的伊伮依小姐在真是太好了。让我来的话，这么精致的礼服，肯定会被我扯破的"
+
+イヌイ
+イヌイ : 「ふふ、ありがとうございます」
+Inui : "Hehe, you're welcome."
+伊伮依 : "呵呵，谢谢"
+
+イヌイ
+イヌイ : 「リルヤ様、絵画の資料用に写真を撮りますがよろしいでしょうか？」
+Inui : "Lilja-sama, I'd like to take photos that will serve as the reference for your painting. May I?"
+伊伮依 : "丽露娅大人，为了收集绘画用的资料我要给您拍几张照可以吗？"
+
+リルヤ
+リルヤ : 「かまわない」
+Lilja : "Go ahead."
+丽露娅 : "拍吧"
+
+イヌイ
+イヌイ : 「それでは失礼いたしますね」
+Inui : "All right, if you'll excuse me."
+伊伮依 : "那我失礼一下"
+
+夏夏
+夏夏 : （うわあ～すっごい的確で無駄のない動きです……！　絵を描くのに必要な角度は全部網羅しているって感じで、すごいです）
+Natsuka : (Wow, she's working so efficiently! She's getting all the angles you'd need for a painting, and she's so quick at it! Amazing!)
+夏夏 : （哇～姿势标准且毫无多余的动作……！感觉涵盖了画画所需要的全部角度，好厉害）
+
+イヌイ
+イヌイ : 「撮影完了です」
+Inui : "The photos are ready."
+伊伮依 : "都拍好了"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Okay."
+丽露娅 : "好"
+
+夏夏
+夏夏 : 「あっあの、リルヤさん、わたしも撮っていいですか？　資料としては必要ないかもしれませんが、ただわたしが撮りたくて」
+Natsuka : "U-Umm, Lilja-san? Would you mind if I took some pictures as well? You probably won't need them for your painting, but I'd really like it if I could take some of you..."
+夏夏 : "那、那个，丽露娅小姐，我也可以拍几张吗？也不是说需要拍来当资料，只是我想拍而已"
+
+リルヤ
+リルヤ : 「ああ、かまわない」
+Lilja : "Okay, I don't mind."
+丽露娅 : "可以，拍吧"
+
+夏夏
+夏夏 : 「ありがとうございます！　では撮りますね～」
+Natsuka : "Thank you! Don't mind me, then!"
+夏夏 : "谢谢您！那我拍咯～"
+
+夏夏
+夏夏 : 「こっちから撮って……あっこっちからも！　アップも、ロングも、あっこっちからもすっごい素敵です！！」
+Natsuka : "This angle looks great... Oh, and this one, too! And a close-up, a full-body shot... Oh, this side looks lovely, too!"
+夏夏 : "从这里拍一张……啊，从这里也拍张！仰视的来一张，远景的也来一张，啊，从这个角度拍也很漂亮！！"
+
+イヌイ
+イヌイ : 「ふふ、夢中でお撮りになって微笑ましいですね。ですが、全方位から撮るなら動画の方がよろしいのでは？」
+Inui : "Hehe, your enthusiasm is charming, but if you want to capture her from every angle, why not take a video?"
+伊伮依 : "呵呵，拍得这么投入看着好欣慰啊。不过你全方位都想要拍的话拍视频不会更好吗？"
+
+夏夏
+夏夏 : 「はっ、そうですね！？　でもわかんないですけど、なんかこうやって撮るのが楽しいので！」
+Natsuka : "Oh! You're right! I was having so much fun that I didn't even think of that!"
+夏夏 : "啊！有道理啊？！不过不知道为什么，我感觉这样拍也很有趣！"
+
+リルヤ
+リルヤ : 「夏夏のやることに効率も合理性も求める必要はないからな」
+Lilja : "There's no need to expect any rationality or efficiency from Natsuka."
+丽露娅 : "没必要对夏夏做的事情要求效率和合理性"
+
+イヌイ
+イヌイ : 「ふふ、そうでしたね」
+Inui : "Hehe, that's true."
+伊伮依 : "呵呵，也是"
+
+夏夏
+夏夏 : 「あっでも、動画も撮りたいです！　いいですか？」
+Natsuka : "I definitely wanna take a video as well now! Can I?"
+夏夏 : "啊不过，视频我也想拍一个！可以吗？"
+
+リルヤ
+リルヤ : 「好きにすると良い」
+Lilja : "As many as you'd like."
+丽露娅 : "你想拍就拍吧"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Okay!"
+夏夏 : "好的！"
+
+夏夏
+夏夏 : 「ふ～……！　めっちゃ撮れました！」
+Natsuka : "Whew...! I took a ton of photos and videos!"
+夏夏 : "呼～……！拍了好多！"
+
+リルヤ
+リルヤ : 「気が済んだか？」
+Lilja : "Are you satisfied?"
+丽露娅 : "满意了吗？"
+
+夏夏
+夏夏 : 「はい！　ありがとうございます！」
+Natsuka : "Yes! Thanks a lot for posing!"
+夏夏 : "满意了！谢谢您！"
+
+イヌイ
+イヌイ : 「リルヤ様、先ほどの写真データをプリントしておきましたので、どうぞご確認ください」
+Inui : "Lilja-sama, I've printed the data from my camera for your inspection."
+伊伮依 : "丽露娅大人，这是根据刚刚的照片数据打印出来的，请您确认"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Okay."
+丽露娅 : "好"
+
+夏夏
+夏夏 : （わたしが写真や動画を撮っているあいだに、プリントを！）
+Natsuka : (I'm still over here taking pictures, and she's already printed hers out!)
+夏夏 : （在我拍照和拍视频的这段时间里，就已经打印好了！）
+
+夏夏
+夏夏 : （イヌイさんがいるとアシスタント業務は完全にお役御免ですねえ）
+Natsuka : (Lilja-san doesn't need another assistant when Inui-san is around!)
+夏夏 : （伊伮依小姐在的时候助手的职责跟我完全没有关系了啊）
+
+イヌイ
+イヌイ : 「次は、戴冠式後のパーティーのドレスですわね」
+Inui : "Next up is your party dress for the reception after the ceremony."
+伊伮依 : "下一件是，加冕仪式后宴会上用的礼服吧"
+
+夏夏
+夏夏 : 「わ～他にもドレスがあるんですね！」
+Natsuka : "There's more than one dress!? Wow!"
+夏夏 : "哇～还有别的礼服啊！"
+
+イヌイ
+イヌイ : 「うふふ、もちろん夏夏さんにも用意してありますわよ」
+Inui : "Hehehe, there's one for you as well, Natsuka-san."
+伊伮依 : "呵呵，当然夏夏小姐的也有准备哦"
+
+夏夏
+夏夏 : 「えっわたしですか！？」
+Natsuka : "Huh!? For %i1me!?%id"
+夏夏 : "哎？我也有吗？！"
+
+イヌイ
+イヌイ : 「リルヤ様が必要だろうとおっしゃって。スリーサイズどころか各部位の寸法まですらすらおっしゃるので、驚きましたが」
+Inui : "Lilja-sama noted you would need one. I was surprised that she was able to provide me with your exact sizes."
+伊伮依 : "丽露娅大人说有必要就准备了。不止是三围，身体各个部位的尺寸她都直接说出来了，当时真的很让人吃惊"
+
+リルヤ
+リルヤ : 「一緒に暮らしていれば、その程度の把握は容易だろう」
+Lilja : "It's easy to figure them out with some degree of certainty when we live together."
+丽露娅 : "生活在一起的话，想达到这种程度的了解还是很容易的"
+
+夏夏
+夏夏 : 「そんなあ！　わかりませんよ～！！」
+Natsuka : "Really!? I don't think it's that easy!!"
+夏夏 : "怎么可能！我就不知道啊～！！"
+
+イヌイ
+イヌイ : 「くすくす、リルヤ様は特別製ですから」
+Inui : "Hehehe, Lilja-sama is special, after all."
+伊伮依 : "嘻嘻，毕竟丽露娅大人是特制的"
+
+リルヤ
+リルヤ : 「本来なら仮縫いをするものだが、おそらく問題なかろう。とりあえず着てみるといい。何か問題があれば直させる」
+Lilja : "Normally, a garment should be basted first, but I don't expect any problems. Try putting it on. If we need to adjust it, we will."
+丽露娅 : "原本应该是要先试穿的，不过应该没问题吧。总之你先穿上看看。如果有问题的话再改"
+
+夏夏
+夏夏 : 「わかりました！」
+Natsuka : "You got it!"
+夏夏 : "好的！"
+
+イヌイ
+イヌイ : 「さ、リルヤ様も、お着替えを……」
+Inui : "Lilja-sama, please allow me to help you change, too..."
+伊伮依 : "来，丽露娅大人也请更衣……"
+
+夏夏
+夏夏 : （あ、もう一着のドレスもイヌイさんが着せるんですね。しかたありませんね、ドレスはわたしでは着せることはできませんし）
+Natsuka : (Oh, Inui-san's gonna help her with the next dress. I wouldn't be much help with that—I've never dressed anybody in formal clothing before.)
+夏夏 : （啊，另一件礼服也是要让伊伮依小姐来帮忙换吧。没办法，毕竟我不会穿礼服啊）
+
+夏夏
+夏夏 : （それよりも、わたしも自分の部屋で着替えてきましょう！）
+Natsuka : (I guess I'll go to my room and focus on getting my own dress on!)
+夏夏 : （我还是先到自己的房间里把衣服换了吧！）
+
+夏夏
+夏夏 : 「白くてひらひらしてて、ちょっと気恥ずかしいですね。でも、とってもきれいです」
+Natsuka : "It's so white and frilly, it's kinda embarrassing... But it's so pretty!"
+夏夏 : "白白的，轻飘飘的，穿着有点害羞呢。不过真的好漂亮"
+
+イヌイ
+イヌイ : 「よくお似合いですわよ、夏夏さん」
+Inui : "It suits you well, Natsuka-san."
+伊伮依 : "这件礼服你穿着真合适，夏夏小姐"
+
+夏夏
+夏夏 : 「あはは、ありがとうございます」
+Natsuka : "Hahaha, thank you."
+夏夏 : "啊哈哈，谢谢您"
+
+夏夏
+夏夏 : 「リルヤさんはさっきのドレスとはまた全然違う雰囲気ですね！」
+Natsuka : "Lilja-san, your dress is so different from the last one!"
+夏夏 : "丽露娅小姐给人的感觉跟穿着刚刚那件礼服的时候完全不一样啊！"
+
+夏夏
+夏夏 : 「あっちのドレスは威厳があって荘厳で女神様みたいでしたが、今度は花の……そう、百合の花の妖精みたいです」
+Natsuka : "The other one was imposing and majestic, like a goddess, but this one's really flowery... You look like a lily princess!"
+夏夏 : "刚刚的礼服很有威严，给人感觉像是庄严的女神一般，而现在则像花丛中的……没错，就和百合花仙一样"
+
+リルヤ
+リルヤ : 「……（ちょいちょい）」
+Lilja : "Mmh, mmh..."
+丽露娅 : "……（招手）"
+
+夏夏
+夏夏 : （ん？　今の手招き……わたしにですよね？）
+Natsuka : (Huh? Does she want me to come closer?)
+夏夏 : （嗯？刚刚的手势……是在叫我过去吗？）
+
+夏夏
+夏夏 : 「はい？　なんでしょうか、リルヤさん」
+Natsuka : "Yeah? What is it, Lilja-san?"
+夏夏 : "嗯？怎么了吗，丽露娅小姐"
+
+夏夏
+夏夏 : 「ふわっ！」
+Natsuka : "Fwahh!"
+夏夏 : "哇啊！"
+
+夏夏
+夏夏 : （リルヤさんの手がわたしの体に沿って……！）
+Natsuka : (She's running her hands along my body...)
+夏夏 : （丽露娅小姐的手沿着我的身体……！）
+
+夏夏
+夏夏 : （あ、そっか、わたしのドレスの具合を見てるんですね）
+Natsuka : (Oh, right! She's "looking" to see if the dress fits me.)
+夏夏 : （啊，我明白了，这是在看我的礼服合不合适吧）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （リルヤさん、すごく真剣です……ちょっとくすぐったいですけど、我慢我慢……）
+Natsuka : (She looks so serious... It tickles a bit, but I'll try my best not to laugh...)
+夏夏 : （丽露娅小姐，好仔细啊……有点痒，但我要忍住……）
+
+夏夏
+夏夏 : （あれ、あんまりくすぐったくなくなってきました……リルヤさんが、くすぐったくないように触ってくれてるんですね……）
+Natsuka : (Oh? The ticklish feeling went away... She's trying to be careful not to tickle me anymore...)
+夏夏 : （咦？感觉没那么痒了……丽露娅小姐摸我的时候在注意着不把我弄痒啊……）
+
+夏夏
+夏夏 : （なんか、ただ……きもちいいだけになってきて……頭がふわふわしてきます……）
+Natsuka : (Now it just... feels really nice. My head feels all warm and fuzzy...)
+夏夏 : （好像，就只剩下……舒服的感觉了……脑子里轻飘飘的……）
+
+リルヤ
+リルヤ : 「ああ、良いな。よく似合っている。サイズも問題ない」
+Lilja : "I like it. It's perfect for you. There aren't any issues with the size, either."
+丽露娅 : "嗯，不错。很合身。尺寸也没问题"
+
+夏夏
+夏夏 : 「……（ぽやあ）」
+Natsuka : "Pwahh..."
+夏夏 : "……（沉醉）"
+
+リルヤ
+リルヤ : 「夏夏？」
+Lilja : "Natsuka?"
+丽露娅 : "夏夏？"
+
+夏夏
+夏夏 : 「あっはい！　ありがとうございます！！」
+Natsuka : "Oh, yeah! Thank you!!"
+夏夏 : "啊，我在！谢谢您！！"
+
+夏夏
+夏夏 : （ちょっとぽやっとしちゃいました……恥ずかしい！）
+Natsuka : (My head was so full of fuzzy feelings that I spaced out... How embarrassing!)
+夏夏 : （迷糊了……好丢人！）
+
+リルヤ
+リルヤ : 「そんなに私の手は良かったか？」
+Lilja : "Did my hands feel that good?"
+丽露娅 : "我的手有那么舒服吗？"
+
+夏夏
+夏夏 : 「そりゃもう、最高でした！　夢心地です！」
+Natsuka : "Of course! Your hands are the best! I felt like I was dreaming!"
+夏夏 : "那当然，太舒服了！就像是在梦中一样！"
+
+リルヤ
+リルヤ : 「それは何よりだ」
+Lilja : "I'm happy to hear that."
+丽露娅 : "那就好"
+
+夏夏
+夏夏 : 「あっ、お客さんですね！　はいはい、今いきま～」
+Natsuka : "Oh, we have a guest! Coming!"
+夏夏 : "啊，有客人来了！来了来了，马上来开～"
+
+夏夏
+夏夏 : 「おっとと……！」
+Natsuka : "Whoops..."
+夏夏 : "哎哟……！"
+
+None
+None : スッ――
+None : Thud...
+None : 滑——
+
+イヌイ
+イヌイ : 「夏夏さん、大丈夫？」
+Inui : "Natsuka-san, are you okay?"
+伊伮依 : "夏夏小姐，你没事吧？"
+
+夏夏
+夏夏 : 「あっ、ありがとうございます。おかげさまで大丈夫です」
+Natsuka : "I-I'm fine, thanks to you."
+夏夏 : "啊，谢谢您。幸好有您，我没事"
+
+夏夏
+夏夏 : （ドレスが足にからんで、つまずきそうになっちゃいましたが、イヌイさんが支えてくれました）
+Natsuka : (I almost tripped over my dress, but Inui-san managed to catch me before I could fall.)
+夏夏 : （礼服绊着脚，差点摔倒了，不过伊伮依小姐扶住我了）
+
+リルヤ
+リルヤ : 「夏夏の運動神経は尋常ではないから、そのまま放置しておいて問題はないぞ、イヌイ」
+Lilja : "Natsuka has extraordinary reflexes, so she would have been fine, Inui."
+丽露娅 : "夏夏的运动神经超乎常人，就这样不管她也没事的，伊伮依"
+
+イヌイ
+イヌイ : 「そうお聞きしておりますが、ですが、ついつい手が出てしまいますわね」
+Inui : "So I've heard, but I ended up doing it without thinking."
+伊伮依 : "之前也听您这么说过了，不过我下意识就扶了一下"
+
+イヌイ
+イヌイ : 「すこしでも怪我をしないように、先回りして助けてあげたくなってしまって……ふふ」
+Inui : "I wanted to make absolutely sure she didn't injure herself... Hehe."
+伊伮依 : "我是生怕她受了半点伤，抢在她自己站稳之前就伸手去帮她了……呵呵"
+
+夏夏
+夏夏 : 「いえ、実際に助かりました。ありがとうございます！」
+Natsuka : "You totally saved me. Thank you so much!"
+夏夏 : "没事，确实是帮到我了。谢谢您！"
+
+イヌイ
+イヌイ : 「ドレスを破ってしまってはいけませんからね、お客様の対応は私におまかせください」
+Inui : "We wouldn't want your dress to tear, either. Why don't I go open the door for our guest?"
+伊伮依 : "毕竟把礼服给弄破了也不好，招待客人的事就请交给我吧"
+
+夏夏
+夏夏 : 「あ、ありがとうございます！」
+Natsuka : "Th-Thank you!"
+夏夏 : "谢、谢谢您！"
+
+イヌイ
+イヌイ : 「ええ、はい、ええ……どうぞ」
+Inui : "Hello. Yes, of course... Please come in."
+伊伮依 : "嗯，是的，嗯……请进"
+
+イヌイ
+イヌイ : 「鷹野様がいらっしゃいましたので、ご案内いたしました」
+Inui : "Takano-sama has arrived. I've unlocked the door for her."
+伊伮依 : "来的是鹰野小姐，我把她请进来了"
+
+夏夏
+夏夏 : （タカノさん。優さんの婚約者さんと同じ名字ですね）
+Natsuka : (Takano-san. That's also the name of Yuu-san's partner, isn't it?)
+夏夏 : （鹰野小姐。跟优小姐婚约者的名字一样呢）
+
+夏夏
+夏夏 : （けっこうよくある名字なんでしょうか？）
+Natsuka : (I suppose that's a pretty common name, though...)
+夏夏 : （这个名字有这么常见吗？）
+

@@ -1,0 +1,695 @@
+None
+None : 夏夏が黙々と草むしりをしている音が聞こえる。
+None : I can hear Natsuka diligently weeding the grass.
+None : 我能听到夏夏一语不发除草的声音。
+
+None
+None : 今年の５月もよく晴れて、まるで高原の夏のような日がつづいている。
+None : This May has been consistently sunny. It reminds me of summer in the highlands.
+None : 今年的五月份天气总是那么晴朗，给人一种在高原生活的感觉。
+
+None
+None : 肌に光を感じる。草のそよぐ音が聞こえ、唇に風の冷たさを感じる。
+None : The sunlight is warm and gentle on my skin. I can feel a refreshing breeze on my lips as I listen to the rustling of the grass.
+None : 肌肤能感受到阳光。青草摇曳的声音传入耳里，唇边吹来冷风。
+
+None
+None : 花の甘い香りが、鼻腔をくすぐる。
+None : The sweet scent of flowers tickles my nostrils.
+None : 甜美的花香，刺激着我的鼻腔。
+
+None
+None : 公園のように明るい墓所の、真新しい墓標を囲むようにして、黄色い花が一面に咲いている。
+None : The cemetery is bright and filled with greenery, and the lawn around a brand-new gravestone is dotted with yellow flowers.
+None : 在宛如公园一样亮敞的墓园里，有一座被黄色的花朵簇拥的，崭新的墓碑。
+
+None
+None : 花の名前は、ヘメロカリス。
+None : The name of these flowers is %i1Hemerocallis%id.
+None : 花的名字叫萱草。
+
+None
+None : 姫甘草、あるいは、デイリリー。一日だけ咲く花。
+None : More specifically, the %i1Hemerocallis dumortieri%id, or small daylily. Its flowers bloom for only a single day.
+None : 姬甘草，又名一日花。它的花朵只会绽放一天。
+
+None
+None : ワスレナグサ科のその花は、かつてユリ科に分類されていた。
+None : Despite its name, the daylily is not actually a lily. Scientifically, it's classified under the %i1Hemerocallidoideae%id subfamily.
+None : 被分类到紫草科的这种花，本是百合科。
+
+None
+None : 夏夏の姉の新しい墓は、夏夏が自分で用意した。遺骨を持ち歩く母親を夏夏が見つけ、然るべき手段で引き取った。
+None : Natsuka prepared her sister's new grave herself. When she found out her mother had been carrying her sister's urn with her all this time, she took the appropriate steps to obtain the right to possess the ashes.
+None : 夏夏姐姐的新墓，是夏夏自己准备的。夏夏找到了带着姐姐遗骨的母亲，接着采取了合理的手段。
+
+None
+None : 夏夏の母親への決断と別れを、私は確かに見守った。
+None : I quietly watched over Natsuka as she carried out her decision to part ways with her mother for good.
+None : 我亲眼目睹了夏夏与自己母亲的诀别。
+
+None
+None : 墓標には姉の名前と墓碑銘が刻まれていた。それは夏夏の姉が、最後に抱きしめていた本の一節だった。
+None : Inscribed on the gravestone are her sister's name and epitaph. The epitaph is from the book she was clutching in her arms when she passed.
+None : 墓碑上刻着夏夏姐姐的名字与墓志铭。所谓墓志铭，是她姐姐死前抱住的书的其中一段。
+
+None
+None : その本を、夏夏はそのときにはじめて見たという。
+None : Natsuka said that was the first time she'd ever seen that book.
+None : 夏夏说，那是她第一次看到那本书。
+
+None
+None : 目が見えず、すべての行動に人の手が必須である故に秘密を許されない境遇であった彼女にも、
+None : Due to her sister's blindness, it would have been nearly impossible for her to keep any secrets because she required assistance with even the most basic daily tasks.
+None : 目不视物，所有的行为都需要依靠他人的少女，在无法拥有秘密的环境中，
+
+None
+None : 誰にも知られない秘密があったことを、私は喜ばしく思う。
+None : Yet, somehow, she had managed to keep something secret from even her family. I was glad to hear that.
+None : 她有从未为人所知的秘密，这让我很是开心。
+
+None
+None : MANA UTSUGI.\nToday is a very good day to die.
+None : %i1Mana Utsugi. \nToday is a very good day to die.
+None : MANA UTSUGI \nToday is a very good day to die.
+
+None
+None : 空木愛姫\n今日は死ぬのにもってこいの日だ
+None : That's what's inscribed on the cold, grey stone.
+None : 空木爱姬今天是个赴死的好日子
+
+None
+None : 私は、その心を肯定する。
+None : I understand how she felt. Her feelings were valid.
+None : 我打心底，认同她的内心。
+
+None
+None : 空木愛姫。盲目の少女。夏夏を通してしか知らない存在。自由を望み、自ら死を選んでなお、家と血に縛られつづけた少女。
+None : Utsugi Mana, the blind girl. I only know her through Natsuka, but I understand she chose to die out of a desire for freedom. But even in death, she remained bound by her blood.
+None : 空木爱姬。失明的少女。没有夏夏，我一辈子也不会认识她。她渴望自由，因此自己选择死亡，但仍被家族与血脉束缚的少女。
+
+None
+None : あなたはもうひとりの私である。
+None : She's like another me.
+None : 你就像另一个我。
+
+None
+None : あなたの死の先にあるものが、安らかであることを望む。夏夏のために。
+None : I sincerely hope that she has found peace in whatever lies beyond death. For Natsuka's sake, too.
+None : 祝愿在你的死的尽头，有你所渴望的安宁。为了夏夏。
+
+None
+None : あなたが夏夏にもたらしたのは、よく手入れされ磨かれた透明な花瓶と、安寧と盲目の黒。
+None : She left Natsuka with a carefully polished, transparent vase... and a blind, peaceful blackness.
+None : 你为夏夏带来的，是仔细保养过的透明花瓶与安稳且盲目的黑。
+
+None
+None : 私は夏夏に出会い、夏夏がもたらした光を別の形で返そうと決意した。
+None : After I met Natsuka, I decided I wanted to pay her back for the light she brought me in another form.
+None : 我和夏夏相遇后，决定以另一种形式来回报夏夏带给我的光芒。
+
+None
+None : 夏夏の盲目の黒の世界に、ひとつずつ光の色をもたらした。
+None : I brought the colors of light into Natsuka's blind, black world, adding them to her palette one by one.
+None : 我为夏夏那漆黑一片的世界，逐渐带去了各色的光。
+
+None
+None : 夏夏は自らのなかに花瓶を……自分の心を見つけ、そして、自分の中にある感情の名前をひとつずつ知っていった。
+None : Natsuka found the vase within herself... She found her own heart, and she learned to name the feelings in it.
+None : 夏夏找到了自己内心的花瓶……也就是自己的内心，接着，逐渐明白了自己内心中的感情的名字。
+
+None
+None : 夏夏の花瓶にひとつずつ増えていった花……それは喜びであり、哀しみであり、絶望であり、そのすべてが心の風景を塗り替える色彩だった。
+None : One by one, flowers were added to Natsuka's vase... Flowers of joy, sorrow, and despair. They repainted the landscape of her heart in their colors.
+None : 在夏夏的花瓶中逐渐逐渐增多的花朵……有的代表喜悦，有的代表悲伤，还有绝望，而这一切将她的内心染上了别的颜色。
+
+None
+None : そうして夏夏。お前は、自分の真実に至った。
+None : Eventually, Natsuka arrived at her truth.
+None : 于是夏夏。你抵达了自己的真相。
+
+None
+None : 安寧の黒から絶望の白へ。
+None : The black of peace in her heart turned into the white of despair.
+None : 从安稳的漆黑，化作绝望的纯白。
+
+None
+None : 黒も、白も、同じだ。
+None : Black, white, they're both the same.
+None : 黑也好，白也罢，都是一样的。
+
+None
+None : 安寧に目は塞ぎ、何も見えなくなる。絶望に目は眩み、何も見えなくなる。
+None : When your eyes are peacefully closed, you see nothing. You see just as much when your eyes are blinded by despair.
+None : 安稳将蒙蔽双眼，让人不再会注意其他事物。绝望会刺痛双眼，让人再也不会想到直面一切。
+
+None
+None : それでも私は、白の先にある地平にお前が至ることを祈った。
+None : Still, I prayed she would reach the horizon beyond the white.
+None : 尽管如此，我还是祈祷你能到达白色之外的地平线。
+
+None
+None : お前は絶望の白のなかで、目を凝らし自分を見つけた。
+None : She was able to open her eyes amidst the blinding white of despair, and she found herself.
+None : 你在绝望之白里面，集中注意找到了自己。
+
+None
+None : そうしてお前は、絶望の白の先を歩きはじめた。
+None : She was able to move on beyond the despair and start walking.
+None : 就这样，你来到了绝望之白的尽头。
+
+None
+None : 白の先にあったものは――
+None : And beyond the white, she found...
+None : 而在那尽头——
+
+夏夏
+夏夏 : 「リルヤさん！」
+Natsuka : "Lilja-san!"
+夏夏 : "丽露娅小姐！"
+
+夏夏
+夏夏 : 「なんだか光が強いですね。でも風は気持ちいいです！」
+Natsuka : "It's so bright outside today, isn't it? But the breeze feels really nice."
+夏夏 : "光线好刺眼呢。但是风很舒服！"
+
+夏夏
+夏夏 : 「お姉ちゃんのお花、きれいに咲きました」
+Natsuka : "Mana's flowers have bloomed. They're beautiful."
+夏夏 : "姐姐的花，开得真漂亮啊"
+
+夏夏
+夏夏 : 「すごく嬉しいです。お姉ちゃんのお墓の周りをあの花でいっぱいにしたかったので」
+Natsuka : "I'm really happy to see them. I've always wanted to fill the area around Mana's grave with flowers."
+夏夏 : "好开心啊。我早就想在姐姐的墓前妆点那些花了"
+
+夏夏
+夏夏 : 「あの花は一日で萎んでしまうんですが、でも毎日咲くので、すぐには寂しくならなくて安心です」
+Natsuka : "These flowers only last for a single day, but new flowers replace them every day. She'll be able to enjoy them for a long time."
+夏夏 : "那种花开一天就会枯萎，但是幸好每天都会开花，一段时间内应该是不用担心了"
+
+リルヤ
+リルヤ : 「ああ。お前の姉も、死してなお母親の妄執に付き合うよりも、ここで眠る方がずっと良い」
+Lilja : "Yes, surely your sister will be much happier resting here instead of having to deal with her mother's obsession over her even in death."
+丽露娅 : "是啊。你的姐姐肯定也会觉得，比起死后还要受到母亲执念的束缚，还是更希望沉睡在这里"
+
+夏夏
+夏夏 : 「そうですね、お姉ちゃん自由になりたがっていたので。良かったです」
+Natsuka : "You're right. She always wanted to be free, so I'm happy for her, too."
+夏夏 : "是啊，姐姐她很想要自由。太好了"
+
+夏夏
+夏夏 : 「――うん」
+Natsuka : "...All right."
+夏夏 : "——嗯"
+
+夏夏
+夏夏 : 「さて、帰りましょうか！」
+Natsuka : "Let's go home!"
+夏夏 : "那么，我们就回去吧！"
+
+夏夏
+夏夏 : 「えへへ、日傘、すごくお似合いですね。プレゼントしてよかったです」
+Natsuka : "Hehehe, you look really nice with that parasol. I'm glad I chose it for you."
+夏夏 : "嘿嘿，遮阳伞真适合你呢。把它当礼物太好了"
+
+夏夏
+夏夏 : 「あ、そういえばですね。わたし、クリスマスの前にちょっと考えていたんですよ」
+Natsuka : "Oh, that reminds me. Before Christmas, I was thinking..."
+夏夏 : "啊，话说回来啊。我在圣诞节之前有好好想过的"
+
+夏夏
+夏夏 : 「あの頃、リルヤさんが一番に見たいものってなんだろう？　って、もしそれが見つかるなら、それをプレゼントしたいなって」
+Natsuka : "What would you most want to see? If it's something I could find, then I'd love to give it to you as a present."
+夏夏 : "我在想啊，那时候丽露娅小姐到底最想看到什么呢？　要是我发现了，就打算把那个当做礼物的"
+
+夏夏
+夏夏 : 「でもそれを見つける時間もなくて、日傘にしたんですけど……」
+Natsuka : "But I didn't have time to look for it back then, so I got you the parasol for Christmas instead..."
+夏夏 : "但我最后都没有发现那个，只好换成遮阳伞了……"
+
+リルヤ
+リルヤ : 「それならば、見られたから良い」
+Lilja : "I already saw it, so you don't need to worry about that anymore."
+丽露娅 : "这么说的话，我想看的已经看到了"
+
+夏夏
+夏夏 : 「え？」
+Natsuka : "Huh?"
+夏夏 : "咦？"
+
+リルヤ
+リルヤ : 「あのクリスマスの日に、見ることができた」
+Lilja : "I saw it on Christmas Day."
+丽露娅 : "我在圣诞节那天，已经看到了"
+
+夏夏
+夏夏 : 「あ……」
+Natsuka : "Oh..."
+夏夏 : "啊……"
+
+夏夏
+夏夏 : 「はい」
+Natsuka : "Okay..."
+夏夏 : "嗯"
+
+リルヤ
+リルヤ : 「だが私も欲深いからな。新たに見たいものが増えた」
+Lilja : "But I'm a greedy person, I'll have you know. There's something new I want to see."
+丽露娅 : "但是我的欲望深不见底啊。想看看新的东西了"
+
+夏夏
+夏夏 : 「なんでしょう？」
+Natsuka : "What is it?"
+夏夏 : "是什么呀？"
+
+リルヤ
+リルヤ : 「お前だ」
+Lilja : "You."
+丽露娅 : "是你"
+
+リルヤ
+リルヤ : 「今回の治療の知らせはイヌイを騙すためのフェイクだったが、いつか遠くない未来に、治療法は確立するだろう」
+Lilja : "The 'cure' I mentioned before doesn't exist yet. It was a ruse in order to fool Inui. However, it will be developed in the not-so-distant future."
+丽露娅 : "这回的治疗虽然只是为了欺骗伊伮依所设下的圈套，但不远的未来，应该会确立治疗方式吧"
+
+リルヤ
+リルヤ : 「そうしたら、今度こそ本当に、私は私の視神経を通して、お前を認識することができる」
+Lilja : "When that happens, I really will be able to %i1see%id you with my own eyes."
+丽露娅 : "到时候，就可以通过我的视神经，亲眼看到你的样子"
+
+夏夏
+夏夏 : 「――それって、すごいことですね」
+Natsuka : "That would be incredible!"
+夏夏 : "——那很厉害啊"
+
+夏夏
+夏夏 : 「わたしも、リルヤさんに見て欲しいです。わたしを」
+Natsuka : "I would love for you to see me, too."
+夏夏 : "我也想让丽露娅小姐看看我"
+
+夏夏
+夏夏 : 「わたし、リルヤさんの目と足が治るって聞いたとき、色々なことを考えました。色々なことをリルヤさんと話しました」
+Natsuka : "When I heard your eyes and legs might be cured, it was all I could think about. We talked about it all the time."
+夏夏 : "我呢，在听到丽露娅小姐的眼睛与双腿能治愈的时候，想了很多。对丽露娅小姐说了很多"
+
+夏夏
+夏夏 : 「喜んだり、嬉しくなったり、不安になったり、信じること、傍にいること……いっぱい話しました」
+Natsuka : "We talked about the joy it would bring, and about the anxiety I felt. About believing, and about staying together... We talked so much."
+夏夏 : "我为丽露娅小姐开心，自己也感到开心，又觉得不安，然后又告诉你……我相信你，我会在你身边"
+
+夏夏
+夏夏 : 「それでですね、最近また考えたんです。たとえ、リルヤさんのお役に立てなくなっても、大丈夫だなって」
+Natsuka : "I've been thinking about it again lately. I think it'd be okay even if I couldn't make myself useful to you anymore."
+夏夏 : "然后呢，最近我又在想啊。哪怕我帮不上丽露娅小姐的忙，应该也没问题的吧"
+
+夏夏
+夏夏 : 「それは、リルヤさんが役に立たなくてもいいっていってくれるから、だから、大丈夫ってことじゃなくて……」
+Natsuka : "And not because you said it'd be okay if I couldn't help anymore..."
+夏夏 : "那并不是因为丽露娅小姐说，我派不上用场也可以待在自己身边……"
+
+夏夏
+夏夏 : 「わたし、思い出したんです。一番最初に、あの夏の雪のときに思ったことを」
+Natsuka : "I remembered how I felt during my first job for you, when I brought you snow in summer..."
+夏夏 : "我啊，回想起来了。在最开始，在那场夏天的雪时我想到了什么"
+
+夏夏
+夏夏 : 「あのとき、わたしはリルヤさんと分かち合いたいなって思ったんです」
+Natsuka : "I felt a strong desire to share my feelings with you at that time."
+夏夏 : "那时候，我想和丽露娅小姐一起分享面前的美景"
+
+夏夏
+夏夏 : 「だから、この先リルヤさんの役に立てなくなっても、わたしがいいなって思ったことを、リルヤさんと分かち合えれば嬉しいなって」
+Natsuka : "So, even if I can't be useful to you in the future, I'd still be happy if I could share the things I like with you."
+夏夏 : "所以，以后哪怕帮不上丽露娅小姐的忙，要是能和丽露娅小姐一同分享我觉得美妙的事物，也是很棒的"
+
+夏夏
+夏夏 : 「その気持ちがあれば、わたしは大丈夫だなって」
+Natsuka : "As long as I feel that way, I'll be fine."
+夏夏 : "感觉有这份心，我应该就是没问题的"
+
+夏夏
+夏夏 : 「答は、全部最初から、わたしのなかにあったんですね」
+Natsuka : "It turns out I had my answer inside of me all along."
+夏夏 : "答案一开始就全部存在于我的内心里了啊"
+
+リルヤ
+リルヤ : 「最初からあっても、目の前にあっても、見えないものは見えない。光があってはじめて、見えないものを見ることができる」
+Lilja : "It can be harder to notice something that was there all along, even if it was right in front of you. You need some light to illuminate it and make it visible."
+丽露娅 : "就算一开始就存在，哪怕就在你的眼前，看不见的东西终究是看不见的。正因为有光，曾经看不见的东西才能被你看见"
+
+リルヤ
+リルヤ : 「光が世界を照らし出してはじめて、そこにあるものが存在しはじめる」
+Lilja : "Things only begin to exist when there is light in the world."
+丽露娅 : "光芒照耀世界的那一刻开始，那里所有的东西才第一次可以说得上是存在于此"
+
+リルヤ
+リルヤ : 「お前のなかにあった花瓶のように」
+Lilja : "Things like the vase you found inside of you."
+丽露娅 : "就像你内心中的花瓶一样"
+
+リルヤ
+リルヤ : 「お前の姉はお前のためではなく、自分のためだけに、お前の花瓶を作りあげ磨きあげた」
+Lilja : "It was created and polished by your sister, but she didn't create it for you. She made it for herself."
+丽露娅 : "你的姐姐不是为你，而是为了自己，给你做出了花瓶并保养着它"
+
+リルヤ
+リルヤ : 「お前はそれを見出し、そしてその花瓶に花を生けた」
+Lilja : "Yet you found it and were able to fill it with flowers of your own."
+丽露娅 : "而你找到了那个花瓶，接着在花瓶里插上了花朵"
+
+リルヤ
+リルヤ : 「花瓶の花こそが、世界を塗り替える絵の具だ」
+Lilja : "The flowers in your vase are like paints that give color to the world."
+丽露娅 : "而花瓶中的花，就是涂抹世界所需要的颜料"
+
+リルヤ
+リルヤ : 「今、目の前の世界だけではない。過去の世界も、塗り替わっていく」
+Lilja : "Not just the present world in front of us. They also repaint the past in new colors."
+丽露娅 : "而现在，这些颜料不光为你眼前的世界着了色。更是涂抹了你曾经的世界"
+
+リルヤ
+リルヤ : 「今の私が変われば、過去の私が変わり、そして、過去が変わると、今も変わる」
+Lilja : "When your present self changes, your past self changes, too. And when the past changes, the present changes along with it."
+丽露娅 : "现在的我改变了，那么过去的我也会一并改变，然后，过去改变了，现在也会改变"
+
+リルヤ
+リルヤ : 「そして今という地点から見渡せる、未来も変わっていく。過去と現在を限りなく循環して、変わっていく」
+Lilja : "The future is predicated by the present, which is shaped by the past. It's a never-ending cycle."
+丽露娅 : "接着从现在这一地点展望的未来也会随之改变。过去与现在循环着发生着变化"
+
+リルヤ
+リルヤ : 「夏夏、お前はあのとき……夏の雪を見たときにこういったな」
+Lilja : "Natsuka... When you showed me snow in summer, you said..."
+丽露娅 : "夏夏，你在那时候……看到夏天的雪，你说道"
+
+リルヤ
+リルヤ : 「『きれい、だったんだ……！』と」
+Lilja : "'It was so... beautiful...!'"
+丽露娅 : "说是，‘这么，漂亮啊……！’"
+
+夏夏
+夏夏 : 「よく覚えてますね、リルヤさん」
+Natsuka : "I'm impressed you remember my exact words, Lilja-san."
+夏夏 : "丽露娅小姐，这都能记住啊"
+
+リルヤ
+リルヤ : 「私は一度見聞きしたものは忘れないよ」
+Lilja : "Once I've seen or heard something, I never forget it."
+丽露娅 : "我可不会忘掉自己曾经听过的话"
+
+リルヤ
+リルヤ : 「私はいつかその言葉の意味を聞こうと思っていた。ずっとな。教えてくれるか？　夏夏」
+Lilja : "I've been meaning to ask you for some time why you said it in past tense. Will you tell me, Natsuka?"
+丽露娅 : "我早就想问问这句话的意义了。很早之前一直。能讲给我听听吗？　夏夏"
+
+夏夏
+夏夏 : 「……昔ですね、おかあさんが、お姉ちゃんがくれた羽毛布団を破ってしまったことがあったんです」
+Natsuka : "Of course. When I was little, my mom once ripped up a futon my sister had given me."
+夏夏 : "……以前呢，妈妈把姐姐送来的羽毛被子撕开过"
+
+夏夏
+夏夏 : 「そのときは、何も考えられなくて、ただ、ああ……羽毛布団が壊れちゃったなって思っていました」
+Natsuka : "At the time, the only thought that went through my head was 'Oh, my futon is torn...'"
+夏夏 : "那时候我什么都无法思考，只是觉得……羽毛被子坏掉了啊"
+
+夏夏
+夏夏 : 「でも、リルヤさんに夏の雪を見せて……」
+Natsuka : "But after you asked me to show you snow in summer..."
+夏夏 : "但是，丽露娅小姐给我看了夏天的雪之后……"
+
+夏夏
+夏夏 : 「わたしはそのときのことを思い出して、きれいだったんだってきれいって思ってよかったんだって、思ったんです」
+Natsuka : "I remembered that moment, and I realized that the feathers floating through the room were beautiful then, too. And I felt relieved to know that I can think of it that way."
+夏夏 : "我便回想起那时候的事情，想着要是能对漂亮的事物说漂亮就好了"
+
+夏夏
+夏夏 : 「それで、わたし……」
+Natsuka : "Also..."
+夏夏 : "于是我……"
+
+夏夏
+夏夏 : 「お母さんが羽毛布団を破ったときのことを思い出したとき、鼻の奥がツンとなって、あれってたぶん、泣きたい気持ちでした」
+Natsuka : "When I remembered how Mom ripped up that futon, I felt a lump in the back of my throat. I think that was probably an urge to cry."
+夏夏 : "在回想起妈妈撕开羽毛被子时，鼻子酸了，那应该是我想哭出来的信号吧"
+
+夏夏
+夏夏 : 「あのときは、どうして泣きたくなったのかわかりませんでした」
+Natsuka : "At the same time, I didn't understand why I should cry over a torn futon."
+夏夏 : "那时候，我不知道为什么我会想哭"
+
+夏夏
+夏夏 : 「リルヤさんと一緒に夏の雪を見たあのときは、とても嬉しかったから、そういうときは、笑えばいいのにって」
+Natsuka : "When I watched the summer snow with you, Lilja-san, I felt so happy. I realized that at times like those, you should just laugh instead."
+夏夏 : "在和丽露娅小姐一起看夏天的雪时，因为我很开心，我想，这种时候我应该是可以笑出来的吧"
+
+夏夏
+夏夏 : 「でも今なら違う風に思えます。あのとき、おかあさんに布団を破られたとき、ただ、きれいだなって思っていいって」
+Natsuka : "But now, I think about it differently. I know now that it was okay for me to just appreciate the beauty of the torn futon all those years ago."
+夏夏 : "但是现在我有不同的感觉。那时候，妈妈撕开被子的时候，我可以老实觉得真美"
+
+夏夏
+夏夏 : 「そして、同じくらい、哀しくて、泣きたくてよかったんだって」
+Natsuka : "And it would've been okay for me to be sad and cry about it, too."
+夏夏 : "同时，我也可以感到悲伤，哭出来"
+
+夏夏
+夏夏 : 「リルヤさんのいうとおりですね。今のわたしが変わると、過去のわたしが見た風景も変わるんですね。何度も、何度でも」
+Natsuka : "You were right that when my present self changes, the scenery of my past memories changes as well, over and over again."
+夏夏 : "正如丽露娅小姐所说啊。现在的我发生变化，过去的我所看到的风景也会变化啊。无数次，无数次"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「泣いていいんだぞ？」
+Lilja : "It's okay if you want to cry."
+丽露娅 : "可以哭出来的哦？"
+
+夏夏
+夏夏 : 「もう泣いでまずぅうううぅううううぅぅううぅうううううううっ」
+Natsuka : "I'm... nngh... crying already... Wahhhhhhh!"
+夏夏 : "已经在哭了啦呜呜呜呜呜——"
+
+リルヤ
+リルヤ : 「ふ……」
+Lilja : "Heh..."
+丽露娅 : "呵……"
+
+夏夏
+夏夏 : 「も～最近何を見ても泣いちゃうんですよ。おかげでティッシュの消費がすごいんですからぁうぇええええええんっ」
+Natsuka : "So many things make me cry lately... I've been using a ton of tissues... Wahhhhhh!"
+夏夏 : "真的是～最近看什么都会哭出来呢。是真的耗纸巾啊呜呜呜呜呜呜"
+
+リルヤ
+リルヤ : 「今まで泣かなかった分、好きなだけ泣くといい。そのうち気が済む」
+Lilja : "You must have a lot of tears bottled up inside. It's okay to cry until you've let them all out. You'll feel better afterward."
+丽露娅 : "以前没哭过，现在就好好哭吧。总有一天会不再想哭了"
+
+リルヤ
+リルヤ : 「泣き終えたら、私に報告しろ。帰るからな」
+Lilja : "Let me know when you're done crying. Then we can go home."
+丽露娅 : "哭完了记得告诉我。该回去了"
+
+夏夏
+夏夏 : 「ありがとうござびばずっ」
+Natsuka : "Thank youuuuu!"
+夏夏 : "谢谢呜呜呜"
+
+夏夏
+夏夏 : 「ずびずびちーんっ」
+Natsuka : "*sob* *sob*... Nnnngh!"
+夏夏 : "嘶嘶嘶"
+
+夏夏
+夏夏 : 「は～またいっぱい泣きました……それではおうちに帰……」
+Natsuka : "Hahhh... I let out lots of tears again... All right, let's go hom—"
+夏夏 : "哈～又哭了个够……那么就快点回……"
+
+夏夏
+夏夏 : 「！　そうだリルヤさん、帰る前に商店街にいってみませんか？　皆さんリルヤさんに会ってみたいと思いますよ」
+Natsuka : "Oh! Right, Lilja-san, can we drop by the shopping district on the way back? I'm sure everyone really wants to meet you."
+夏夏 : "！　对了丽露娅小姐，回去之前要不去商店街露个面？　大家应该想见见你的"
+
+リルヤ
+リルヤ : 「お前に何かと物を与える連中だろう？」
+Lilja : "These are the people who always give you free things, correct?"
+丽露娅 : "是那些你送过礼物的人吧？"
+
+夏夏
+夏夏 : 「そうですね！　きっとリルヤさんには私以上にいろんなものを渡したくなっちゃうんじゃないでしょうか！」
+Natsuka : "Yeah! I'm sure that when they meet you, they'll want to give you even more freebies than they do me!"
+夏夏 : "是呢！　他们应该想给丽露娅小姐更多呢！"
+
+夏夏
+夏夏 : 「お花、お茶、香水、ケーキ、お肉！　他にもすてきなもので、リルヤさんの膝がいっぱいになっちゃいますね」
+Natsuka : "Flowers, tea, perfume, cake, meat... I'm sure you'll find yourself a pile of wonderful gifts in your lap in no time!"
+夏夏 : "花朵、茶叶、香水、蛋糕、肉肉！　应该还有更多东西的，会在丽露娅小姐的膝上堆起一座小山呢"
+
+夏夏
+夏夏 : 「今日は、リルヤさんとわたしが会った日ですし！　ちょっとした記念日……とかいうと大げさですね、えへへ！」
+Natsuka : "Today is the anniversary of the day we met, after all... We should celebrate! Or is that too much? Hehehe!"
+夏夏 : "而且今天是和丽露娅小姐相遇的日子！　稍微算个纪念日……好像有点托大了呢，嘿嘿！"
+
+リルヤ
+リルヤ : 「そうだな。お前と会って、一年になる」
+Lilja : "Right, it's already been a year since we met."
+丽露娅 : "是啊。和你相遇，已经过去一整年了"
+
+夏夏
+夏夏 : 「はい！　長いようなあっという間のような……そんな一年でした。やっぱりお祝いしましょうか？」
+Natsuka : "Yeah! A year sounds like a long time, but it went by in a flash... Maybe we %i1should%id celebrate?"
+夏夏 : "是的！　说长不长说短不短……的一年啊。要不还是庆祝一下？"
+
+夏夏
+夏夏 : 「リルヤさんのお誕生日を祝えなかったのも、実は気になっていまして！」
+Natsuka : "We didn't get to celebrate your birthday, either, so I've been wondering if we should do something for that, too!"
+夏夏 : "没能帮丽露娅小姐庆祝生日一事，我还是有些想法的！"
+
+リルヤ
+リルヤ : 「必要ないと判断したからな」
+Lilja : "I didn't think it was necessary."
+丽露娅 : "因为我觉得没那个必要啊"
+
+夏夏
+夏夏 : 「そういわれたのでお祝いしませんでしたけど、やっぱりお祝いしたいです！」
+Natsuka : "Right, and I didn't do anything because you told me not to, but I still want to celebrate!"
+夏夏 : "既然丽露娅小姐这么说了我也就不庆祝了，但我果然还是想为你庆祝一下！"
+
+リルヤ
+リルヤ : 「お前は祝い事が好きだな」
+Lilja : "You really like parties, don't you?"
+丽露娅 : "你还真喜欢庆祝啊"
+
+夏夏
+夏夏 : 「はい！　リルヤさんとお祝いをするのが好きです。楽しいですし、なんか嬉しいです！！」
+Natsuka : "I do! I love celebrating things with you. It's fun, and it makes me really happy."
+夏夏 : "是的！　我喜欢和丽露娅小姐一起庆祝。又开心，而且我很高兴的！！"
+
+リルヤ
+リルヤ : 「お前の誕生日も祝うなら、考えよう」
+Lilja : "If we can make it %i1your%id birthday party too, then I'll consider it."
+丽露娅 : "如果也要庆祝你的生日的话，那我考虑一下"
+
+夏夏
+夏夏 : 「わたしですか！？　わかりました。嬉しいです！　わたしの誕生日、お祝いされるのはじめてな気がします！」
+Natsuka : "Mine!? Really!? Of course! That'd be amazing! I don't think anyone's ever celebrated my birthday before!"
+夏夏 : "我也要吗！？　好的。我好开心！　好像这还是第一次有人打算庆祝我的生日呢！"
+
+リルヤ
+リルヤ : 「欲しいものを考えておくと良い」
+Lilja : "Think about what you want for your birthday, then."
+丽露娅 : "你还是想想生日礼物要什么吧"
+
+夏夏
+夏夏 : 「欲しいものですか～う～ん……」
+Natsuka : "A present? Hmm..."
+夏夏 : "想要的礼物吗～嗯……"
+
+夏夏
+夏夏 : 「そうです！　わたし車の免許を取りたいです。キャンピングカーも運転できるといいですね。自転車よりもさらにどこまでもいけますし！」
+Natsuka : "I know! I wanna get my driver's license. I'd love to be able to drive a camper van. Then, I'd be able to go to way more places than I could on my bicycle!"
+夏夏 : "对了！　我想去考驾照。最好能开野营车。能去到骑自行车到不了的远方呢！"
+
+夏夏
+夏夏 : 「きっとどこまでもいけますよ！」
+Natsuka : "We'll be able to go anywhere!"
+夏夏 : "肯定想去哪就去哪哦！"
+
+リルヤ
+リルヤ : 「ああ、かまわない。お前は私の鳩。乾いた大地を、どこまでも飛んでいくが良い」
+Lilja : "Yes, that sounds good. You're my dove—you should spread your wings and fly to the very ends of the land."
+丽露娅 : "嗯，没问题。你是我的白鸽。在这片干裂的大地上尽情翱翔吧"
+
+夏夏
+夏夏 : 「もちろんリルヤさんもいっしょにですよ！！」
+Natsuka : "You're coming with me, Lilja-san!!"
+夏夏 : "丽露娅小姐也要一起走哦！！"
+
+リルヤ
+リルヤ : 「なんだって？」
+Lilja : "What?"
+丽露娅 : "你说什么？"
+
+夏夏
+夏夏 : 「わたし、リルヤさんと一緒に色々な世界が見たいんです」
+Natsuka : "I want to go out and see all kinds of worlds with you."
+夏夏 : "我呢，想和丽露娅小姐一起游览各色各样的世界"
+
+夏夏
+夏夏 : 「わたしはリルヤさんの目と足なので、リルヤさんの代わりに色々なものを見に行くこともできますが……」
+Natsuka : "As your eyes and legs, I %i1could%id go and see them in your stead, but..."
+夏夏 : "虽然我能作为丽露娅小姐的眼和双腿，帮丽露娅小姐见证各种各样的事物……"
+
+夏夏
+夏夏 : 「どこまでもリルヤさんを連れて行くこともできるんです！」
+Natsuka : "I could also just take you with me everywhere!"
+夏夏 : "但我也可以带着丽露娅小姐一起走！"
+
+夏夏
+夏夏 : 「そして、その風景をリルヤさんと一緒に分かち合いたいです」
+Natsuka : "Then we can see the scenery together and share our experiences and feelings."
+夏夏 : "然后，我想将目睹的风景与丽露娅小姐一起分享"
+
+リルヤ
+リルヤ : 「私が望まなくても、連れていきそうな勢いだな」
+Lilja : "You sound like you're ready to whisk me away whether I like it or not."
+丽露娅 : "看来就算我不乐意，你也打算带我离开吧"
+
+夏夏
+夏夏 : 「いいですか？」
+Natsuka : "How would you feel about that?"
+夏夏 : "可以吗？"
+
+リルヤ
+リルヤ : 「合理的に考えて私を連れて行けば、旅の効率性は著しく落ちるが、非効率な旅をしてみるのも一興だ」
+Lilja : "Logically speaking, it would be highly inefficient for you to drag me along on your travels, as it would decrease your mobility. However, there may be a certain charm to that type of inefficient travel."
+丽露娅 : "合理考虑，你把我带上肯定会显著降低旅行的效率，不过，没有效率的旅行也该享受享受"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "Yeah!"
+夏夏 : "是的！"
+
+夏夏
+夏夏 : 「色々なところにいきましょうね、リルヤさん。行きたければ、どこにでもいけますよ。海の底でも、雲の上でも、虹の彼方でも！」
+Natsuka : "Let's visit all sorts of places together, Lilja-san. I'll take you anywhere you want to go—to the bottom of the ocean, above the clouds, and to the end of the rainbow!"
+夏夏 : "要去很多地方哦，丽露娅小姐。只要想去，哪里都可以哦。海底也好，云上也行，就连彩虹对面也可以的！"
+
+リルヤ
+リルヤ : 「ああ、そうだな。お前ならきっとできるだろう」
+Lilja : "That sounds good. I know I'll be in capable hands with you."
+丽露娅 : "嗯，也是啊。你肯定能办到"
+
+夏夏
+夏夏 : 「はい！」
+Natsuka : "All right!"
+夏夏 : "是的！"
+
+リルヤ
+リルヤ : （夏夏が私の車椅子を押していく。私の肌が外の世界に触れる。私という輪郭が、世界を思い出していく）
+Lilja : (Natsuka's pushing my wheelchair. My skin's directly in touch with the outside world. I can feel the boundary between myself and the world, and I'm remembering what it looked like.)
+丽露娅 : （夏夏推动着我的轮椅。我的肌肤感受着外界。名为我的轮廓，开始回想起世界的种种）
+
+リルヤ
+リルヤ : （そうだな、夏夏、お前ならできるだろう）
+Lilja : (That's right, Natsuka. I'm sure you'll be able to do it.)
+丽露娅 : （是啊，夏夏。你肯定能办到的）
+
+リルヤ
+リルヤ : （見る術を喪った私をしてなお、新しい世界に連れていけるだろう）
+Lilja : (%i1Because%id I've lost my sense of sight, you'll be able to take me to a new world.)
+丽露娅 : （你肯定能将目不视物的我，带去新的世界吧）
+
+リルヤ
+リルヤ : （お前と出会ってすごしたこれまでも、そしてこれからも）
+Lilja : (Just as you've done countless times since I met you, and will continue to do.)
+丽露娅 : （在与你相遇后的至今为止，以及我们的从今往后）
+
+リルヤ
+リルヤ : （お前の目を通して見る世界は、私の目で見る世界よりも美しい）
+Lilja : (The world as seen through your eyes is much more beautiful than the world I used to see.)
+丽露娅 : （通过你的双眼所看到的世界，定会比我所看到的世界更为美丽）
+

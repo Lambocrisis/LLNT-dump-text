@@ -1,0 +1,1555 @@
+夏夏
+夏夏 : 「ただいま帰りましたー！」
+Natsuka : "I'm hooooome!"
+夏夏 : "我回来了——！"
+
+夏夏
+夏夏 : 「……ん？」
+Natsuka : "...Hm?"
+夏夏 : "……嗯？"
+
+夏夏
+夏夏 : 「あ、あれ？　リルヤさん？」
+Natsuka : "Huh? Lilja-san?"
+夏夏 : "咦？丽露娅小姐？"
+
+夏夏
+夏夏 : 「リルヤさーん？」
+Natsuka : "Lilja-saaaan?"
+夏夏 : "丽露娅小姐——"
+
+夏夏
+夏夏 : 「リルヤさん？」
+Natsuka : "Lilja-san?"
+夏夏 : "丽露娅小姐？"
+
+夏夏
+夏夏 : 「リルヤさん、いません……おかしいですね」
+Natsuka : "Lilja-san isn't here... That's weird..."
+夏夏 : "丽露娅小姐，不在……好奇怪啊"
+
+夏夏
+夏夏 : （出かけている？　まさか？）
+Natsuka : (Did she go out? That's hard to believe...)
+夏夏 : （出门了？不会吧？）
+
+夏夏
+夏夏 : 「うーん……」
+Natsuka : "Hrmm..."
+夏夏 : "嗯……"
+
+夏夏
+夏夏 : 「まさかとは思いますが、わたしの部屋に？」
+Natsuka : "There's no reason for her to go into my room, but let's check..."
+夏夏 : "虽然我觉得不太可能，但她不会在我房间里吧？"
+
+夏夏
+夏夏 : 「リルヤさーん、いますか？」
+Natsuka : "Lilja-saaaan, are you there?"
+夏夏 : "丽露娅小姐，您在吗？"
+
+夏夏
+夏夏 : 「え……」
+Natsuka : "Huh...?"
+夏夏 : "哎……"
+
+夏夏
+夏夏 : 「荷物が、ない……」
+Natsuka : "My stuff... is gone..."
+夏夏 : "行李，没了……"
+
+夏夏
+夏夏 : （お布団も、ルミさんもいなくて……わたしのリュックサックだけしかありません……）
+Natsuka : (My futon's gone... Lumi-san's gone... All that's left is my backpack...)
+夏夏 : （被褥、鲁米也不见了……就只剩下我的帆布包了……）
+
+夏夏
+夏夏 : （えっ？　えっ？　一体何が起きて？？？）
+Natsuka : (What in the world is going on?)
+夏夏 : （哎？哎？到底发生什么了？？？）
+
+夏夏
+夏夏 : （はっ！　そうです！　こういうときには――！）
+Natsuka : (Oh! I know what to do!)
+夏夏 : （啊！对了！这种情况就该找——！）
+
+夏夏
+夏夏 : 「まひるさーん！」
+Natsuka : "Mahiru-saaaaaan!"
+夏夏 : "真昼小姐——！"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「返事がない……？」
+Natsuka : "No response...?"
+夏夏 : "没反应……？"
+
+夏夏
+夏夏 : 「まひるさーん！　リルヤさーん！」
+Natsuka : "Mahiru-saaaan! Lilja-saaaan!"
+夏夏 : "真昼小姐——！丽露娅小姐——！"
+
+夏夏
+夏夏 : 「あと見てないところは、アトリエですが……」
+Natsuka : "The only place I haven't looked is in the studio..."
+夏夏 : "剩下还没看过的地方，就只有画室了……"
+
+夏夏
+夏夏 : 「……！」
+Natsuka : "...Ah!"
+夏夏 : "……！"
+
+夏夏
+夏夏 : 「……描きかけの絵がない」
+Natsuka : "The painting she was working on is gone."
+夏夏 : "……没画完的画不见了"
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Huh!?"
+夏夏 : "！！"
+
+夏夏
+夏夏 : （今の音――ギャラリーからです！）
+Natsuka : (That came from the gallery!)
+夏夏 : （刚刚的声音是——画室那边传来的！）
+
+夏夏
+夏夏 : 「リルヤさん！」
+Natsuka : "Lilja-san!"
+夏夏 : "丽露娅小姐！"
+
+夏夏
+夏夏 : 「！」
+Natsuka : "Ah..."
+夏夏 : "！"
+
+イヌイ
+イヌイ : 「あら、おかえりなさいませ、夏夏さん」
+Inui : "Welcome back, Natsuka-san."
+伊伮依 : "啊呀，欢迎回来，夏夏小姐"
+
+夏夏
+夏夏 : 「イヌイさん、あの、リルヤさんは一体――」
+Natsuka : "Inui-san... Um, where's Lilja-san?"
+夏夏 : "伊伮依小姐，那个，丽露娅小姐她——"
+
+イヌイ
+イヌイ : 「リルヤ様でしたら、入院されましたわ」
+Inui : "Lilja-sama has been hospitalized."
+伊伮依 : "丽露娅大人已经住院了"
+
+夏夏
+夏夏 : 「入院！？」
+Natsuka : "What!?"
+夏夏 : "住院？！"
+
+イヌイ
+イヌイ : 「もちろん治療のためですから、心配はいら――」
+Inui : "It's just for her scheduled treatment. Nothing to worry—"
+伊伮依 : "当然她住院只是为了进行治疗，不需要担——"
+
+夏夏
+夏夏 : 「どこですか！？　わたしも行きます！！！」
+Natsuka : "Where is she!? I'm going there!!"
+夏夏 : "在哪里住院？！我也要去！！！"
+
+イヌイ
+イヌイ : 「あら、どうして？」
+Inui : "Oh? Why?"
+伊伮依 : "哎呀，为什么呢？"
+
+夏夏
+夏夏 : 「わたしはリルヤさんの目と足ですから、いえ、そうじゃなくても、わたしはリルヤさんの傍にいるって、この前もそう話したんです！」
+Natsuka : "Because I'm Lilja-san's eyes and legs! Even if she's cured, I'm still going to stay with her! That's what she wants!"
+夏夏 : "因为我是丽露娅小姐的双眼和双腿，不，就算不是，我之前也说过，我要待在丽露娅小姐的身边！"
+
+イヌイ
+イヌイ : 「本当に？　あなたは何も見えていないのに？」
+Inui : "Really? What makes you think you can do anything for her when you can't even see what's right in front of your face?"
+伊伮依 : "真的吗？明明你什么都没看到不是吗？"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「イヌイさんは、今、わたしが傷つく言葉をあえて選んで使っている気がします」
+Natsuka : "Inui-san, you just deliberately chose the words you knew would hurt me, didn't you?"
+夏夏 : "伊伮依小姐，我感觉，您故意使用这样的措辞是想用言语伤害我吧"
+
+イヌイ
+イヌイ : 「あら困ったわね、どうしてそう思うのかしら？　それがあなたの真実なのに……ああ、でも、真実は耳に痛いというものね？」
+Inui : "Oh my, how did you ever get that impression? I'm merely stating the truth... Oh, though I guess the truth hurts."
+伊伮依 : "哎呀这可真头疼啊，为什么你会这样想呢？明明这就是你的真实情况……啊，不过，有句话不是叫忠言逆耳吗？"
+
+イヌイ
+イヌイ : 「それはそれとして……残念ですが、あなたにリルヤ様の行き先は教えられません。それがリルヤ様の望みですから」
+Inui : "That being said... Unfortunately, I can't tell you where Lilja-sama has gone. %i1That's%id what Lilja-sama wants."
+伊伮依 : "暂且不说这个……很遗憾，你没有从丽露娅大人那里得知到她的去处。因为丽露娅大人就是这个意思"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「リルヤさんから、直接話を聞きます」
+Natsuka : "I'll ask her what she wants myself."
+夏夏 : "我要听丽露娅小姐亲口说"
+
+イヌイ
+イヌイ : 「ご自由にどうぞ」
+Inui : "Go ahead, call her then."
+伊伮依 : "请便"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : （リルヤさん、出てください……リルヤさん……っ）
+Natsuka : (Lilja-san, please answer... Lilja-san...)
+夏夏 : （丽露娅小姐，接电话吧……丽露娅小姐……！）
+
+夏夏
+夏夏 : （出ないです……）
+Natsuka : (She's not answering...)
+夏夏 : （没接……）
+
+夏夏
+夏夏 : （だったら他の人に話を……！）
+Natsuka : (In that case, I'll ask someone else...!)
+夏夏 : （那就先打电话给其他人……！）
+
+夏夏
+夏夏 : （まひるさん……）
+Natsuka : (Mahiru-san...)
+夏夏 : （真昼小姐……）
+
+夏夏
+夏夏 : （善乃さん……）
+Natsuka : (Yoshino-san...)
+夏夏 : （善乃小姐……）
+
+夏夏
+夏夏 : （だめです……誰も出ません……）
+Natsuka : (No... Nobody's answering...)
+夏夏 : （打不通……都没人接……）
+
+イヌイ
+イヌイ : 「あきらめた方がいいですわよ。みんなリルヤ様に協力しているの」
+Inui : "I highly recommend that you give up. Lilja-sama has their cooperation."
+伊伮依 : "我建议你还是放弃吧。大家都在协助丽露娅大人"
+
+夏夏
+夏夏 : 「協力……？」
+Natsuka : "Cooperation...?"
+夏夏 : "协助……？"
+
+イヌイ
+イヌイ : 「あなたには内緒にしてくれっていわれてましたから。心配、かけたくないそうですよ」
+Inui : "She told me to keep it a secret from you, because she didn't want you to worry."
+伊伮依 : "她说要跟对你保密。应该是不想让你担心吧"
+
+夏夏
+夏夏 : 「でも、今、わたしはめちゃめちゃ心配してます」
+Natsuka : "But all of this is making me really, really worried."
+夏夏 : "但是，我现在非常担心"
+
+夏夏
+夏夏 : 「何もかも突然すぎますし、昨日までのリルヤさんの言動と全然一致しません。合理的なリルヤさんにしては、おかしすぎます」
+Natsuka : "Everything's happening way too suddenly, and the way Lilja-san's acting is way different from yesterday. It doesn't make any sense, she's too logical for this."
+夏夏 : "不管怎么说这也太突然了，跟到昨天为止丽露娅小姐的言行完全不符。对于总是会从合理的角度考虑的丽露娅小姐来说，实在是太奇怪了"
+
+イヌイ
+イヌイ : 「しかたないですわ。だって、あなたは騙し絵の真実に気づくことができなかったのですから」
+Inui : "I can't blame you for being confused. You couldn't even see the truth behind the %i1trompe l'oeil%id paintings, after all."
+伊伮依 : "这也是没办法的。毕竟，你没能察觉到假画中的真相"
+
+イヌイ
+イヌイ : 「そして、完璧に隠し通したリルヤ様の本音にも気づけなかった」
+Inui : "And you failed to notice Lilja-sama's true feelings, which she perfectly concealed."
+伊伮依 : "然后，你也没能察觉到被丽露娅大人完美隐藏住的真心话"
+
+夏夏
+夏夏 : 「騙し絵？　真実？　本音……？」
+Natsuka : "%i1Trompe l'oeil%id...? Her true feelings...?"
+夏夏 : "假画？真相？真心话……？"
+
+イヌイ
+イヌイ : 「そう、彼女たちの真実にあなたはたどり着けなかった」
+Inui : "That's right. You're the only one who failed to arrive at the truth."
+伊伮依 : "是的，你没能找到她们的真相"
+
+イヌイ
+イヌイ : 「この――３枚の絵、どうしてここにあると思います？」
+Inui : "Why do you think these three paintings are here?"
+伊伮依 : "你觉得这三张画，为什么会在这里？"
+
+夏夏
+夏夏 : （そう……これは優さんたちに――依頼人さんたちに渡した絵です。それが、どうしてここに？）
+Natsuka : (Oh... That's the painting we gave to Yuu-san and her partner—our clients. What's it doing here?)
+夏夏 : （没错……这是给优小姐她们——客人们的画。为什么会在这里？）
+
+イヌイ
+イヌイ : 「返却されたのよ、もう、要らないと」
+Inui : "They returned it. They didn't want it anymore."
+伊伮依 : "退回来了。她们说，不需要了"
+
+夏夏
+夏夏 : 「返された……？」
+Natsuka : "What...?"
+夏夏 : "退回来了……？"
+
+イヌイ
+イヌイ : 「そう、あなたはこの絵たちに隠された真実を見ることができなかった。そして彼女たちは、この絵に隠された真実を見出した」
+Inui : "You weren't able to see the truth hidden in these paintings, but %i1they%id did."
+伊伮依 : "是的，因为你没能看出这些画中所隐藏的真相。而她们看出了画种所隐藏的真相"
+
+イヌイ
+イヌイ : 「だから、この３枚の絵はこの部屋に返された」
+Inui : "That's why they're back in this room."
+伊伮依 : "所以，这三幅画被退回到这个房间里了"
+
+イヌイ
+イヌイ : 「私はね、いつかこうなることはわかっていたの」
+Inui : "I knew this would eventually happen."
+伊伮依 : "我早就知道会有今天"
+
+イヌイ
+イヌイ : 「リルヤ様はあなたの語る美しさに目が眩んで、期待を抱いて絵に真実を塗り込めました」
+Inui : "Dazzled by the beauty of the world you told her of, Lilja-sama expertly concealed the truth in her paintings."
+伊伮依 : "丽露娅大人的眼睛被你所描述的美所迷住，怀着期待将真相画进了画中"
+
+イヌイ
+イヌイ : 「依頼人からの依頼を果たすため、リルヤ様は私に調査を命じ、私は情報を提供しました」
+Inui : "In order to fulfill the clients' requests, she'd order me to gather information, which I then provided to her."
+伊伮依 : "为了能够完成客人的要求，丽露娅大人命令我进行调查，我向她提供了信息"
+
+イヌイ
+イヌイ : 「その情報を元に、リルヤ様は最初から真実にたどり着いていました」
+Inui : "That information allowed Lilja-sama to arrive at the truth almost immediately."
+伊伮依 : "从这些信息中，丽露娅大人在最开始的时候就找到了真相"
+
+イヌイ
+イヌイ : 「でもそれはリルヤ様にとっては必要な情報でしかなかった。その情報はリルヤ様の心を震わせなかった」
+Inui : "But it was merely the bare minimum of necessary information. It didn't touch Lilja-sama's heart."
+伊伮依 : "但这些对丽露娅大人来说不过只是些必要的信息。这些信息并不能撼动丽露娅大人的内心"
+
+イヌイ
+イヌイ : 「でも、リルヤ様の合理性が、必要な情報から得た真実を無しにすることを許さなかった。誠実な御方ですから」
+Inui : "Even so, her rationality wouldn't allow her to proceed without the necessary information. She's truly a lady of complete integrity."
+伊伮依 : "但是，丽露娅大人的合理性，使她无法允许自己去无视这些从必要的信息中所得到的真相。毕竟她是位真诚的大人"
+
+イヌイ
+イヌイ : 「あなたが見た優しく美しい世界を希求しながら、自らの合理性によって到達した真実からも目をそらせなかった」
+Inui : "While she desired the gentle, beautiful world you saw, she never lost sight of the truth she'd arrived at through logical thought."
+伊伮依 : "她追求着你所看到的温柔、美丽的世界，却无法忽视掉自己通过合理性找到的真相"
+
+イヌイ
+イヌイ : 「あの方は誰よりも誠実で、世界の真実に近しい存在……その真実を、絵に潜ませた」
+Inui : "She's the most honest person I've ever known. She's closer to the truth of the world than anyone, and... she hid that truth in her paintings."
+伊伮依 : "她比任何人都要真诚，是最近世界真相的存在……而这一真相，就隐藏在画中"
+
+イヌイ
+イヌイ : 「ひとつの祈り、ひとつの希望……あるいは残酷な期待と共に」
+Inui : "Along with her prayers, her hopes... Or perhaps her cruel expectations."
+伊伮依 : "与一句句的祈祷、一片片的希望……又或是残酷的期待，一同隐藏在了画中"
+
+イヌイ
+イヌイ : 「そうして、あなたが気づかなかった真実に、彼女たちは気づいた」
+Inui : "In time, the clients came to realize the truths that you were never able to notice."
+伊伮依 : "然而，你未能察觉到的真相，她们察觉到了"
+
+イヌイ
+イヌイ : 「だから、彼女たちはあなたを憎んだの」
+Inui : "And that's why they despise you."
+伊伮依 : "所以，她们才会憎恨你"
+
+イヌイ
+イヌイ : 「全員が全員、あなたやリルヤ様のように強くはないのよ」
+Inui : "Not everyone is as strong as you and Lilja-sama are, you know?"
+伊伮依 : "并不是所有人，都能像你和丽露娅大人那样坚强"
+
+夏夏
+夏夏 : 「それは……鷹野さんと善乃さんのことですか」
+Natsuka : "Are you... talking about Takano-san and Yoshino-san?"
+夏夏 : "您说的……是鹰野小姐和善乃小姐吗"
+
+夏夏
+夏夏 : （お会いしたときふたりが素っ気なかったのは……気のせいじゃなかったんですね……）
+Natsuka : (So I %i1wasn't%id just imagining things when I felt they were acting cold to me...)
+夏夏 : （见面时候她们对我爱理不理的……原来不是错觉啊……）
+
+イヌイ
+イヌイ : 「ええ、そのとおり。あなたはとても賢い子だわ。でも、その澄んだ目には何も映らないのね」
+Inui : "That's right. You're a smart girl, aren't you? It's such a shame that those bright eyes of yours see nothing."
+伊伮依 : "嗯，你说得没错。你真的很聪明。但是，在你那清澈的眼睛里却什么都映不出来"
+
+イヌイ
+イヌイ : 「清すぎる水に魚が住めないように、生命のいない砂漠の空が美しいように。あなたの目は美しすぎて、汚れた世界を映さない」
+Inui : "Fish cannot live in water that's too pure, and the sky above an arid desert is too dazzling for the eyes. Your eyes are the same—too pure, too beautiful to see how truly disgusting this world is."
+伊伮依 : "所谓水至清则无鱼。即便是荒凉的沙漠，天空也不失美丽。你的眼睛实在是太美了，无法映出这有污点的世界"
+
+イヌイ
+イヌイ : 「１枚目の絵――祝福の青い空」
+Inui : "This is the first painting, a blessed blue sky."
+伊伮依 : "第一张画是——《祝福的蓝天》"
+
+夏夏
+夏夏 : 「そうです。この絵を見て、優さんは思い出しました」
+Natsuka : "Yeah, it's the painting that helped Yuu-san remember everything."
+夏夏 : "是的。看到这幅画后，优小姐回想起了过去"
+
+夏夏
+夏夏 : 「優さんは、鷹野さんに恋をしていて、でもそれは片思いだった。辛くて苦しくて……だからその恋心を、埋めたんです」
+Natsuka : "Yuu-san had a one-sided crush on Takano-san, and her unrequited feelings were hurting her, so she buried them."
+夏夏 : "优小姐爱上了鹰野小姐，但是那只是单相思。太艰难、太痛苦了……所以她把这片爱意埋了起来"
+
+イヌイ
+イヌイ : 「ええ、そのとおりです。私も彼女たちからそのように聞きました」
+Inui : "Yes, that's right. That's what they told me, too."
+伊伮依 : "嗯，你说的没错。我听她们也是这样说的"
+
+イヌイ
+イヌイ : 「逃げようとした過去、忘れていた片思いの相手は鷹野様でした。春日衣様はそれを思い出すことで、長く辛かった片思いから解放されました」
+Inui : "Kasugai-sama remembered the past she'd been trying to escape from—the fact that Takano-sama had been the object of her affections. She was freed from the pain of her unrequited love."
+伊伮依 : "在她想要逃离的过去里，遗忘掉的单恋对象就是鹰野小姐。春日衣小姐在想起这件事之后，从漫长而又辛苦的单相思中解放了"
+
+イヌイ
+イヌイ : 「でも、それは優しい嘘でもありました。なぜならば、春日衣様が埋めようとした想いにはつづきがあったのです」
+Inui : "However, that ultimately ended up being just a white lie. The feelings she'd tried to bury remained with her the whole time."
+伊伮依 : "但是，这同时也是一句善意的谎言。因为，春日衣小姐想要掩埋的回忆还有后续"
+
+イヌイ
+イヌイ : 「これは、哀しい過去を塗り込めた空。そして祝福の青い未来は、厳しい過去を突きつけて乗り越えなくては至れない明日でもあったのです」
+Inui : "Her sorrowful past was sealed within the sky, shrouding a blessed, bright future. But to arrive at that future, she needed to overcome her harsh past."
+伊伮依 : "这是一片涂满了伤心往事的天空。而在这祝福的蓝色未来中，有着不跨越悲惨的过去就无法到达的明天"
+
+イヌイ
+イヌイ : 「あなたにはそれは見えない。なぜならばあなたは知らないから。あなたは真実に至れなかったから」
+Inui : "You can't see it, because you don't know. You never arrived at the truth."
+伊伮依 : "这是你没有看到的。因为你不知道。因为你没能找到真相"
+
+イヌイ
+イヌイ : 「ここに――雲があるのがわかりますか？」
+Inui : "Here. Do you see this cloud?"
+伊伮依 : "你看这里——能看到云吗？"
+
+夏夏
+夏夏 : 「はい。青い空にうっすらと刷毛で刷いたような雲が見えます。まるで花嫁さんのヴェールみたいに見えて、きれいだなって」
+Natsuka : "Yeah, there's a thin, wispy cloud in the blue sky that looks as if it was painted with a hake brush. It reminded me of a bride's veil, so I thought it was beautiful."
+夏夏 : "看得到。在蓝天中可以看到用刷子刷过一样的淡淡的一层云。看上去感觉很像是新娘的面纱，我觉得很漂亮"
+
+イヌイ
+イヌイ : 「パレイドリア現象」
+Inui : "That's pareidolia."
+伊伮依 : "空想性错视"
+
+夏夏
+夏夏 : 「えっ？」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+イヌイ
+イヌイ : 「ランダムなパターンに規則性を認識する現象です」
+Inui : "It's a phenomenon that causes people to see regularity in random patterns."
+伊伮依 : "一种从随机的图案中识别出特定物体的现象"
+
+イヌイ
+イヌイ : 「難しい話ではありません。星から星座を作り出したり、月の模様に兎を見出したりするでしょう？　それですわ」
+Inui : "It's nothing too complicated. It's what causes people to see constellations in stars, for example, or see a rabbit in the moon."
+伊伮依 : "这并不是什么很复杂的东西。人们会从星星中看出星座，从月亮中看出兔子的轮廓吧？跟这些是一样的"
+
+イヌイ
+イヌイ : 「無秩序な視覚的パターンに何を見出すかは、時代、文化、個人的経験に左右されます。見る人によって、見えるものが変わるのです」
+Inui : "What we see in unordered visual patterns depends on the age we live in, our culture, and our personal experiences. Two people could be looking at the same thing but see two entirely different things."
+伊伮依 : "从视觉上没有规则的图案中能看出些什么，会受到时代、文化和个人经历的影响。看的人不同，看到的东西也不同"
+
+イヌイ
+イヌイ : 「そしてそれが意味するものも、変わるのですわ」
+Inui : "One's perspective also changes the meaning behind what we see."
+伊伮依 : "而对不同的人来说，其蕴含意义也会不同"
+
+イヌイ
+イヌイ : 「もっとよく見てください、この雲の形は、少女の形に見えてきませんか？　ここが頭、ここが腕、そしてここが足……」
+Inui : "Look more closely. Doesn't this cloud look like a girl to you? This is the head, these are arms, and these are the legs..."
+伊伮依 : "你再仔细看看，这个云的形状，看上去不就像是一位少女吗？这里是头，这里是手，然后这里是腿……"
+
+夏夏
+夏夏 : （確かにそう見えてきます、でもそれだと足が……）
+Natsuka : (She's right, it does look like a girl... But her legs...)
+夏夏 : （确实看起来像是位少女，不过这样看的话她的腿……）
+
+夏夏
+夏夏 : （おかしな方向に折れて――）
+Natsuka : (They're bent in an unnatural way...)
+夏夏 : （扭向了诡异的方向——）
+
+イヌイ
+イヌイ : 「ふふ、見えてきましたね？　それが何を意味するのか、春日衣様は気づいてしまわれた。絵に隠された真実に――」
+Inui : "Hehe, do you see it now? Kasugai-sama realized what it meant—the truth that was hidden inside this painting..."
+伊伮依 : "呵呵，看到了吧？这意味了什么，春日衣小姐已经注意到了。注意到了藏在画中的真相——"
+
+イヌイ
+イヌイ : 「春日衣様は、学生の頃、恋をしました。初恋でした。その初恋の相手は、同性の友達でした」
+Inui : "When Kasugai-sama was in high school, she fell in love for the first time. Her crush was her best friend, who was also a girl."
+伊伮依 : "春日衣小姐，在学生时代恋爱了。那是她的初恋。而初恋的对象，就是那位同为女性的好朋友"
+
+イヌイ
+イヌイ : 「春日衣様は、告白して友達の関係が壊れるのを怖れ、諦めるために自分のリボンを埋めようと決めました」
+Inui : "She was afraid of ruining their friendship if she ever confessed, so she decided to bury her ribbon and let go of her feelings."
+伊伮依 : "春日衣小姐因为害怕告白会破坏掉她们的友情，为了放弃自己的想法她决定把丝带埋起来"
+
+イヌイ
+イヌイ : 「そしてそのリボンを埋めるために、ご友人――鷹野様に同行してもらいました」
+Inui : "When she went to bury the ribbon, she asked her friend, Takano-sama, to accompany her."
+伊伮依 : "然后为了把丝带埋起来，她的朋友——鹰野小姐也一起去了"
+
+イヌイ
+イヌイ : 「ですが、鷹野様も春日衣様のことを好きだったのです。ですが、優様の片思いの相手が自分だとは気づかず、失恋したと勘違いしました」
+Inui : "What she didn't know was that Takano-sama was in love with her as well. Takano-sama, who also didn't know she was the object of Kasugai-sama's feelings, was heartbroken."
+伊伮依 : "不过，鹰野小姐也喜欢春日衣小姐。但是，她不知道春日衣小姐的初恋对象就是自己，误以为自己也失恋了"
+
+イヌイ
+イヌイ : 「そのため、鷹野様は春日衣様のリボンと一緒に、自分のリボンも埋めることにしました」
+Inui : "That's why Takano-sama decided to bury her own ribbon along with Kasugai-sama's."
+伊伮依 : "然后，鹰野小姐同春日衣小姐一起，把自己的丝带也给埋起来了"
+
+イヌイ
+イヌイ : 「お互いに好き合っていたのに、お互いに失恋したと思ってしまったのです」
+Inui : "Even though they were in love with each other, they were both under the impression that the other had a one-sided crush on someone else."
+伊伮依 : "她们明明是两情相悦，却都觉得自己失恋了"
+
+イヌイ
+イヌイ : 「ここまでが、春日衣様が絵を見た時点で思い出した過去です。ですが、本当はこれだけでは終わらなかったのです」
+Inui : "This is what Kasugai-sama remembered when she first saw the painting. However, that's not where the story ends."
+伊伮依 : "到此为止是春日衣小姐看到画的时候所回想起来的过去。但是实际上故事并没有就此结束"
+
+イヌイ
+イヌイ : 「鷹野様は自分が引っ越しをするとわかり、このままあきらめたくないと思い、夏休みに、春日衣様に告白をしました」
+Inui : "When Takano-sama found out her family would be moving, she realized that she didn't want her first love to end like that. So during summer vacation, she confessed her feelings to Kasugai-sama."
+伊伮依 : "鹰野小姐在得知自己要搬家后，觉得不想就这样放弃，于是她在暑假的时候，跟春日衣小姐告白了"
+
+イヌイ
+イヌイ : 「そこでふたりの勘違いは解け、両思いだとわかったのです」
+Inui : "The misunderstanding between the two girls had been cleared, and they realized they both felt the same about each other."
+伊伮依 : "两个人因此解开了误会，两情相悦"
+
+イヌイ
+イヌイ : 「ふたりはあまりに幸せで、その喜びをどうしても形にしたくなりました。リボンを交換したいと強く望んだのです」
+Inui : "They were overjoyed, and they wanted to give shape to that joy somehow. They decided they wanted to exchange their uniforms' ribbons."
+伊伮依 : "两人实在是太幸福了，便想用定情信物来纪念她们的喜悦。在双方的强烈的意愿下，她们做出了交换丝带的打算"
+
+イヌイ
+イヌイ : 「箱からリボンを取り出すと、呪いを受けるといわれていました。加えて台風が近づいていました。普通なら台風がすぎるのを待つでしょう」
+Inui : "There's a rumor that if you take a buried ribbon out of its box again, you would be cursed. Plus, there was a typhoon approaching. Under normal circumstances, they would have waited for it to pass."
+伊伮依 : "传说从箱子里将丝带取出来，就会受到诅咒。加上那几天台风将至。正常来说应该等到台风过后再去取的"
+
+イヌイ
+イヌイ : 「ですが、鷹野様が告白をした日は、引っ越しの前日でした。明日になれば、鷹野様は遠い場所に旅立ってしまう」
+Inui : "However, Takano-sama confessed the day before she was due to move. She'd be leaving for a place far away the next day."
+伊伮依 : "但是，鹰野小姐告白的那天，正好是她搬家的前一天。到了第二天，鹰野小姐就要出发去很远的地方了"
+
+イヌイ
+イヌイ : 「少女たちは愛しいまでに若く愚かでした」
+Inui : "The girls were young and foolish to a charming degree."
+伊伮依 : "这两位少女可爱到让人觉得是又年轻又愚蠢"
+
+イヌイ
+イヌイ : 「両思いになったのだからリボンを掘り起こしたい。この喜びを前に一分一秒も待てない」
+Inui : "Now that they'd realized they were both in love, they wanted to dig up their ribbons as soon as possible. They couldn't bear to wait a second more."
+伊伮依 : "因为是两情相悦，她们决定要把丝带挖出来。在这份喜悦面前，她们一分一秒也按耐不住"
+
+イヌイ
+イヌイ : 「外出するのは危険だとわかっていても、でも、ふたりはどうしてもどうしても――恋の成就の喜びを形にしたかった」
+Inui : "They knew it was dangerous to go out, but they were desperate to obtain the physical symbol of their requited love."
+伊伮依 : "即使知道这个天气外出非常危险，但是，两个人无论如何都想要——用定情信物来纪念她们两情相悦"
+
+イヌイ
+イヌイ : 「そうしてふたりは、箱を掘り出しにいこうと出かけました。そうして台風の中、箱を掘り起こし、箱からリボンを取り出しました」
+Inui : "And so, they went out to dig up the boxes in the middle of the typhoon. They successfully found them, dug them up, and took the ribbons out."
+伊伮依 : "于是她们就出门去挖箱子了。然后她们在台风中，将箱子挖出，从箱子中取出了丝带"
+
+イヌイ
+イヌイ : 「そして雨の中、お互いのリボンを交換しました」
+Inui : "Then, while being battered by rain, they exchanged their ribbons."
+伊伮依 : "两人在雨中交换了丝带"
+
+イヌイ
+イヌイ : 「鷹野様がリボンを結ぼうとしたところで、強い風が吹きました」
+Inui : "When Takano-sama was about to tie her ribbon, a strong gust hit the girls."
+伊伮依 : "在鹰野小姐想要系上丝带的时候，突然刮起一阵强风"
+
+イヌイ
+イヌイ : 「鷹野様の手からリボンが離れ、鷹野様はリボンを取ろうとして――崖から落ちました」
+Inui : "The ribbon slipped from Takano-sama's hand, and she chased after it... But in doing so, she slipped and fell down the cliff."
+伊伮依 : "强风将鹰野小姐手中的丝带吹飞，鹰野小姐为了接住那跟丝带——从坡上摔了下去"
+
+イヌイ
+イヌイ : 「崖下を見おろした春日衣様は、悲鳴をあげました。鷹野様の足はいびつに歪んで……どれだけ声をかけても返事はなく……」
+Inui : "When Kasugai-sama looked down over the edge of the cliff, she saw Takano-sama lying on the ground below, her legs twisted the wrong way... She called out to her, but she didn't respond..."
+伊伮依 : "春日衣小姐从坡上看了下去，马上尖叫了起来。鹰野小姐的腿扭断了……不管怎么叫她都没有反应……"
+
+イヌイ
+イヌイ : 「春日衣様は、鷹野様が死んでしまったと思ったのです」
+Inui : "Kasugai-sama believed that Takano-sama had died."
+伊伮依 : "春日衣小姐以为鹰野小姐就这样摔死了"
+
+イヌイ
+イヌイ : 「春日衣様は……」
+Inui : "Then, she..."
+伊伮依 : "春日衣小姐她……"
+
+イヌイ
+イヌイ : 「自分の手に残ったリボンをふたたび埋めました」
+Inui : "She decided to rebury the ribbon she was left with."
+伊伮依 : "又一次把自己手里的丝带埋了起来"
+
+None
+None : ――……します……ねがい……ます……
+None : "Pl... se..."
+None : ——……您了……求求……您了……
+
+優
+優 : 「お願いします……お願いします……」
+Yuu : "Please... Please..."
+优 : "求求您了……求求您了……"
+
+優
+優 : 「なかったことにして、なかったことにしてください」
+Yuu : "Please make it so that none of this ever happened..."
+优 : "就当这一切没有发生，请把这一切都当成没有发生过吧"
+
+優
+優 : 「好きな人のリボンを返しますから、恋人になってからの短い時間も、全部なかったことにしますから」
+Yuu : "I'll return the ribbon of my beloved to the earth, and I'll pretend that the short time we spent as a couple never happened."
+优 : "我会把丝带还给我爱的人的，请把我们成为恋人之后这短暂的时间，全都当成没有发生过吧"
+
+優
+優 : 「だから、だから、全部元にもどしてください」
+Yuu : "So please... Please turn everything back to normal."
+优 : "求求您，求求您，全部都恢复原来的样子吧"
+
+優
+優 : 「恋人でなくていいから、生きていてくれればいいから、だからだからお願い……お願いします……」
+Yuu : "I don't need to be her lover! I just want her to live, so please... Please..."
+优 : "就算不做恋人也行，只要她能活着就好了，所以求求您……求求您了……"
+
+None
+None : でも元には戻らない、崖の下の彼女は動かない。
+None : What's been done can never be undone. The girl at the bottom of the cliff remained unmoving.
+None : 但是一切都没有复原，坡下的她仍旧一动不动。
+
+None
+None : あの人は生き返らない。
+None : There's no way to bring somebody back to life.
+None : 她不会再醒来了。
+
+優
+優 : 「ごめんなさい、ごめんなさい、わたしがわたしが悪かったの。わたしが、わたしが……」
+Yuu : "I'm sorry... I'm so sorry... It's all my fault. If I... If I..."
+优 : "对不起，对不起，都是我不对。都怪我，都怪我……"
+
+優
+優 : 「わたしがこんな日にリボンを取りに行こうっていったから！！」
+Yuu : "If only I hadn't suggested we go find the ribbons in this terrible weather...!!"
+优 : "都怪我这种天气还要来这里取丝带！！"
+
+優
+優 : 「晶、ごめんね……わたしも一緒に……」
+Yuu : "Akira... I'm sorry... I'll join you..."
+优 : "晶，对不起……我也跟你……"
+
+None
+None : ――いくから
+None : "I'll join you soon."
+None : ——一起走
+
+イヌイ
+イヌイ : 「そうして、春日衣様は飛び降りた時に頭に怪我を負い、自らの罪悪感と怪我の影響で記憶を失われました」
+Inui : "Kasugai-sama jumped off the cliff. She sustained an injury to her head and lost her memory as a result. Perhaps her guilt had played a role in her memory loss as well."
+伊伮依 : "然后，春日衣小姐在跳下去的时候撞到了头，在自己的罪恶感和头部受伤的影响下失去了记忆"
+
+イヌイ
+イヌイ : 「ロミオとジュリエットの話を笑えない顛末ですわね。ですが、他人にとっては喜劇であっても、当人達にとっては紛れもない悲劇」
+Inui : "Not a very pleasant ending to the story of %i1Romeo and Juliet%id, is it? What may be a comedy for some could be an awful tragedy for others."
+伊伮依 : "这件事就像《罗密欧与朱丽叶》的故事那样让人很难笑出来吧。但是，即使对别人来说或许可以看作是某种喜剧，但对当事人来说毫无疑问就是个悲剧"
+
+イヌイ
+イヌイ : 「すべてを思い出した春日衣様は、罪悪感に大変苦しまれました」
+Inui : "When Kasugai-sama remembered everything, she was overcome by an overwhelming sense of guilt."
+伊伮依 : "想起了一切的春日衣小姐，因为罪恶感而感到异常痛苦"
+
+夏夏
+夏夏 : 「だから、優さんのアカウントの更新は途絶えた……」
+Natsuka : "So %i1that's%id why Yuu-san stopped updating her account..."
+夏夏 : "所以，优小姐才会停止了账号上的更新……"
+
+イヌイ
+イヌイ : 「ええ、そういうことですわ」
+Inui : "Yes, that would be the reason."
+伊伮依 : "嗯，就是这样"
+
+イヌイ
+イヌイ : 「リルヤ様は、ふたりでなら乗り越えられると期待したのでしょう。ですが、残念ながら春日衣様は、乗り越えられなかった」
+Inui : "Lilja-sama must have expected the two of them to be able to overcome it together. However, unfortunately, Kasugai-sama was unable to."
+伊伮依 : "丽露娅大人应该是希望两个人能够跨越过这条坎的吧。但遗憾的是，春日衣小姐没能跨越过去"
+
+イヌイ
+イヌイ : 「そして、それは春日衣様だけではなく――」
+Inui : "And she wasn't the only one..."
+伊伮依 : "而且，不只是春日衣小姐——"
+
+イヌイ
+イヌイ : 「こちらの赤い絵」
+Inui : "Look at this red painting."
+伊伮依 : "这张红色的画"
+
+イヌイ
+イヌイ : 「花冠をかぶった少女たちが微笑む絵――あなたはこれを善乃様が帰りたかった過去と見なしたのですよね？」
+Inui : "It's a portrait of three smiling girls wearing flower crowns. You saw this as the past Yoshino-sama wished to return to, didn't you?"
+伊伮依 : "带着花环微笑着的少女们的画——你从这张画中看到的是善乃小姐想要回到的过去吧？"
+
+夏夏
+夏夏 : 「そうです。この絵を見て、それで、善乃さんと真璃子さんは、妹さんの死を乗り越えられたんです……」
+Natsuka : "That's right. Yoshino-san and Mariko-san were able to move on from Miyako-san's death after seeing this painting..."
+夏夏 : "是的。在看了这幅画后，善乃小姐和真璃子小姐从妹妹的死中走出……"
+
+夏夏
+夏夏 : （そのはずです……でも、もしかして……これも……？）
+Natsuka : (Or did they...? Don't tell me... Again...?)
+夏夏 : （应该是这样的……但是，难道说……这张画也是……？）
+
+イヌイ
+イヌイ : 「ふふ、あなたは、お利口なわんちゃんですね。顔を見れば、あなたが揺らいでいるのはわかります」
+Inui : "Hehe, you're such a clever doggy. I can tell by your expression that you've already sniffed out what I'm going to say."
+伊伮依 : "呵呵，你是只聪明的小狗。看你的表情就知道你有所动摇了"
+
+夏夏
+夏夏 : 「この絵にもリルヤさんは、真実を塗り込めたんですか」
+Natsuka : "Did Lilja-san also hide some kind of truth in this painting?"
+夏夏 : "丽露娅小姐在这张画里也把真相画进去了吗"
+
+イヌイ
+イヌイ : 「ええ、そのとおりですわ」
+Inui : "Yes, she certainly has."
+伊伮依 : "嗯，你说的没错"
+
+イヌイ
+イヌイ : 「この絵は過去ではなく、未来。残酷な過去を突きつけられた上で、乗り越えなくては至れない明日」
+Inui : "This painting doesn't depict the past, it depicts the future—one that can only be reached by confronting and overcoming their cruel past."
+伊伮依 : "这张画画的不是过去，是未来。摆在眼前的不仅有着残酷的过去，还有着不跨越就无法到达的明天"
+
+イヌイ
+イヌイ : 「これは青い絵と違って、見た瞬間にあなたにもわかったはずです。それこそ、真璃子様と善乃様が気づかなくても、あなただけは気づかなければならなかった」
+Inui : "Unlike the blue painting, you should have noticed the moment you saw it. Even if Mariko-sama and Yoshino-sama didn't notice right away, you of all people should have noticed it immediately."
+伊伮依 : "这和那张蓝色的画不同，在看到的一瞬间你应该就能明白的。应该说，即使真璃子小姐和善乃小姐没有注意到，你也一定能注意得到"
+
+イヌイ
+イヌイ : 「でもあなたはお利口だけど、注意深くはなかった」
+Inui : "You may be clever, but you're obviously not very observant."
+伊伮依 : "不过虽然你很聪明，但注意力却并没有那么集中"
+
+イヌイ
+イヌイ : 「あなたはどうしてこの花冠の薔薇に気づかなかったのですか？　あなたがリルヤ様に贈ったというのに」
+Inui : "How could you not have noticed the roses on these flower crowns, especially after the gift you gave Lilja-sama?"
+伊伮依 : "你为什么没有注意到这个花环上的玫瑰呢？你不是送过给丽露娅大人了吗？"
+
+夏夏
+夏夏 : 「薔薇……」
+Natsuka : "Roses..."
+夏夏 : "玫瑰……"
+
+夏夏
+夏夏 : 「……っ！」
+Natsuka : "Oh...!"
+夏夏 : "……！"
+
+夏夏
+夏夏 : 「ですね！　一等賞の薔薇はですね、すごいきれいな赤い薔薇なんですよ。新種の薔薇で、なんと、棘がないんです！」
+Natsuka : "Right! The first prize was a bouquet of beautiful, red roses. It's a new variety that doesn't have any thorns!"
+夏夏 : "是呢！　这一等奖的玫瑰啊，是很漂亮的红玫瑰呢。还是没有刺的新品种哦！"
+
+夏夏
+夏夏 : 「あとすごくいい香りで、しかも花持ちがいいから、花嫁さんの花冠やクラッチブーケにするといいみたいです」
+Natsuka : "They smell really nice, and apparently the flowers last a long time, so they're perfect to use in bridal flower crowns and bouquets."
+夏夏 : "而且这种玫瑰香味很浓，活得也久，适合用在新娘子的花冠和花束上呢"
+
+夏夏
+夏夏 : 「来年くらいには量産できるようになって、市場にも流通するみたいですけど、その貴重な薔薇が１等賞だったんですよね」
+Natsuka : "Apparently they won't become commercially available until next year, so that explains why they're precious enough to be the first prize in the lottery."
+夏夏 : "说是差不多明年就能量产，到时候能买到了。这么贵重的玫瑰是一等奖呢"
+
+イヌイ
+イヌイ : 「リルヤ様は意味や理由のない物を描きません。あの薔薇を冠しているならば、あれが過去であるはずがないのです。あれは、未来の絵として描かれた」
+Inui : "Everything that Lilja-sama paints carries meaning. Since she painted those specific roses, the painting couldn't have been of the past. It was obviously meant to depict the future."
+伊伮依 : "丽露娅大人是不会把没有意义和理由的东西画出来的。虽然画中将玫瑰戴在了头上，但在过去肯定是没有玫瑰的。这画的是一张未来的画"
+
+イヌイ
+イヌイ : 「けれど、気づかなかった。無論、真璃子様と善乃様には気づかれないようにしたのです。あそこで気づくべきだったのは、あなたと……」
+Inui : "She hid the truth in a way Mariko-sama and Yoshino-sama couldn't notice. The only ones who could were you..."
+伊伮依 : "但是，你没能察觉到。当然，真璃子小姐和善乃小姐也都没能察觉到。能够察觉到这里的人，只有你和……"
+
+イヌイ
+イヌイ : 「庭師です」
+Inui : "And the gardener."
+伊伮依 : "园丁"
+
+夏夏
+夏夏 : 「え……」
+Natsuka : "Huh?"
+夏夏 : "哎……？"
+
+夏夏
+夏夏 : （え、なぜ庭師さんが……？）
+Natsuka : (Wait, what does the gardener have to do with this...?)
+夏夏 : （哎？为什么是园丁……？）
+
+イヌイ
+イヌイ : 「ふふ、わからないってお顔をされていますね、おばかさん」
+Inui : "Hehe, you look confused. You really are a little dimwit, aren't you?"
+伊伮依 : "呵呵，看你一脸不明所以的样子，真笨啊"
+
+イヌイ
+イヌイ : 「ねえ、夏夏さん。あなたはなぜあの庭から崖に滑り落ちたと思いますか？」
+Inui : "Natsuka-san, do you have any idea why you fell off that cliff in the garden?"
+伊伮依 : "我说啊，夏夏。你觉得你为什么会从那个院子的坡上摔下去？"
+
+イヌイ
+イヌイ : 「そしてなぜあの絵を見て庭師が号泣していたか、そしてそんな庭師をなぜメイドが慰めていたのか」
+Inui : "Or why the gardener cried so much when he saw the painting, and why the maid was trying her best to comfort him?"
+伊伮依 : "然后为什么看到了那张画的园丁会嚎啕大哭起来？而女仆为什么又会去安慰园丁呢？"
+
+イヌイ
+イヌイ : 「庭師の仕業ですよ。庭師があなたを害するために、庭の坂を濡らして、その上から枯葉をかけておいたのです」
+Inui : "The gardener set a trap for you. He hosed down the path leading down the hill in the garden and left those fallen leaves there on purpose."
+伊伮依 : "想要陷害你的就是园丁。为了能够除掉你，她把斜坡弄湿，在上面铺上了枯树叶"
+
+イヌイ
+イヌイ : 「山の坂は危険です。それはもちろんです」
+Inui : "Of course, sloping paths can be treacherous."
+伊伮依 : "山上的斜坡很危险。这是自然的"
+
+イヌイ
+イヌイ : 「ですが、あの時期に雨は降らず、土は完全に乾いていた。夜露に濡れたとしても、そこまで滑るはずもない」
+Inui : "However, there hadn't been any rain in the days before your visit. The soil should have been dry, and even if some dew had formed overnight, it wouldn't have been enough to make the path %i1that%id muddy."
+伊伮依 : "但是，那段时间没有下雨，土地完全是干的。即使是在夜晚被露水浸湿了，也不可能会那么滑"
+
+イヌイ
+イヌイ : 「しかも、あなたがあのキャンプの場所で滑ったのは、誰かの気配を不審に感じて外に出たときだけ……」
+Inui : "Moreover, the reason you left your tent before your fall was because you noticed a strange presence outside."
+伊伮依 : "而且，你在露营地附近摔倒，正好就在你感觉外面有可疑人员出去查看的时候……"
+
+イヌイ
+イヌイ : 「その証拠に、連絡を受けてあの庭の別の場所を駆けおりてきた善乃様は、まったく足を滑らせなかったとおっしゃっていました」
+Inui : "What's more, Yoshino-sama, who rushed to your side after receiving Lilja-sama's call, didn't slip even once. She ran down via a different path."
+伊伮依 : "最有力证据是，善乃小姐说她在接到电话后从院子里其他地方赶过去的路上，完全没有觉得地面很滑"
+
+イヌイ
+イヌイ : 「日照時間も、坂の角度も、積もった枯葉も条件が同じで、滑る場所と滑らない場所があるのはあまりにも不自然ですもの」
+Inui : "It's unnatural that one path would be more slippery than others, considering the conditions—the daylight hours, the angle of the slope, and the amount of fallen leaves—were exactly the same."
+伊伮依 : "日照的时间，斜坡的角度，地上的枯叶这些条件是一样的，有的地方滑有的地方不滑，这也太不自然了"
+
+夏夏
+夏夏 : 「で、でも庭師さんがどうして、わたしを？」
+Natsuka : "B-But why would the gardener want to hurt me?"
+夏夏 : "但、但是为什么园丁要，害我？"
+
+イヌイ
+イヌイ : 「あなたが邪魔だったからですわ。あなたがリルヤ様に絵を描かせて、問題が解決してしまったら、困るから」
+Inui : "Because you were getting in the way. If you helped Lilja-sama complete the painting, the problem would have been solved, but he didn't want that."
+伊伮依 : "因为你很碍事。因为如果你让丽露娅大人把画画出来，把问题解决了，会让她很难办的"
+
+イヌイ
+イヌイ : 「ですが、リルヤ様はあなたの見た世界を描き、そして庭師はそれに打ちのめされたのです」
+Inui : "Despite these events, Lilja-sama painted the world as you saw it, and the gardener was struck deeply by it."
+伊伮依 : "但是，丽露娅大人画出了你所看到的世界，于是园丁也因此崩溃了"
+
+イヌイ
+イヌイ : 「庭師は知っていたのです。あの薔薇が珍しい品種だと。あの庭にはたくさんの薔薇が咲いていた。その薔薇のなかに、花冠の薔薇があった」
+Inui : "The gardener knew the roses in the painting were of a rare variety. Their garden has many roses, after all."
+伊伮依 : "园丁对此心知肚明。那种玫瑰是非常珍惜的品种。在那个院子里盛开着非常多的玫瑰。在那些玫瑰里，就有着花环上的那种玫瑰"
+
+イヌイ
+イヌイ : 「庭師だけが、あの絵が未来の絵だと直感しました。そしてリルヤ様の意図に気づいた」
+Inui : "But only the gardener realized that the painting depicted the future and figured out Lilja-sama's intentions behind it."
+伊伮依 : "只有园丁下意识感受到了这张画是未来的画。然后看出了丽露娅大人的意思"
+
+イヌイ
+イヌイ : 「だから泣いたのです」
+Inui : "That's why he cried."
+伊伮依 : "所以她哭了"
+
+イヌイ
+イヌイ : 「ああして三人で笑える未来があるのだと、その絶望的なまでに美しい未来に打ちのめされて、泣いたのです」
+Inui : "Because %i1he%id was actually a %i1she%id, and she was deeply touched by the realization that, amidst her despair, there could still be a beautiful future where the three of them could laugh together like that."
+伊伮依 : "看着三个人那样欢笑着的未来，她因这绝望而又美丽的未来崩溃了，哭了"
+
+イヌイ
+イヌイ : 「美彌子さんは」
+Inui : "Yes, Miyako-san was touched."
+伊伮依 : "美弥子小姐她哭了"
+
+夏夏
+夏夏 : 「え……美彌子さん？」
+Natsuka : "Huh? Miyako-san?"
+夏夏 : "哎……美弥子小姐？"
+
+夏夏
+夏夏 : 「でも、美彌子さんは亡くなって……だから、善乃さんはその遺言を聞いて、善乃さんはそれで苦しんで……」
+Natsuka : "But Miyako-san died in the accident... Yoshino-san tried to make her last wish come true, and that's why she was suffering..."
+夏夏 : "但是，美弥子小姐不是去世了……因为她去世了，善乃小姐在听到了她的遗言后，才会感到痛苦……"
+
+イヌイ
+イヌイ : 「いいえ、美彌子さんは生きています。生きて、ずっとあの館にいたのです」
+Inui : "No, Miyako-san is very much alive. She's been living at the villa the entire time."
+伊伮依 : "不，美弥子小姐还活着。不仅活着，还一直就在那座馆中"
+
+イヌイ
+イヌイ : 「庭師が美彌子さんなのです」
+Inui : "The 'gardener' is Miyako-san."
+伊伮依 : "园丁就是美弥子小姐"
+
+イヌイ
+イヌイ : 「彼女は、自分が善乃様の家の過失で死に、善乃様に入れ替わりをお願いすることで、ふたりを苦しめようとしたのです」
+Inui : "She wanted to make the other two girls suffer, which is why she faked her own death, pinned the blame on Yoshino-sama, and begged Yoshino-sama to take her place."
+伊伮依 : "她让自己因为善乃小姐家的过失而死去，请求善乃小姐代替她，希望能够用此折磨两人"
+
+イヌイ
+イヌイ : 「姉である真璃子様と、幼なじみである善乃様に呪いをかけたのです」
+Inui : "In other words, she placed a curse on her sister, Mariko-sama, and her childhood friend, Yoshino-sama."
+伊伮依 : "这是她给姐姐真璃子小姐和从小玩到大的善乃小姐下的诅咒"
+
+イヌイ
+イヌイ : 「死んだ美彌子様にずっと囚われて、お互いの本当の思いを成就させないために」
+Inui : "If the two were trapped by their guilt over Miyako-sama's death, they would never be able to form a happy relationship."
+伊伮依 : "为了让她们被死去的美弥子困住，让她们无法两情相悦"
+
+イヌイ
+イヌイ : 「美彌子様は、自分の思いが成就しないことを知ってました。善乃様が愛してるのは真璃子様、そして真璃子様も善乃様を愛している」
+Inui : "Miyako-sama knew that her love would never be requited. She knew Yoshino-sama was in love with Mariko-sama, and that Mariko-sama loved Yoshino-sama as well."
+伊伮依 : "美弥子小姐知道自己的感情无法开花结果。善乃小姐爱的是真璃子小姐，而真璃子小姐也爱着善乃小姐"
+
+イヌイ
+イヌイ : 「なのに美彌子様が善乃様を愛している故に、真璃子様は善乃様への愛から目をそらし……」
+Inui : "But Mariko-sama ignored her own feelings for Yoshino-sama because she knew Miyako-sama had feelings for her as well..."
+伊伮依 : "但由于美弥子小姐爱着善乃小姐，真璃子小姐才从善乃小姐的爱那里移开了视线……"
+
+イヌイ
+イヌイ : 「善乃様も真璃子様のそんな想いを知る故に、真璃子様への想いを飲みこんだ……」
+Inui : "And Yoshino-sama knew Mariko-sama felt that way, so she %i1also%id suppressed her feelings..."
+伊伮依 : "也正因善乃小姐知道真璃子小姐的心意，才会把自己对真璃子小姐的感情咽下……"
+
+イヌイ
+イヌイ : 「美彌子様のお気持ちをお二人とも考えたことがあるのでしょうか？　そんなことは……」
+Inui : "Did the two of them ever consider how Miyako-sama felt about all of this? I doubt it..."
+伊伮依 : "两个人以前有考虑过美弥子小姐的心情吗？这种事……"
+
+美彌子
+美彌子 : 「そんなことは……許せない」
+Miyako : "I'll never forgive them..."
+美弥子 : "这种事……我绝对无法容忍"
+
+美彌子
+美彌子 : 「あの事故のときに思ったの」
+Miyako : "When we had that accident, a thought hit me..."
+美弥子 : "发生事故的时候我就想到了"
+
+美彌子
+美彌子 : 「このまま死ねば、わたしの死は永遠の呪いになると」
+Miyako : "If I died there and then, my death would put a curse on them forever."
+美弥子 : "要是我就这样死去的话，我的死便会化作永远的诅咒"
+
+美彌子
+美彌子 : 「死ぬかもしれないと思ったわたしのなかから、突然湧きあがったそれは――あまりにも強い欲望だった。目が眩むほどの」
+Miyako : "When I found myself on the brink of death, a strong desire suddenly welled up inside me. It completely blinded me."
+美弥子 : "当我想到我有可能会死的时候，从我的心中突然涌起的是——十分强烈的欲望。强烈到能让我的双眼晕眩"
+
+美彌子
+美彌子 : 「お願い、ずっと苦しんで……」
+Miyako : "I wanted them to suffer forever..."
+美弥子 : "希望你们能一直痛苦一下去……"
+
+美彌子
+美彌子 : 「わたしを愛さない善乃様も、善乃様を愛しているのに、わたしを愛していることを言い訳にして、その愛から目をそらしたお姉様も」
+Miyako : "Yoshino-sama, who wouldn't love me, and Mariko, who used her sisterly feelings for me as an excuse not to pursue a relationship with Yoshino-sama, even though she loved her."
+美弥子 : "不爱我的善乃小姐也是，爱着善乃小姐，却以爱我为借口，将爱的视线移开的姐姐也是"
+
+美彌子
+美彌子 : 「みんな、みんな、ずっと苦しめばいいの……永遠に」
+Miyako : "I thought they both deserved to suffer... forever."
+美弥子 : "只要大家都、大家都，一直痛苦下去就好……永远痛苦下去"
+
+イヌイ
+イヌイ : 「おかしいと思ったのですよ。突然、年老いた庭師が引退して、すぐに次の庭師がやってきて、その庭師とメイドが結婚したと聞いたとき」
+Inui : "I found it strange that the old gardener suddenly retired and a new, young gardener immediately took his place and also married the maid."
+伊伮依 : "我当时就觉得很奇怪。老园丁突然就退休了，新的园丁马上又上任了，在我听到那个园丁跟女仆结婚之后就觉得不对劲了"
+
+イヌイ
+イヌイ : 「号泣した庭師を慰めていたメイドは、生まれたときからの美彌子様づきのメイドでした」
+Inui : "The maid who was comforting the crying 'gardener' had been caring for Miyako-sama since she was born."
+伊伮依 : "当时安慰痛哭着的园丁的那个女仆，从美弥子小姐出生时就一直陪伴在她的身边"
+
+イヌイ
+イヌイ : 「大変忠実な女性で、美彌子様が亡くなったときに、その菩提を弔うために、それこそ出家する予定だという話でした」
+Inui : "She'd always been extremely loyal to Miyako-sama. When she heard her mistress had died, she planned to quit her job and leave the family so she could mourn in peace."
+伊伮依 : "她是一位非常忠诚的女性，在美弥子小姐去世的时候，为了向佛祖祈求冥福，她当即就决定要出家"
+
+イヌイ
+イヌイ : 「なぜそんなことを知っているか？　なんて聞かないでくださいね」
+Inui : "Please don't ask me how I know all this."
+伊伮依 : "为什么我知道这件事？希望你不要这样问我"
+
+イヌイ
+イヌイ : 「リサーチャーとして、リルヤ様が求める情報を伝えるべく、あの館や一族にまつわることはたっぷり調査しておりましたから」
+Inui : "As a detective, it's my job to bring Lilja-sama the information she needs, and so I carried out extensive background checks on everyone who lived in that villa."
+伊伮依 : "作为调查员，我有义务向丽露娅大人提供她所需要的情报，有关那座馆和她们家族的事情我查了个底朝天"
+
+イヌイ
+イヌイ : 「そんなメイドが出家をとりやめるどころか、突然庭師と結婚するなんておかしいでしょう？」
+Inui : "It's highly unusual for a maid who was planning to resign to suddenly do a 180 and marry the newly hired gardener."
+伊伮依 : "这样一位女仆后来居然放弃了出家，还跟园丁结了婚，很难让人觉得不奇怪吧？"
+
+イヌイ
+イヌイ : 「だから調べたのです。そして、真実にいきつきました」
+Inui : "That's why I looked into it and arrived at the truth."
+伊伮依 : "所以我去调查了。然后我找到了真相"
+
+イヌイ
+イヌイ : 「ああ、ご安心くださいね。私が美彌子様の生存を、真璃子様と善乃様のおふたりに伝えたわけじゃありませんので」
+Inui : "Oh, and don't worry. I didn't tell Mariko-sama and Yoshino-sama that Miyako-sama is really alive."
+伊伮依 : "哦，请你放心。并不是我把美弥子小姐尚在的事告诉给真璃子小姐和善乃小姐的"
+
+イヌイ
+イヌイ : 「リルヤ様の絵によって庭師の復讐心は綻び、そして、おふたりは美彌子様の口から、美彌子様の生存を知ることになりました」
+Inui : "They found that out from Miyako-sama herself. When she saw Lilja-sama's painting, her desire for revenge completely disappeared and she made the decision to tell them."
+伊伮依 : "园丁在看到丽露娅大人的画后重新燃起了复仇心，然后，两人从美弥子小姐的口中，得知到美弥子小姐尚在的事实"
+
+イヌイ
+イヌイ : 「自分の依頼によって知らなくてよかったことを知ってしまったと、真璃子様は苦しんでおります」
+Inui : "Mariko-sama was distressed to learn that her painting request ended with her learning something she would've rather not known."
+伊伮依 : "因为自己订的画而知道了这不如不知道的事后，真璃子小姐非常痛苦"
+
+イヌイ
+イヌイ : 「もちろん、善乃様も、美彌子様も……」
+Inui : "Naturally, Yoshino-sama and Miyako-sama are in the same boat..."
+伊伮依 : "当然，善乃小姐、美弥子小姐也都很痛苦……"
+
+イヌイ
+イヌイ : 「さて、順番が前後しましたが……」
+Inui : "Anyway, I realize I went out of order, but..."
+伊伮依 : "然后，虽然顺序反了……"
+
+イヌイ
+イヌイ : 「こちらの緑の絵。まひる様の望まれたこの世で一番醜い怪物」
+Inui : "Look at this green painting. It's the painting of the ugliest monster in the world, as requested by Mahiru-sama."
+伊伮依 : "接下来是这张绿色的画。这是真昼小姐想要看到的世界上最丑陋的怪物"
+
+イヌイ
+イヌイ : 「まひる様があなたと変わらずお付き合いしていたのは、あの方が最初からあの絵のからくり……いいえ、真実に気づいていたからですわ」
+Inui : "The reason Mahiru-sama hasn't been acting any differently toward you was because she was aware of the trick—no, the truth of this painting from the beginning."
+伊伮依 : "真昼小姐一如既往地对待你，是因为她最开始就发现了画中的端倪……不，应该说她发现了真相"
+
+イヌイ
+イヌイ : 「そしてそれは、あの人の望む真実でしたから」
+Inui : "And that truth was what she desired."
+伊伮依 : "而这就是她本人所寻求的真相"
+
+イヌイ
+イヌイ : 「あなたはあの絵を、夜様を描いたと思ったのでしょう？」
+Inui : "When you first saw this painting, you assumed it depicted Yoru-sama, correct?"
+伊伮依 : "在你看来那张画上，画的是夜小姐对吧？"
+
+夏夏
+夏夏 : （今回のリルヤさんの描いた絵……廃墟に立つ少女。逆光でどんな顔をしているかはわからない。でも、手にもつ緑の瓶でわかる）
+Natsuka : (Lilja-san painted a girl standing among ruins. You can't tell what her face looks like because of the backlight, but she has a green bottle in her hand.)
+夏夏 : （丽露娅小姐这次画的画……站在废墟上的少女。因为是逆光，所以不知道脸上是什么表情。但是，能看到手上拿着绿色的瓶子）
+
+夏夏
+夏夏 : （あれは、夜さんです。あの夜に、夜さんは日本にいなかった）
+Natsuka : (It's clearly Yoru-san. That fateful night, Yoru-san wasn't in Japan.)
+夏夏 : （那是夜小姐。那个夜晚，夜小姐并不在日本）
+
+夏夏
+夏夏 : （だから……あれは、まひるさんがストーカーに襲われた夜に、本当はこうであって欲しかった望みです）
+Natsuka : (So... The painting depicts Mahiru-san's wish—she wanted Yoru-san to be there when she was assaulted by that stalker.)
+夏夏 : （所以……那幅画描绘的是，真昼小姐所期望的，那个被跟踪狂袭击的夜晚中发生的事情）
+
+イヌイ
+イヌイ : 「あれはまひる様なのです」
+Inui : "However, this is Mahiru-sama."
+伊伮依 : "但其实画上画的是真昼小姐"
+
+イヌイ
+イヌイ : 「それは、緑の瓶を持っている手でわかります」
+Inui : "You can tell by which hand she's using to hold the green bottle."
+伊伮依 : "从拿着绿色瓶子的那只手就能看得出来"
+
+イヌイ
+イヌイ : 「まひる様は右利きで、夜様は左利きですから」
+Inui : "Mahiru-sama is right-handed, while Yoru-sama is left-handed."
+伊伮依 : "因为真昼小姐是右撇子，而夜小姐是左撇子"
+
+イヌイ
+イヌイ : 「あの怪物の少女は、緑の瓶をどちらの手に持っていましたか？」
+Inui : "In which hand is the 'monster' girl holding the green bottle? Exactly."
+伊伮依 : "还记得那个怪物少女，是用哪只手拿着绿色瓶子的吗？"
+
+イヌイ
+イヌイ : 「でもどうして、まひる様は変装したまひる様をこの世で一番醜い怪物としたのでしょう？」
+Inui : "But why does Mahiru-sama think that she's the ugliest monster in the world?"
+伊伮依 : "但是为什么，真昼小姐会觉得乔装后的自己就是世界上最丑陋的怪物呢？"
+
+イヌイ
+イヌイ : 「まひる様はストーカーから夜様を守るために変装しました。それだけなら、美談とも言えるでしょう」
+Inui : "If she'd simply disguised herself as Yoru-sama in order to protect the real Yoru-sama from a stalker, that would have made for a beautiful, heroic story."
+伊伮依 : "真昼小姐是为了从跟踪狂手中保护夜小姐才乔装的。如果只是这样的话，把这称之为佳话也没有问题吧"
+
+イヌイ
+イヌイ : 「ですがあの変装にこそ、まひる様が自らを怪物と断じた理由があるのです」
+Inui : "However, that disguise is why she's calling herself a monster."
+伊伮依 : "但是真昼小姐将自己判断为怪物的理由，就是因为那次乔装"
+
+イヌイ
+イヌイ : 「まひる様があなたの意見を正解であり不正解であると言った理由」
+Inui : "That's why she told you your views weren't exactly wrong, but they weren't right, either."
+伊伮依 : "为什么真昼小姐会说你的见解既正确又不正确"
+
+イヌイ
+イヌイ : 「助かりたいけど、助かりたくなかった。助かりたくないけど、助かりたかった。といったのは何故でしょう？」
+Inui : "'I wanted to be saved, but not just by anyone. I didn't want to be saved by anyone other than her.' Why did she say that?"
+伊伮依 : "想要得到帮助，但又不想得到帮助。不想要得到帮助，却又想得到帮助。她为什么会这样说呢？"
+
+イヌイ
+イヌイ : 「私はリサーチャーとして調べ、聞き、そして真相に辿りつきました」
+Inui : "As a detective, I asked around and did some research, and I was able to arrive at the truth."
+伊伮依 : "作为调查员，我进行了调查、询问，最终找到了真相"
+
+イヌイ
+イヌイ : 「まひる様は夜様がストーカーに襲われるのを知っていて、そしてそれを見過ごそうとしたのです」
+Inui : "Mahiru-sama knew a stalker was about to assault Yoru-sama, but she was going to ignore it and let it happen."
+伊伮依 : "真昼小姐知道跟踪狂要袭击夜小姐，却对此视而不见"
+
+イヌイ
+イヌイ : 「なぜ？　その理由は簡単です」
+Inui : "Why? It's quite simple, actually."
+伊伮依 : "为什么？理由很简单"
+
+イヌイ
+イヌイ : 「もし――」
+Inui : "If she..."
+伊伮依 : "如果——"
+
+まひる
+まひる : 「もし、ストーカーに襲われれば、夜は引退してくれるかもしれない」
+Mahiru : "If Yoru was assaulted by a stalker, she might quit being an actress."
+真昼 : "如果，夜被跟踪狂袭击了的话，很有可能就会因此引退"
+
+まひる
+まひる : 「そうしたら、あたしだけの夜に戻ってくれる……？」
+Mahiru : "Then, maybe she would be mine alone again..."
+真昼 : "那样的话，说不定只属于我的夜就会回来吧……？"
+
+イヌイ
+イヌイ : 「そう――考えてしまったのです」
+Inui : "That's what she was thinking."
+伊伮依 : "她不禁这么思考"
+
+イヌイ
+イヌイ : 「ですが、まひる様はストーカーを野放しにしなかった」
+Inui : "However, Mahiru-sama didn't let the stalker have their way."
+伊伮依 : "但是，真昼小姐并没有放任跟踪狂不管"
+
+イヌイ
+イヌイ : 「逆に、一瞬でもそんな風に考えてしまった自分が許せなかった」
+Inui : "She despised herself for even considering it."
+伊伮依 : "相反，她因自己在一瞬间产生了这样的想法而感到了自责"
+
+イヌイ
+イヌイ : 「ですから、夜様に変装して、そしてストーカーに殺されかけた。むしろ殺されようとしたのです」
+Inui : "She disguised herself as Yoru-sama and was nearly killed by the stalker. She %i1tried%id to get herself killed."
+伊伮依 : "所以，她乔装成夜小姐，然后差点被跟踪狂杀掉。应该说她原本就想让跟踪狂杀掉自己的"
+
+イヌイ
+イヌイ : 「もし本当に襲われる証拠を掴んでいたならば、変装などしないで警察にでもいえばよかったのです」
+Inui : "If she'd obtained evidence of the impending attack, she wouldn't have needed to disguise herself. She simply could have gone to the police."
+伊伮依 : "既然她确有证据能预测到夜小姐将会遭到袭击，其实她根本不需要去乔装直接把事情交给警察处理就好了"
+
+イヌイ
+イヌイ : 「だからこそあのまひる様の変装した姿は、まひる様にとって自分の醜さの象徴だった」
+Inui : "That's why, to Mahiru-sama, the image of herself in disguise was the most powerful symbol of her own ugliness."
+伊伮依 : "所以真昼小姐才觉得自己乔装时的样子，正象征了自己的丑陋"
+
+イヌイ
+イヌイ : 「なのにリルヤ様は……」
+Inui : "Lilja-sama understood..."
+伊伮依 : "但丽露娅大人……"
+
+イヌイ
+イヌイ : 「夜様への贖罪のために殺されようと変装したというのに、その相手に助けて欲しいと望んでしまった……という」
+Inui : "Mahiru-sama disguised herself that night to atone for the guilt she felt toward Yoru-sama, yet all she wanted was to be saved by Yoru-sama..."
+伊伮依 : "却说她是为了向夜小姐赎罪才乔装想去替死的，说她其实是想要帮助对方……"
+
+イヌイ
+イヌイ : 「まひる様すら気づいていなかった、本当の望みまで暴いてしまった」
+Inui : "Not even Mahiru-sama realized what her true feelings were, but Lilja-sama revealed them."
+伊伮依 : "而丽露娅大人又把连真昼小姐自己都没有注意到的，自己真实的想法揭露了出来"
+
+イヌイ
+イヌイ : 「だからまひる様にとって、あの絵は正真正銘の最低最悪の怪物になったのです」
+Inui : "That's why, to Mahiru-sama, that picture truly does depict the most despicable monster in the world."
+伊伮依 : "所以对真昼小姐来说，那张画所画的正是名符其实的最差劲最恶劣的怪物"
+
+イヌイ
+イヌイ : 「まひる様は何も変わっていませんわ。その証拠に、夜様と一緒に暮らすこともなく、部屋から出ることもできない」
+Inui : "She hasn't changed a bit. The fact that she still chooses to shut herself in her room instead of moving to live with Yoru-sama proves this."
+伊伮依 : "真昼小姐什么都没有改变。证据就是，她没有选择跟夜小姐一同生活，依然把自己关在房间里不出来"
+
+イヌイ
+イヌイ : 「まひる様の夜は今も明けてないのです。部屋のなかで独りだけで、ずっと苦しむことを選んでいるのですよ」
+Inui : "Mahiru-sama's long, dark night hasn't yet come to an end. She's been alone in her room, suffering quietly all this time."
+伊伮依 : "真昼小姐的夜晚现在依然没能迎来黎明。她选择待在房间里，自己一个人一直痛苦下去"
+
+夏夏
+夏夏 : 「みんな……苦しんでいる？」
+Natsuka : "Everyone... is suffering?"
+夏夏 : "大家……都很痛苦？"
+
+夏夏
+夏夏 : 「リルヤさんの絵は見るひとの世界を変えて……そして、明日へと歩き出せる力を持っている……のに」
+Natsuka : "Lilja-san's paintings have the power to change the world for anyone who sees them... They give people the power to move forward and walk toward a bright future... But you're saying they haven't helped?"
+夏夏 : "明明丽露娅小姐的画……能让看到的人世界改变……能让人拥有迈向明天的力量才对……"
+
+イヌイ
+イヌイ : 「ええ、そうです」
+Inui : "Yes, that's right."
+伊伮依 : "嗯，没错"
+
+イヌイ
+イヌイ : 「確かに、リルヤ様の絵は見るひとの世界を変えました」
+Inui : "It's true that Lilja-sama's paintings changed the world for the people who saw them."
+伊伮依 : "大家在看到丽露娅大人的画后，世界确实改变了"
+
+イヌイ
+イヌイ : 「だから彼女たちは真実を知り、苦しんでいる」
+Inui : "Those girls found out the truth, and the truth hurts."
+伊伮依 : "所以她们才发觉了真相，痛苦着"
+
+イヌイ
+イヌイ : 「彼女たちはみんな思っている。最初から、辛い真実を突きつけられた方がマシだったと」
+Inui : "They all believe that they would have suffered less if they learned about the truth directly, rather than having to piece it together through hints in a painting."
+伊伮依 : "她们都是这样觉得的。她们都说，不如最开始就把残酷的现实直接摆在她们的眼前"
+
+イヌイ
+イヌイ : 「春日衣様も、善乃様も、最初に、あなたの見た美しい世界、ぬるま湯のような偽りに満ちた喜びの世界を知ってしまった……問題は解決されたと思っていた……」
+Inui : "When Kasugai-sama, Yoshino-sama, and the others first learned of the beautiful world you saw, filled with lukewarm, false joy... they initially thought their problems had been solved..."
+伊伮依 : "春日衣小姐也是，善乃小姐也是，在最开始的时候，都是先认识到了你所看到的美丽的世界，那种如同泡在温水中一般充满了虚伪的幸福世界……以为问题得到了解决……"
+
+イヌイ
+イヌイ : 「なのに、本当はそうではなかった。それどころか恐ろしい真実が待ち受けていた」
+Inui : "But that couldn't have been further from the truth. The truth was more frightening than any of them could have imagined."
+伊伮依 : "但是，事实并非如此。而且等待着她们的只有恐怖的真相"
+
+イヌイ
+イヌイ : 「一度楽になったからこそ、今の真実という名の泥濘でのたうち回ることが、あまりにも苦しい……」
+Inui : "Because they all felt better at first, it was all the more painful for them to sink into the mire that was the truth..."
+伊伮依 : "正是因为在此之前松了一口气，如今再被这名为真相的泥泞打翻在地时，才会更加痛苦难耐……"
+
+イヌイ
+イヌイ : 「どうしてそんなことになったのか？　それは、あなたのせいですよ、夏夏さん」
+Inui : "Why did things turn out this way? Well, that's all your fault, Natsuka-san."
+伊伮依 : "为什么会变成这样呢？全都是，要怪罪于你啊，夏夏小姐"
+
+イヌイ
+イヌイ : 「あなたがリルヤ様にもたらした光が、みなさんを苦しめている」
+Inui : "The light you brought Lilja-sama is causing everyone to suffer."
+伊伮依 : "你带给丽露娅大人的光，让大家受尽了痛苦"
+
+イヌイ
+イヌイ : 「だから、みなさん、あなたを憎んでいるのです」
+Inui : "That's why everybody hates you now."
+伊伮依 : "所以，大家都很痛恨你"
+
+夏夏
+夏夏 : 「わたしが憎まれることはいいんです」
+Natsuka : "It's okay if they hate me."
+夏夏 : "大家恨我无所谓"
+
+夏夏
+夏夏 : 「でも、リルヤさんの描いた絵が、皆さんにそんな不幸を呼ぶはずない」
+Natsuka : "But there's no way Lilja-san's paintings could've made them all so unhappy."
+夏夏 : "但是，丽露娅小姐画的画，是不可能会给大家带来不幸的"
+
+夏夏
+夏夏 : 「もしリルヤさんが絵に真実を塗り込めていたとしたら、優さんも、真璃子さんも、その真実を乗り越えられるはずです」
+Natsuka : "Since Lilja-san hid the truth in her paintings, Yuu-san and Mariko-san should be able to overcome that truth."
+夏夏 : "如果丽露娅小姐把真相画进了画里，那么优小姐、真璃子小姐她们是一定能够跨越这些真相的"
+
+イヌイ
+イヌイ : 「でも現実として、みなさん苦しんでいるのです。それが事実なのですよ、可愛いおばかさん」
+Inui : "Yet they're all still suffering. Look at the facts, you cute little dimwit."
+伊伮依 : "但是现实是，大家都很痛苦。这就是真相啊，可爱的小笨蛋"
+
+夏夏
+夏夏 : 「苦しいときは苦しいんです。でもそれが終着点じゃない」
+Natsuka : "When something hurts, you're in pain for a while. But that's not the end of everything."
+夏夏 : "人在痛苦的时候肯定会痛苦的。但是痛苦并不是终点"
+
+夏夏
+夏夏 : 「だって、優さんも、善乃さんも、苦しんで苦しんで……でも、リルヤさんの絵に出会って変わったから！」
+Natsuka : "Yuu-san and Yoshino-san had already suffered a lot... But things changed when they saw Lilja-san's paintings!"
+夏夏 : "因为，优小姐也是，善乃小姐也是，曾经一直痛苦着、痛苦着……但是，在看到丽露娅小姐的画之后改变了！"
+
+夏夏
+夏夏 : 「わたしはリルヤさんを信じています」
+Natsuka : "I believe in Lilja-san."
+夏夏 : "我相信丽露娅小姐"
+
+イヌイ
+イヌイ : 「リルヤ様の託宣だけを信じる、盲目のわんこでいたいと？」
+Inui : "Do you want to remain a faithful doggy who can only blindly follow Lilja-sama's divine decrees?"
+伊伮依 : "你就只坚信着丽露娅大人赐给你的神谕吗？你就这么想当一只盲目的小狗吗？"
+
+夏夏
+夏夏 : 「わんこじゃないです。わたしは夏夏です！　人間です！」
+Natsuka : "I'm not a doggy! I'm Natsuka, and I'm human!"
+夏夏 : "我不是小狗。我是夏夏！是人类！"
+
+夏夏
+夏夏 : 「リルヤさんの言葉だけを信じるのが盲目だっていうなら、イヌイさんの言葉だけで、みなさんの気持ちを結論づけるのもおかしいです！　わかんないけど！　だから！！」
+Natsuka : "If you're calling me blind for believing Lilja-san's words, then what about you? It's weird that you're drawing your own conclusions about everyone's feelings and presenting them to me as fact! So...!"
+夏夏 : "如果说只相信丽露娅小姐说的话是一种盲目的话，那么只通过伊伮依小姐说的话，就给大家的感受下结论才更是奇怪吧！虽然我不知道为什么！所以我就！！"
+
+夏夏
+夏夏 : 「失礼します！」
+Natsuka : "I'm outta here!"
+夏夏 : "告辞了！"
+
+イヌイ
+イヌイ : 「あらあら……いってしまったわね」
+Inui : "My, my... She ran off."
+伊伮依 : "哎呀哎呀……走掉了呢"
+
+イヌイ
+イヌイ : 「……ふふ」
+Inui : "Hehe..."
+伊伮依 : "……呵呵"
+
+イヌイ
+イヌイ : 「思っている以上に手強いこと」
+Inui : "She's tougher than I thought."
+伊伮依 : "比我想的要棘手啊"
+
+夏夏
+夏夏 : （リルヤさん、リルヤさん……！　わたしはリルヤさんを信じます……！）
+Natsuka : (Lilja-san, Lilja-san...! My Lilja-san... I believe in you!)
+夏夏 : （丽露娅小姐、丽露娅小姐……！我相信丽露娅小姐……！）
+
+夏夏
+夏夏 : （まひるさんなら、あの部屋にいるはずです。まひるさんから直接話を聞いて……それから、リルヤさんの場所を探して……！）
+Natsuka : (Mahiru-san should be in her room... I'll ask if she knows what's going on... And then I'll find Lilja-san...!)
+夏夏 : （真昼小姐的话，肯定还在房间里。我要直接听真昼小姐亲口说……然后，找出丽露娅小姐在哪……！）
+
+夏夏
+夏夏 : 「まひるさん！」
+Natsuka : "Mahiru-san!"
+夏夏 : "真昼小姐！"
+
+夏夏
+夏夏 : 「……！」
+Natsuka : "..."
+夏夏 : "……！"
+
+夏夏
+夏夏 : 「何もない……空っぽ……」
+Natsuka : "There's nobody here... It's empty..."
+夏夏 : "什么都没有……房间是空的……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「――ふん！」
+Natsuka : "Hmph!"
+夏夏 : "——哼！"
+
+夏夏
+夏夏 : 「何かよくわからないけど、でも、負けません！」
+Natsuka : "I dunno what's going on, but I'm not giving up!"
+夏夏 : "不知道为什么，但是，我是不会输的！"
+
+夏夏
+夏夏 : 「とにかく、リルヤさんと連絡を……！」
+Natsuka : "I just need to talk to Lilja-san...!"
+夏夏 : "总之，要先跟丽露娅小姐取得联系……！"
+
+夏夏
+夏夏 : （えっ、どうして、突然、鍵が使えなくなって……っ、リルヤさんのおうちに入れませんっ……！？）
+Natsuka : (Huh? Why can't I use my key anymore? I can't get into Lilja-san's place...!?)
+夏夏 : （哎？为什么，钥匙突然不能用了……我进不去丽露娅小姐的家了……？！）
+
+夏夏
+夏夏 : 「……わたしの、リュックサック」
+Natsuka : "It's my backpack..."
+夏夏 : "……这是，我的帆布包"
+
+夏夏
+夏夏 : 「手紙が……」
+Natsuka : "A letter?"
+夏夏 : "有封信……"
+
+イヌイ
+イヌイ : 『手紙で失礼しますね』
+Inui : "%i1Apologies for addressing you in writing.%id"
+伊伮依 : "请原谅我用信件的形式传达"
+
+イヌイ
+イヌイ : %n;『まひる様はいなかったでしょう？　引っ越しされた後ですから。引っ越しは私が手配しましたので、私はもちろん知っておりましたよ』
+Inui : %n;"%i1Mahiru-sama was gone, right? That would be because she moved. I know this because I'm the one who arranged a new place for her.%id"
+伊伮依 : %n;"真昼小姐不在了吧？因为她已经搬走了。毕竟是我安排她搬的家，我当然知道"
+
+イヌイ
+イヌイ : %n;『でもあなたは知らなかった。それが厳然たる事実であり、あなたの見えなかった真実なのです』
+Inui : %n;"%i1But you didn't know that. That's the stark truth, the truth you couldn't see.%id"
+伊伮依 : %n;"但是你不知道。这既是严肃的事实，也是你看不到的真相"
+
+イヌイ
+イヌイ : %n;『哀しいですわね……誰の役にも立たず、誰の為にもなれず、誰かの善意が誰かを苦しませ、そうして憎しみだけが残ることは』
+Inui : %n;"%i1It's a lonely feeling, isn't it? Being unable to help anyone, unable to make yourself useful, causing everyone to suffer despite your well-meaning intentions. All you're left with is hate.%id"
+伊伮依 : %n;"真可悲啊……起不到任何作用，帮不到任何人，用别人的善意让另外的人痛苦，最后剩下的只有对自己的怨恨"
+
+イヌイ
+イヌイ : 『リルヤ様のご命令で、新しい部屋を用意いたしました。下に書いた住所がそれです』
+Inui : "%i1Lilja-sama ordered me to prepare new accommodations for you as well. It's located at the address below.%id"
+伊伮依 : "我遵循丽露娅大人的命令，为你准备了新的房间。地址写在最下面了"
+
+イヌイ
+イヌイ : %n;『家賃も光熱費も必要ありません。あなたが好きなだけ住めばいいとのおおせです』
+Inui : %n;"%i1You won't need to pay for rent or utilities. You may live there as long as you like and can use it however you please.%id"
+伊伮依 : %n;"不需要房租也不需要水电费。她说你想怎么住就怎么住"
+
+イヌイ
+イヌイ : %n;『玄関前に置いたリュックサックに、あなたの荷物はすべて入っています』
+Inui : %n;"%i1I've put all your belongings into your backpack and left it at the condominium entrance.%id"
+伊伮依 : %n;"你所有的行李都已经帮你放进玄关口的帆布包里了"
+
+イヌイ
+イヌイ : %n;『しろくまのぬいぐるみは、リルヤ様のために持っていきますわね。あなたのかわりだとおっしゃっていたので』
+Inui : %n;"%i1I'm taking the stuffed polar bear to Lilja-sama. She said it would suffice as your replacement.%id"
+伊伮依 : %n;"白熊玩偶我就给丽露娅大人拿走了。她说这个玩偶就是你的替代品"
+
+イヌイ
+イヌイ : %n;『あなたは自由なのです。もう借金のために身を粉にして働く理由もなく、リルヤ様のお傍にいる必要もない』
+Inui : %n;"%i1You're free now. You don't have to work yourself to the bone anymore to pay off your debt. Therefore, there is no need for Lilja-sama to employ you any longer.%id"
+伊伮依 : %n;"你自由了。你已经没有为了还债鞠躬尽瘁理由了，也没有必要待在丽露娅小姐的身边了"
+
+イヌイ
+イヌイ : 『あとのことは私に任せてください。心配しないでも、リルヤ様には私がおりますから』
+Inui : "%i1Rest assured—I will take good care of Lilja-sama in your stead.%id"
+伊伮依 : "之后的事情就交给我吧。你不需要担心，丽露娅大人有我来照顾"
+
+イヌイ
+イヌイ : %n;『どうか、楽しく暮らしてくださいね』
+Inui : %n;"%i1I hope you'll live a happy life.%id"
+伊伮依 : %n;"祝愿你能快快乐乐地生活下去"
+
+夏夏
+夏夏 : 「……はあっ」
+Natsuka : "Hahhh..."
+夏夏 : "……哈——"
+
+夏夏
+夏夏 : 「息が、白いです」
+Natsuka : "I can see my breath. It's white."
+夏夏 : "吐出来的气是，白色的"
+
+夏夏
+夏夏 : 「寒いですね、そうですね、クリスマスの時期ですから……」
+Natsuka : "It's really cold. That's right, it's almost Christmas."
+夏夏 : "好冷啊，是啊，毕竟马上就要到圣诞节了……"
+
+夏夏
+夏夏 : 「街もすごく賑やかで……」
+Natsuka : "The town is bustling..."
+夏夏 : "街道上也非常热闹……"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「……バイトの連絡、来ませんね」
+Natsuka : "I haven't gotten any new work requests..."
+夏夏 : "……兼职那边，没有打电话来呢"
+
+夏夏
+夏夏 : 「この時期、みなさん、お忙しいでしょうに……」
+Natsuka : "Everybody must be super busy this season, too..."
+夏夏 : "现在这个时候，大家都，很忙吧……"
+
+夏夏
+夏夏 : 「雪……」
+Natsuka : "Snow..."
+夏夏 : "雪……"
+
+夏夏
+夏夏 : 「降ってきちゃいましたね……」
+Natsuka : "It's snowing..."
+夏夏 : "下雪了呢……"
+
+夏夏
+夏夏 : 「冬の雪……ですね」
+Natsuka : "Winter snow..."
+夏夏 : "冬天的雪……啊"
+
+夏夏
+夏夏 : 「リルヤさんの最初のお題を思い出しますね、あのときは夏の雪っていわれて、この街を駆けまわって……」
+Natsuka : "This reminds me of Lilja-san's first job for me... I ran all over town after she asked me to show her snow in summer..."
+夏夏 : "想起丽露娅小姐最开始给我出的题了，当时说让我去找夏天的雪，我就在这条街上东奔西走……"
+
+夏夏
+夏夏 : 「あのときは大変だったけど、楽しかったな……」
+Natsuka : "It was really hard, but it was fun..."
+夏夏 : "那个时候虽然很不容易，但是也很开心……"
+
+夏夏
+夏夏 : 「じんぐるべーる、じんぐるべーる」
+Natsuka : "Jingle bells, jingle bells..."
+夏夏 : "叮叮当，叮叮当"
+
+夏夏
+夏夏 : 「すっずがーなるー」
+Natsuka : "Jingle all the way..."
+夏夏 : "铃儿响叮当"
+
+夏夏
+夏夏 : 「きょうはーたのしいー」
+Natsuka : "Oh what fun..."
+夏夏 : "今天我们——多快乐——"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「リルヤさん、わたし……」
+Natsuka : "Lilja-san, I'm..."
+夏夏 : "丽露娅小姐，我……"
+
+夏夏
+夏夏 : 「ひとりぼっちになっちゃいました」
+Natsuka : "I'm all alone."
+夏夏 : "只剩下我孤零零一个人了"
+

@@ -1,0 +1,170 @@
+None
+None : ――その絵を見たとき、はじめての知らない感情に心を揺り動かされた。
+None : When I saw that painting, I was shaken by an emotion unlike anything I'd ever experienced before.
+None : ——看到那幅画的时候，我的内心被一种从未有过的情感震撼到了。
+
+None
+None : それは、夜明けの絵だった。
+None : It was a picture of the dawn.
+None : 是那张《黎明》的画。
+
+None
+None : 毎年決まった時期になると、お祖母様は夜明けの絵を描いた。
+None : Around the same time every year, my grandmother would paint a picture of the dawn.
+None : 每年一到时候，外婆就会画出《黎明》。
+
+None
+None : どの絵も同じ場所、同じ角度からの美しい夜明けが描かれていた。
+None : Each painting depicted the same place from the same angle, and every last one of them was beautiful.
+None : 不管是哪张画，都画出了同一个地方、同一个视角的美丽黎明。
+
+None
+None : お祖母様はその絵を描きながら、私に語ってくれた。
+None : One time while she was painting the dawn, my grandmother told me about it...
+None : 祖母一边画着那张画，一边跟我说：
+
+None
+None : これは、昔々の私が見た光景。ここがはじまり。
+None : It was a scene she saw once a long time ago. It was where everything started.
+None : 这里是我很久很久以前看到的景色。一切都从这里开始。
+
+None
+None : ……はじめは不思議だった。
+None : At first, I didn't understand...
+None : ……最开始我觉得很不可思议。
+
+None
+None : お祖母様はどうして昔の絵を描くのだろう。今、目の前に、こんなにうつくしい[いま,1]世界があるのに。
+None : Why did my grandmother keep painting pictures of the past when there was a beautiful world right here in front of us in the present?
+None : 为什么外婆会画以前的东西呢。现在，眼前的这个世界，明明就已经这么美丽了。
+
+None
+None : けれど、毎年、同じなのにすこしずつ変わっていく絵に、私は、次第に心惹かれていった。
+None : Later on, I started to notice that, despite being essentially the same, the picture changed a little every year. It fascinated me.
+None : 不过，虽然每年画得都一样，但也都会有些许的变化，我逐渐提起了兴趣。
+
+None
+None : 不思議だった。
+None : But I still didn't understand.
+None : 真不可思议。
+
+None
+None : お祖母様の絵が、毎年すこしずつ変わっていくのはなぜ？　痛切なまでに優しい色合いを帯びていくのはなぜ？
+None : Why did my grandmother's paintings change every year? Why did they take on such a poignant, gentle hue?
+None : 为什么外婆的画每年都会有些许变化呢？为什么强烈的色彩中又会裹挟着些许温和呢？
+
+None
+None : 過去は同じではないの？
+None : Isn't the past unchanging?
+None : 过去难道不是不变的吗？
+
+None
+None : 私にはわからなかった。
+None : It was beyond my comprehension.
+None : 我不明白。
+
+None
+None : 私が、１年前のお祖母様の庭に咲いたひまわりの絵を描いても、何ひとつ変わらない同じ絵ができあがったから。
+None : Whenever I tried to paint a picture of the sunflowers that bloomed in my grandmother's garden the previous year, it would end up looking the same every time.
+None : 因为即使让我去画一年前外婆院子里开着的那株向日葵，看上去和现在的向日葵也没有任何的不同。
+
+None
+None : なぜならば、その構図、その色彩、その技法が、１年前に私が見たひまわりの絵を描くのに一番美しいから。
+None : The composition, the colors, and the techniques I used allowed me to create the most beautiful painting of the sunflowers I'd seen the year before.
+None : 要问我为什么会这样，我只能说用这样的构图，这样的配色，这样的技巧画出来的一年前所看到的那株向日葵才是最美的。
+
+None
+None : お祖母様は笑って言った。
+None : My grandmother would laugh and say...
+None : 外婆笑着对我说：
+
+None
+None : そんなにこの絵は良かった？
+None : "Do you like this picture that much?"
+None : 这张画画得有那么好吗？
+
+None
+None : ふふ、顔に書いてあったわ。
+None : "Hehe, I could tell by your expression."
+None : 呵呵，你的想法都写在脸上了。
+
+None
+None : 何かわからないけど、心を動かされたって顔をしてた。
+None : "I don't know why, exactly, but that's the face you make when you're impressed."
+None : 你一幅不明所以，但很受震撼的表情呢。
+
+None
+None : あなたの感性は、神様に支配され、あなたの思考は、合理に支配され――
+None : "Your senses are governed by God. Your thoughts are ruled by rationality."
+None : 你的感性被上帝所支配，你的思考被合理所支配——
+
+None
+None : それでもなお、あなたのなかに、あなた自身の感動があるということよ。
+None : "Yet the emotions within you are your own."
+None : 即便如此，在你的内心里，仍旧存在着属于你自己的感动啊。
+
+None
+None : お祖母様はいった。
+None : My grandmother continued...
+None : 祖母继续说到：
+
+None
+None : この絵は、私の記憶の世界。私の思い出。
+None : "This painting depicts the world from my memories."
+None : 这张画，是我记忆中的世界。是我的回忆。
+
+None
+None : 私は、何度も、記憶の中にある過去の光景を思い出す。
+None : "I keep recalling a certain scene from my memories over and over."
+None : 我一次又一次地回想起存在于我记忆中的过去的景色。
+
+None
+None : 思い出すということは、今の私の光で過去を照らし出すということ。
+None : "To remember... To remember is to illuminate the past with my present light."
+None : 回想指的是，用我现在的光来照亮过去。
+
+None
+None : 過去の景色を変えるのは、私という光。
+None : "The light that I am changes the landscape of the past."
+None : 过去的景色会发生改变，是因为这一道被称作“我”的光。
+
+None
+None : いつだって、私という光を通して世界は形を変え、私の持つ心の花で、世界は塗り替わる。
+None : "The world is illuminated by my light and colored by the flowers in my heart."
+None : 世界的形状总是会因为“我”这一道光而改变，我心中所拥有的花，会重新给世界上色。
+
+None
+None : 薔薇色にも、青色にもなる。
+None : "I can paint it a rosy pink, or a brilliant blue."
+None : 有时涂成玫瑰色，有时涂成天蓝色。
+
+None
+None : 私が変わっていくかぎり、私の世界は、絶え間なく塗り替えられていくのよ。
+None : "As long as I keep changing, my world is constantly being repainted."
+None : 只要我还在改变，我的世界就会不断地被重新上色。
+
+None
+None : あなたにはまだわからないわね。あなたの目は万象に潜むイデアを見つけてしまうから。
+None : "You still don't understand. Your eyes always find the Idea that lurks in all things, after all."
+None : 现在的你还不明白吧。因为你的眼睛找到了隐藏在万象之中的理念。
+
+None
+None : あなたの目は特別製すぎて、あなたを世界の美しさそのものに縛りつけてしまう。
+None : "Your eyes are too special. They bind you to the beauty of the world itself."
+None : 你的眼睛实在是太特别了，你被世界的美所束缚住了。
+
+None
+None : 私は祈っているわ。あなたが早くその目から解放される日を。
+None : "I pray that one day you will be freed from the chains that those eyes impose on you."
+None : 我祈祷着。祈祷着你能尽快从那双眼睛中解放。
+
+None
+None : 人の喜びをもって、あなたの光が世界の形を変えることを、世界を塗り替えることを。
+None : "I pray that your light will reshape the world, and that you will repaint it your way."
+None : 祈祷着你能够感受到人类的喜悦，用你的光改变世界的形状，祈祷着你的世界能够被重新上色。
+
+None
+None : いつでも、祈っているわ。
+None : "That is my dearest wish."
+None : 我会一直祈祷下去的。
+

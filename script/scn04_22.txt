@@ -1,0 +1,215 @@
+イヌイ
+イヌイ : 「～♪」
+Inui : "Hmm-hmm-hmm... %f$記号$;♪%fuser;"
+伊伮依 : "～♪"
+
+イヌイ
+イヌイ : 「――遺言者 リルヤ・メリは、次の通り遺言する」
+Inui : "%i1I, Lilja Meri, declare that this is my will.%id"
+伊伮依 : "——遗嘱人 丽露娅·梅莉，立下以下遗嘱"
+
+イヌイ
+イヌイ : 「遺言者は、遺言者の有する全ての絵画をイヌイ・サーリヤルヴィに相続させる」
+Inui : "%i1I hereby bequeath all paintings in my possession to Inui Saarijärvi.%id"
+伊伮依 : "将其拥有的所有画作继承给伊伮依·萨莉亚露维"
+
+イヌイ
+イヌイ : 「ふふ……」
+Inui : "Hehe..."
+伊伮依 : "呵呵……"
+
+イヌイ
+イヌイ : 「これでリルヤ様の絵は私のもの」
+Inui : "All of Lilja-sama's paintings are mine."
+伊伮依 : "丽露娅大人的画都归我了"
+
+イヌイ
+イヌイ : 「リルヤ様が描いた絵も、リルヤ様のお祖母様が描いた絵も。全部、ぜぇんぶ私のもの」
+Inui : "All the paintings Lilja-sama made, and the paintings her grandmother made... They're all mine now."
+伊伮依 : "丽露娅大人以及她祖母大人的画作都归我了"
+
+イヌイ
+イヌイ : 「ああ……本当に素晴らしい絵の数々だわ」
+Inui : "Ahh... What a wonderful collection."
+伊伮依 : "哎呀……真是琳琅满目呢"
+
+イヌイ
+イヌイ : 「ただでさえ素晴らしい絵なのに、描いた本人はもうこの世にいない……悲劇の夭折の天才画家となった」
+Inui : "They're already amazing paintings by themselves, but now that the genius painter has met a tragic, untimely end..."
+伊伮依 : "这可惜如此美妙的画作，作者本人已经驾鹤西去了……真是位生不逢时的天才画家呢"
+
+イヌイ
+イヌイ : 「世界中のバイヤーたちが、コレクターたちがこぞって欲しがるでしょう。さぞかし高値で売れるでしょう」
+Inui : "...Collectors from all over the world will be lining up to get their hands on them. Each and every one of these should fetch a handsome price."
+伊伮依 : "令全世界的买家和收藏家垂涎三尺的画作，想必价值不菲吧"
+
+イヌイ
+イヌイ : 「特にこの絵――」
+Inui : "Especially this one..."
+伊伮依 : "特别是这幅画——"
+
+イヌイ
+イヌイ : 「リルヤ様が自らの死を描いた絵……」
+Inui : "The painting Lilja-sama made of her own death..."
+伊伮依 : "丽露娅大人描绘了自己的死亡……"
+
+イヌイ
+イヌイ : 「きっとミレーのオフィーリアのように、多くの人々に愛される作品になるでしょう。愛され、そして求められる作品に」
+Inui : "I'm sure this work will become a beloved classic, just like Millais's %i1Ophelia.%id It will be highly sought after."
+伊伮依 : "这一定是惊世之作，正如米莱的《奥菲莉娅》一样。 全世界将为此趋之若鹜"
+
+イヌイ
+イヌイ : 「本当……いったいどれだけの値段がつくか想像もつきませんわね、ふふふ……くすくす」
+Inui : "Seriously... I can't even imagine how much this would go for. Hehehe... Hahaha..."
+伊伮依 : "我实在是……无法想象它值多少钱，呵呵呵……嘻嘻"
+
+イヌイ
+イヌイ : 「でも」
+Inui : "But..."
+伊伮依 : "但是"
+
+イヌイ
+イヌイ : 「私のものなのだから、私が何をしてもいいわよね？」
+Inui : "It's mine now, so I'm free to do with it whatever I want, right?"
+伊伮依 : "现在它们都归我，那就是任我处置的意思咯？"
+
+イヌイ
+イヌイ : 「ふふ……」
+Inui : "Hehe..."
+伊伮依 : "呵呵……"
+
+None
+None : ああ――燃える。燃えていく。
+None : Ahh... It's burning. It's going up in flames.
+None : 啊——它们正在剧烈燃烧。
+
+None
+None : 素晴らしい絵が。\n作者の死によって、二度と描かれることのない絵が。
+None : This wonderful painting can never be recreated, because its creator is dead.
+None : 这些精美绝伦的画作全部化为火海。画家本人已死，这些画作皆是绝世孤品。
+
+None
+None : 保管庫の警報装置もスプリンクラーも全て切ってある。
+None : I turned off the smoke alarms and sprinklers in the storehouse.
+None : 仓库内的所有警报和自动洒水消防装置全被关闭。
+
+None
+None : リルヤも、リルヤの祖母ももういない。管理人もいない。\n誰もとめる者はない。
+None : Lilja is gone. Her grandmother is gone. The caretaker has left. There's nobody here to stop me.
+None : 丽露娅和她祖母都已不在人世。也没有管理员在。没有任何人能阻止自己。
+
+None
+None : やっと。やっとだわ。
+None : Finally... Finally.
+None : 太好了，我终于完成心愿了。
+
+None
+None : やっとあのときの望みが叶う。
+None : At last, my wish is coming true.
+None : 终于达成了那时的心愿。
+
+None
+None : そう、あのとき。\nリルヤの祖母のアトリエを焼こうとして失敗したとき。
+None : Years ago... I tried to burn down Lilja's grandmother's studio, but I failed.
+None : 就是那个时候。我第一次尝试烧毁丽露娅祖母工作室的行动失败后。
+
+None
+None : あのときからずっと、こうしたかった。\nすべて、燃やしてしまいたかった。
+None : Ever since that day, I've been yearning to do this. I wanted to burn it all.
+None : 从那时起，我的心中就埋下了这颗种子。要彻底烧尽一切。
+
+None
+None : そのためにこの半生を費やした。
+None : I've spent half my life working toward that goal.
+None : 为了这个目的耗费了自己半辈子的时光。
+
+None
+None : りらお祖母様、あなたを救うために。
+None : Grandmother Lila... I'm going to save you.
+None : 为了拯救莉罗祖母大人。
+
+None
+None : この場所を守るように生きている、\nまるで墓守のようなあなたを解放するために――。
+None : Protecting this place like a tomb guard is all you've lived for. I'm going to set you free.
+None : 您活着就是为了保护这种地方，那我就要把你从守墓人一样的使命中解放出来——
+
+イヌイ
+イヌイ : 「油絵なんて、たかが布きれに塗料と油をなすりつけただけの代物だけど、燃えている様は、悪くないわね。ふふふ……」
+Inui : "Oil paintings are nothing but oil and pigments smeared onto a rag, but they don't look half bad when they're burning. Hehehe..."
+伊伮依 : "所谓油画不过是用颜料和油在一块破布上乱涂乱画的产物，但它燃烧的样子还不赖。呵呵呵……"
+
+イヌイ
+イヌイ : 「本当におかしいわ、こんな代物で誰かが救われるとか、世界が変わるとか、そんなことあり得るわけがないのに、ねえ？」
+Inui : "It's insane to think a dirty rag like this could save someone or change someone's world. There's just no way."
+伊伮依 : "笑死我了，不会真有人以为这种东西能拯救什么人还是改变世界吧？"
+
+イヌイ
+イヌイ : 「ほんと笑っちゃう、馬鹿みたい、あはっ、あははっ、はははっ」
+Inui : "It's hilarious how stupid people can be... Haha, hahaha, hahaha!"
+伊伮依 : "真的笑死我了，像个弱智一样，哈哈，哈哈哈，哈哈哈"
+
+イヌイ
+イヌイ : 「あはははははははははははははははははははは！」
+Inui : "Ahahahahahahahahahahahahahahahahahahaha!"
+伊伮依 : "啊哈哈哈哈哈哈哈哈哈哈哈"
+
+イヌイ
+イヌイ : 「はははは……」
+Inui : "Hahahaha..."
+伊伮依 : "哈哈哈哈"
+
+イヌイ
+イヌイ : 「は……」
+Inui : "Ha..."
+伊伮依 : "哈……"
+
+イヌイ
+イヌイ : 「は！？」
+Inui : "Huh!?"
+伊伮依 : "啊！？"
+
+イヌイ
+イヌイ : 「なっ――な、なんで、なんでなんで！？」
+Inui : "Wha—!? Wh-What is this!?"
+伊伮依 : "为——为什么为什么！？"
+
+イヌイ
+イヌイ : 「リルヤあ！！！！！　あんた！　やってくれたわね！！」
+Inui : "Liljaaaaa! You... You tricked me!!"
+伊伮依 : "丽露娅你这！！！！！你这死人！干了什么好事！！"
+
+イヌイ
+イヌイ : （なんでりらお祖母様が燃えなくちゃいけないのよ！！　許せない、これ以上、りらお祖母様を傷つけるなんて、許さない！！）
+Inui : (Why is my dear grandmother on fire!? You can't get away with this! I can't let you hurt my grandmother more than you've already done!!)
+伊伮依 : （为什么莉罗祖母大人会在这里被烧掉！！我绝对不，不允许她再受到任何伤害了！！）
+
+イヌイ
+イヌイ : （水！？　消化器！？　どれも嫌！！　りらお祖母様を汚したくない！！　だったら、こうして……！）
+Inui : (Should I get water!? A fire extinguisher!? No, I can't! I don't want to soil Grandmother Lila's face! There's only one way...!)
+伊伮依 : （水！？灭火器！？都不行！！不准弄脏莉罗祖母大人！！那我该……！）
+
+イヌイ
+イヌイ : 「このっ、このっ！！」
+Inui : "Go out! Go out!!"
+伊伮依 : "可恶，可恶！！"
+
+イヌイ
+イヌイ : 「消えない……くそっ、このっ、消えろ、消えろ！！」
+Inui : "It's still burning... Dammit, go out, go out!!"
+伊伮依 : "灭不掉……该死，可恶，灭掉，灭掉啊！！"
+
+イヌイ
+イヌイ : 「消えろぉおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！」
+Inui : "Nooooooooooooooooooooooooooooooooooooooooooo!"
+伊伮依 : "灭掉啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！"
+
+イヌイ
+イヌイ : 「！？」
+Inui : "Huh!?"
+伊伮依 : "！？"
+
+イヌイ
+イヌイ : 「な、に……」
+Inui : "What...?"
+伊伮依 : "怎么会……"
+

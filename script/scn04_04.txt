@@ -1,0 +1,205 @@
+夏夏
+夏夏 : 「ん～～～！！　おいしい！　おいしいです！！　このケーキ、すごいおいしいですよ、リルヤさん！！」
+Natsuka : "Mmmm! This is yummy! I love it! This cake is amazing, Lilja-san!!"
+夏夏 : "嗯～～～！！好好吃！好好吃啊！！这个蛋糕，真的好好吃啊，丽露娅小姐！！"
+
+リルヤ
+リルヤ : 「気に入ったのならば、私の分も食べると良い。私はさっきもいったが、まだとても入らないからな」
+Lilja : "I'm glad you like it. You can have my portion as well. Like I said, I'm not very hungry yet."
+丽露娅 : "你这么喜欢的话，我的那份也给你吧。我刚刚也说了，现在还吃不下什么东西"
+
+夏夏
+夏夏 : 「いいんですか！？　ありがとうございます！　イヌイさんもありがとうございます！！　ありがたくいただきます！！」
+Natsuka : "Are you sure!? Thank you so much! And thank Inui-san for me, too! It's so good!"
+夏夏 : "真的可以吗？！谢谢您！也谢谢伊伮依小姐！！那我就心怀感激地吃掉啦！！"
+
+夏夏
+夏夏 : 「では、わたしのお皿にリルヤさんの分のケーキも乗せまして……」
+Natsuka : "I'll just slide that onto my plate, and..."
+夏夏 : "把丽露娅小姐的蛋糕放到我的盘子里来……"
+
+夏夏
+夏夏 : 「はむっ……もぐもぐ」
+Natsuka : "Mmm! Nom nom..."
+夏夏 : "啊呜……吧唧吧唧"
+
+夏夏
+夏夏 : 「は～～～おいしい……おいしすぎます……」
+Natsuka : "Hahh... It's so good... Way too good..."
+夏夏 : "啊～～～好好吃……太好吃了……"
+
+夏夏
+夏夏 : 「ところで微妙に疑問なんですが、お姉様がいるのに、妹のリルヤさんが王位を継承するんですか？」
+Natsuka : "This may be a weird question, but why are you inheriting the throne anyway, Lilja-san? Don't you have an older sister?"
+夏夏 : "话说我想请教您一个微妙的问题，为什么丽露娅小姐您有姐姐，还要让身为妹妹的您来继承王位呢？"
+
+リルヤ
+リルヤ : 「メリ家は、代々末子相続だ。私の体が治るとなれば、姉はおそらく引かないだろう」
+Lilja : "In the Meri family, the youngest child of each generation becomes the heir. I doubt my sister will have any issues once she finds out I can be cured."
+丽露娅 : "梅莉家代代都将王位继承给最小的孩子。如果我的身体治好的话，应该不会传给姐姐吧"
+
+リルヤ
+リルヤ : 「本当ならば、故郷の病院で治療してもらいたいと望んでいるだろうが、治療法を見つけたのがこちらの病院だからな」
+Lilja : "She would have preferred for me to be treated at the hospital in our hometown, but it just so happened that a hospital in Japan found the cure first."
+丽露娅 : "其实我是想要回到故乡的医院治疗的，但是治疗方案是这边的医院给的"
+
+リルヤ
+リルヤ : 「私の症状は多発性硬化症に似ているが、原因は不明の難病だ」
+Lilja : "My symptoms resemble those of multiple sclerosis, but in my case, the cause is unknown."
+丽露娅 : "我的症状类似多发性硬化症，是一种病因不明的难治之症"
+
+リルヤ
+リルヤ : 「だが、私の遺伝子を調べ、固有の自己免疫疾患の治療につながる遺伝子の機能を抑制する薬剤が開発された」
+Lilja : "I went through gene therapy, and they developed a drug that suppresses what they think may be causing my unique autoimmune disorder."
+丽露娅 : "不过，他们在研究了我的遗传基因后，开发出了一种能够抑制特定自身免疫疾病相关基因表达的药物"
+
+リルヤ
+リルヤ : 「ウイルスベクターを使わないナノ粒子をベクターとして用いるから、免疫反応も起こりづらく、特殊な設計や変更もより容易になる」
+Lilja : "Because we're using nanoparticle vectors instead of viral ones, immune reactions are less likely to occur. It's also easier to customize and modify the design."
+丽露娅 : "因为载体使用了不需要病毒载体的纳米粒子，不易引起免疫反应，想要采用特殊的设计或对其进行更改也更为容易"
+
+リルヤ
+リルヤ : 「私のためだけに複数の病院で平行して開発されていたオーダメイド医療だ……姉の執念だよ」
+Lilja : "Several hospitals have been racing to create a custom-made cure just for me at my sister's insistence."
+丽露娅 : "仅仅是为了我一人多家医院同时对这款定制药物进行了研发……这些都得归根于我姐姐的执着"
+
+夏夏
+夏夏 : 「なんだか……すごいですね。話を聞くとおおごとっぽいですし、やっぱり入院するんですか？」
+Natsuka : "That's... really impressive. It sounds like it's a huge deal. Are you going to be hospitalized for your treatment?"
+夏夏 : "感觉……好厉害啊。听您说得好像非常严肃啊，看来您这是得要住院才行吧？"
+
+リルヤ
+リルヤ : 「いや、自宅で治療予定だ。そのため、この家に機材を運び込めるかどうかの話し合いをこれからする」
+Lilja : "No, I plan to undergo treatment at home. I'm going to arrange for them to bring the necessary equipment here to the condo."
+丽露娅 : "不，预计会在家中治疗。为此，接下来我要跟他们商量要不要把医疗设备搬到这个房子里"
+
+リルヤ
+リルヤ : 「[おおごと,1]大事に聞こえたかもしれないが、命にかかわる手術や治療ではない。基本は投薬、それから手術、あとはリハビリになるだろう」
+Lilja : "It may sound like a big deal, but it's not like I'm going to have a life-threatening surgery or anything. Most of the treatment consists of medication, then a minor surgery, and then some time to rehabilitate."
+丽露娅 : "听上去你可能会感觉很严肃，但这并不是什么事关人命的手术或救治。以药物治疗为主，之后再做手术，然后是康复训练"
+
+夏夏
+夏夏 : 「治療はいつからはじめるんですか？」
+Natsuka : "When will you start?"
+夏夏 : "什么时候开始治疗呢？"
+
+リルヤ
+リルヤ : 「治療開始のタイミングは選べる。急激に進行が進む類いの病ではないからな。まあ、体のことだから絶対ということはないが」
+Lilja : "I can start whenever I want. My condition doesn't progress rapidly... though you can never be sure with things like this."
+丽露娅 : "我可以自己决定开始治疗的时间。这不是那种会突然恶化的病"
+
+リルヤ
+リルヤ : 「なので、まだ確定ではないが、クリスマスが終わってからか、年が明けてからはじめても良いと考えている」
+Lilja : "I haven't decided yet, but I'm thinking of starting after Christmas or at the start of the new year."
+丽露娅 : "因此，虽然现在时间还没有确定，不过我预计应该会等到圣诞节结束后，或者等元旦过后就开始"
+
+リルヤ
+リルヤ : 「お前は、クリスマスをやりたいのだろう？　年越しも初詣も。治療はそれからでも遅くはない」
+Lilja : "You wanted to have a Christmas party, right? And we could celebrate the new year and visit a shrine together. It won't be too late to start the treatment after that."
+丽露娅 : "你想过圣诞节吧？跨年和新年参拜也是。等这些过完之后再治疗也不迟"
+
+夏夏
+夏夏 : 「あの……もしかして、わたしのために治療開始を遅らせるんですか？」
+Natsuka : "Um... Could it be that you're delaying the start of your treatment for my sake?"
+夏夏 : "那个……难道说，丽露娅小姐是为了我才推迟治疗的吗？"
+
+夏夏
+夏夏 : 「それでしたら、リルヤさんの治療を優先してもらった方がもっともっと嬉しいです」
+Natsuka : "If you are, then I'd rather you prioritize your treatment. That would make me happier, too..."
+夏夏 : "这样的话，丽露娅小姐能先去治疗我才会更开心"
+
+リルヤ
+リルヤ : 「いや？　私がお前とすごしたいと望んでいる。それだけでは駄目か？」
+Lilja : "No, it's not just for your sake. I want to spend time with you during the holidays, too. Is that not good enough of a reason?"
+丽露娅 : "不啊，我只是想跟你一起过节。这个理由不行吗？"
+
+夏夏
+夏夏 : 「！！！！！！」
+Natsuka : "Oh!!!"
+夏夏 : "！！！！！！"
+
+夏夏
+夏夏 : 「そっそんなことないです！　わたしも、リルヤさんとクリスマスすごしたいです！！　楽しいこといっぱいいっぱいしたいです……！！」
+Natsuka : "No, of course it is! I would be sooo happy to spend Christmas with you, Lilja-san! I wanna do lots and lots of fun stuff together!"
+夏夏 : "当、当然可以！我也想要跟丽露娅小姐一起过圣诞节！！想跟丽露娅小姐做很多很多开心的事情……！！"
+
+リルヤ
+リルヤ : 「ならば、それでいいだろう？」
+Lilja : "Then it's settled, isn't it?"
+丽露娅 : "那不就好了？"
+
+夏夏
+夏夏 : 「はい！！」
+Natsuka : "Yeah!!"
+夏夏 : "嗯！！"
+
+夏夏
+夏夏 : （なんかさっきといい、今といい、すごくリルヤさんが優しいというか言葉が甘いというか、嬉しいことばかりいってくださいます……！）
+Natsuka : (Lilja-san is being really sweet today! First she reassured me how much she appreciates me, and now she wants to spend more time with me...? I'm so happy!)
+夏夏 : （感觉刚刚也是，现在也是，不知道是丽露娅小姐太温柔了还是太会说话了，对我说了好多让我开心的话……！）
+
+夏夏
+夏夏 : （嬉しい……なんか噛みしめちゃいます……）
+Natsuka : (I must be the happiest girl in the world...)
+夏夏 : （好开心……感觉稍有放松就要笑出来了……）
+
+リルヤ
+リルヤ : 「芝居の方もよろしく頼むぞ？」
+Lilja : "I'm counting on you for the play, okay?"
+丽露娅 : "演戏的事就拜托你咯？"
+
+夏夏
+夏夏 : 「うっ……わ、わかりました！　頑張ります！！」
+Natsuka : "Uh... O-Okay! I'll do my best!"
+夏夏 : "唔……好的！我会加油的！！"
+
+リルヤ
+リルヤ : 「そんなに気負う必要はない。いつもどおりにジタバタすれば良い」
+Lilja : "There's no need to be so nervous. Just flail around like you usually do and you'll be fine."
+丽露娅 : "没必要这么逞强。像平常那样手忙脚乱地去做就可以了"
+
+リルヤ
+リルヤ : 「それで？　お前はどんなクリスマスにしたい？」
+Lilja : "Do you have anything you want to do for Christmas?"
+丽露娅 : "然后呢？你想要怎么过圣诞节？"
+
+夏夏
+夏夏 : 「そうですねえ……」
+Natsuka : "Hmm, let me think..."
+夏夏 : "我想想……"
+
+夏夏
+夏夏 : 「美味しいものをいっぱい作って、飾り付けもいっぱいして、おっきなクリスマスツリーを用意して」
+Natsuka : "I wanna cook lots of yummy food, and I wanna put up a huge Christmas tree in here..."
+夏夏 : "多做点好吃的，好好装饰一下房子，准备一个巨大的圣诞树"
+
+夏夏
+夏夏 : 「これまで知り合った皆さんと一緒に、プレゼント交換してわいわい楽しくすごしたいです！」
+Natsuka : "And I was thinking we could invite all our friends and have a Christmas party! That would be so much fun!"
+夏夏 : "把之前认识的大家都叫来，一起交换礼物，一起快乐地度过圣诞节！"
+
+リルヤ
+リルヤ : 「なるほどな。それならクリスマスパーティーのためにも、お前には人形を用意してもらおうか」
+Lilja : "I see. In that case, I'll need you to prepare some more dolls for the Christmas party."
+丽露娅 : "原来如此。那也算是为了圣诞节宴会，你帮我准备个木偶吧"
+
+夏夏
+夏夏 : 「人形ですか？」
+Natsuka : "Dolls?"
+夏夏 : "木偶吗？"
+
+リルヤ
+リルヤ : 「ああ。人形劇に使う人形だ。完成したらイヌイに送るように。人形劇用の人形に仕立てるだろう」
+Lilja : "Yes, for the puppet show. You can send them to Inui once they're ready. She'll be able to turn them into puppets."
+丽露娅 : "嗯。木偶剧里用的那种木偶。做好之后拿给伊伮依。这个木偶应该会被用来演木偶戏吧"
+
+夏夏
+夏夏 : 「わかりました、人形劇にするんですね、楽しみです！　どんな劇にするんですか？」
+Natsuka : "Okay! So we'll be doing a puppet show! That sounds like so much fun! What's it gonna be about?"
+夏夏 : "好的，要在木偶戏上用到是吧，好期待啊！是要演什么戏呢？"
+
+リルヤ
+リルヤ : 「白鳥の湖だ」
+Lilja : "%i1Swan Lake.%id"
+丽露娅 : "《天鹅湖》"
+

@@ -1,0 +1,4113 @@
+{
+  "hash": "a3c7a9f61fd90efaf0e986894e42c0d9",
+  "languages": ["en","cn"],
+  "llmap": [{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53],
+      "name": "scn04_05_en.ks"
+    },{
+      "*start": [3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53],
+      "name": "scn04_05_cn.ks"
+    }],
+  "name": "scn04_05.ks",
+  "outlines": [],
+  "scenes": [{
+      "files": ["bg006l.png","mask_tv.png","bg006l.png","mask_tv.png","tmhr01_m.pbd","tmhr01_s.pbd","tmhr01_l.pbd","tmhr01_ll.pbd","tmhr01_l_43.tlg","tntk01_m.pbd","tntk01_s.pbd","tntk01_l.pbd","tntk01_ll.pbd","tntk01_m_234.tlg","tntk01_m_206.tlg","tmhr01_l_105.tlg","tmhr01_l_87.tlg","tntk01_m_32.tlg","tmhr01_l_205.tlg","tmhr01_l_191.tlg","tmhr01_l_69.tlg","tntk01_m_68.tlg","tntk01_m_102.tlg"],
+      "firstLine": 0,
+      "label": "*start",
+      "lines": [[1,{
+            "data": [],
+            "env": {
+              "action": [null,null,null],
+              "name": "env"
+            }
+          },null,1,1],["envupdate","update",[["init",0],["new","bgm","bgm"],{
+              "action": [null],
+              "name": "env"
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "env"
+              }]
+          }],[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,1],["startline"],["meswinload","page","both"],[3,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,1],["envupdate","update",[["new","bg","stage"],["new","tmhr","character"],["new","ev10","noevent"],{
+              "action": [null,["zpos",233.33333333333337],["leveloffset",""],null],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg006l"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-66.666666666666657],null],
+              "class": "noevent",
+              "link": "",
+              "name": "ev10",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "mask_tv"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },["new","tmhr","bu"],{
+              "action": [null,null,["xpos",0],["ypos",0],["order",0],["zpos",-50.0],["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"]],
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目1:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_bg006l","cg_まひる.stand","cg_mask_tv",[4,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },1,null,31,1752,null,null],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm010",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 0
+              }
+            }]],"bgm_BGM010",1,[5,1,2,null,37,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[["new","tntk","character"],["new","tntk","msgwin"],{
+              "action": [null,["originy",300],["originx",-450],null,["zoomx",80],["zoomy",80],["xpos",-320.0],["ypos",-225.0],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目6:口2:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],"cg_夏夏.stand",2,[6,2,null,null,37],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[7,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },3,null,42,1736,null,null],3,[8,3,4,null,49,1736,null,null],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目9:口9:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],4,[9,4,5,null,56,1736,null,null],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目9:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],5,[10,5,6,null,63,1736,null,null],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目2:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],6,[11,6,7,null,69,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目2:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],7,[12,7,null,null,69],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[13,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },8,null,76,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目2:口2:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],8,[14,8,9,null,83,1736,null,null],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目9:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],9,[15,9,10,null,90,1736,null,null],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目1:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],10,[16,10,11,null,96,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目2:口2:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],11,[17,11,null,null,96],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[18,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },12,null,103,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目a:口a:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],12,[19,12,13,null,110,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目2:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],13,[20,13,null,null,110],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[21,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目a:口a:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },14,null,118,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目5:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],["delayrun","vl1","envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目8:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],14,[22,14,15,null,125,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目8:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],["delayrun","vl1","envupdate","update",[{
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目2:口2:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],15,[23,15,null,null,125],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[24,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },16,null,133,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目1:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],["delayrun","vl1","envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目7:口7:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],16,[25,16,17,null,139,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目1:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],17,[26,17,null,null,139],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[27,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目7:口7:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },18,null,145,1736,null,null],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目8:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],18,[28,18,null,null,145],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[29,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目7:口7:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },19,null,152,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目8:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],19,[30,19,20,null,158,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目6:口6:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],20,[31,20,null,null,158],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[32,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },21,null,165,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目2:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],21,[33,21,22,null,171,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目9:口8:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],22,[34,22,null,null,171],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[35,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },23,null,178,1736,null,null],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目1:口2:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],["delayrun","vl1","envupdate","update",[{
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目3:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],23,[36,23,null,null,178],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[37,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },24,null,185,1736,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目1:口2:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],24,[38,24,25,null,191,1736,null,null],["startline","vflag",3,"name","夏夏","text",1],["envupdate","update",[{
+              "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450],["visvalue",0],["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "start": 0,
+                      "time": 300,
+                      "value": 100
+                    }],1]],
+              "class": "msgwin",
+              "link": "",
+              "name": "tntk",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "夏夏.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "op0:目1:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "face"
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "",
+                "time": 300
+              },
+              "type": null
+            }]],25,[39,25,null,null,191],["startline","vflag",3,"name","まひる","text",1],["envupdate","update",[{
+              "hideact": [["visvalue",[{
+                      "delay": null,
+                      "handler": "MoveAction",
+                      "time": 300,
+                      "value": 0
+                    }]]],
+              "name": "tntk",
+              "showmode": 2,
+              "trans": {
+                "method": "",
+                "time": 300
+              }
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "tntk"
+              }]
+          }],[40,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },26,null,198,200,null,null],["envupdate","update",[{
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "まひる.stand",
+                  "options": {
+                    "dress": "d1",
+                    "face": "目2:口1:頬2",
+                    "pose": "p1"
+                  }
+                },
+                "posName": "cz_l"
+              },
+              "showmode": 3,
+              "trans": {
+                "method": "crossfade",
+                "time": 300
+              },
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": 300
+          }],26,[41,26,null,null,198],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm010",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "1000"
+              }
+            }]],[42,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,207],["envupdate","update",[["tag",{
+                "runLineStr": "[msgoff][bgm stop time=1000][allse stop time=1000][begintrans][env resetcolor][clearlayers][camera_closeend][allimage delete][黒][endtrans trans=%trans|normal time=%time|2000 wait=%wait|0][bgm wait][wait time=1000][macropop]",
+                "taglist": ["tagname"],
+                "tagname": "clearlayers"
+              }],["tag",{
+                "runLineStr": "[msgoff][bgm stop time=1000][allse stop time=1000][begintrans][env resetcolor][clearlayers][env camerazoom=100 shiftx=0 shifty=0][macropop][allimage delete][黒][endtrans trans=%trans|normal time=%time|2000 wait=%wait|0][bgm wait][wait time=1000][macropop]",
+                "taglist": ["tagname"],
+                "tagname": "黒"
+              }],{
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "showmode": 2,
+              "type": null
+            },{
+              "class": "noevent",
+              "link": "",
+              "name": "ev10",
+              "showmode": 2,
+              "type": null
+            },{
+              "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"]],
+              "class": "bu",
+              "link": "",
+              "name": "tmhr",
+              "showmode": 2,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "2000"
+          }],["envupdate","update",[["del","bg"],["del","ev10"],["del","tmhr"],["del","tntk"]]],[43,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,207],["startline"],["envupdate","wait",{
+            "list": [{
+                "mode": 0,
+                "name": "bgm"
+              }],
+            "wait": 1
+          }],[44,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,207],["startline"],["wait","time","1000"],[45,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,null,207],["startline","vflag",0,"name","","text",1],["er","all","true"],[46,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,208]],
+      "nexts": [{
+          "storage": "scn04_05.ks",
+          "target": "*end",
+          "type": 0
+        }],
+      "spCount": 46,
+      "texts": [["まひる",[[null,"『リルヤの目のこと？　もちろん聞いてるさね。何せ、あたしの仕事にも関わる話だからね』",42],["Mahiru","\"About Lilja's eyes? Yeah, of course I know. Why? 'Cause it directly relates to my job.\"",88],["真昼","\"丽露娅要治眼睛？我当然听说了。这毕竟关系到我的工作\"",27]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_001"
+            }],1752,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「で、ですよねえ？」",10],["Natsuka","\"I... I guess so.\"",18],["夏夏","\"也、也是啊\"",7]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_001"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目6:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"（なのでお話聞きたいなって思ったのです。リルヤさんのことですから、まひるさんの今後も完璧に考えていらっしゃるでしょうが）",60],["Natsuka","(That's why I wanted to talk to her. I'm sure Lilja-san has taken into consideration Mahiru-san's plans for the future.)",120],["夏夏","（所以我也想听她说说。丽露娅小姐肯定会把真昼小姐今后的事也安排妥当的吧）",36]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_002"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『ぶっちゃけ、夜とのゴタゴタも終わった以上』",22],["Mahiru","\"Since that whole mess with Yoru is over...\"",44],["真昼","\"说实话，既然我跟夜的矛盾已经解决了\"",19]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_002"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目9:口9:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『ここに隠れる必要もなくなったし、資金も十分にあるし、運用も順調だから、どこにいてもいいんだけど……』",51],["Mahiru","\"I have no need to hide anymore. I've got plenty of savings, and my business is going well, so I could move anywhere if I wanted to...\"",135],["真昼","\"我也没有必要继续躲在这里了。现在我资金充足，运营得也很顺利，去哪里都没问题……\"",41]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_003"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目9:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『リルヤにはこの家を売らずにいてもらって、管理人としてこのままこの家に住まわせてもらおうと思っているさね』",53],["Mahiru","\"But I'm thinking of asking Lilja if she'd consider not selling the condo and letting me stay here as its caretaker.\"",117],["真昼","\"但是我还是想要丽露娅留着这间房子不卖，让我作为管理员继续住在这间房子里\"",37]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_004"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「なるほど！　それはいいアイディアですね」",21],["Natsuka","\"I see! That's a great idea.\"",29],["夏夏","\"原来如此！这个主意不错啊\"",14]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_003"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『突然だし、このくらいのわがままをいっても、リルヤの財政事情的には屁でもないだろうしねえ』",45],["Mahiru","\"It's all a bit sudden, and I'm sure it won't be a huge hit to Lilja's wallet. She'd be doing me a big favor.\"",110],["真昼","\"毕竟这事也很突然，而且这点钱对丽露娅的财政情况来说根本就连一根汗毛都算不上\"",39]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_005"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『どうせあいつのことだから、王位を継承したあとも、頻繁にこっちには遊びにくるだろうし』",43],["Mahiru","\"Besides, knowing her, she'll want to vacation here once in a while even after she becomes queen.\"",98],["真昼","\"就她的性格反正继承王位后也肯定会经常来这边玩的\"",25]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_006"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目9:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『で？　あんたはリルヤにくっついていくさね？』",23],["Mahiru","\"So? Are you going to go with her?\"",35],["真昼","\"你呢？你应该会跟在她屁股后面一起走吧？\"",21]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_007"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「はい、リルヤさんの傍にいたいので。それと、わたしが見せる世界は、リルヤさんにとっては神様の目よりも楽しいかもしれないので！」",63],["Natsuka","\"Yeah, I wanna stay with Lilja-san! The world I can show her might be more fun than the world she sees through God's eyes.\"",123],["夏夏","\"嗯，因为我想要留在丽露娅小姐的身边。还有就是因为我所看到的世界，对丽露娅小姐来说说不定会比通过上帝的眼睛看到的世界还要有趣！\"",64]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_004"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目2:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『はいはい、ごちそうさま』",13],["Mahiru","\"That's nice to hear...\"",24],["真昼","\"好好好，吃饱了吃饱了\"",12]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_008"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目a:口a:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「？？」",4],["Natsuka","\"Huh?\"",6],["夏夏","\"？？\"",4]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_005"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目a:口a:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『ま～いいさね。ところで、あんたは何を張り切って作っているさね？』",33],["Mahiru","\"Don't worry about it. Anyway, whatcha working on?\"",51],["真昼","\"算了～话说回来，你埋着头在这做什么东西啊？\"",23]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_009"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「あっこれはですねー……じゃーん！　見えますか？」",25],["Natsuka","\"Oh, these? Look! Can you see them?\"",36],["夏夏","\"啊，这个啊……锵锵！看得出来吗？\"",18]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_006"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目2:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『また人形さね？　っていうか、あたしじゃないのさそれ』",27],["Mahiru","\"You're making more plushies? Wait, is that supposed to be me?\"",63],["真昼","\"又是玩偶吗？话说，你做的这不就是我吗\"",20]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_010"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目7:口7:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「リルヤさんからの指令で、クリスマスパーティーに招待する皆さん全員のお人形を作ってます！　余興に使うそうです」",55],["Natsuka","\"Lilja-san's orders! I'm making dolls of everyone we're inviting to the Christmas party. Apparently, we're going to use them for a show.\"",137],["夏夏","\"丽露娅小姐命令我让我把邀请来参加圣诞节宴会的所有人的木偶都做一个！好像要用在余兴节目上\"",45]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_007"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目7:口7:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「あっそうだまひるさん、リルヤさんからお芝居の話は聞きました？」",32],["Natsuka","\"Oh, right, Mahiru-san. Did Lilja-san tell you about the play?\"",63],["夏夏","\"啊对了真昼小姐，你有听丽露娅小姐说过演戏的事吗？\"",26]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_008"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目7:口7:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『ああ、聞いているさね。もう簡単な概要書はもらっているさね』",30],["Mahiru","\"Yeah, she did. She already sent me the script.\"",48],["真昼","\"嗯，听她说了。我已经拿到草稿了\"",17]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_011"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「そうなんですか？　わたしはまだ何ももらってないんですよ」",29],["Natsuka","\"She did? I haven't gotten anything like that.\"",47],["夏夏","\"这样吗？她还什么都没给过我呢\"",16]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_009"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目8:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目6:口6:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『なるほどね。だとしたらリルヤは、あんたにはアドリブを求めているってことさね』",39],["Mahiru","\"Shocker. She's probably expecting you to improvise the whole thing.\"",69],["真昼","\"原来如此。那看来丽露娅是想要你即兴表演了\"",22]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_012"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「確かにリルヤさんはいつもどおりジタバタしてればいいって、いってましたね？」",38],["Natsuka","\"She did say I should just flail around and act like I usually do...\"",69],["夏夏","\"丽露娅小姐确实跟我说像平常那样手忙脚乱地去做就可以了\"",28]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_010"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目9:口8:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「それなら、わたしは気合いでもいれておくことにします！　むん！」",32],["Natsuka","\"If that's what she wants, then that's exactly what I'll do! Hmph!\"",67],["夏夏","\"那我就先把干劲给鼓足了吧！呼！\"",17]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_011"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目3:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『せいぜい色々考えることさね。そいじゃ、あたしはこれで』",28],["Mahiru","\"I can't wait to see what you come up with. I'll leave you to it.\"",66],["真昼","\"那你就多琢磨琢磨吧。我就先走了，再见\"",20]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_013"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["夏夏",[[null,"「はい！　ありがとうございます！」",17],["Natsuka","\"Yeah! Thank you!\"",18],["夏夏","\"好！谢谢您！\"",8]],[{
+              "name": "夏夏",
+              "pan": 0,
+              "type": 0,
+              "voice": "NTK_scn04_05_012"
+            }],1736,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目1:口2:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "夏夏.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "op0:目1:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "face"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }],["まひる",[[null,"『はいはい～』",7],["Mahiru","\"No problem.\"",13],["真昼","\"好好好～\"",6]],[{
+              "name": "まひる",
+              "pan": 0,
+              "type": 0,
+              "voice": "MHR_scn04_05_014"
+            }],200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg006l"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tmhr","bu",{
+                  "action": [["leveloffset","#-26,-276,-45,-690,-108,-1996,-165,-3192"],["zpos",-50.0]],
+                  "class": "bu",
+                  "name": "tmhr",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "まひる.stand",
+                      "options": {
+                        "dress": "d1",
+                        "face": "目2:口1:頬2",
+                        "pose": "p1"
+                      }
+                    },
+                    "posName": "cz_l"
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev10","noevent",{
+                  "action": [["zpos",-66.666666666666657]],
+                  "class": "noevent",
+                  "name": "ev10",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "mask_tv"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["tntk","msgwin",{
+                  "action": [["originy",300],["leveloffset","#19,-281,28,-643,65,-1816,113,-3050"],["xpos",-320.0],["zoomy",80],["ypos",-225.0],["zoomx",80],["originx",-450]],
+                  "class": "msgwin",
+                  "name": "tntk",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            }
+          }]],
+      "title": ["まひるとの会話","A Chat with Mahiru","与真昼的对话"],
+      "version": 1.0
+    },{
+      "files": [],
+      "firstLine": 208,
+      "label": "*end",
+      "lines": [[1,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,208],["startline","vflag",0,"name","","text",0],"ac_SCN04_05クリア",[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm010",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            }
+          },null,1,211]],
+      "nexts": [{
+          "storage": "scn04_06.ks",
+          "target": "*start",
+          "type": 0
+        }],
+      "postevals": ["kag.errorCmd(\"実績:SCN04_05クリア\")"],
+      "spCount": 2,
+      "title": ["まひるとの会話","A Chat with Mahiru","与真昼的对话"],
+      "version": 1.0
+    }]
+}

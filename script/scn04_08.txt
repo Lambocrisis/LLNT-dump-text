@@ -1,0 +1,455 @@
+鷹野
+鷹野 : 「失礼します」
+Takano : "Excuse me."
+鹰野 : "打扰了"
+
+夏夏
+夏夏 : （あっ……！）
+Natsuka : (Oh...!)
+夏夏 : （啊……！）
+
+夏夏
+夏夏 : 「鷹野さん！　お久しぶりです～！」
+Natsuka : "Takano-san! Long time no see!"
+夏夏 : "鹰野小姐！好久不见～！"
+
+鷹野
+鷹野 : 「…………」
+Takano : "..."
+鹰野 : "…………"
+
+夏夏
+夏夏 : （あ、あれ？　なんか雰囲気が……？）
+Natsuka : (Huh? She seems different somehow...)
+夏夏 : （咦？这氛围是怎么回事……？）
+
+鷹野
+鷹野 : 「ご無沙汰しております」
+Takano : "It's a pleasure to see you again."
+鹰野 : "久疏问候"
+
+夏夏
+夏夏 : （なんだか、鷹野さん……随分そっけない気が……？）
+Natsuka : (Is it just me, or is she acting really standoffish...?)
+夏夏 : （感觉，鹰野小姐……有点冷漠啊……？）
+
+鷹野
+鷹野 : 「イヌイさん、こちらがご注文の品になります」
+Takano : "Inui-san, I've brought the goods that you ordered."
+鹰野 : "伊伮依小姐，这是您订购的商品"
+
+イヌイ
+イヌイ : 「ありがとうございます。拝見しますね」
+Inui : "Thank you. Allow me to have a look."
+伊伮依 : "谢谢您。请允许我观赏一下"
+
+夏夏
+夏夏 : （わあ、すっごい綺麗です……！　キラキラいっぱい宝石を使って豪華なのにすごく上品で……リルヤさんに似合いそうです）
+Natsuka : (Wow, they're gorgeous! The gems make them look really sparkly, yet so elegant and refined... They'd look amazing on Lilja-san.)
+夏夏 : （哇，好漂亮啊……！用了好多闪闪发光的宝石，看上去又豪华又别致……感觉太适合丽露娅小姐了）
+
+夏夏
+夏夏 : （そういえば、優さんから聞いたことがあります。鷹野さんは有名な海外の宝飾ブランドの日本支社にお勤めなんですよね）
+Natsuka : (That reminds me, Yuu-san said she works at the Japanese branch office of a famous foreign jewelry brand.)
+夏夏 : （说起来好像听优小姐说过。鹰野小姐在一家海外著名的珠宝首饰的日本分公司里工作来着）
+
+イヌイ
+イヌイ : 「まあ、これは素晴らしいですね。注文どおり……いえそれ以上にしあげていただけて、頼んでよかったです」
+Inui : "My, these are wonderful. Exactly as I ordered... No, they far exceed my expectations. I'm glad I ordered with you."
+伊伮依 : "哎呀，这可真是漂亮啊。完全达到了订单的标准……不，应该说是超出了订单的标准啊，选择了贵店真是太正确了"
+
+鷹野
+鷹野 : 「痛み入ります」
+Takano : "You're too kind."
+鹰野 : "不胜荣幸"
+
+夏夏
+夏夏 : （鷹野さん、イヌイさんとは笑顔でお話しされてますね……いやでも、今は仕事中ですし、イヌイさんはお仕事相手ですし）
+Natsuka : (Takano-san is smiling as she talks to Inui-san... But that's because Inui-san is her client.)
+夏夏 : （鹰野小姐在笑着跟伊伮依小姐交流着呢……不过现在是在工作中，伊伮依小姐毕竟是她的客户）
+
+リルヤ
+リルヤ : 「何か気になるのか？」
+Lilja : "Is something bothering you?"
+丽露娅 : "有什么让你在意的吗？"
+
+夏夏
+夏夏 : 「あ、はい。ちょっとだけ鷹野さん、そっけないなあって思って……でも、お仕事中にプライベートな話をするものでもないですしね」
+Natsuka : "Oh, umm, it's just... I was thinking that Takano-san seems to be acting a bit distant today... But then I remembered that she's here for business, so maybe she wants to keep her business life separate from her private life."
+夏夏 : "啊，是的。我感觉鹰野小姐是不是有点冷漠啊……不过，在工作的时候谈及私事也不合适"
+
+夏夏
+夏夏 : 「すこし気になってることがあったので、お話したかったのですが」
+Natsuka : "I wanted to talk to her, though. There's something I'm worried about."
+夏夏 : "其实有件事我还挺在意的，还想着要问问她呢"
+
+リルヤ
+リルヤ : 「最近のミス優のアカウントか」
+Lilja : "Is this about Miss Yuu's social media accounts?"
+丽露娅 : "最近优小姐的社交账号吗？"
+
+夏夏
+夏夏 : 「そうなんです。最近、優さん、更新が全然ないんですよね。リルヤさんも気になってましたか？」
+Natsuka : "Yeah, she hasn't been updating her socials at all lately. Did you notice that too, Lilja-san?"
+夏夏 : "是啊。最近优小姐完全没有发过新的帖子。丽露娅小姐也注意到了吗？"
+
+リルヤ
+リルヤ : 「先日、ミス鷹野とＤＭで話をしたのだが、特に問題はないと返された」
+Lilja : "I exchanged private messages with Miss Takano a few days ago. She said everything was all right when I asked."
+丽露娅 : "前几天我跟鹰野私聊过了，不过她说并没有发生什么事"
+
+夏夏
+夏夏 : 「そうなんですねえ、大丈夫ならいいんですが」
+Natsuka : "Really? In that case, I'm glad, but..."
+夏夏 : "这样啊，真没什么事就好"
+
+リルヤ
+リルヤ : 「心配か？」
+Lilja : "Are you still worried?"
+丽露娅 : "你很担心吗？"
+
+夏夏
+夏夏 : 「はい。毎日ではないですが、定期的に更新があった方なので、突然更新がなくなると、心配になりますねえ」
+Natsuka : "Yeah... She didn't post every single day, but she posted pretty frequently. And to suddenly stop like that, that'd make anyone worry."
+夏夏 : "是的。虽然不是每天，但她定期都会更新的。突然就不更新了，难免会让人担心"
+
+イヌイ
+イヌイ : 「リルヤ様、そちらのドレスに合わせた宝石です。お着けになりますか？」
+Inui : "Lilja-sama, this is the jewelry that goes with your dress. Would you like to try them on?"
+伊伮依 : "丽露娅大人，这是配那件礼服的首饰。需要戴上看看吗？"
+
+リルヤ
+リルヤ : 「そうだな。夏夏、頼めるか？」
+Lilja : "Right. Natsuka, can you help?"
+丽露娅 : "好啊。夏夏，你能帮我戴上吗？"
+
+夏夏
+夏夏 : 「はっ、はい！　もちろんです！」
+Natsuka : "O-Okay! Of course!"
+夏夏 : "啊，可以！当然可以！"
+
+夏夏
+夏夏 : （うわ～ドキドキしますが、頑張ります……！）
+Natsuka : (Whoa... I'm so nervous, but I'll do my best...)
+夏夏 : （哇～好激动，不过要努力才行……！）
+
+鷹野
+鷹野 : 「それでは夏夏さん、こちらの手袋をつけてください。こちらの留め金のつけ方はわかりますか？」
+Takano : "All right, Natsuka-san. Go ahead and put on these gloves, please. Do you know how to open the clasps?"
+鹰野 : "那请夏夏小姐戴上这双手套。这个卡扣您会扣吗？"
+
+夏夏
+夏夏 : 「大丈夫です。他の人に着けたこともありますし、この留め金なら見たことありますので」
+Natsuka : "Yeah, I got this. I've helped other people put on jewelry before, and I've seen this kind of clasp, too!"
+夏夏 : "会的。我以前给别人戴过，这样的卡扣我见过的"
+
+夏夏
+夏夏 : （リルヤさんの後ろに回り込んで、手袋をつけて……そっと宝石を持って……おお、ずっしり重いです……これを……）
+Natsuka : (All right, let's get behind Lilja-san and put on the gloves... Then I'll gently pick up the necklace... Ohh, it's heavy! And then...)
+夏夏 : （绕到丽露娅小姐的身后，戴上手套……小心地拿起首饰……喔，好有重量啊……把首饰给……）
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+夏夏
+夏夏 : （あ、リルヤさんが髪をどけてくれました）
+Natsuka : (Ah, Lilja-san's holding up her hair.)
+夏夏 : （啊，丽露娅小姐把头发解开了）
+
+夏夏
+夏夏 : 「ありがとうございます、リルヤさん」
+Natsuka : "Thank you, Lilja-san."
+夏夏 : "谢谢您，丽露娅小姐"
+
+リルヤ
+リルヤ : 「かまわない」
+Lilja : "It's fine."
+丽露娅 : "没事"
+
+夏夏
+夏夏 : （リルヤさんのうなじ、お風呂でもよく見ますが……）
+Natsuka : (It's not my first time seeing the nape of her neck. I see it every time we're in the bath.)
+夏夏 : （丽露娅小姐的后颈，虽然洗澡的时候也仔细看过……）
+
+夏夏
+夏夏 : （浴室だとそれでもすこしだけ血行がよくなるんですね。今は、本当に透き徹るみたいに真っ白です）
+Natsuka : (When we're bathing, her skin is pink because of the increased blood circulation. But right now, it's an ivory white.)
+夏夏 : （在浴室的话血液循环会稍微好一点。现在看上去真的是白得通透啊）
+
+夏夏
+夏夏 : （リルヤさんは全身夢のようにきれいなんですねえ……）
+Natsuka : (Lilja-san is so pretty and dreamlike... Her entire body is...)
+夏夏 : （丽露娅小姐全身都像梦境一样美丽啊……）
+
+リルヤ
+リルヤ : 「夏夏？」
+Lilja : "Natsuka?"
+丽露娅 : "夏夏？"
+
+夏夏
+夏夏 : 「はっすみません！　うなじがあんまりきれいで見とれてました！」
+Natsuka : "Hahh! I'm sorry! I got distracted by the nape of your neck—it's so pretty!"
+夏夏 : "啊，对不起！您后颈太漂亮了我看失神了！"
+
+リルヤ
+リルヤ : 「浴室や髪を乾かしているときに散々見てるだろう？」
+Lilja : "Don't you see it while you dry my hair after we take a bath?"
+丽露娅 : "在浴室和吹头发的时候你已经看过很多次了吧？"
+
+夏夏
+夏夏 : 「いやあ、湯気越しや風呂あがりとはまた違う感じですね。触れると壊れそうな薄氷みたいな感じで……」
+Natsuka : "I do, but it looks a lot different than when we're in a steamy bathroom. Your skin looks so clear and thin, like a layer of ice that would break if I touched it..."
+夏夏 : "没有，现在跟透过热气或者是刚出浴时的感觉完全不一样。感觉就像是一摸就会碎掉的薄冰一样……"
+
+リルヤ
+リルヤ : 「壊れはしない、安心してつけるといい」
+Lilja : "Don't worry. It won't break. You can put it on."
+丽露娅 : "不会碎的，你放心戴吧"
+
+夏夏
+夏夏 : 「はい。それでは失礼しますね」
+Natsuka : "Okay, I'll do just that then."
+夏夏 : "好的。那我失礼了"
+
+夏夏
+夏夏 : （そっと……つけて、留め金を……よし、うまくはまりました！）
+Natsuka : (Carefully... close the clasp... All right, it's done!)
+夏夏 : （轻轻地……戴上去，扣上卡扣……好，戴得刚刚好！）
+
+夏夏
+夏夏 : 「できました！」
+Natsuka : "I did it!"
+夏夏 : "戴好了！"
+
+イヌイ
+イヌイ : 「リルヤ様、着け心地はいかがですか？　何かご不快なところなどございませんか？」
+Inui : "Lilja-sama, how does it feel? Is it uncomfortable anywhere?"
+伊伮依 : "丽露娅大人，戴着感觉怎么样？有没有觉得哪里不舒服？"
+
+リルヤ
+リルヤ : 「重たいな」
+Lilja : "It's heavy."
+丽露娅 : "有点重"
+
+夏夏
+夏夏 : 「確かに！　でも、すごく似合ってますよリルヤさん。宝石がキラキラ光って、肌に反射してるのか肌自体が光っているように見えます」
+Natsuka : "It is! But it looks great on you, Lilja-san! The gems sparkle so brightly, and the way the sparkles reflect on your skin makes it look like your skin is sparkling, too."
+夏夏 : "确实！但是，真的非常适合您丽露娅小姐。宝石闪闪发着光，看上去都不知道是肌肤是在反射着还是肌肤自己在发着光了"
+
+リルヤ
+リルヤ : 「肩が凝るから好きではないのだがな。宝飾は活動の観点からすると、非合理の極みだ。ヒールもな。だが現状では必要なことも理解している」
+Lilja : "I'm not a fan of heavy necklaces because they make my shoulders stiff. Jewelry is utterly impractical. So are high heels. But I suppose I can understand why they would be necessary in some situations."
+丽露娅 : "肩膀会很累我不是很喜欢。佩戴珠宝首饰就行动来说实在是太不合理了。高跟鞋也是。不过我也理解现在的情况需要它们"
+
+夏夏
+夏夏 : 「ヒール！」
+Natsuka : "High heels!?"
+夏夏 : "高跟鞋！"
+
+リルヤ
+リルヤ : 「ふ……ドレスだけでオタオタしているお前にとっては、ヒールはまさに拘束具に等しいな」
+Lilja : "Heh... For someone who's always floundering about like you, high heels must be the equivalent of a straitjacket."
+丽露娅 : "呵……对于穿上礼服就能手忙脚乱的你来说，高跟鞋简直就跟脚铐一样吧"
+
+夏夏
+夏夏 : 「そうですね、履いたことがないので……」
+Natsuka : "You're right, I've never worn high heels before..."
+夏夏 : "是啊，我要么是光着脚要么就是穿的运动鞋……"
+
+リルヤ
+リルヤ : 「歩くだけじゃない。踊る必要もあるぞ」
+Lilja : "We won't only be walking. There will be dancing, too."
+丽露娅 : "不仅是要穿着走路，还要穿着跳舞哦"
+
+夏夏
+夏夏 : 「ううっ、ただでさえ身動きが取れないのに、さらに踊るとなるとハードルが爆あがりですね」
+Natsuka : "Ugh... It's already hard enough to move in a dress, but I'll have to dance, too? That raises the bar really high."
+夏夏 : "呜呜，穿着连行动都困难了，还要穿着跳舞难度简直就是爆增了啊"
+
+リルヤ
+リルヤ : 「身動きが取れない、か」
+Lilja : "It's stifling, isn't it?"
+丽露娅 : "行动都困难，吗"
+
+リルヤ
+リルヤ : 「私にとって王家もそんなものだった」
+Lilja : "That's what being part of the royal family feels like to me."
+丽露娅 : "对我来说王室就是这样的存在"
+
+リルヤ
+リルヤ : 「このドレスや宝石のように、重たく、身動きの取りにくい、非合理で、非効率な……だが必要なことも理解できる存在」
+Lilja : "It's a burden as heavy as this necklace and as impractical as this dress. Irrational, inefficient... But it's a necessary evil."
+丽露娅 : "如同这身礼服和首饰一样，沉重，难以行动，不合理，低效率……但也能理解这些是有必要的"
+
+リルヤ
+リルヤ : 「だが当たり前に着こなして、踊る必要のあるものだった」
+Lilja : "I've always had to wear them and dance in them as if it were second nature."
+丽露娅 : "但是我却需要理所当然地穿戴好它们，并穿戴着它们跳舞"
+
+夏夏
+夏夏 : 「……リルヤさんは、王位を継ぎたくないんですか？」
+Natsuka : "...Lilja-san, do you not want to become a queen?"
+夏夏 : "……丽露娅小姐，您不想继承王位吗？"
+
+リルヤ
+リルヤ : 「なりたい、なりたくないではないな」
+Lilja : "It's not a matter of wanting or not wanting."
+丽露娅 : "并不是我想或者不想的问题"
+
+リルヤ
+リルヤ : 「この体が治れば、なるものだ。そのようになっている」
+Lilja : "If my illness is cured, then I will become queen. That's how it goes."
+丽露娅 : "只要我的身体治好了，我就要继承。仅此而已"
+
+リルヤ
+リルヤ : 「我が国における王家とは国に組み込まれたシステムであり、私もまたその一部であるということだ」
+Lilja : "The existence of the royal family is built into the system that is my country. I'm merely a cog in the machine."
+丽露娅 : "在我们国家，王室就是整个国家体系中的一部分，而我也只是其中的一部分"
+
+夏夏
+夏夏 : 「そのように……」
+Natsuka : "You don't have a choice...?"
+夏夏 : "仅此而已……"
+
+リルヤ
+リルヤ : 「たとえこの目が盲いていても、足の自由が利かなくても、姉は私の王位継承を最後まで諦めようとしなかった」
+Lilja : "Even if I remained blind and my legs never healed, I doubt my sister would give up trying to make me the next queen."
+丽露娅 : "即使我双目失明，即使我难以行走，姐姐到最后仍旧没有放弃要让我来继承王位"
+
+リルヤ
+リルヤ : 「それこそ、死ぬまで自由にはなれまいよ」
+Lilja : "I won't be free until I die."
+丽露娅 : "这才是到死都没有自由啊"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+リルヤ
+リルヤ : 「夏夏。私の傍にいたいといったな？」
+Lilja : "Natsuka, you said you wanted to stay by my side, didn't you?"
+丽露娅 : "夏夏，你说你想待在我的身边吧？"
+
+夏夏
+夏夏 : 「は、はい！　いたいです、リルヤさんの傍にいたいですし、その……」
+Natsuka : "Y-Yeah! I did say that, and I wanna stay by your side, and..."
+夏夏 : "是、是的！我想，我想待在丽露娅小姐的身边，那个……"
+
+夏夏
+夏夏 : 「できればお役に立ちたいです！」
+Natsuka : "If I can, I wanna make myself useful to you!"
+夏夏 : "如果可以的话希望我还能帮上您的忙！"
+
+夏夏
+夏夏 : 「もちろん、目が治った後も、もうひとつの目として、リルヤさんに見えない世界を見せるっていう大切な役もありますが……」
+Natsuka : "Even if your eyes are cured, I'll still have an important role to fulfill. I'll show you a world you've never seen before..."
+夏夏 : "当然，在您的眼睛治好后，我也有着要作为额外的眼睛，让丽露娅小姐您看到您所看不到的世界这一重要的职责……"
+
+夏夏
+夏夏 : 「でも、他にもお役に立てればいいなあって……」
+Natsuka : "But, if possible, I want to be useful to you in other ways, too..."
+夏夏 : "但是，要是能其他地方也能帮上忙就好了……"
+
+夏夏
+夏夏 : （イヌイさんみたいに……なんて、欲張りすぎでしょうか？）
+Natsuka : (Maybe like Inui-san... Does that make me greedy?)
+夏夏 : （像伊伮依小姐那样……会不会，太贪婪了呢？）
+
+リルヤ
+リルヤ : 「そうか。ならば、お前もドレスとヒールで銃撃戦くらいできるようになってもらおうか？」
+Lilja : "Well, in that case, you'd better learn how to hold your own in a gunfight while wearing a long dress and high heels."
+丽露娅 : "是吗。那你能不能够争取穿上礼服和高跟鞋一同加入到这枪林弹雨中来呢？"
+
+夏夏
+夏夏 : 「えっ、ていうことは……イヌイさんはそれができる……？」
+Natsuka : "Huh? Don't tell me... Can you do that, Inui-san?"
+夏夏 : "哎，您的意思是……伊伮依小姐能做得到……？"
+
+イヌイ
+イヌイ : 「ふふ、リサーチャーの嗜みのひとつですわね」
+Inui : "Hehe, it's part of my job requirements as a detective."
+伊伮依 : "呵呵，这是调查员的嗜好之一哦"
+
+夏夏
+夏夏 : 「な、なるほど……！！　わかりました！　頑張ります！！」
+Natsuka : "I-I see...! Okay, then I'll do my best!!"
+夏夏 : "原、原来如此……！！我明白了！我会加油的！！"
+
+リルヤ
+リルヤ : 「ふ」
+Lilja : "Heh..."
+丽露娅 : "呵"
+
+夏夏
+夏夏 : （えっ、笑われました！？）
+Natsuka : (Wait, did she laugh?)
+夏夏 : （哎？我被笑了吗？！）
+
+リルヤ
+リルヤ : 「冗談だ」
+Lilja : "It was a joke."
+丽露娅 : "开玩笑的"
+
+リルヤ
+リルヤ : 「お前は別に良いんだ、役に立たなくても、私の傍にいれば」
+Lilja : "You don't need to go that far to make yourself useful. Just stay with me—that'll be enough."
+丽露娅 : "你也不必这么拼命，就算帮不上什么忙，只要能在我身旁待着就好"
+
+夏夏
+夏夏 : 「リルヤさんの傍に……それはもちろんわたしも、そうしたいです。これからもリルヤさんの傍にずっといたいです。でも」
+Natsuka : "Stay with you... Of course, I want nothing more. I want to stay with you forever, Lilja-san, but..."
+夏夏 : "在丽露娅小姐的身旁……我当然也想这样做。今后也想同丽露娅小姐一直在一起。但是"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「もう良い。着替えるぞ、イヌイ」
+Lilja : "Enough. I want to change out of this dress, Inui."
+丽露娅 : "不用说了。该换衣服了，伊伮依"
+
+イヌイ
+イヌイ : 「かしこまりました」
+Inui : "Understood."
+伊伮依 : "遵命"
+
+イヌイ
+イヌイ : 「夏夏さんは、ご自分でお着替えできますよね？」
+Inui : "Natsuka-san, you can change on your own, right?"
+伊伮依 : "夏夏小姐，你自己应该换得了吧？"
+
+夏夏
+夏夏 : 「はっはい、ではわたしは自分の部屋で……」
+Natsuka : "Y-Yeah, I'll go change in my room..."
+夏夏 : "可、可以的，那我先回自己房间了……"
+
+イヌイ
+イヌイ : 「いってらっしゃいませ。リルヤ様の事は、お任せくださいね」
+Inui : "See you later. You can trust me to take care of Lilja-sama."
+伊伮依 : "慢走。丽露娅大人的事，就请放心交给我吧"
+
+鷹野
+鷹野 : 「…………」
+Takano : "..."
+鹰野 : "…………"
+
+夏夏
+夏夏 : （鷹野さん……すこしお話したかったんですが……）
+Natsuka : (Takano-san... I really wanted to talk to her...)
+夏夏 : （鹰野小姐……虽然想跟她聊聊……）
+
+夏夏
+夏夏 : （でも次の機会がありますしね！）
+Natsuka : (But now's not the time. Maybe next time!)
+夏夏 : （下次还会有机会聊的！）
+
+夏夏
+夏夏 : （さ、さっさと着替えましょう！）
+Natsuka : (Let's hurry up and get changed!)
+夏夏 : （赶紧先把衣服给换了吧！）
+

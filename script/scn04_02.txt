@@ -1,0 +1,235 @@
+夏夏
+夏夏 : 「ふんふんふ～ん、ふんふんふ～ん♪　すっずが～なる～♪」
+Natsuka : "Hmm-hmm-hmmm, hmm-hmm-hmm... %f$記号$;♪%fuser; Jingle all the way. %f$記号$;♪%fuser;"
+夏夏 : "哼哼～哼，哼哼～哼♪　铃儿～响～叮当～♪"
+
+夏夏
+夏夏 : 「今月は～たっのっし～いっ、くりっすます～、へい！」
+Natsuka : "Oh what fun Christmas is... Yay!"
+夏夏 : "这个月～好开心，圣诞节来了～嘿！"
+
+夏夏
+夏夏 : 「いやあ、１２月は先生も走りまくるっていいますけど、商店街の皆さんも、てんてこ舞いでしたねえ」
+Natsuka : "They say that December's the busiest month of the year. Everyone in the shopping district really seemed to be in a hurry."
+夏夏 : "哎呀，都说年到十二月老师也得忙，商业街的人们都忙得不可开交了呢。"
+
+駄菓子屋のおばあちゃん
+駄菓子屋のおばあちゃん : 「夏夏ちゃん、この前はありがとうね。ほら、これ持っていって。リルヤちゃんと食べるんだよ」
+Candy Store Granny : "Natsuka-chan, thanks so much for your help the other day. Here, take these and share them with Lilja-chan when you get home, dear."
+糖果店的老奶奶 : "小夏，之前的事谢谢你了。来，拿着这个。要跟丽露娅一起吃哦"
+
+夏夏
+夏夏 : 「えっ嬉しいです！　ありがとうございますー！！」
+Natsuka : "Wow! Thank you so much!"
+夏夏 : "哎，太开心了！谢谢您——！！"
+
+八百屋のお姉さん
+八百屋のお姉さん : 「あっ、夏夏ちゃん、ちょっとお願いしたいんだけどいいかな？」
+Greengrocer : "Oh, Natsuka-chan! Would you do me a favor?"
+蔬菜店的姐姐 : "啊，小夏，可以请你帮个忙吗？"
+
+夏夏
+夏夏 : 「もちろんですよ！！」
+Natsuka : "Of course!!"
+夏夏 : "当然可以！！"
+
+個人商店のおばちゃん
+個人商店のおばちゃん : 「夏夏ちゃん、助かったよお疲れさま。これ持っていきなさい」
+Shopkeeper : "Thanks for your hard work, Natsuka-chan. Take this as a token of my gratitude."
+小卖部的阿姨 : "小夏，幸好有你在，辛苦了。拿着这个吧"
+
+夏夏
+夏夏 : 「わあ、肉まんですね！　ありがとうございます！」
+Natsuka : "Oh! A steamed meat bun! Thank you!"
+夏夏 : "哇，是肉包！谢谢您！"
+
+夏夏
+夏夏 : 「そんなこんなで、今日も皆さんのお役にばっちり立てました」
+Natsuka : "I'm happy I got to help everyone again today."
+夏夏 : "如此这般地，我今天也给大家帮上了很多忙"
+
+夏夏
+夏夏 : 「しかも、こんなにいっぱいおみやげまでもらっちゃって、いつも申し訳ないくらいです。ありがたや～なのです！」
+Natsuka : "I always feel bad accepting all these gifts, though. I appreciate them, but they really don't have to do that!"
+夏夏 : "而且，还得到了这么多的礼物，都让我不好意思了。实在是谢天谢地呀～！"
+
+夏夏
+夏夏 : 「肉まんは、そっとしまいましょうね」
+Natsuka : "Let's save the meat bun for later."
+夏夏 : "把肉包小心收好吧"
+
+夏夏
+夏夏 : （ふかふかほかほかの肉まんは、寒い場所で食べると最高においしいんですが……）
+Natsuka : (Not much beats a freshly steamed meat bun on a cold day, especially if you eat it outside...)
+夏夏 : （软乎乎又热腾腾的肉包，在寒冷的地方吃肯定是最好吃的……）
+
+夏夏
+夏夏 : （でも、リルヤさんと半分こしたらもっとおいしいと思うんですよね、えへへっ）
+Natsuka : (But I'm sure it'll be even tastier if I share half of it with Lilja-san, hehehe!)
+夏夏 : （但是，如果能跟丽露娅小姐分着吃，肯定会更好吃的，哎嘿嘿）
+
+夏夏
+夏夏 : （帰ったら、温め直してふたりで食べましょう！）
+Natsuka : (I'll reheat it when I get home!)
+夏夏 : （回去之后，重新加热了再一起吃吧！）
+
+夏夏
+夏夏 : 「１２月は商店街以外のとこの皆さんもとっても忙しいので、臨時あーんど単発バイトもいっぱいです！」
+Natsuka : "December is busy for everyone, not just the shopkeepers, so there's plenty of short-term jobs available everywhere!"
+夏夏 : "十二月里商业街以外的人们也都很忙，所以临时和单次兼职都非常多！"
+
+夏夏
+夏夏 : 「病院のクリーニングとか～、ホテルのベッドメイキングとか～、ケータリング料理の充備とか～、お屋敷の大掃除とか～」
+Natsuka : "Doing laundry at hospitals, making hotel beds, preparing catered meals, cleaning rich people's big houses..."
+夏夏 : "清扫医院呀～给酒店整理床铺呀～外送餐品的食材采购呀～给房子做大扫除什么的～"
+
+夏夏
+夏夏 : 「ギャラリーの搬入のお手伝いをしたりとか～」
+Natsuka : "Helping carry works of art into galleries..."
+夏夏 : "还有帮画廊搬运展品什么的～"
+
+夏夏
+夏夏 : 「いや～いっぱいお手伝いしましたねえ！」
+Natsuka : "Whew! I helped out a lot!"
+夏夏 : "哎呀～真是帮了好多忙呀！"
+
+夏夏
+夏夏 : 「お肉メインのお惣菜屋さんのバイトもしたおかげで、お肉のオードブルの作り方もばっちりです！」
+Natsuka : "I also worked part-time at a deli, and I learned how to make all sorts of hors d'oeuvres!"
+夏夏 : "在以肉类为主的熟食店做了兼职，这下肉类的凉菜我也会做了！"
+
+夏夏
+夏夏 : 「あ、でも、もちろんせっかくのクリスマスですから、リルヤさんが好きなものをいっぱい作れるといいですねえ」
+Natsuka : "Since it's Christmas, I should make lots of things that Lilja-san will like!"
+夏夏 : "啊，但是，难得过一次的圣诞节，还是多做些丽露娅小姐喜欢的东西吧"
+
+夏夏
+夏夏 : 「お野菜メインで～お魚とか？　サラダをエディブルフラワーで飾るとか？」
+Natsuka : "Something with vegetables as a main dish... and maybe some fish? Or maybe a salad with edible flowers?"
+夏夏 : "多做点蔬菜～和鱼吧？用食用花来装饰一下沙拉怎么样？"
+
+夏夏
+夏夏 : 「ああ、でもわたしはお肉もいっぱい食べたいですね！　じゃあ全部？　それもいいですね！」
+Natsuka : "Ahh, but I still wanna eat meat! Maybe I'll just make a little bit of everything! Yeah, that sounds great!"
+夏夏 : "啊，不过我想多吃点肉啊！那都做吧？好像也不错！"
+
+夏夏
+夏夏 : 「あ、あと、プレゼント？」
+Natsuka : "Oh, and we'll need presents!"
+夏夏 : "啊，还有，礼物怎么办？"
+
+夏夏
+夏夏 : 「リルヤさんへのプレゼント……」
+Natsuka : "A present for Lilja-san..."
+夏夏 : "给丽露娅小姐的礼物……"
+
+夏夏
+夏夏 : 「リルヤさんの欲しいものって、なんでしょうね？　リルヤさん、欲しいものはすぐに手に入れてますし……」
+Natsuka : "Is there even anything Lilja-san would want? I feel like whenever she wants something, she just buys it herself on the spot..."
+夏夏 : "丽露娅小姐会想要什么呢？有想要的东西的话丽露娅小姐马上就会搞到手……"
+
+夏夏
+夏夏 : 「わたしにできることだと、何かを見て語る？」
+Natsuka : "All I can do for her is see the world and talk about it with her."
+夏夏 : "如果是我能做到的事的话，讲些我的见闻？"
+
+夏夏
+夏夏 : 「だとすると、今、リルヤさんが見たいものってなんでしょう？」
+Natsuka : "In that case... What would Lilja-san want to see right now?"
+夏夏 : "这样的话，那丽露娅小姐现在想看什么呢？"
+
+夏夏
+夏夏 : 「聞いてもいいですけど、でも、聞かずに、びっくりしてもらったり、喜んでもらえるとうれしいですよねえ」
+Natsuka : "I could ask her, but it would be more fun if I could surprise her."
+夏夏 : "虽然直接问她也可以，但是，要是能在不问她的情况下，让她大吃一惊，或者给她个惊喜就好了呢"
+
+夏夏
+夏夏 : 「あっ、それはそれとして、プレゼント交換会とかできたら楽しいですねえ」
+Natsuka : "Oh! Maybe we could do a Christmas party, too!"
+夏夏 : "啊，先不提这件事，要是还能开个礼物交换会就好了呢"
+
+夏夏
+夏夏 : 「優さんや、他のみなさんも呼びたいですね！　まひるさんも、海外にいる夜さんも、オンラインなら参加できるでしょうし」
+Natsuka : "I'd love to invite Yuu-san and all the others. If we did it online, then Mahiru-san and Yoru-san could join us, too!"
+夏夏 : "我还想把优小姐和其他人也请来呢！真昼小姐，还有在国外的夜小姐，应该也能线上参加吧"
+
+夏夏
+夏夏 : 「なんか楽しくなってきました！！　これはぜひ、リルヤさんに相談してみましょう！」
+Natsuka : "I'm already getting excited! I gotta ask Lilja-san what she thinks!"
+夏夏 : "感觉越来越有趣了！！这件事一定要跟丽露娅小姐说说！"
+
+夏夏
+夏夏 : 「それにしても、すっかり寒くなりましたねえ。は～ってすると、息が真っ白です」
+Natsuka : "Anyway, it's been getting really cold lately. Whenever I breathe out, my breath is all white."
+夏夏 : "话说回来，这天气可真冷啊。一呼气的话，呼出的空气都变白了"
+
+夏夏
+夏夏 : （でも、おうちに帰るとリルヤさんが待っていてくれて、それだけで心がほかほかしてきます）
+Natsuka : (But the thought of Lilja-san waiting for me at home warms my heart right up.)
+夏夏 : （但是，想到家里还有丽露娅小姐在等我，就感觉心里头暖洋洋的）
+
+夏夏
+夏夏 : 「リルヤさんと出会ったのが５月で今が１２月……まだ１年も経ってないのが不思議です」
+Natsuka : "I met Lilja-san in May, and now it's December... It's strange to think that I haven't even known her for a year."
+夏夏 : "和丽露娅小姐认识的时候是五月，现在是十二月……明明还没过到一年，真是神奇啊"
+
+夏夏
+夏夏 : 「もっと長いあいだ、ずっと一緒にいたような気がしますし、あっというまだったような気もします」
+Natsuka : "It feels like we've been together for way longer, but at the same time, it feels like these past couple of months passed by in a flash."
+夏夏 : "感觉在一起的时间远比这个时间要长啊，但又感觉像是一瞬间一样"
+
+夏夏
+夏夏 : （来年は、どんな感じの日々になるんでしょうか。どっちにしても、このままずっと一緒にいられたらうれしいなあ……なんて！）
+Natsuka : (I wonder what kind of days next year will bring. Either way, I'd be happy if we could stay together forever... Teehee!)
+夏夏 : （明年会迎来什么样的日子呢。不管怎么说，能像现在这样一直待在一起就好了……！）
+
+夏夏
+夏夏 : 「とにかく今後も、リルヤさんの目と足として、お役に立てるようにがんばりたいです！」
+Natsuka : "I'll have to keep doing my best as Lilja-san's eyes and legs, then!"
+夏夏 : "总之今后我也要作为丽露娅小姐的双眼和双脚，努力帮上她的忙！"
+
+夏夏
+夏夏 : 「リルヤさん、ただいまです！！」
+Natsuka : "Lilja-san, I'm home!"
+夏夏 : "丽露娅小姐，我回来了！！"
+
+リルヤ
+リルヤ : 「おかえり」
+Lilja : "Welcome back."
+丽露娅 : "欢迎回来"
+
+夏夏
+夏夏 : 「外は寒かったです。でもこういう日には最高においしい……（ごそごそ）」
+Natsuka : "It's freezing outside, but I have just the perfect treat for days like these... Now, where did I put it...?"
+夏夏 : "外面好冷。但是这样的天气吃起来最好吃……（摸索）"
+
+夏夏
+夏夏 : 「じゃーん！　肉まんです！　商店街の島田さんがくれたんです、ふたりではんぶんこしま――」
+Natsuka : "Here! Ta-dah! It's a meat bun! Shimada-san gave it to me at her sho—"
+夏夏 : "锵锵！肉包！是商业街的岛田女士给我的，我们俩分着吃吧——"
+
+リルヤ
+リルヤ : 「急ぎ、話したいことがある」
+Lilja : "Something urgent came up."
+丽露娅 : "快过来，有事要跟你说"
+
+夏夏
+夏夏 : 「えっ、あっ、はい！　じゃあ肉まんはあとで……」
+Natsuka : "Huh? Oh, okay! Then I'll save the meat bun for later..."
+夏夏 : "哎？啊，好的！那待会再吃肉包……"
+
+リルヤ
+リルヤ : 「いや？　食べながら話せば良いだろう」
+Lilja : "No, we can talk while we eat it."
+丽露娅 : "不用，边吃边说也可以吧"
+
+リルヤ
+リルヤ : 「私とお前のふたりで」
+Lilja : "It's just you and me here."
+丽露娅 : "我跟你一起吃"
+
+夏夏
+夏夏 : 「はい！　わかりました！」
+Natsuka : "Okay, coming!"
+夏夏 : "好的！我知道了！"
+

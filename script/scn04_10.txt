@@ -1,0 +1,825 @@
+夏夏
+夏夏 : 「白鳥の湖……リルヤさんの結末がどんなものか楽しみです」
+Natsuka : "I can't wait to see what kind of ending Lilja-san's %i1Swan Lake%id is gonna have."
+夏夏 : "《天鹅湖》……好期待丽露娅小姐会选择什么样的结局啊"
+
+夏夏
+夏夏 : 「リルヤさんですから、合理的なハッピーエンドになるような気がします。わかんないけどそう思います！」
+Natsuka : "I feel like a happy ending would be the most logical conclusion, and this is Lilja-san we're talking about... I don't %i1know%id that, but I can %i1feel%id it!"
+夏夏 : "丽露娅小姐的话，感觉会是那种具有合理性的结局啊。不知道为什么我就这样觉得！"
+
+リルヤ
+リルヤ : 「無くて七癖とはいったものだな」
+Lilja : "Everyone has his foibles."
+丽露娅 : "毕竟人皆有癖啊"
+
+夏夏
+夏夏 : 「わっ！？」
+Natsuka : "Wah!"
+夏夏 : "哇？！"
+
+夏夏
+夏夏 : 「リ、リルヤさん、いつの間にこっちに！？」
+Natsuka : "L-Lilja-san, when did you get here!?"
+夏夏 : "丽、丽露娅小姐，您什么时候来的？！"
+
+リルヤ
+リルヤ : 「イヌイが出て行ってからだ。アトリエの方にいても、お前たちの話はよく聞こえた。会話は特に邪魔ではなかったがな」
+Lilja : "After Inui left. I could hear you two talking from my studio. It didn't bother me, though."
+丽露娅 : "伊伮依出去之后我就来了。即使我在画室里面，也能清楚地听到你们的对话。说话对我也不会有什么影响"
+
+夏夏
+夏夏 : 「リルヤさんの作業の邪魔になってないのなら、よかったです。あの、ところで、さっきの無くて七癖って何がですか？」
+Natsuka : "I'm glad we weren't distracting you from your work. Um, what do you mean by foibles?"
+夏夏 : "没打扰到丽露娅小姐作画就好。那个，话说，刚刚您说人皆有癖是什么意思？"
+
+リルヤ
+リルヤ : 「口癖だ」
+Lilja : "Your catchphrase."
+丽露娅 : "口头禅"
+
+夏夏
+夏夏 : 「口癖？」
+Natsuka : "My... catchphrase?"
+夏夏 : "口头禅？"
+
+リルヤ
+リルヤ : 「たとえばお前は、『わからないけどそんな気がするんです』という」
+Lilja : "You just said it again. 'I don't %i1know%id that, but I can %i1feel%id it.'"
+丽露娅 : "比如说你总是会说‘不知道为什么但我就这样觉得’"
+
+夏夏
+夏夏 : 「えっ？　わたし、そんなこといってます？？？？」
+Natsuka : "Huh? Do I really say it that often?"
+夏夏 : "哎？我有一直说这个吗？？？？"
+
+リルヤ
+リルヤ : 「いっている。かなりの頻度でな」
+Lilja : "You do. Very frequently."
+丽露娅 : "有。而且说得很频繁"
+
+夏夏
+夏夏 : 「は～……全然気づきませんでした。自分の口癖ってわかんないものですねえ」
+Natsuka : "Huh... I had no idea. I guess most people aren't really aware of their own habits."
+夏夏 : "啊～……我自己完全没注意过。看来人是注意不到自己的口头禅的呢"
+
+リルヤ
+リルヤ : 「そういうものだ」
+Lilja : "That's how it generally works."
+丽露娅 : "就是这样的"
+
+リルヤ
+リルヤ : 「ところで、イヌイと面白い話をしていたな？」
+Lilja : "Regardless, you were having an interesting conversation with Inui."
+丽露娅 : "话说，你跟伊伮依聊的话题挺有趣的啊？"
+
+夏夏
+夏夏 : 「白鳥の湖の話ですか？」
+Natsuka : "You mean about %i1Swan Lake?%id"
+夏夏 : "《天鹅湖》的话题吗？"
+
+リルヤ
+リルヤ : 「そうだ」
+Lilja : "Yes."
+丽露娅 : "是的"
+
+夏夏
+夏夏 : 「はい。オディールが王子を愛していたとか、随分と色々なバージョンがあるんですねえ」
+Natsuka : "She told me there's a version where Odile is really in love with the prince. It's interesting how many interpretations there are."
+夏夏 : "嗯。至于奥吉莉雅是否爱着王子，有着很多不同的版本呢"
+
+リルヤ
+リルヤ : 「そうだな。白鳥の湖は、その成り立ちの複雑さもあって、他の物語に比べても多くのバリエーションがある」
+Lilja : "It is. Due to the complexity of the story's origins, %i1Swan Lake%id has more alternate versions than most other stories."
+丽露娅 : "是啊。《天鹅湖》这个故事的形成很复杂，相对于其他的故事它有着更多版本"
+
+リルヤ
+リルヤ : 「だから、私も私なりの白鳥の湖を作るつもりだ」
+Lilja : "That's why I'm planning to create my own version."
+丽露娅 : "所以，我也想要创造出我自己的《天鹅湖》"
+
+夏夏
+夏夏 : 「リルヤさんはどんなお話にするか気になります」
+Natsuka : "I'm really curious what kind of story yours is going to be."
+夏夏 : "真想知道丽露娅小姐会创造出什么样的世界啊"
+
+夏夏
+夏夏 : 「あ、作業の休憩がてら、イヌイさんのおみやげ食べながらお話しませんか？　ちょうど小腹も空いてきましたし」
+Natsuka : "Oh, if you're taking a break from painting, why don't we eat the snacks Inui-san brought for us? I'm starting to get a bit hungry."
+夏夏 : "啊，趁着现在休息的功夫，要不要吃点伊伮依小姐刚刚给的点心边吃边聊？正好我肚子也饿了"
+
+リルヤ
+リルヤ : 「ふ、お前はいつでもそうだな」
+Lilja : "Heh, when are you %i1not%id hungry?"
+丽露娅 : "呵，你什么时候都是这样啊"
+
+夏夏
+夏夏 : 「すぐにお腹空いちゃうんですよね、あと、やっぱり美味しいものをリルヤさんと食べたいので！」
+Natsuka : "I can't help that my stomach digests food so quickly. And tasty food tastes even better when we eat it together!"
+夏夏 : "我肚子很容易饿呢，还有，好吃的东西当然还是想跟丽露娅小姐一起吃啦！"
+
+夏夏
+夏夏 : 「さてさて、今回は何かな～パカッ！」
+Natsuka : "Let's see what she got us... Ta-dah!"
+夏夏 : "让我看看，这次是什么好吃的呢～嘿！"
+
+夏夏
+夏夏 : 「あっ、カルダモンプッラですね！　すっごいきれいな形です……！　あとすごくいいにおいです、どこのお店でしょうか？」
+Natsuka : "Ohh! Cardamom pulla! It's perfectly shaped, and it smells incredible! I wonder where she bought it..."
+夏夏 : "啊，这是豆蔻卷啊！做得好饱满啊……！味道也好香，这是哪家店买的呢？"
+
+リルヤ
+リルヤ : 「自分で焼いたといっていたぞ」
+Lilja : "She said she baked it herself."
+丽露娅 : "她说是她自己烤的哦"
+
+夏夏
+夏夏 : 「えっ！　これイヌイさんが焼いたんですか？　すごいです、パン屋さんのパンみたいです……！」
+Natsuka : "Huh!? It's homemade? That's amazing! It looks like it came from a bakery..."
+夏夏 : "哎！这是伊伮依小姐自己烤的吗？太厉害了，跟面包房里做的面包一样……！"
+
+リルヤ
+リルヤ : 「イヌイは大抵のことはプロ並みだからな」
+Lilja : "Inui is a professional at most things she does."
+丽露娅 : "伊伮依大概跟专业面包师的水平不相上下吧"
+
+夏夏
+夏夏 : 「すごいですねえ、ほんとおいしそうです！　おなかがますます空いてきました。でも、すこしあっためた方がおいしいですよね」
+Natsuka : "That's incredible. It looks so good! Looking at it is making me even hungrier. Oh, but I bet it tastes even better warm."
+夏夏 : "好厉害啊，真的超好吃的！感觉肚子更饿了。不过热过后应该会更好吃吧"
+
+夏夏
+夏夏 : 「これには甘いカフェオレ……ううんココアの方が？　リルヤさんはハーブティーでいいですか？」
+Natsuka : "Let's get some sweet café au lait to go with it... Hmm, or maybe cocoa would be better? You prefer herbal tea, don't you?"
+夏夏 : "这里面有甜拿铁……不对，好像是可可？丽露娅小姐喝药茶可以吗？"
+
+リルヤ
+リルヤ : 「この前と同じ、デカフェのコーヒーをブラックで」
+Lilja : "I'll have the same as last time—a decaf coffee, black."
+丽露娅 : "和之前一样，我喝脱脂咖啡，不加糖不加奶精"
+
+夏夏
+夏夏 : 「あのコーヒー気に入ってますもんね。イヌイさんは、リルヤさんのお眼鏡にかなうような物をいっぱい知ってるんですねえ」
+Natsuka : "You really like that coffee, don't you? Inui-san seems to know exactly what all your favorite things are."
+夏夏 : "您很喜欢那个咖啡呢。伊伮依小姐知道很多丽露娅小姐中意的东西呢"
+
+リルヤ
+リルヤ : 「あいつは食道楽だからな。それ以外にも詳しいが」
+Lilja : "She's a real gourmet. She has a lot of different interests, though."
+丽露娅 : "毕竟她对吃很有讲究。对其他事情也很精通就是了"
+
+リルヤ
+リルヤ : 「暴力的な好奇心と冷徹な理論、執拗ともいえる集中力を有している。情報収集と分析は天職だろうな」
+Lilja : "She possesses insatiable curiosity, calm logic, and intense concentration. Gathering and analyzing information is certainly her calling."
+丽露娅 : "她同时拥有着几近疯狂的好奇心、夯实的理论以及可以说得上是执拗的集中力。收集和分析信息简直就是她的天职"
+
+夏夏
+夏夏 : 「リルヤさんはイヌイさんのこと、すごく買ってるんですねえ」
+Natsuka : "You seem to value her really highly."
+夏夏 : "丽露娅小姐对伊伮依小姐赞赏有加啊"
+
+リルヤ
+リルヤ : 「必要な情報を持ってくることに関して、あれの右に出る者はいないよ」
+Lilja : "Nobody excels at bringing me the necessary information like she does."
+丽露娅 : "她在收集必要的信息这件事上无出其右"
+
+夏夏
+夏夏 : 「これまでも、イヌイさんが必要な情報を集めて届けていたおかげで、依頼人さんたちの状況が詳細に把握できていたんですね」
+Natsuka : "It's all thanks to Inui-san's research that you were able to get the full picture of our clients' circumstances, wasn't it?"
+夏夏 : "至今为止也是，多亏了伊伮依小姐把必要的信息收集送过来，我们才能详细地掌握客人的情况啊"
+
+リルヤ
+リルヤ : 「そういうことだ」
+Lilja : "Exactly."
+丽露娅 : "是的"
+
+夏夏
+夏夏 : 「あっ、あったまりましたね、飲み物も入りましたよ。はい、どうぞ、リルヤさん。ここに置きますね」
+Natsuka : "Oh, the microwave's done. The coffee's ready, too. I'll put yours right here, Lilja-san."
+夏夏 : "啊，热好了，饮料也泡好了。来，请用，丽露娅小姐。我放在这里了哦"
+
+リルヤ
+リルヤ : 「ああ」
+Lilja : "Thanks."
+丽露娅 : "好"
+
+夏夏
+夏夏 : 「では、いただきまーす！」
+Natsuka : "Let's eat!"
+夏夏 : "那我开吃啦——！"
+
+夏夏
+夏夏 : 「ぱくっ！」
+Natsuka : "Nom..."
+夏夏 : "啊呜！"
+
+夏夏
+夏夏 : 「――――」
+Natsuka : "..."
+夏夏 : "————"
+
+リルヤ
+リルヤ : （固まっているな）
+Lilja : (She's frozen.)
+丽露娅 : （停住了啊）
+
+夏夏
+夏夏 : 「……（ごくんっ）」
+Natsuka : "*gulp*..."
+夏夏 : "……（吞咽）"
+
+夏夏
+夏夏 : 「あんまりおいしくて、おもわず、時がとまってしまいました」
+Natsuka : "It's so yummy that time seemed to stop for a moment."
+夏夏 : "实在是太好吃了，意识不自觉地停顿了一下"
+
+夏夏
+夏夏 : 「こんなにおいしいパン、はじめて食べました。同じ材料なのに、こんなに違うもんなんですね！？」
+Natsuka : "I've never had any bread as good as this. Why does it taste so different from mine, even though I used the same ingredients!?"
+夏夏 : "这么好吃的面包，我还是第一次吃到。明明是相同的原料做的，为什么会有这么大的差别呢？！"
+
+リルヤ
+リルヤ : 「そうだな。イヌイは本社で働いていたから、本場でよく食べているし、作り慣れているパンでもある」
+Lilja : "That would be because Inui used to work at the main office abroad. She often ate the real thing, and she has a lot of experience baking it, too."
+丽露娅 : "是啊。伊伮依在总部工作，在这发源地经常会吃这种食物，所以这也是她做习惯了的面包"
+
+夏夏
+夏夏 : 「なるほど本場……！」
+Natsuka : "The real thing! I see...!"
+夏夏 : "原来如此，发源地……！"
+
+夏夏
+夏夏 : 「わたしも白縫さんから教わったレシピを忠実に守りつつ……リルヤさんがおいしいっていうカルダモンプッラを目指しますね！」
+Natsuka : "Shiranui-san gave me that recipe, so I'm going to follow it to a T and try to make some tasty cardamom pulla for you, too!"
+夏夏 : "我也要在忠实地保护住白缝小姐教会我的配方的同时……朝着做出能让丽露娅小姐说出好吃的豆蔻卷的目标努力啊！"
+
+リルヤ
+リルヤ : 「別に良い」
+Lilja : "You don't have to."
+丽露娅 : "没必要"
+
+夏夏
+夏夏 : 「えっ」
+Natsuka : "Huh!?"
+夏夏 : "哎？"
+
+リルヤ
+リルヤ : 「美味であることはひとつの価値基準ではあるが、それが絶対ではない」
+Lilja : "Taste is subjective. There's no absolute criteria that determines taste."
+丽露娅 : "口味是衡量价值的标准之一，但并不是绝对的"
+
+夏夏
+夏夏 : 「えーと……それってつまり……」
+Natsuka : "Umm... Do you mean..."
+夏夏 : "那个……您的意思是……"
+
+夏夏
+夏夏 : 「わたしの作るプッラも悪くないってことですね？」
+Natsuka : "That the pulla I made wasn't bad, either?"
+夏夏 : "我做的卷也没那么不好吗？"
+
+リルヤ
+リルヤ : 「合理的に考えてその答えしかないだろう。だが迂遠にすぎたな。もっと端的にいうべきだった」
+Lilja : "Anyone with a brain could figure that out, but I suppose my answer was too indirect. I'll try to be more blunt."
+丽露娅 : "合理思考的话只有这个答案了吧。但是这种说法太迂回了。肯定还有更直白的说法"
+
+リルヤ
+リルヤ : 「私はお前の作るカルダモンプッラを好んでいる。お前の作るものにはあたたかさと喜びを感じる」
+Lilja : "I love the cardamom pulla that you make because I can taste the warmth and joy you put into it."
+丽露娅 : "我很喜欢你做的豆蔻卷。我从你做的食物里能够感受到温暖和喜悦"
+
+リルヤ
+リルヤ : 「無論お前の作る料理は、それ単体では私の味覚を満足させない」
+Lilja : "That's not to say your cooking on its own is able to satisfy my taste buds."
+丽露娅 : "当然你做的食物，作为物质来说并不能满足我的味觉"
+
+リルヤ
+リルヤ : 「だが、多くの凡庸な人間は料理を純粋な味覚のみで判定しない」
+Lilja : "However, most normal people don't judge dishes solely on their taste."
+丽露娅 : "但是，很多平庸的人类并不会仅依靠味觉来衡量食物"
+
+リルヤ
+リルヤ : 「料理においては、体験と知識が重要になる。その料理が作られる過程、サーヴィング、食器、場所、相手、素材や料理の行程――」
+Lilja : "In cooking, the experience matters just as much as the result. The process of preparing the dish, the manner in which it's served, the tableware used, the place where it's eaten, who it's eaten with, the ingredients..."
+丽露娅 : "对于食物，体验和认知是非常重要的。食物的制作过程、服务、餐具、地点、共同享用的人、原料和进食的流程——"
+
+リルヤ
+リルヤ : 「それらの[じょうほう,1]物語が、その料理の美味を底あげし、あるいは地に落とす」
+Lilja : "Each of those things carries part of the story and can either elevate or bring down the taste of a dish."
+丽露娅 : "它们的故事，会为食物增添风味，亦或是使其黯然失色"
+
+リルヤ
+リルヤ : 「つまるところ、私もそのような凡庸な人間のひとりということだ」
+Lilja : "In that regard, I'm just a normal person, after all."
+丽露娅 : "归根结底，我也是这些平庸的人类中的一员"
+
+夏夏
+夏夏 : 「なんかわかんないですけど、すごい褒められたような気がするので、ありがとうございます！　また作りますね」
+Natsuka : "I don't really get all of that, but I feel like you're giving me a lot of praise, so... Thank you! I'll make it again sometime."
+夏夏 : "虽然有点听不懂，但我好像是被狠狠夸了一把吧，谢谢您！我下次再做给您"
+
+夏夏
+夏夏 : 「あ、でも、イヌイさんのプッラは本当においしいです」
+Natsuka : "Oh, and I really do think that Inui-san's pulla is delicious."
+夏夏 : "啊，不过，伊伮依小姐做的卷真的好好吃"
+
+リルヤ
+リルヤ : 「異論はない」
+Lilja : "I have no objection to that."
+丽露娅 : "我没有异议"
+
+夏夏
+夏夏 : （でも……）
+Natsuka : (But...)
+夏夏 : （但是……）
+
+夏夏
+夏夏 : （イヌイさんが作ったカルダモンプッラ、何かひっかかるんですよね……？　なんでしょう？）
+Natsuka : (Something's bothering me about the cardamom pulla Inui-san made... I wonder what it is...)
+夏夏 : （伊伮依小姐做的豆蔻卷，感觉让我有点在意啊……？这是为什么呢？）
+
+リルヤ
+リルヤ : 「ところで私も、イヌイが語っていた公演を観劇したことがある」
+Lilja : "By the way, I've seen the performance of %i1Swan Lake%id Inui was referring to."
+丽露娅 : "话说回来，伊伮依说的那场公演我也看过"
+
+夏夏
+夏夏 : 「オディールが王子様に恋をしていて、だからオディールは、自分の意思で王子様を騙そうとしたってお話ですね？」
+Natsuka : "You mean the version where Odile is in love with the prince and tricks him to get together with him because she wanted to?"
+夏夏 : "这个故事是奥吉莉雅爱上了王子殿下，所以说奥吉莉雅是以自己的意志去欺骗王子殿下的吧？"
+
+リルヤ
+リルヤ : 「そうだが、イヌイは、王子が自分の意思でオディールの魅力に陥落したように語っていたが、それは違う」
+Lilja : "Yes, but Inui made it sound as though the prince fell for Odile's charms of his own accord. That's not quite right."
+丽露娅 : "是啊，伊伮依说王子是以自己的意志折服在奥吉莉雅的魅力之下的，这是不对的"
+
+リルヤ
+リルヤ : 「悪魔の娘であるオディールには、王子の意思を曲げる力があった」
+Lilja : "As the sorcerer's daughter, Odile had the power to manipulate the prince's mind."
+丽露娅 : "恶魔的女儿奥吉莉雅有着歪曲王子意志的能力"
+
+リルヤ
+リルヤ : 「悪魔のささやきには、常に人を惑わす力がある。弱っている人間に、あたかもまるでそれが自分の望みであるように、思わせる力がな」
+Lilja : "She could influence the way people thought with her evil whispers. She'd take advantage of their weaknesses and make them believe they were acting out of their own desire."
+丽露娅 : "恶魔的低语，总会有着魅惑人类的力量。这种力量对脆弱的人来说，就宛如他们自己也是这么期望的一样"
+
+リルヤ
+リルヤ : 「人は、常にそのささやきに陥落する。なぜならば人は苦しいときに、見たいものを見るからだ」
+Lilja : "And people fell for those whispers, because during hard times, they saw what they wanted to see."
+丽露娅 : "人类总会被这种低语折服。因为人类在痛苦的时候，总想看到自己想要看到的东西"
+
+リルヤ
+リルヤ : 「王子はお妃選びの場にいつまで経っても現れないオデットに、不安を感じていた。オディールは、その心の弱みにつけ込んだのだ」
+Lilja : "The prince became increasingly anxious when Odette did not show up for the ball. Odile took advantage of that weakness in his heart."
+丽露娅 : "王子在选妃的时候由于奥杰塔一直未能出现而感到了不安。奥吉莉雅则是在他内心脆弱的时候趁虚而入了"
+
+リルヤ
+リルヤ : 「だが、それはそれで良い。オディールが王子を愛し、その惑溺の力で陥落させる筋立てもありだろう」
+Lilja : "However, the story is fine that way. Odile loved the prince, and she used her power to make him fall for her."
+丽露娅 : "不过，这也没什么问题。奥吉莉雅爱着王子，用这股能使人沉溺的力量让王子折服也无可厚非"
+
+リルヤ
+リルヤ : 「私の台本はそうではないがな。そもそも、他にクリアすべき問題が山積している」
+Lilja : "My scenario won't be like that, though. There are plenty of other issues that will need to be resolved first."
+丽露娅 : "不过我的剧本不是这样的。而且除了剧本以外需要重置的问题还有很多"
+
+リルヤ
+リルヤ : 「白鳥の湖のメインの見所が踊りであり、昔話という近代以前の不合理を許容する物語構造が下敷きになっているとしても……」
+Lilja : "%i1Swan Lake%id is first and foremost a ballet. While it may have a narrative structure with a basis in irrational, pre-modern folktales, it's mainly about the dancing, and..."
+丽露娅 : "《天鹅湖》的主要看点是舞蹈，但即便舞蹈足以将在现代以前能够容许不合理因素出现的传统故事的故事构成压在下面……"
+
+リルヤ
+リルヤ : 「王子があんぽんたんすぎる」
+Lilja : "The prince is a goggle-eyed muttonhead."
+丽露娅 : "王子也太安本丹了"
+
+夏夏
+夏夏 : 「あんぽんたん！」
+Natsuka : "A... muttonhead!?"
+夏夏 : "安本丹！"
+
+夏夏
+夏夏 : 「って――何ですか？」
+Natsuka : "What does that mean?"
+夏夏 : "所以——这词是什么意思？"
+
+リルヤ
+リルヤ : 「間が抜けて馬鹿という意味の、昔の日本語のスラングだ」
+Lilja : "A fool, a simpleton. It's an old slang term."
+丽露娅 : "糊涂、愚蠢的意思，是日本以前的俚语"
+
+夏夏
+夏夏 : 「ほんとに、リルヤさんの方が日本語に精通してますよね？」
+Natsuka : "Wow, you really do know a lot of difficult words, Lilja-san."
+夏夏 : "其实丽露娅小姐比我更精通日语吧？"
+
+リルヤ
+リルヤ : 「この程度普通だろう？」
+Lilja : "I consider my vocabulary fairly average."
+丽露娅 : "这种水平谁都能有吧？"
+
+夏夏
+夏夏 : 「あんぽんたん……ちょっと美味しそうな響きですね」
+Natsuka : "A muttonhead... That sounds kinda tasty, doesn't it?"
+夏夏 : "安本丹……听起来还挺好吃的"
+
+リルヤ
+リルヤ : 「お前は……今、食べたばかりだろう」
+Lilja : "You... just ate, didn't you?"
+丽露娅 : "你啊……刚刚不是才吃了东西吗"
+
+夏夏
+夏夏 : 「あはは、すみません」
+Natsuka : "Hahaha, sorry."
+夏夏 : "啊哈哈，对不起"
+
+夏夏
+夏夏 : 「つまり、白鳥の湖は、今の感覚で見ると納得できない物語の設定が多すぎるってことですよね？」
+Natsuka : "So you're saying %i1Swan Lake%id has too many story elements that don't make sense to people today, right?"
+夏夏 : "也就是说，用现在的眼光来看，《天鹅湖》的故事中有许多难以被人接受的设定吗？"
+
+リルヤ
+リルヤ : 「そうだ。故に、白鳥の湖を上演する場合において、各演出家は近代的な整合性を取るように腐心している。たとえばこうだ」
+Lilja : "Exactly. That's why ballet directors today struggle to stage the story in a way that logically makes sense to modern audiences."
+丽露娅 : "是的。所以世界各地的导演在上演《天鹅湖》时都会努力追求现代的统一性"
+
+リルヤ
+リルヤ : 「そもそも、王子が最初に誓うと約束するのは、真実の愛ではない。ただのお妃選びだ」
+Lilja : "For example, consider the prince's vows. His initial vow is not one of true love. He's merely choosing a bride, which is nothing but a practical matter."
+丽露娅 : "而且，王子在最开始许下的誓言，根本就不是真爱。只是在选妃而已"
+
+リルヤ
+リルヤ : 「王子がお妃選びの場でオデットを妃として迎えることを宣言することが、愛を誓うこととイコールになっている」
+Lilja : "Yet the prince's declaration to take Odette as his bride at the ball is supposed to imply a vow of true love."
+丽露娅 : "王子在选妃时迎娶奥杰塔的誓词，被看作是等同于爱的誓言了"
+
+リルヤ
+リルヤ : 「そしてそのオデットの呪いを解くための愛の誓いは、悪魔の計略によってオディールに与えられる」
+Lilja : "The vow of love that was meant to lift Odette's curse is given to Odile instead thanks to the sorcerer's scheme."
+丽露娅 : "而本应用于解除奥杰塔的诅咒的爱的誓言，由于恶魔的算计许给了奥吉莉雅"
+
+リルヤ
+リルヤ : 「王子は自らのその過ちを悔やみ、オデットに謝罪する」
+Lilja : "Then the prince realizes his error and goes to apologize to Odette."
+丽露娅 : "王子为自己的过错感到后悔，并向奥杰塔道歉"
+
+リルヤ
+リルヤ : 「王子の過ちを無垢なるオデットが赦すことで、真実の愛が生まれ、それが悪魔の力を弱めて、呪いを打ち砕く」
+Lilja : "The naïve Odette forgives the prince for his mistake, and true love is born, which weakens the sorcerer's power and lifts the curse."
+丽露娅 : "王子的过错被纯洁的奥杰塔原谅，所以萌生了真爱。这片真爱使恶魔的力量被削弱，进而打破了诅咒"
+
+リルヤ
+リルヤ : 「そもそもキリスト教圏では、罪の告白と神の赦しによる人間の救済という大きな物語の受容による、暗黙の了解ができている」
+Lilja : "In the Christian world, there is a tacit acceptance of such stories, because they share themes with the larger story of salvation—those who confess their sins will be forgiven by God."
+丽露娅 : "说到底在基督教文化中，人们广泛认同通过忏悔和上帝的宽恕而得到救赎的故事，因此大家对此都能够默认"
+
+リルヤ
+リルヤ : 「だからこそ、罪の告白と赦しにより真実の愛が生まれ、それによって、悪魔は倒されるという話に、絶対の説得力が生まれるわけだ」
+Lilja : "That's why, to such an audience, it sounds very convincing that the true love in %i1Swan Lake%id is born via a process of confession and forgiveness which serves to defeat the evil sorcerer—the devil, if you will."
+丽露娅 : "所以，通过忏悔和宽恕产生真爱，从而击败恶魔的说法，才具有了绝对的说服力"
+
+リルヤ
+リルヤ : 「だが、私は神の救いの構造とは関係なく、この物語をハッピーエンドへと導きたい」
+Lilja : "However, I want to bring the story to a happy end %i1without%id relying on the generally accepted structure of God's salvation."
+丽露娅 : "不过，跟上帝的救赎这一构成无关，我自己也想要将故事引向一个美好的结局"
+
+リルヤ
+リルヤ : 「夏夏、お前なら、どうやって悪魔の呪いを解く？　真実の愛をどう表現する？」
+Lilja : "Natsuka, how would you undo the evil sorcerer's curse? How would you express the concept of true love?"
+丽露娅 : "夏夏，如果是你的话，要怎么解开恶魔的诅咒？要如何表达真爱？"
+
+夏夏
+夏夏 : 「それは……」
+Natsuka : "Hmm..."
+夏夏 : "我……"
+
+夏夏
+夏夏 : 「何があっても、相手を信じること……でしょうか？」
+Natsuka : "I'd say true love is an unshakable belief in your partner."
+夏夏 : "不管发生什么，都要相信对方……吧？"
+
+リルヤ
+リルヤ : 「それはあまりにも非合理的だな。盲目的でもある」
+Lilja : "Blind faith? That's utterly irrational."
+丽露娅 : "这实在是太不合理了。同时也太盲目了"
+
+夏夏
+夏夏 : 「でもですよ。ちょっと話を戻すんですが、王子様がオディールに騙されてしまうのは、確かにあんぽんたんかもしれませんが……」
+Natsuka : "But listen... Let's go back to what you said before. The prince may be a muttonhead for falling for Odile's tricks. That's true, but..."
+夏夏 : "不过啊，我稍微提一下之前的话题，王子殿下被奥吉莉雅所欺骗，也许真的因为他是个安本丹……"
+
+夏夏
+夏夏 : 「騙す悪魔の方が、圧倒的に悪いと思うんですよ。仮に何か事情があったとしても、やっぱり騙しちゃうのはいけないんじゃないかな……」
+Natsuka : "I think the sorcerer who decided to trick him is way worse than the prince. I mean, it's wrong to trick anyone, even if you hate them..."
+夏夏 : "我觉得行骗的恶魔才有着绝对的恶。不管发生什么，骗人都是不对的吧……"
+
+夏夏
+夏夏 : 「ていうかそもそも、何か理由があったとしても、呪いをかけるのはやっぱりだめだと思うんですよ……」
+Natsuka : "No matter the reason, it's evil to put a curse on someone, I think..."
+夏夏 : "而且说到底，不管有什么样的理由，给别人施下诅咒都是不对的吧……"
+
+夏夏
+夏夏 : 「呪いはかけちゃだめだし、騙しちゃだめなんですよ」
+Natsuka : "The perpetrator is always at fault, whether it's a trick or a curse."
+夏夏 : "诅咒别人是不对的，骗人也是不对的"
+
+夏夏
+夏夏 : 「いや、もしオデットさんが実は悪魔の一族を全滅させようとしていたとかだったら話は変わってくるんですが……」
+Natsuka : "No, maybe it would be a different story if Odette-san was out to kill all of the sorcerers or something like that..."
+夏夏 : "不过，如果奥杰塔小姐其实曾经想要将恶魔一族全部铲除的话那情况又不一样了……"
+
+夏夏
+夏夏 : 「あとオデットさんは、たぶん王子様のあんぽんたんさを最初から理解していたと思うんですよ」
+Natsuka : "Also, I think Odette-san probably knew from the start that the prince she loved was a muttonhead."
+夏夏 : "还有就是，我想奥杰塔小姐最开始应该就明白王子殿下是个安本丹了"
+
+夏夏
+夏夏 : 「なにせ出会ってすぐに、一目惚れして呪いを解くために愛を誓うよって言い出すんですよ？」
+Natsuka : "I mean, you'd have to have a screw loose to declare your love in order to lift a curse for someone you only just met."
+夏夏 : "毕竟他们刚一见面，她就一见钟情然后说出了‘为了解开诅咒要对我许下爱的誓言哦’这样的话"
+
+夏夏
+夏夏 : 「白鳥になって苦労してきたオデットさんは、王子様ちょっと世間知らずすぎない？　って思うんじゃないですかね……」
+Natsuka : "Odette-san went through a really hard time when she turned into a swan, so she probably thinks the prince is pretty naïve in comparison."
+夏夏 : "变成天鹅后历尽千难万险的奥杰塔难道不会想，王子殿下是不是有点不谙世事啊？吗……"
+
+夏夏
+夏夏 : 「だから王子様がオディールさんに騙されても、許せたんじゃないかな……オデットさんは、王子様のあんぽんたんさを信じていたから……」
+Natsuka : "Maybe that's why she was able to forgive the prince for letting himself be tricked by Odile-san... Because Odette-san believed in his naïveté..."
+夏夏 : "所以即使王子殿下被奥吉莉雅骗了，奥杰塔也原谅了他嘛……因为奥杰塔相信王子的安本丹……"
+
+リルヤ
+リルヤ : 「相手の本質を信じるということか？　白鳥の湖のオデットならば、王子の間抜けさこそが、彼の本質であると看破するということか？」
+Lilja : "You mean that she believed in his true nature? That Odette knew the prince's foolishness was part of who he was, and that she saw through him from the beginning?"
+丽露娅 : "你的意思是相信对方的本质？《天鹅湖》里的奥杰塔看出了王子的这种糊涂正是他的本质吗？"
+
+夏夏
+夏夏 : 「はい……あと、王子様はたしかにあんぽんたんですけど」
+Natsuka : "Yeah... And while the prince may have been a real muttonhead..."
+夏夏 : "是的……还有，虽然王子殿下确实是个安本丹"
+
+夏夏
+夏夏 : 「自分のしくじりに気づいて後悔して、その上でもう取り返しの付かないことに対して真摯に謝れるって、すごいことかなとも思うので……」
+Natsuka : "I think it's great he was able to realize he messed up and sincerely apologize for this mistake, even though he did something that can't be undone..."
+夏夏 : "注意到自己的过错后感到后悔，在此之上能够为无法挽回的事情表达真诚的歉意，我觉得也是可敬的……"
+
+夏夏
+夏夏 : 「正直、わたしにできるかなって思いますし……もし王子様が適当に謝っていたら、真実の愛は生まれないと思いますし……」
+Natsuka : "To be honest, I'm not sure I'd be able to do the same... And if the prince's apology wasn't sincere, I don't think true love would be born from it..."
+夏夏 : "说实话，我不知道我自己能不能做得到……如果王子殿下只是随意道个歉的话，我想真爱是不会萌生的……"
+
+夏夏
+夏夏 : 「信じた相手が急に、以前いってたことと全然違うことをしはじめたら――」
+Natsuka : "If someone you believed in suddenly started acting completely different from before..."
+夏夏 : "如果自己相信的那个人，突然开始做起跟以前完全不一样的事情的话——"
+
+夏夏
+夏夏 : 「何かおかしいなって、何か事情があるって思うかもしれないって、思えるんじゃないかなって……」
+Natsuka : "You'd probably realize that something's wrong, and there's gotta be a reason why they're acting that way..."
+夏夏 : "好奇怪啊，是不是发什么了什么啊，人难免会这样想嘛……"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「こういう話をずっとやってきたのか？」
+Lilja : "Did you always talk like this?"
+丽露娅 : "这样的话你说了很多遍吗？"
+
+夏夏
+夏夏 : 「え？」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+リルヤ
+リルヤ : 「お前の姉は、お前にそうした感想を要請していたのか？」
+Lilja : "I mean with your sister. Did she always ask you to share your thoughts on the books and movies you enjoyed together?"
+丽露娅 : "你的姐姐曾经也要求你说出刚刚那样的感想吗？"
+
+夏夏
+夏夏 : 「えっ、あ、ええと……そうですね？　何か見たり聞いたりしたあと、お姉ちゃんが必ず感想を話せといったので……」
+Natsuka : "Huh? Oh, uhh... I think so? Whenever we'd read or watch something, she'd always ask me what I thought about it..."
+夏夏 : "哎？啊、那个……是吧？在看或者听完了什么之后，姐姐都会让我说自己的感想……"
+
+夏夏
+夏夏 : 「確かにいつも何か考えて、話していた気がします」
+Natsuka : "So I was always thinking about what I should tell her."
+夏夏 : "确实感觉我一直都在思考，一直都在说话"
+
+リルヤ
+リルヤ : （なるほどな……それがお前という人間を形成したひとつの要因か）
+Lilja : (I see... So that's one of the things that shaped you as the person you are.)
+丽露娅 : （原来如此……这就是形成了你人格的其中一个要素吗）
+
+リルヤ
+リルヤ : （道具として扱っていたとしても、姉の要請は、確実にお前という器を豊かにしてきた……ということだ）
+Lilja : (Even if your sister was using you like a tool, the demands she made of you still enriched your soul.)
+丽露娅 : （虽然被当做道具来使用，但由于姐姐的要求，却切实地让你这一个容器变得充实起来了……原来是这样）
+
+夏夏
+夏夏 : 「あれ、それで……何の話でしたっけ？」
+Natsuka : "Wait... What were we talking about again?"
+夏夏 : "咦？那个……刚刚说到哪了？"
+
+リルヤ
+リルヤ : 「信じた相手が急に変わったら、何か事情があると思うかもしれない、という話をしていた」
+Lilja : "You were saying that if somebody you trust suddenly changes their behavior, you'd assume there's a reason behind the change."
+丽露娅 : "你说到如果另一个人突然发生了变化的话，就会去想是不是发生了什么"
+
+夏夏
+夏夏 : 「あっそうです！　それで、ええと……」
+Natsuka : "Oh, right! So, yeah..."
+夏夏 : "啊，没错！然后，我想想……"
+
+夏夏
+夏夏 : 「だから、たとえばわたしだったら、リルヤさんが急に変わっても、これまでのリルヤさんの方を信じるってことなんです……」
+Natsuka : "If it were me... If you suddenly started acting weird, I'd still continue to believe in the person you originally were."
+夏夏 : "所以，用我自己来举例子的话，假如丽露娅小姐突然变了，我也会相信改变了之后的丽露娅小姐……"
+
+夏夏
+夏夏 : 「でも、もし」
+Natsuka : "But if..."
+夏夏 : "但是，如果"
+
+夏夏
+夏夏 : 「変わっちゃったあとのリルヤさんが、今の本当のリルヤさんだと思ったら、そっちのリルヤさんをちゃんと信じていけるっていうか……」
+Natsuka : "If the Lilja-san after the change turned out to be the real Lilja-san, I think I'd be able to believe in her, too..."
+夏夏 : "丽露娅小姐在变了之后，觉得现在的自己才是自己的话，我不知道自己能不能相信那个时候的丽露娅小姐……"
+
+夏夏
+夏夏 : 「ああ、でも、何があっても相手を信じるってことは、別に相手を盲目的に全肯定するって意味じゃなくて……」
+Natsuka : "Ahh, but trusting someone no matter what they do doesn't mean you should blindly accept everything they do..."
+夏夏 : "啊，不过，不管发生了什么都要相信对方这句话，并不是盲目地去肯定对方的一切的意思……"
+
+夏夏
+夏夏 : 「変わったあとのリルヤさんを本物だってちゃんと信じて、その上でなんか違うかなって思ったら、その気持ちをちゃんと伝えることで……」
+Natsuka : "If I believed in the new Lilja-san, but I still felt that something was off about her, then I'd clearly tell her how I feel..."
+夏夏 : "在相信了改变了之后的丽露娅小姐也是真实的她之后，要是还发现有什么不对的话，要把这样的想法说出来……"
+
+夏夏
+夏夏 : 「つまりそういうこと全部が、何があっても相手を信じるってことなんじゃないかな……って」
+Natsuka : "I think all of that is part of truly believing in someone."
+夏夏 : "所以我所说的这些加在一起，不就是不管发生什么都要相信对方……吗？"
+
+夏夏
+夏夏 : 「それってつまり、ずっと相手から目をそらさないってことなんです。どんなことになっても、相手を見つめつづけるってことなんです」
+Natsuka : "It means you never disregard anything about that person. You continue watching them no matter what happens."
+夏夏 : "也就是说，不能将自己的视线从对方的身上移开。不管发生什么，都要关注着对方"
+
+夏夏
+夏夏 : 「本当のリルヤさんがどこにいるか、リルヤさんが本当に思っていること、感じていること、本当の望みがどこにあるかを……」
+Natsuka : "I'd keep thinking, 'Where is the real Lilja-san? What is she really thinking? What does she really feel? What does she really want?' Things like that..."
+夏夏 : "真正的丽露娅小姐在哪里，丽露娅小姐真正想的是什么，感受到的是什么，希望什么……"
+
+リルヤ
+リルヤ : 「常に対象を観察しその変化を感じ、たとえ自分が気に入らなくても対象の変化を否定せず、常に相手の本質を見つめつづける……」
+Lilja : "So, always observe the person, notice any changes in them, never deny the changes even if you don't like them, and always keep your eyes on the person's true nature..."
+丽露娅 : "时时刻刻观察着对象并感受其变化，即使自己不喜欢也不去否定对象的变化，时刻关注着对方的本质……"
+
+リルヤ
+リルヤ : 「それがお前の真実の愛なのだな」
+Lilja : "That's what true love means to you, right?"
+丽露娅 : "这就是对你而言的真爱吧"
+
+夏夏
+夏夏 : 「そうまとめられると、なんかすごい立派なことみたいですね」
+Natsuka : "If you put it that way, it sounds really noble."
+夏夏 : "被您这样概括后，感觉特别崇高啊"
+
+リルヤ
+リルヤ : 「みたいどころか、立派な行いそのものだろう」
+Lilja : "It doesn't merely sound like it. It %i1is%id noble."
+丽露娅 : "不是感觉崇高，这本身就很崇高"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「そう、ですね。できるかどうかはわからないけれど、わたしはそんな風に、何があってもリルヤさんを信じたいです」
+Natsuka : "You're right... I don't know if I'm able to do it, but if I can, I really want to believe in you in that same way."
+夏夏 : "是啊……不知道做不做得到，但是我希望能像这样，不管发生什么都相信着丽露娅小姐"
+
+夏夏
+夏夏 : 「――！」
+Natsuka : "Oh...!"
+夏夏 : "——！"
+
+夏夏
+夏夏 : 「そうです。リルヤさん！　わたし、さっき思い出したんです。リルヤさんがいっていたことを」
+Natsuka : "Lilja-san, I just remembered something! Something you said before!"
+夏夏 : "是的。丽露娅小姐！刚刚想起来了，丽露娅小姐曾经说过的一句话"
+
+夏夏
+夏夏 : 「お姉さんは、リルヤさんのためだと信じて、王位を継承させたがったり、治療方法を見つけようとしています」
+Natsuka : "Your sister is desperate to find a cure for you because she really wants you to inherit the throne. She thinks it would be better for you that way."
+夏夏 : "丽露娅小姐的姐姐，相信这是为了丽露娅小姐，才让您继承王位，为您寻找治疗方法的"
+
+夏夏
+夏夏 : 「でもそれは、今のリルヤさんを見ているのかなって……お姉さんは、今のリルヤさんの本当の望みを知らないのかもしれないなって」
+Natsuka : "But I have to wonder, is she really looking at the %i1real%id Lilja-san right now? Maybe your sister doesn't know what you really want."
+夏夏 : "不过我想，她有没有考虑过现在的丽露娅小姐呢……丽露娅小姐的姐姐，可能现在不知道丽露娅小姐真正想要的是什么"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「姉は、すくなくとも私のためだと信じ、私の力になろうと望みながらも、私の本当の望みとはかけ離れたことをしている」
+Lilja : "At the very least, my sister believes she is doing me a favor. She wants to help me, but there's a rift between her actions and my true desires."
+丽露娅 : "至少姐姐自己相信这是为了我好，希望能够帮助我，却和我真正的想法背道而驰"
+
+夏夏
+夏夏 : 「……はい」
+Natsuka : "...Right."
+夏夏 : "……是的"
+
+夏夏
+夏夏 : 「でも、怖いですね……」
+Natsuka : "That's... kinda scary."
+夏夏 : "但是，这很恐怖啊……"
+
+夏夏
+夏夏 : 「相手の役に立ちたいとか、力になりたいとか思う気持ちは本物でも……本当に相手のためになっているかはわからないんですから」
+Natsuka : "Even if you genuinely want to help someone, you never know if your actions, no matter how well-intentioned, are really helping."
+夏夏 : "即便是想要帮上对方的忙、想成为对方的力量的想法是真实的……也不知道自己所做的事情是不是为了对方着想的"
+
+夏夏
+夏夏 : 「お姉さんもですが、イヌイさんも、わたしだって……」
+Natsuka : "Maybe your sister, and Inui-san, and I..."
+夏夏 : "丽露娅小姐的姐姐也是，伊伮依小姐也是，我也是……"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+夏夏
+夏夏 : 「……はっ」
+Natsuka : "Ah!"
+夏夏 : "……啊！"
+
+夏夏
+夏夏 : 「い、今のはなしです！！！　わたしはちゃんとリルヤさんから本当の望みを聞いていますので！！！！！」
+Natsuka : "N-Never mind that! You've told me very clearly what you really want!"
+夏夏 : "刚、刚刚的当我没说！！！毕竟我从丽露娅小姐这里听到的是真正的想法！！！！！"
+
+夏夏
+夏夏 : 「リルヤさんの目がたとえ見えるようになっても、わたしはリルヤさんに喜びと驚きをもたらすもうひとつの目としてリルヤさんの傍にいます」
+Natsuka : "Even if your eyes are cured, I'll stay by your side and serve as a second set of eyes for you. And hopefully they'll keep bringing you joy."
+夏夏 : "即便是在丽露娅小姐的眼睛重获光明后，我也会作为另外的眼睛待在丽露娅小姐的身边，为丽露娅小姐带来欢乐和惊喜的"
+
+リルヤ
+リルヤ : 「そう。それでいい」
+Lilja : "Yes, that's exactly what I want."
+丽露娅 : "是的。这样就好"
+
+リルヤ
+リルヤ : 「しかし、イヌイか……」
+Lilja : "Inui, however..."
+丽露娅 : "不过，伊伮依她……"
+
+リルヤ
+リルヤ : 「イヌイとお前は、生育環境が似ているところがある。そのせいか、お前たちは相手の役に立つことに執着するきらいがあるな」
+Lilja : "She was raised in a similar environment as you. Maybe that's why you're both so determined to make yourselves useful to others."
+丽露娅 : "伊伮依和你成长的环境有些类似。所以你们都对为他人帮上忙这件事上有偏执"
+
+リルヤ
+リルヤ : 「だがそれは、そうでなければ、生きていけなかったであろう、お前たちの生き抜くための術だともいえる」
+Lilja : "That tendency is actually a means of survival for you. You wouldn't have been able to otherwise."
+丽露娅 : "但是，如果不这样的话，就没法继续活下去，对你们来说这可以说是为了活下去的手段了"
+
+リルヤ
+リルヤ : 「だがお前とイヌイには決定的な違いがある」
+Lilja : "However, there is one major difference between Inui and you."
+丽露娅 : "但是你和伊伮依有一点决定性的不同"
+
+リルヤ
+リルヤ : 「お前は自立して生きることを許されなかったが、あれは自立しなければ生きることを許されなかった」
+Lilja : "You weren't allowed to live independently, and she wasn't allowed to be dependent."
+丽露娅 : "你没被允许独自活下去，而她是没有被允许不独自地活下去"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「あの、リルヤさんは、イヌイさんとは古いお知り合いなんですか？」
+Natsuka : "Um, Lilja-san, have you known Inui-san for a long time?"
+夏夏 : "那个、丽露娅小姐，您跟伊伮依小姐认识很久了吗？"
+
+リルヤ
+リルヤ : 「そうだな……」
+Lilja : "Yes..."
+丽露娅 : "是啊……"
+
+リルヤ
+リルヤ : 「昔から知っていることは事実だ」
+Lilja : "Yes, quite a long time."
+丽露娅 : "我确实很久以前就知道她了"
+

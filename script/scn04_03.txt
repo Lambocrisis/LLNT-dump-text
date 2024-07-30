@@ -1,0 +1,465 @@
+夏夏
+夏夏 : 「ええ！？」
+Natsuka : "Whaaaat!?"
+夏夏 : "哎？！"
+
+夏夏
+夏夏 : 「そ、そんなの無理ですよ～～～！！？　お芝居なんて！」
+Natsuka : "Th-That's too much to ask! I can't act to save my life!"
+夏夏 : "这、这我不行呀～～～？！！我不会演戏呀！"
+
+リルヤ
+リルヤ : 「できるできる。お前はやればできる子だ」
+Lilja : "Sure you can. I know you can do it if you try."
+丽露娅 : "演得了演得了。你只要想做就能做好"
+
+夏夏
+夏夏 : 「そんな棒読みかつ投げやりな感じにいわれても！！？」
+Natsuka : "You're not going to convince me with that deadpan delivery of yours!!"
+夏夏 : "就算您毫无感情又破罐破摔地和我说也没用啊？！！"
+
+リルヤ
+リルヤ : 「クリスマスの時期だし丁度いいだろう？　私へのプレゼントだとでも思って励むといい」
+Lilja : "It's almost Christmas, so why don't you think of it as your present to me? Give it a try."
+丽露娅 : "这不正好快到圣诞节了吗？你就当这是要送给我的礼物好好努力吧"
+
+リルヤ
+リルヤ : 「どうせ、近々私にプレゼントの相談をするつもりだったのだろう？」
+Lilja : "I bet you were planning to ask me what I wanted for Christmas, anyway."
+丽露娅 : "反正就算我不说你过几天也会来跟我商量礼物的事吧？"
+
+夏夏
+夏夏 : 「ばっばれてる！　確かにリルヤさんのクリスマスプレゼントどうしようかな～って考えてはいましたが！　でも！」
+Natsuka : "You knew!? You're right, I was literally %i1just%id wondering what I should get you for Christmas. But still...!"
+夏夏 : "又让您猜到了！我确实我正考虑着给丽露娅小姐的圣诞礼物该怎么办呢！不过！"
+
+リルヤ
+リルヤ : 「合理的に考えてやるしかないだろう？」
+Lilja : "Logically speaking, you only have one option, don't you?"
+丽露娅 : "合理思考的话你也没别的选择了吧？"
+
+夏夏
+夏夏 : 「やるしかないならやりますけど！！　めちゃめちゃ緊張しますよ！」
+Natsuka : "If I don't have a choice, then I'll do it, but... I'm already getting really, really nervous!"
+夏夏 : "虽然我没有别的选择了！！但我还是很紧张呀！"
+
+リルヤ
+リルヤ : 「お前はお前らしくいればそれでいい。それしかできないだろうしな」
+Lilja : "Just be yourself. That's the only way you'll be able to pull it off, anyway."
+丽露娅 : "你按自己的方式来演就好。反正你也只能这样演"
+
+夏夏
+夏夏 : 「何ひとつ反論できませんね！？　うええ～ん！」
+Natsuka : "I can't argue against that! Wahhh!"
+夏夏 : "这我还能说什么呢？！呜哎～！"
+
+イヌイ
+？？？ : 「くすくす……」
+??? : "Hehehe..."
+??? : "嘻嘻……"
+
+夏夏
+夏夏 : （あれ？　今、笑い声が……？）
+Natsuka : (Huh? Did I hear someone laugh...?)
+夏夏 : （咦？刚刚是谁在笑……？）
+
+リルヤ
+リルヤ : 「イヌイだ」
+Lilja : "That would be Inui."
+丽露娅 : "是伊伮依"
+
+夏夏
+夏夏 : 「イヌイさん？」
+Natsuka : "Inui-san?"
+夏夏 : "伊伮依小姐？"
+
+イヌイ
+イヌイ : 「ふふ、ごめんなさいね。あまりにおふたりが微笑ましくて」
+Inui : "Hehe, my apologies. Your conversation was just too endearing."
+伊伮依 : "呵呵，不好意思。看到二位关系这么融洽我不由自主地笑了"
+
+夏夏
+夏夏 : （えっ、いつのまに？？？　チャイム鳴らなかったですよね？）
+Natsuka : (Huh!? When did she get here? I never heard the doorbell!)
+夏夏 : （哎？她什么时候来的？？？门铃没有响过吧？）
+
+リルヤ
+リルヤ : 「イヌイにはゲストキーを渡してある。リサーチャーとしてここに来ることがあったからな」
+Lilja : "I gave Inui a guest key. She stops by sometimes as part of her work as a detective."
+丽露娅 : "伊伮依有这里的房门密码。毕竟她以前在我这做过调查员"
+
+イヌイ
+イヌイ : 「ええ。以前はよくこちらの家に伺っておりました。最近は、めっきりオンラインのみでの報告でしたが」
+Inui : "Yes, I used to visit quite a bit. Recently, though, I've been reporting in online more often."
+伊伮依 : "嗯。以前我常来这拜访。不过最近基本都只在线上报告了"
+
+夏夏
+夏夏 : 「リサーチャー……」
+Natsuka : "A detective..."
+夏夏 : "调查员……"
+
+夏夏
+夏夏 : 「あっ！　これまでの事件でリサーチャーさんのこと、リルヤさんがおっしゃってました！」
+Natsuka : "Oh! Are you the detective Lilja-san mentioned!? The one who's been helping her collect information about our clients!?"
+夏夏 : "哦！就是之前发生的种种事件中丽露娅小姐说的协助调查的那位调查员吗！"
+
+イヌイ
+イヌイ : 「はじめまして、イヌイと申します。アンテロ・Ｖ・リサーチ日本支部にて、リルヤ様付きのリサーチャーを担当しております」
+Inui : "Yes, pleased to make your acquaintance. My name is Inui, and I work for Lilja-sama at the Japan branch of Antero V. Research."
+伊伮依 : "初次见面，我叫伊伮依。隶属于安特罗·V·调研公司日本分公司，目前担任丽露娅大人的专属调查员"
+
+イヌイ
+イヌイ : 「リルヤ様に必要な情報を報告し、生活をサポートするのが、私の業務です」
+Inui : "It's my job to provide Lilja-sama with the information she needs and to support her in her daily life."
+伊伮依 : "我的工作内容是向丽露娅大人汇报她所需要的信息，并协助她的生活"
+
+イヌイ
+イヌイ : 「ですが、本日は王家の代理人として参りました。アイラ様からの絵の依頼ですわ」
+Inui : "However, today I'm here on behalf of the royal family. Aira-sama has requested a painting."
+伊伮依 : "不过，我今天是以王室代表的身份前来的。我是替艾拉大人来找您订画的"
+
+イヌイ
+イヌイ : 「ご依頼の内容は、戴冠式の絵」
+Inui : "It's for the coronation ceremony."
+伊伮依 : "画的主题是，加冕仪式"
+
+リルヤ
+リルヤ : 「わかった。検討するから今はさがれ」
+Lilja : "All right, I'll consider it. You may leave now."
+丽露娅 : "知道了。我还要再斟酌一下你先退下吧"
+
+イヌイ
+イヌイ : 「かしこまりました。それでは本日はこれで失礼いたします」
+Inui : "Understood. I'll excuse myself, then."
+伊伮依 : "遵命。那我今天就先告辞了"
+
+イヌイ
+イヌイ : 「夏夏さん、こちらおみやげです。リルヤ様とどうぞ」
+Inui : "Natsuka-san, here's a little gift. Please share it with Lilja-sama."
+伊伮依 : "夏夏小姐，这是我带的伴手礼。请跟丽露娅大人一同享用吧"
+
+夏夏
+夏夏 : 「わっ、ありがとうございます」
+Natsuka : "Wow, thank you!"
+夏夏 : "哇！谢谢"
+
+イヌイ
+イヌイ : 「今度、夏夏さんも交えてゆっくりお話させていただきたいですわね。それでは失礼しますね」
+Inui : "I'd love to have a longer chat with you sometime, Natsuka-san, but we'll save that for another day."
+伊伮依 : "希望下次能有机会跟夏夏小姐也深入交流一下。那我就先告辞了"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「きれいで大人っぽくて優しげですが、とってもできるって感じの女の人でしたね……」
+Natsuka : "Such a kind, mature lady. She seems like she could do anything..."
+夏夏 : "漂亮、稳重又温柔，让人感觉是个非常能干的女人啊……"
+
+リルヤ
+リルヤ : 「そうだな。イヌイが優秀なリサーチャーであることは否定できまいよ。日本において私が必要とする情報を的確に集めてきた」
+Lilja : "You're right. Inui is a competent researcher, I won't deny that. She's successfully gathered all the information I've needed so far in Japan."
+丽露娅 : "是啊。我不得不承认伊伮依确实是一位十分优秀的调查员。在日本她总是能准确地收集到我所需要的信息"
+
+リルヤ
+リルヤ : 「日本に移住した最初期に、あらゆる必要な手続きを行うための秘書として働いたのもイヌイだ」
+Lilja : "She also acted as my secretary and took care of all the formalities during my immigration process to Japan."
+丽露娅 : "刚搬来日本的时候，所有的手续都是担任我秘书的伊伮依帮我处理的"
+
+夏夏
+夏夏 : 「リルヤさんの担当になって、しかも引っ越し周りまで任されて、今回は王家の代理人まで……！　は～本当に有能な人なんですねえ」
+Natsuka : "She's your secretary, and you entrusted her with everything related to your move, %i1and%id she's a representative of the royal family...? Wow, what %i1can't%id she do?"
+夏夏 : "能担任丽露娅小姐的专属调查员，还能帮忙处理搬家的事务，这次甚至代表了王室……！哇～她的能力真的好强啊"
+
+リルヤ
+リルヤ : 「周りの信頼を勝ち得る術に長けていることは確かだな」
+Lilja : "She certainly knows how to earn people's trust."
+丽露娅 : "她确实很擅长赢得他人的信任"
+
+夏夏
+夏夏 : 「王家から絵の依頼が来るなんてすごいですね！　あっでもリルヤさんは王女様だから、ご家族からの依頼になるってことでしょうか？」
+Natsuka : "It's incredible that even the royal family is requesting your paintings! Oh, but you're a princess, so that makes it a request from your own family, right?"
+夏夏 : "居然会接到来自王室的委托，太厉害了！啊，不过丽露娅小姐是公主来着，这应该算是家里人给的委托吧？"
+
+夏夏
+夏夏 : 「ってことは、お姉さんかお兄さんが戴冠される……？」
+Natsuka : "Does that mean you have an older brother or sister who'll be inheriting the throne?"
+夏夏 : "也就是说，您要为姐姐或者哥哥加冕吗……？"
+
+リルヤ
+リルヤ : 「違う。私だ」
+Lilja : "No, I will."
+丽露娅 : "不，是我自己"
+
+夏夏
+夏夏 : 「えっ」
+Natsuka : "Huh?"
+夏夏 : "哎？"
+
+夏夏
+夏夏 : 「えっでも、その、リルヤさんは……」
+Natsuka : "Huh, but... Um, Lilja-san, you're..."
+夏夏 : "哎，但是，那个，丽露娅小姐不是——"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+夏夏
+夏夏 : 「――！」
+Natsuka : "..."
+夏夏 : "——！"
+
+夏夏
+夏夏 : 「もっもしかしてもしかしてもももももももしかして」
+Natsuka : "Wait, don't tell me! No way! A-A-A-A-A-Are you...!?"
+夏夏 : "难、难道说难道说难难难难难难道说"
+
+夏夏
+夏夏 : 「リリリリリルヤさんっ、リルヤさんの体が治るんですか！？」
+Natsuka : "L-L-L-L-Lilja-san, can you be cured!?"
+夏夏 : "丽丽丽丽丽露娅小姐，丽露娅小姐的身体能治好吗！？"
+
+リルヤ
+リルヤ : 「ああ……先日、治療の提案がなされた」
+Lilja : "Yes, the proposal for my treatment was submitted the other day."
+丽露娅 : "嗯……前几天治疗方案下来了"
+
+夏夏
+夏夏 : 「すっすごいです！　えっすごいです！！！　なんかもうこのまま外に飛び出して町中を走り回りたい気分です！！」
+Natsuka : "Th-That's incredible! Really incredible! I could run outside right now and shout it from the rooftops!"
+夏夏 : "太、太厉害了！哎太厉害了！！！我现在有种想要冲到外面去在街上跑上几圈的冲动！！"
+
+夏夏
+夏夏 : 「えっどうしよっどうしましょうっお、お祝いですよね？　お赤飯？　いやっこれは違うっ、あっ、ケーキ？　フライドチキン！？」
+Natsuka : "Wait, what should I do!? W-We need to celebrate! What should I get? Red rice? No, that doesn't seem right... A cake? Maybe some fried chicken!?"
+夏夏 : "哎怎么办怎么办怎么办怎么庆祝？红豆饭？啊这个不合适，要不，蛋糕？还是炸鸡？！"
+
+リルヤ
+リルヤ : 「赤飯は流石に違うな。日本固有の風習である上に用途が遠すぎる。そしてケーキとフライドチキンは、日本のクリスマスメニューだろう」
+Lilja : "Definitely not red rice. It may be a Japanese custom to eat rice with azuki beans for a wide variety of celebratory occasions, but a coronation isn't one of them. And cake and fried chicken are associated with Christmas in Japan, right?"
+丽露娅 : "红豆饭也太离谱了。用这个来庆祝跟日本特有的传统习俗差得也太远了。另外蛋糕和炸鸡是日本人在圣诞节吃的吧"
+
+夏夏
+夏夏 : 「的確なツッコミありがとうございます！　でも、でもでもあああああああほんとすごいっすごいですっなんかすごいしか言葉が……」
+Natsuka : "Thanks for the reminder, but... But... Buuuuuut! This is really incredible! Incredible, that's all I can say..."
+夏夏 : "感谢您精准的吐槽！但是、但是但是真——的是太厉害太厉害了，感觉我也只会用厉害来形容了……"
+
+リルヤ
+リルヤ : 「――――」
+Lilja : "..."
+丽露娅 : "————"
+
+夏夏
+夏夏 : （あれっ？　なんだかリルヤさんがわたしの顔を真っ直ぐ見て……それに、この表情……）
+Natsuka : (Huh? Lilja-san seems to be staring straight into my soul... That expression of hers...)
+夏夏 : （咦？怎么感觉丽露娅小姐在盯着我的脸……而且，她那副表情……）
+
+夏夏
+夏夏 : 「リルヤさんは……嬉しくないんですか？」
+Natsuka : "Lilja-san... Are you... not happy?"
+夏夏 : "丽露娅小姐……您不开心吗？"
+
+リルヤ
+リルヤ : 「迷っている、いや、迷っていたというべきか」
+Lilja : "I'm conflicted. Or rather, I %i1was%id conflicted."
+丽露娅 : "我很迷茫，不，应该说我之前很迷茫"
+
+夏夏
+夏夏 : 「えっどうしてですか？」
+Natsuka : "Huh? Why?"
+夏夏 : "哎？为什么呢？"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「ふ……」
+Lilja : "Heh..."
+丽露娅 : "呵……"
+
+リルヤ
+リルヤ : 「お前という人間の抱き得る感情を込みで想定していたのだが、お前はいつも私という人間の想像の埒外にあるな」
+Lilja : "I know you're capable of expressing every kind of emotion humanly possible, but somehow you always manage to act outside the realm of my expectations."
+丽露娅 : "原本我是以人类所能拥有的感情来对你进行预测的，但你总是能超乎身为人类的我的想象"
+
+リルヤ
+リルヤ : 「いや、これは私のエミュレートの精度の低さを嘆くべきなのだろうな」
+Lilja : "No, I suppose I should lament the poor accuracy of my emulations."
+丽露娅 : "不，我应该为我不够精密的仿真精度而叹气吧"
+
+夏夏
+夏夏 : 「？？？？？？？」
+Natsuka : "Huhhhh?"
+夏夏 : "？？？？？？？"
+
+リルヤ
+リルヤ : 「私は、治療によって私の目と足が使い物になるようになれば、お前は困るだろうと考えた」
+Lilja : "I imagined you'd be troubled by the prospect of a potential cure for my eyes and legs."
+丽露娅 : "我曾以为，如果我接受治疗，要把我的眼睛和腿治好的话，会让你很难办"
+
+夏夏
+夏夏 : 「えっ、そんなの、リルヤさんの体が治るのが一番に決まってるじゃないですか」
+Natsuka : "Huh? No way! I'd be happy if you were cured, of course!"
+夏夏 : "哎……怎么会，治好丽露娅小姐的身体才是最重要的啊"
+
+夏夏
+夏夏 : 「あっでも、もしリルヤさんが許してくださるなら、今後もリルヤさんのお役に立ちたいです！！」
+Natsuka : "Oh, but if you'll still allow me to work for you, I'd love to keep helping you however I can!"
+夏夏 : "啊，不过，如果丽露娅小姐愿意的话，我希望在那之后也能继续为丽露娅小姐效力！！"
+
+夏夏
+夏夏 : 「治ったリルヤさんのために何ができるかわかりませんが、でも頑張りますので！！」
+Natsuka : "I don't know what I could do for you once you're fully healed, but I promise I'll do my best no matter what!"
+夏夏 : "不知道我能为痊愈后的丽露娅小姐做些什么，但我会努力的！！"
+
+夏夏
+夏夏 : 「リルヤさんの新しい目と足じゃなくなっても、必要な情報を持って来れなくても……わたし、リルヤさんの傍にいたいです！！！」
+Natsuka : "Even if I don't need to be your eyes and legs anymore... Even if I don't need to bring you information beyond what's necessary anymore, I still want to stay with you!"
+夏夏 : "即使不再能作为丽露娅小姐的双眼和双腿，即使不能为丽露娅小姐带来需要的信息……我依然想要待在丽露娅小姐的身旁！！！"
+
+夏夏
+夏夏 : 「あっでもリルヤさんの目と足が治ると、リルヤさんは王位を継承して……」
+Natsuka : "Ahh, but if you're cured, you'll inherit the throne..."
+夏夏 : "啊，但是丽露娅小姐治好眼睛和腿后，就要继承王位了……"
+
+夏夏
+夏夏 : 「つまり女王様になるってことで……わたしにできることってあるんでしょうか！？」
+Natsuka : "That means you're going to be a queen... Would there still be anything I could do for you then!?"
+夏夏 : "也就是说要成为女王了……那还有我能做到的事情吗？！"
+
+夏夏
+夏夏 : 「で、でもでもやっぱりわたし、リルヤさんの近くにいたいので頑張ります！！　何ができますかね、お城の掃除人とかですかね！？」
+Natsuka : "B-But I still want to be somewhere close to you, so I'll do whatever it takes! I'll do anything—maybe your castle needs a janitor!?"
+夏夏 : "不、不过不过我还是想要争取能待在丽露娅小姐的身边！！我能做做些什么呢，给城堡打扫卫生应该行吧？！"
+
+リルヤ
+リルヤ : 「…………」
+Lilja : "..."
+丽露娅 : "…………"
+
+リルヤ
+リルヤ : 「……はは」
+Lilja : "Haha..."
+丽露娅 : "……哈哈"
+
+夏夏
+夏夏 : （えっ、笑われてしまいました！？）
+Natsuka : (Huh!? She's laughing at me!?)
+夏夏 : （哎，我被她笑了吗？！）
+
+リルヤ
+リルヤ : 「本当に……お前という人間は」
+Lilja : "You're really... unbelievable."
+丽露娅 : "你这个人，真是……"
+
+リルヤ
+リルヤ : 「わかった。お前がそれでかまわないというのなら、私は治療を受けることにする」
+Lilja : "All right. If you don't have anything against it, then I will undergo the treatment."
+丽露娅 : "我知道了。如果你觉得这样也能接受的话，那我就接受治疗吧"
+
+リルヤ
+リルヤ : 「それから、掃除人はやめておくように」
+Lilja : "And you don't need to become a janitor."
+丽露娅 : "另外，打扫卫生就算了"
+
+夏夏
+夏夏 : 「だめでしょうか？　やっぱりお城の掃除人ともなれば、スーパー家政人さん並の能力が必要だとか……？」
+Natsuka : "You don't think I'd be up to the task? I guess a big castle like that would need a housekeeper with superpowers to keep it clean, huh..."
+夏夏 : "不行吗？看来要给城堡做卫生，没有跟专业家政员一样的水平是不行的吗……？"
+
+リルヤ
+リルヤ : 「お前は、私にとってのお前という存在を低く見積もりすぎている」
+Lilja : "You're underestimating how much I value you."
+丽露娅 : "你把你自己在我这里的价值看得太低了"
+
+夏夏
+夏夏 : 「！！」
+Natsuka : "Oh!"
+夏夏 : "！！"
+
+リルヤ
+リルヤ : 「お前は私の新たな光だ」
+Lilja : "You're my new light."
+丽露娅 : "你是我的一道崭新的光"
+
+リルヤ
+リルヤ : 「お前は私が見えない世界を見せ、私に常に驚きと喜びを与える」
+Lilja : "You've shown me a world I couldn't see, and you bring me joy and surprises every day."
+丽露娅 : "你让我看到了我不曾看到的世界，你时常为我带来惊喜和欢乐"
+
+リルヤ
+リルヤ : 「私が仮に神の目を取り戻したとしても、神の調和に満ちた世界で満足するかどうかはわからないくらいにな」
+Lilja : "Even if I were to regain God's eyes, I'm not sure I'd be satisfied in a world of divine harmony."
+丽露娅 : "是你让我觉得，即使我真的能找回上帝的眼睛，也未必能够从满是上帝的协调的世界中得到满足"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+夏夏
+夏夏 : 「すみません……なんか今、すごい感動して……」
+Natsuka : "I'm sorry... I'm just... really touched."
+夏夏 : "对不起……我现在真的太感动了……"
+
+夏夏
+夏夏 : 「わかっているつもりでも、改めて言葉にしてもらえると感動の波がすさまじいっていうか……」
+Natsuka : "I thought I knew how much you cared, but when you spell it out for me like that, I get overwhelmed by emotions..."
+夏夏 : "虽然我心里明白，但是这样直接听到还是让我难以抑制心中的感动……"
+
+リルヤ
+リルヤ : 「理解したか？」
+Lilja : "Do you understand now?"
+丽露娅 : "你理解了吗？"
+
+夏夏
+夏夏 : 「はい！　わたしがリルヤさんに新しい世界を見せる力を持っていることを、低く見積もっちゃいけませんね」
+Natsuka : "Yeah! I should stop underestimating my power to show you a new world, Lilja-san."
+夏夏 : "理解了！我有着能让丽露娅小姐看到新世界的能力，可不能把自己给看扁了"
+
+リルヤ
+リルヤ : 「そういうことだ」
+Lilja : "Exactly."
+丽露娅 : "没错"
+
+リルヤ
+リルヤ : 「ということでこの話は一旦区切りをつける。夏夏、それだけ興奮したら空腹になっただろう？　お茶にすると良い」
+Lilja : "Let's leave all that aside for now, though. Natsuka, you must be hungry after all that excitement. Let's have a snack."
+丽露娅 : "那目前讨论的事就先告一段落吧。夏夏，看你这么兴奋肚子肯定饿了吧？喝杯茶休息一下吧"
+
+夏夏
+夏夏 : 「あっそうですね！？　さっき肉まんを食べたばかりですが、半分だけでしたし、興奮してきれいさっぱり消化されちゃいました」
+Natsuka : "Oh, you're right! We just had that meat bun, but I only had half of it. I must've already digested it in my excitement."
+夏夏 : "啊，说起来也是？！虽说刚刚吃了肉包但也只吃了半个，兴奋起来就全都给消化掉了"
+
+夏夏
+夏夏 : 「でもリルヤさんは、そんなにすぐにおなか空きませんよね？」
+Natsuka : "But you don't get hungry as fast as I do, right, Lilja-san?"
+夏夏 : "不过丽露娅小姐应该没那么快饿吧？"
+
+リルヤ
+リルヤ : 「そうだな、私は飲み物だけで良い」
+Lilja : "That's right. I'll just have something to drink."
+丽露娅 : "是的，我只要喝的就行"
+
+夏夏
+夏夏 : 「何を飲みますか？」
+Natsuka : "What would you like?"
+夏夏 : "您要喝什么？"
+
+リルヤ
+リルヤ : 「今日は、デカフェのコーヒーをブラックで。イヌイの土産の中に入っているはずだ。故郷の美味いコーヒーだ。匂いでわかる」
+Lilja : "I'll have some decaf coffee today, black. There should be some in that gift bag from Inui. I can smell it. It's the coffee from my hometown that I like."
+丽露娅 : "今天就喝脱脂黑咖啡吧，不加糖不加奶精。伊伮依带来的伴手礼里应该有。是我故乡咖啡，很好喝。闻到味道我就知道了"
+
+夏夏
+夏夏 : 「では、さっそく準備しますね。イヌイさんのおみやげ、どんなのかとっても楽しみです～！」
+Natsuka : "I'll prepare it for you right away. I can't wait to see what else Inui-san got for us!"
+夏夏 : "那我马上去准备。好期待伊伮依小姐送的伴手礼是什么味道呀～！"
+

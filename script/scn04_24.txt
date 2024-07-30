@@ -1,0 +1,170 @@
+白縫
+？？？ : 「そこまでにしておきなさい、月季」
+??? : "That's enough, Tsuki."
+??? : "差不多就行了，月季"
+
+イヌイ
+イヌイ : 「お、お祖母様……！」
+Inui : "G-Grandmother...!"
+伊伮依 : "祖、祖母……！"
+
+白縫
+白縫 : 「負けたことがおもしろくなくて、勝った相手をすこしでも傷つけようとするところ、本当に子どもの頃から何も変わらないわね……」
+Shiranui : "You haven't changed a bit since you were a child. Whenever you lose at something, you always try to hurt the winner however you can."
+白缝 : "你那输不起，总想从赢你的人身上咬下块肉一样的地方，从小时候就没变过啊……"
+
+白縫
+白縫 : 「大人になってすこしは落ち着いたと思っていたのに」
+Shiranui : "I thought you would have grown up a little by now."
+白缝 : "还以为成年了你会变得更稳重"
+
+イヌイ
+イヌイ : 「どうして、ここに？　だって、お祖母様はわたしが……」
+Inui : "What are you doing here? You should be..."
+伊伮依 : "祖母您为什么在这里？　现在您不是应该……"
+
+白縫
+白縫 : 「あなたが手配した素敵な別荘地で、ゆっくりバカンスを楽しんでもらっているはずなのに？」
+Shiranui : "I should be enjoying my holiday at the lovely vacation home you arranged for me?"
+白缝 : "在你准备的漂亮别墅里，优哉游哉度假？"
+
+白縫
+白縫 : 「確かに食事もホスピタリティも最高だったけれど、残念ながら、体の良い軟禁だったわね」
+Shiranui : "The accommodation, food, and hospitality were wonderful, but unfortunately I don't enjoy being under house arrest."
+白缝 : "确实，饭挺好吃，服务也很周到。但说好听点是度假，说难听点就是幽禁"
+
+イヌイ
+イヌイ : （善乃は知らなかったはず、だとしたら……夜？）
+Inui : (Yoshino couldn't have known... Was it Yoru?)
+伊伮依 : （善乃应该是不知道这件事的，也就是说……夜干的？）
+
+リルヤ
+リルヤ : 「どうして白縫のいる場所が突きとめられたのか不思議そうだな。ミス善乃は知らないからな。ああ、ミス透月も違うぞ」
+Lilja : "You seem to be wondering how we were able to locate Shiranui. Miss Yoshino certainly didn't know, and Miss Yoru didn't, either."
+丽露娅 : "你好像很好奇我们为什么知道白缝在的地方啊。善乃女士是不知道的。哦对了，也不是透月女士告诉的"
+
+イヌイ
+イヌイ : 「だとしたら……」
+Inui : "That leaves..."
+伊伮依 : "那……"
+
+イヌイ
+イヌイ : 「！　まさか……」
+Inui : "It can't be..."
+伊伮依 : "！　难道是……"
+
+リルヤ
+リルヤ : 「お前は本当に頭が良く回る。そこは評価しているんだ。そうだ、お前の考えた通りだよ、月季」
+Lilja : "I appreciate your quick thinking. Yes, it's exactly what you think, Tsuki."
+丽露娅 : "你脑袋真的很灵光。我很欣赏你这个地方。没错，正如你所想，月季"
+
+リルヤ
+リルヤ : 「私自身を、私が使える駒としてカウントできなかったのが、お前が私に勝てなかった理由だ」
+Lilja : "The reason you couldn't win against me is that you didn't realize I was using %i1myself%id as a pawn as well."
+丽露娅 : "你忘了我能用的棋子中，还有我本身。这就是你的败因"
+
+リルヤ
+リルヤ : 「私も病院で暇をしていたのでな、十分に調べる時間はあったよ」
+Lilja : "I had plenty of free time on my hands while I was hospitalized. More than enough to do all the necessary research myself."
+丽露娅 : "我在医院可太闲了，调查时间是足够的"
+
+リルヤ
+リルヤ : 「私の面倒をみるために、お前の腹心の部下を使ったのが裏目に出たな」
+Lilja : "Your decision to use people from your own inner circle to take care of me backfired on you."
+丽露娅 : "为了照顾我，派出了你的心腹，这是你的失误"
+
+リルヤ
+リルヤ : 「誰もがお前のように優秀なわけじゃない。人間というのは、もっとも重大なセキュリティホールとなる」
+Lilja : "Not everybody is as competent as you are. Human nature was the biggest security hole in your plans."
+丽露娅 : "并非任何人都像你那样优秀。所谓人类，就是最致命的安全漏洞啊"
+
+イヌイ
+イヌイ : 「…………」
+Inui : "..."
+伊伮依 : "…………"
+
+イヌイ
+イヌイ : 「はあ……」
+Inui : "Hahh..."
+伊伮依 : "唉……"
+
+イヌイ
+イヌイ : 「私は負けたのね」
+Inui : "I've lost, huh?"
+伊伮依 : "是我输了啊"
+
+白縫
+白縫 : 「…………」
+Shiranui : "..."
+白缝 : "…………"
+
+イヌイ
+イヌイ : 「何もいわないでお祖母様」
+Inui : "Don't say it, Grandmother."
+伊伮依 : "什么都别说了，祖母"
+
+イヌイ
+イヌイ : 「私はどうしても、この計画を完遂したかった」
+Inui : "I just wanted to see my plan through to the end."
+伊伮依 : "无论如何，我都想完成这个计划"
+
+イヌイ
+イヌイ : 「たかが布きれ一枚に塗料と油をなすりつけただけの代物に……大好きなお祖母様が救われたなんて、認めたくなかった」
+Inui : "I didn't want to admit... that my dear grandmother had been saved by a mere rag with some oil and pigments smeared onto it."
+伊伮依 : "我不能承认，用颜料和油在一段布料上制造出来的破烂……就能拯救我最爱的祖母"
+
+イヌイ
+イヌイ : 「だって、お祖母様を救うのは……」
+Inui : "I wanted to be the one to..."
+伊伮依 : "因为，能拯救祖母的只有……"
+
+イヌイ
+イヌイ : 「…………」
+Inui : "..."
+伊伮依 : "…………"
+
+イヌイ
+イヌイ : 「リルヤ、わかっていると思うけどお祖母様は何も関係ないから」
+Inui : "I'm sure you know, Lilja, but my grandmother had nothing to do with this."
+伊伮依 : "丽露娅，我想你也知道，我祖母没有任何关系"
+
+リルヤ
+リルヤ : 「わかっている」
+Lilja : "I know."
+丽露娅 : "我明白"
+
+イヌイ
+イヌイ : 「それがわかっていればいいの」
+Inui : "That's good."
+伊伮依 : "那就好"
+
+イヌイ
+イヌイ : 「さようなら、お祖母様」
+Inui : "Goodbye, Grandmother."
+伊伮依 : "再见了，祖母"
+
+イヌイ
+イヌイ : 「……お祖母様の顔が燃えなくてよかったわ」
+Inui : "I'm glad your portrait didn't get burned."
+伊伮依 : "……太好了，不用烧掉祖母的肖像画"
+
+イヌイ
+イヌイ : （……たかだか布きれ一枚に塗料をなすりつけただけものなのにね。でも、あの炎のなかからお祖母様の顔が現れたとき、どうしても燃えるのが許せなかった）
+Inui : (It's just pigments on a piece of cloth, yet I couldn't bear to watch it burn when my grandmother's face appeared on it.)
+伊伮依 : （……那只是用笔在破布上涂画后的产物。但是从火焰里看到祖母的面容，我实在是不忍烧掉它）
+
+イヌイ
+イヌイ : （たぶん他の人間が描いた絵ならば……こんな気持ちにならなかったでしょう。あの時点で、私の負けは決定していた）
+Inui : (I don't think I would've felt this strongly about it if it had been painted by anyone else. I lost the battle the moment I got upset.)
+伊伮依 : （如果画的是别人……我应该不会这样想吧。从时开始，我就注定失败了）
+
+イヌイ
+イヌイ : （でも……）
+Inui : (But...)
+伊伮依 : （但是……）
+
+イヌイ
+イヌイ : 「ああ――やっぱり、絵なんて大嫌い」
+Inui : "Ahh... I really hate paintings."
+伊伮依 : "唉……我果然最讨厌画了"
+

@@ -1,0 +1,510 @@
+リルヤ
+？？？ : 「よかったよ」
+??? : "I'm glad..."
+??? : "太好了"
+
+リルヤ
+？？？ : 「どうやらお前にも人の心があるようで」
+??? : "It would seem you have a heart after all."
+??? : "看来你也有人类的感情"
+
+イヌイ
+イヌイ : 「ッ！？」
+Inui : "Huh!?"
+伊伮依 : "什！？"
+
+イヌイ
+イヌイ : 「リルヤ――！！」
+Inui : "Lilja!!"
+伊伮依 : "丽露娅——！！"
+
+リルヤ
+リルヤ : 「たかが布きれ一枚に、顔料と油をなすりつけた代物だが、心を動かされるようで何よりだ」
+Lilja : "I'm glad my rag with oil and pigment smeared on it has managed to touch your heart."
+丽露娅 : "挺好的，虽然只是一块布，上面涂了点颜料和油，但能触动你的内心"
+
+イヌイ
+イヌイ : 「なぜ……」
+Inui : "Why...?"
+伊伮依 : "为什么……"
+
+イヌイ
+イヌイ : 「いえ、いいわ。答はいらないわ」
+Inui : "Never mind, I don't need your answer."
+伊伮依 : "不，算了。不用回答"
+
+イヌイ
+イヌイ : 「善乃ね……」
+Inui : "It was Yoshino, wasn't it?"
+伊伮依 : "是善乃做的吧……"
+
+リルヤ
+リルヤ : 「そのとおりだ。彼女には最も難しい役目を負ってもらった。感謝しているよ」
+Lilja : "That's right. She was willing to play the most difficult role of all, for which I'm deeply grateful."
+丽露娅 : "没错。她负责了最困难的部分，我可得好好谢谢她"
+
+イヌイ
+イヌイ : 「……騙そうとして騙されたのは私なのね」
+Inui : "...I tried to trick you, but I ended up being tricked instead."
+伊伮依 : "……结果是我偷鸡不成蚀把米么"
+
+リルヤ
+リルヤ : 「イヌイ、いや月季……お前には感謝している。お前が私に協力してくれたおかげで、私はこうして自由になった」
+Lilja : "Inui... No, Tsuki. You have my gratitude as well. It's thanks to your cooperation that I've gained my freedom."
+丽露娅 : "伊伮依，不对……月季……我还要感谢感谢你。多亏你帮了我，我现在才能这么自由"
+
+リルヤ
+リルヤ : 「私が現実に開演した『芝居』で、お前はよく動いてくれた。私は無事に死者となり、別の身分を得ることができた」
+Lilja : "You've played your role well in my real-life play. Thanks to you, I'm now 'dead' and have successfully gained a new identity."
+丽露娅 : "我在现实里演出的‘戏’中，你帮了我大忙。我顺利地成了死者，获得了另外的身份"
+
+リルヤ
+リルヤ : 「これから確実に起こるであろう、王位継承のゴタゴタからも無事に解放された。今の私は、王族でもなんでもない、ただのリルヤだ」
+Lilja : "I'm finally free from the whole mess surrounding the order of succession to the throne. I'm no longer royalty or anything like that anymore. I'm just Lilja now."
+丽露娅 : "我顺利从接下来必然要发生的王位继承纠纷中解放出来了。现在的我不是王族，只是‘丽露娅’"
+
+リルヤ
+リルヤ : 「完全に王家と縁を切ったといっても、絶縁というわけではないがな」
+Lilja : "Although I've left the royal family, I haven't completely severed my ties with them."
+丽露娅 : "不过嘛，虽说我断绝了和王室的关系，但也没完全断"
+
+リルヤ
+リルヤ : 「家族は私の望みに賛同し、協力してくれた。これまでの依頼人たちも、最初からね」
+Lilja : "My family respects my wishes and cooperated with my plan, as did my clients... They've been on my side all along."
+丽露娅 : "我的家人对我的想法表示赞同。以前接触过的委托人们也是，从最开始就支持我"
+
+イヌイ
+イヌイ : 「最初から……」
+Inui : "All along..."
+伊伮依 : "从最开始……"
+
+リルヤ
+リルヤ : 「いつからか気になるか？」
+Lilja : "Are you wondering how long?"
+丽露娅 : "你在意是从什么时候开始的吗？"
+
+イヌイ
+イヌイ : 「いいえ、想像はつくわ。それこそ最初からよ。はじめのはじめ。私が依頼人たちに接触したときからしかありえない」
+Inui : "No, I have a pretty good guess. Right from the very beginning, no? I can't imagine you allowing me to contact your clients without setting everything up first."
+伊伮依 : "不，能想象到。还真就是从最开始呢。只有可能是从开始的开始，我去接触委托人们那会起"
+
+リルヤ
+リルヤ : 「そうだ。お前が接触した依頼人たちには、もし私の描いた絵に関わろうとする人間がいたら、連絡するようにあらかじめ伝えておいた」
+Lilja : "You're right. I told my clients to inform me at once if anyone ever tried to meddle."
+丽露娅 : "没错。你接触的委托人们，我都事先告知过，如果出现对我的画作有想法的人，就请联系我"
+
+リルヤ
+リルヤ : 「悪意の想定は、いくらしてもし足りることはないからな」
+Lilja : "I've always had to be prepared for the worst."
+丽露娅 : "毕竟恶意的揣测，有多少都不算多"
+
+イヌイ
+イヌイ : 「その様子だと、私の正体にも早々に気づいていたようね」
+Inui : "It sounds as if you've been aware of my true identity all along, too."
+伊伮依 : "看你这样子，应该也很早就注意到了我的真实身份吧"
+
+リルヤ
+リルヤ : 「そうでもない。故郷ではじめて、リサーチャーのイヌイとして会った時にはわからなかった。気づいたのは、目が見えなくなってからだ」
+Lilja : "That's not entirely true. When I first met you as 'Inui, the detective' back in my home country, I had no idea. I only noticed after I became blind."
+丽露娅 : "那倒没有。我在故乡，第一次遇到调查员伊伮依时还不知道。注意到你的真实身份是从我双目失明开始的"
+
+リルヤ
+リルヤ : 「目が見えなくなったからこそ、お前が、りらの孫である白縫月季だとすぐにわかった」
+Lilja : "When I couldn't see anymore, I immediately noticed that you were Lila's granddaughter, Shiranui Tsuki."
+丽露娅 : "正因为我双目失明了，才能立刻明白，你就是莉罗的孙女，白缝月季"
+
+リルヤ
+リルヤ : 「月季であるお前と私が直接会ったとき、私はとても幼かった。それでも覚えている。月季の声、足音、においを」
+Lilja : "When you and I first met, I was very young. All I remembered was your voice, your scent, and the sound of your footsteps."
+丽露娅 : "我和作为‘月季’的你直接见面，还是在我很小的时候。即便如此我也还记得，月季的声音、走路声、气味"
+
+リルヤ
+リルヤ : 「もちろんお前だけではないがな。私の中には全ての出会った人間のデータベースがある」
+Lilja : "It's not just you. Inside my head, there's a database of all the people I've met in my life."
+丽露娅 : "当然，不仅是你。在我的大脑中，有着所有我见过的人的数据库"
+
+イヌイ
+イヌイ : 「ゆりの家で共に夏をすごしたのは、あなたが３歳までなのに？　それ以降、白縫りらの孫としては、ほとんど会っていないのに……」
+Inui : "But you only spent your summers at Yuri's house until you were three years old, and you rarely saw Shiranui Lila's granddaughter again after that..."
+伊伮依 : "在百合家里共度夏季的时候，你应该最大也才3岁吧？　明明从那以后，就基本上没见过白缝莉罗的孙女了……"
+
+リルヤ
+リルヤ : 「そうだな。あの夏の火事……私がそこまで幼くなければ、ボヤ騒ぎの真相にも気づけただろうな」
+Lilja : "If I hadn't been so young the summer the fire occurred... I probably would have arrived at the truth a lot quicker."
+丽露娅 : "我想想啊，那个夏天的火灾……我要是没那么幼小的话，可能就发现了那场小火灾的真相了吧"
+
+リルヤ
+リルヤ : 「流石に幼すぎて、お前の身体にまつわる記憶しかないのが残念だ」
+Lilja : "It's a shame I was too young to remember anything about you except your physical properties."
+丽露娅 : "真是遗憾，那时实在是太小了，只对你的身体有记忆"
+
+イヌイ
+イヌイ : 「そう、そうなのね……ふふ、おばかさんだったのは私の方なのね」
+Inui : "Right... Hehe, it seems like I'm the one who was acting like a dimwit."
+伊伮依 : "这、这样啊……呵呵，原来我才是小笨蛋啊"
+
+イヌイ
+イヌイ : 「私が月季だとわかって、放っておいたのね。わかっていて私が暗躍する様子を聞くのは、さぞかし楽しかったでしょうね」
+Inui : "You never told me you knew I was really Tsuki. You must have had fun watching me plot my schemes oblivious to the fact that you knew."
+伊伮依 : "你知道我是月季，还放着我不管。知道我是月季，询问我暗中活动的情况，想必是很开心吧"
+
+リルヤ
+リルヤ : 「……お前の正体がわかっても、お前がなぜ名前と経歴を変えてまで私の前に現れたか、その理由は全くわからなかった」
+Lilja : "When I found out who you were, I didn't understand why you had falsified your name and background to approach me."
+丽露娅 : "……就算知道你的真实身份，我也完全不知道你为什么要换个名字，换个身世出现在我的面前"
+
+リルヤ
+リルヤ : 「だがお前が、己が半生をかけて、周到に何かを準備していることだけは理解できた」
+Lilja : "But I understood that you had spent half your life carefully preparing for something."
+丽露娅 : "但是有一件事我明白了，就是你花了半辈子时间，在精心准备着什么东西"
+
+リルヤ
+リルヤ : 「だから、このままお前を首にしても、別の形で私の前に姿を現す可能性があると判断した」
+Lilja : "So I figured that even if I fired you, you'd find your way back to me again somehow."
+丽露娅 : "所以我认定，就算我直接把你辞退了，你也有可能以别的模样出现在我的面前"
+
+リルヤ
+リルヤ : 「故に、私は誰にもいわずにお前を泳がせて目的を探ることを決めた」
+Lilja : "That's why I decided to observe and let you do your thing. It was the most efficient way to find out what your goal was."
+丽露娅 : "于是我决定不告诉其他人，先放任你一段时间，了解你有什么目的"
+
+リルヤ
+リルヤ : 「最初の頃は、お前の目的がわかった時点でりらや家族と相談し、最も無駄のない対策を打つ。それで終わらせようと考えていた」
+Lilja : "At first, I thought I would consult with Lila and my family once I figured out what you wanted. We could take appropriate measures, and that would be the end of it."
+丽露娅 : "最开始本来是打算在明白了你的目的之后，就跟莉罗和家里人商量，采取最有效的对策，直接结束这事情"
+
+リルヤ
+リルヤ : 「だがお前は、絶対にしてはならないことをした」
+Lilja : "But then you did something you never should have done."
+丽露娅 : "但是你，做了不该做的事情"
+
+リルヤ
+リルヤ : 「だから私は、お前に『芝居』をしかけることを決めた」
+Lilja : "I decided to retaliate by putting on a little play."
+丽露娅 : "所以我才决定给你演一场‘戏’"
+
+リルヤ
+リルヤ : 「お前は、夏夏を傷つけた。だから私は、お前が一番傷つく方法で、お前を陥れることにした。それが『芝居』の第二の目的だ」
+Lilja : "You hurt Natsuka, so I decided to trick you in a way that would hurt you the most. That was the secondary purpose of the play."
+丽露娅 : "你伤害了夏夏。所以我才决定，用最让你受伤的方法来对付你。这便是这场‘戏’的第二个目的"
+
+リルヤ
+リルヤ : 「イヌイ、お前は以前、私と巌窟王について話しているときに、こんな風にいったな？」
+Lilja : "Inui, do you remember what you said when we had a discussion on %i1The Count of Monte Cristo%id?"
+丽露娅 : "伊伮依，你还记得，你以前和我谈论岩窟王的时候，说过什么吗？"
+
+リルヤ
+リルヤ : 「『復讐は冷やして食べるのがいちばん美味しい』と」
+Lilja : "'Revenge is a dish best served cold.'"
+丽露娅 : "‘复仇这盘菜，冷了最好吃（君子报仇，十年不晚）’"
+
+リルヤ
+リルヤ : 「私もその言葉にある程度同意する。復讐は食べられたものではないが、すくなくとも冷えた方が美味い」
+Lilja : "I agree with that statement to a certain degree. Revenge may not be something you can eat, but it certainly tastes better cold."
+丽露娅 : "这句话我也表示一定程度的赞同。虽然复仇不是什么能吃的东西，但至少冷却下来后会更好吃"
+
+イヌイ
+イヌイ : 「そう……そうなのね」
+Inui : "I... I see..."
+伊伮依 : "……是么"
+
+イヌイ
+イヌイ : 「つまるところあなたは、私のメリ家への殺意と憎悪をすべて理解した上でそれを利用し、自身を王家の立場から解放し、さらに夏夏さんを傷つけた私への復讐を果たした」
+Inui : "To sum things up, you were aware of my hatred and malice toward the Meri family and used it as a tool to free yourself from the shackles of the royal throne. While you were at it, you also took revenge on me for having hurt Natsuka-san."
+伊伮依 : "也就是说，你在完全明白了我对梅莉家的杀意和憎恶的基础上，对其加以利用，把自己从王家身份中解放出来，并且对伤害了夏夏的我完成了复仇"
+
+イヌイ
+イヌイ : 「そういうことなのね。よくわかったわ」
+Inui : "I understand all too well what's going on now."
+伊伮依 : "这么一回事是吧。我明白了"
+
+イヌイ
+イヌイ : 「夏夏さん。あなたも、私を騙していたの？　だとしたら大した演技派だけど」
+Inui : "Natsuka-san, were you tricking me all along as well? If that's the case, I'm impressed with your acting."
+伊伮依 : "夏夏小姐，你也骗了我？　真要是这样，那你的演技还真是了得"
+
+リルヤ
+リルヤ : 「夏夏は何も知らないさ。ただ現実で『芝居』を行うとだけ伝えた。お前が、夏夏とはじめて直接対面したときのことを覚えているか？」
+Lilja : "Natsuka doesn't know anything. All I told her was that we'd be putting on a play. Do you remember the first time you met Natsuka in person?"
+丽露娅 : "夏夏可是什么都不知道。我只跟她说过在现实里演个‘戏’。你还记得你在第一次实际见到夏夏时是什么情形吗？"
+
+イヌイ
+イヌイ : 「あのとき……」
+Inui : "Yes..."
+伊伮依 : "那个时候……"
+
+夏夏
+夏夏 : 「そ、そんなの無理ですよ～～～！！？　お芝居なんて！」
+Natsuka : "Th-That's too much to ask! I can't act to save my life!"
+夏夏 : "这、这我不行呀～～～？！！我不会演戏呀！"
+
+リルヤ
+リルヤ : 「できるできる。お前はやればできる子だ」
+Lilja : "Sure you can. I know you can do it if you try."
+丽露娅 : "演得了演得了。你只要想做就能做好"
+
+イヌイ
+イヌイ : 「そう、あれはそういう意味だったのね。白鳥の湖ではなく……」
+Inui : "So this was the play you were referring to, not %i1Swan Lake%id."
+伊伮依 : "是么，原来是这个意思。不是天鹅湖……"
+
+リルヤ
+リルヤ : 「お前が混同するように使っていたからな。おかげで、お前は何も疑わなかった」
+Lilja : "I made it sound as if I was talking about %i1Swan Lake%id the whole time so you'd never suspect a thing."
+丽露娅 : "本来用的就是要让你混淆的说话方式。得益于此，你完全没有怀疑"
+
+リルヤ
+リルヤ : 「夏夏は、私がしかけた『芝居』に十分すぎるほど翻弄されながら、自分の役割を十全にこなした。だからこそ、お前も騙された」
+Lilja : "And Natsuka played her part even better than I expected, unknowingly playing off the other actors. Because her 'acting' was genuine, it was good enough to fool you."
+丽露娅 : "夏夏被我安排的‘戏’反复玩弄的同时，她也完美地演好了自己的角色。正因如此，你也被骗到了"
+
+イヌイ
+イヌイ : 「そう……よくわかったわ」
+Inui : "I see... I understand everything now."
+伊伮依 : "是么……我这下是明白了"
+
+イヌイ
+イヌイ : 「あなたにとって、夏夏さんが最高の駒だってことが」
+Inui : "To you, Natsuka-san is the most convenient pawn you've ever had at your disposal."
+伊伮依 : "夏夏对你来说，就是个特别好用的棋子"
+
+イヌイ
+イヌイ : 「あなたは幸せ者ね、夏夏さん。でも、本当にそれでいいのかしら？」
+Inui : "You must be happy, Natsuka-san. But are you sure this is what you want?"
+伊伮依 : "你可真是幸福啊，夏夏。但是，这样子真的好吗？"
+
+イヌイ
+イヌイ : 「あなたは自分の意思を持つ人間だといっているけれど、私から見ればどう考えても駒であり犬でしかない」
+Inui : "You insist that you're a human with your own free will, but it looks to me as if you're nothing but an obedient puppy."
+伊伮依 : "你说着自己是一个有着自我意识的人类，但我怎么看都不过是一颗棋子，一条小狗"
+
+イヌイ
+イヌイ : 「お姉様はあなたを解放したのに、あなたはまた鎖に繋がれて、リルヤ様をお姉様の代わりにしている」
+Inui : "Your sister set you free, yet you put yourself back in shackles under Lilja-sama's command instead."
+伊伮依 : "明明你的姐姐解放了你，你却又给自己系上了锁，让丽露娅小姐替代你姐姐"
+
+イヌイ
+イヌイ : 「私がお母様との問題を片づけたことを覚えている？　あれはちゃんとリルヤ様に許可をいただいていたのよ？」
+Inui : "Do you remember when I resolved the problems between you and your mother? I received permission from Lilja-sama to do that, you know?"
+伊伮依 : "你还记得我处理了你和你妈妈的问题吗？　那可是我从丽露娅小姐那里得到了许可才做的哦？"
+
+イヌイ
+イヌイ : 「いつまで経っても、あなたは強い存在の庇護下にいる……そこに自由はあるのかしら？」
+Inui : "You've always been under the aegis of a powerful ruler... Is there any freedom in a life like that?"
+伊伮依 : "不论什么时候，你都在强大的庇护之下……那其中有自由吗？"
+
+イヌイ
+イヌイ : 「そんなあなたを見て、お姉様はどう思われるかしら？」
+Inui : "I wonder what your sister would think if she saw you right now."
+伊伮依 : "看到你这个样子，你的姐姐又会怎么想呢？"
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+イヌイ
+イヌイ : 「それとも……もうお姉様のことなんてどうでもいいかしら？　だって、あなたは本当は……」
+Inui : "Or... Don't you care about that anymore? I mean..."
+伊伮依 : "还是说……在你心中，你的姐姐已经无所谓了？　因为你实际上……"
+
+イヌイ
+イヌイ : 「お姉様を見捨てたのですものね？」
+Inui : "You did abandon your sister, after all."
+伊伮依 : "是抛弃了你的姐姐吧？"
+
+夏夏
+夏夏 : 「……っ」
+Natsuka : "..."
+夏夏 : "……唔"
+
+イヌイ
+イヌイ : 「ああ、やっぱりそうなのね。あなたは、お姉様の死に間に合っていた。あなたが誰かに助けを求めれば、お姉様は助かっていた」
+Inui : "Oh, it seems I hit the nail on the head. It wasn't too late to save your sister. If you'd called for help, she would have lived."
+伊伮依 : "是么，果然如此呢。你目睹了你姐姐的死去。本来你要是去找人求助的话，你姐姐是可以得救的"
+
+イヌイ
+イヌイ : 「けれど、あなたはそれをしなかった。あなたはお姉様の奴隷だったから。でもそんなあなたを、お姉様は自由にしようとした」
+Inui : "But you didn't do anything, because you were your sister's slave. Your sister was aware of this, so she tried to set you free."
+伊伮依 : "但是，你没有那么做。因为你是你姐姐的奴隶。但是你的姐姐，想要给那样的你一个自由"
+
+イヌイ
+イヌイ : 「可哀想なお姉様。自らの死を賭して、あなたを自由にしたというのに。あなたはお姉様をないがしろにして……幸せな奴隷として生きている」
+Inui : "I really feel for your sister. She gave her life to free you, yet you've let her down and continued to live like a slave."
+伊伮依 : "多可怜的姐姐。拿自己的生命为你带来了自由。你却对姐姐毫不关心……作为一个幸福的奴隶活着"
+
+イヌイ
+イヌイ : 「そんなあなたを見て、お姉様は天国で哀しんでいらっしゃるのでは？」
+Inui : "Your sister must be rolling in her grave right now."
+伊伮依 : "看到你这样子，你的姐姐在天国怕是无比悲伤吧？"
+
+夏夏
+夏夏 : 「……んなの――」
+Natsuka : "You..."
+夏夏 : "……那种事情"
+
+イヌイ
+イヌイ : 「え？」
+Inui : "Huh?"
+伊伮依 : "哎？"
+
+夏夏
+夏夏 : 「そんなのわかるわけないじゃないですか！！！！」
+Natsuka : "You don't know the first thing about her!!!"
+夏夏 : "那种事情，谁知道啊！！！！"
+
+イヌイ
+イヌイ : 「やだ、いきなり大きな声で怒鳴らないで。そんな言い方、無責任じゃないの？　生きる人間こそ、死んだひとの想いを大切に……」
+Inui : "C'mon, don't bark like a dog that's had its tail stepped on. You're being irresponsible. It's the duty of the living to respect the wishes of the dead..."
+伊伮依 : "哎呀，别突然大声怒吼呀。你那说法，也太没责任心了吧？　活着的人，就更应该关心死者的念想……"
+
+夏夏
+夏夏 : 「無責任なのは、死んだ人の思いを勝手に作りあげて利用することです！！　当事者以外の人が！！」
+Natsuka : "It's %i1way%id more irresponsible to use the wishes of the dead as an excuse to manipulate the living!! You're not even family!!"
+夏夏 : "真正没责任心的，是当事者以外的人擅自编造死者的念想，还肆意利用！！"
+
+夏夏
+夏夏 : 「つまりは、あなたです！！！」
+Natsuka : "It's none of your business!!!"
+夏夏 : "也就是你！！！"
+
+夏夏
+夏夏 : 「イヌイさん、あなたはわたしに、よかれと思って、お母さんとの借金問題を解決したといいましたね？」
+Natsuka : "Inui-san, you said you cleared my debt to my mom because you thought it would help me, right?"
+夏夏 : "伊伮依小姐，你刚才说，你是出于好心，帮我解决了我和妈妈的债务问题对吧？"
+
+夏夏
+夏夏 : 「それはリルヤさんが許可したことだとも」
+Natsuka : "And that you got Lilja-san's permission."
+夏夏 : "还说那是丽露娅小姐许可过的"
+
+夏夏
+夏夏 : 「それが何だっていうんですか」
+Natsuka : "What was up with that?"
+夏夏 : "你说这些有什么意义"
+
+夏夏
+夏夏 : 「リルヤさんにはリルヤさんの思うところがあったんです。あなたの言い様は、そのリルヤさんの気持ちを都合良く利用しているだけです」
+Natsuka : "I'm sure Lilja-san has her own opinions about it, yet you used her feelings as an excuse to do whatever %i1you%id wanted."
+夏夏 : "丽露娅小姐有她自己的想法。而你的说话方式，只不过是按照自己方便地，利用了丽露娅小姐的想法"
+
+夏夏
+夏夏 : 「これは、わたしとリルヤさんの問題です」
+Natsuka : "But this is between me and Lilja-san."
+夏夏 : "这件事，是我和丽露娅小姐的问题"
+
+夏夏
+夏夏 : 「わたしはあとでリルヤさんにそのことについて話を聞いて、リルヤさんが答える。それでいいんです」
+Natsuka : "I'm going to ask Lilja-san what she thinks, and she'll answer me directly. That's the way it should be."
+夏夏 : "我之后会询问丽露娅小姐那件事情相关的问题，丽露娅小姐会回答我。这样就足够了"
+
+夏夏
+夏夏 : 「でも……」
+Natsuka : "But..."
+夏夏 : "但是……"
+
+夏夏
+夏夏 : 「でも、お姉ちゃんはここにはもういないんです。何も聞けない。何も確かめられない。だから、わかんなくていいんです」
+Natsuka : "My sister isn't with us anymore, so I can't ask her anything. There's no way to know for sure what she'd think, and that's okay."
+夏夏 : "但是，我的姐姐已经不在这里了。什么都问不到，什么都无法确认。所以，不知道也罢"
+
+夏夏
+夏夏 : 「姉は、お姉ちゃんは……すごい難しいひとなんです。わたしなんかが一生考えても、一生何を考えていたかなんてわかんないひとなんです」
+Natsuka : "My sister... Mana was a difficult person. I could spend all my life wondering what she was really thinking, and I'd never be able to figure it out."
+夏夏 : "姐姐，我的姐姐……是一位很复杂的人。就我这种人，就算想一辈子，也想不明白她在思考些什么"
+
+夏夏
+夏夏 : 「でも、だから、わかんないけど……」
+Natsuka : "I may be an idiot, but..."
+夏夏 : "但是，我，虽然弄不明白……"
+
+夏夏
+夏夏 : 「でも！！！」
+Natsuka : "But...!!!"
+夏夏 : "但唯独一件事！！！"
+
+夏夏
+夏夏 : 「わたしには、誰かの気持ちが、誰かの想いが、何が嘘で何が本当かなんてわからない！　でも、ひとつだけわかっていることがあります！」
+Natsuka : "I may never understand what other people are really thinking, or what's true and what's real... But there's one thing I'm sure about!"
+夏夏 : "我弄不明白人的心情、人的想法，什么是假的，什么是真的！　但唯独一件事我非常明白！"
+
+夏夏
+夏夏 : 「今のわたしは、リルヤさんのそばにいるのが一番自由なんです！！」
+Natsuka : "I have more freedom than I've ever had when I'm with Lilja-san!"
+夏夏 : "现在的我，在丽露娅小姐身边是最自由的！！"
+
+夏夏
+夏夏 : 「リルヤさんの傍にいることが一番嬉しいんです！！　リルヤさんの傍にいないと、なんか嬉しくないんです！！」
+Natsuka : "I'm happier than I've ever been when I'm with her! Without Lilja-san, I could never be happy!!"
+夏夏 : "我在丽露娅小姐身边是最开心的！！　一旦丽露娅小姐不在身边，我就感觉不开心！！"
+
+イヌイ
+イヌイ : 「でも、あなた、お姉様が生きていたら、リルヤ様よりもお姉様を……」
+Inui : "Think about it, though. If your sister had lived, then you would—"
+伊伮依 : "但是如果你姐姐还活着的话，比起丽露娅小姐，你肯定会跟你姐姐……"
+
+夏夏
+夏夏 : %150;「うるさーい！！」
+Natsuka : %150;"Shut up!!"
+夏夏 : %150;"烦死了——！！"
+
+夏夏
+夏夏 : 「お姉ちゃんが生きていたらどうするか考えるのは、わたしだけができること！！」
+Natsuka : "I'm the only one who can think about what I would've done if my sister was still alive!"
+夏夏 : "要是姐姐还活着，我要怎么做，怎么想，那都是我自己的事情！！"
+
+夏夏
+夏夏 : 「お姉ちゃんが何を考えていようともそれはお姉ちゃんのもの！」
+Natsuka : "And my sister is the only one who knew what she was really thinking! Her thoughts were hers!"
+夏夏 : "不论姐姐怎么想，那也都是她的事情！"
+
+夏夏
+夏夏 : 「あなたのものじゃない！！」
+Natsuka : "Not yours!!"
+夏夏 : "跟你无关！！"
+
+夏夏
+夏夏 : 「あなたはわたしの問題をただ利用しただけ！　勝手に奪っただけ！」
+Natsuka : "You took advantage of my problems! You stole them from me!"
+夏夏 : "你不过是利用了我的问题！　擅自抢走了我的问题！"
+
+夏夏
+夏夏 : 「もう二度と、何ひとつあなたには奪わせません！」
+Natsuka : "I'm never letting you take anything from me again!"
+夏夏 : "我不会再让你抢走什么了！"
+
+夏夏
+夏夏 : 「リルヤさんも！！　お母さんとの問題も！！　お姉ちゃんの心も！！」
+Natsuka : "You're not taking Lilja-san, or my problems with my mom, or my sister's feelings!!"
+夏夏 : "不管是丽露娅小姐！！　还是我和妈妈的问题！！　又或者是姐姐的想法！！"
+
+夏夏
+夏夏 : 「だから！！！」
+Natsuka : "So!!!"
+夏夏 : "总之！！！"
+
+夏夏
+夏夏 : 「あなたがお姉ちゃんを利用するな！！！」
+Natsuka : "Don't take advantage of my sister!!!"
+夏夏 : "不许你再利用我的姐姐了！！！"
+
+夏夏
+夏夏 : 「お姉ちゃんを語るなー！！！！！！！！」
+Natsuka : "Don't mention her ever again!!!"
+夏夏 : "不许你再谈起我的姐姐了！！！！！！！！"
+
+イヌイ
+イヌイ : 「ぐふっ……！」
+Inui : "Gah!"
+伊伮依 : "啊……！"
+
+夏夏
+夏夏 : 「ふんっ！」
+Natsuka : "Hmph!"
+夏夏 : "哼！"
+
+イヌイ
+イヌイ : （ま、まさか……腹に、頭突きとは……）
+Inui : (Sh-She... headbutted me in the stomach...)
+伊伮依 : （没、没想到……会用头，撞我肚子……）
+

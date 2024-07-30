@@ -1,0 +1,350 @@
+None
+None : リルヤの墓の周りに、関係者達が立っている。一人一人と去って行き、墓の前には夏夏だけが残った。
+None : Lilja's grave is surrounded by those who were close to her. One by one, they leave, until Natsuka is the only one remaining.
+None : 与丽露娅有关的人们站在她的墓边上。他们一个个散去，最后只留下孤零零的夏夏。
+
+None
+None : リルヤはこの墓の下にはいない。リルヤの棺は、故郷に旅立っていった。
+None : The grave is empty. Lilja's coffin was repatriated to her homeland.
+None : 这座墓里并没有丽露娅，她的棺柩已经回到故乡了。
+
+None
+None : それでも、夏夏は墓の前からずっと動けずにいる。
+None : Still, Natsuka remains motionless in front of the grave.
+None : 然而，夏夏却在坟墓前久久无法离去。
+
+None
+None : 黙して項垂れる夏夏の頬を、十二月の雨が伝う。
+None : The December rain quietly trickles down her cheeks.
+None : 夏夏低头沉默着，十二月的雨水顺着她的脸颊流下。
+
+None
+None : 冷たさも寒さも感じずに、ただ立ち尽くす。涙は流れなかった。
+None : Oblivious to the cold, she simply sits there without shedding any tears.
+None : 她感觉不到冷，只是站着。也没流泪。
+
+None
+None : 雨のなか、夏夏の足がふと動きはじめる。目的はなく、意思もなく、ただ人形のように。機械のように。
+None : Then, she gets up, and her feet begin moving, splashing in the puddles. She moves mechanically, like a doll or a machine without its own free will.
+None : 雨中，夏夏的脚倏地动了起来。没有目的，没有意图，就像一个木偶，一台机器。
+
+None
+None : どこに行くのかもわからないまま、ただ足を動かす。何も映さない虚ろな目から、涙は流れなかった。
+None : She doesn't know where her feet will take her. Still, no tears flow from her empty, unfocused eyes.
+None : 挪动着脚步，不知目的地在何方。空洞的双眼失去了光芒，泪水也没有流出来。
+
+None
+None : マンションはひどく静かで冷たかった。ギャラリーからは絵が消えていた。
+None : The condominium is cold and quiet. The gallery is empty now.
+None : 公寓里一片死寂和阴冷。画廊里的作品也无影无踪。
+
+None
+None : イヌイも消え、善乃も連絡がつかない状態がつづいていた。
+None : Inui has left, and Yoshino hasn't been heard from since that day at the hospital.
+None : 伊伮依不见了，善乃也联络不上。
+
+None
+None : 廃墟からも人の気配が消えていた。まひるも、まひるの荷物もすべて消えていた。
+None : Similarly, all signs of life have disappeared from the place she once called home. Mahiru is gone, as are her belongings.
+None : 废墟里也没有任何生气。真昼和她的行李也不知去向。
+
+None
+None : 何もない姉の部屋の床に、扉だけがあった。かつての夏夏の部屋につづく入口だった。
+None : Mana's room is empty. There's nothing there aside from the hatch in the floor that used to lead to Natsuka's room.
+None : 在姐姐空空如也的房间里，只有地板上还开着一扇门。那曾经是夏夏出入自己房间的唯一通道。
+
+None
+None : ゆっくりと扉をあける。
+None : Natsuka slowly opens it.
+None : 夏夏慢慢拉开门。
+
+None
+None : 暗がりへと降りていく。\n一歩、一歩。
+None : She descends the stairs into the dark basement, step by step.
+None : 她一步接着一步。
+
+None
+None : 何もない。何もない部屋。
+None : It's empty. There's nothing there.
+None : 来到了自己什么都没有，空荡荡的房间。
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+None
+None : 背中から荷物を降ろす。荷物のなかから、ちいさな人形を取り出す。
+None : She puts her backpack down on the floor and takes out a small doll.
+None : 她卸下背上的行李，拿出一只小玩偶。
+
+夏夏
+夏夏 : 「…………」
+Natsuka : "..."
+夏夏 : "…………"
+
+None
+None : 虚ろな意識が、無為な言葉を脳内に吐き出していく。
+None : Her empty consciousness whispers to her.
+None : 她的意识无比空洞，大脑里回响着无意义的句子。
+
+夏夏
+夏夏 : （本当はここから出なければ、よかったのかもしれない）
+Natsuka : (Maybe it would've been better if I never left this place.)
+夏夏 : （如果我乖乖听话，在这里待一辈子就好了）
+
+夏夏
+夏夏 : （こんな想いをするのなら……）
+Natsuka : (If this is how it would end...)
+夏夏 : （如果我有这种想法……）
+
+None
+None : 夏夏の頭のなかで、無情な声がくりかえし響く。
+None : A cold, emotionless voice echoes in Natsuka's head.
+None : 夏夏的脑中回荡起冷酷无情的声音。
+
+None
+None : ――お前が死ねばよかったのよ。
+None : "You should've been the one to die."
+None : ——你死了该多好。
+
+None
+None : %n;――お前に生きている価値なんてないのに、あの子は死んで、どうしてお前が生きているの。
+None : %n;"But now she's gone, and all I have left is %i1you.%id A worthless daughter who has no right to be alive."
+None : %n;——你活着创造不了任何价值。她死了，你却还在苟且偷生。
+
+夏夏
+夏夏 : （そうなのかもしれない……）
+Natsuka : (Maybe she was right...)
+夏夏 : （也许就是这样……）
+
+夏夏
+夏夏 : （でも、わからない……）
+Natsuka : (But I don't understand...)
+夏夏 : （但是我不明白……）
+
+夏夏
+夏夏 : （なにもわからない……）
+Natsuka : (I don't understand anything...)
+夏夏 : （我什么都不明白……）
+
+夏夏
+夏夏 : （なにもかんがえられない……）
+Natsuka : (I can't think about anything...)
+夏夏 : （什么都没法思考……）
+
+夏夏
+夏夏 : （お姉ちゃん……）
+Natsuka : (Mana...)
+夏夏 : （姐姐……）
+
+None
+None : どうしようもない状況を、取り返しのつかない状況を、自分の命でどうにかできるなら、そうしたかった。
+None : There was nothing I could do. I couldn't take it back. I thought if sacrificing my life was what it would take to make things right, then that's what I should do.
+None : 如果可以用自己的生命挽回这无可救药的局面，我一定会这么做
+
+None
+None : でも……わたしは……
+None : But I...
+None : 但是……我……
+
+None
+None : あのとき――
+None : That day...
+None : 那时——
+
+None
+None : 夏夏の脳裏に、あのときの光景が蘇る。
+None : The scene she witnessed that day flashes through Natsuka's mind.
+None : 夏夏大脑中闪现出那时的场景。
+
+None
+None : 転がった薬瓶。笑う愛姫。夏夏は泣きそうな顔をして床に座っている。
+None : Empty medicine bottles on the floor, Mana's laughter, and Natsuka sitting on the floor with a tearful look on her face.
+None : 散落一地的药瓶。微笑的爱姬。快哭出来的夏夏坐在地板上。
+
+None
+None : [・]薬[・]を[・]飲[・]ん[・]だ[・]ば[・]か[・]り[・]の[・]愛[・]姫の傍で。
+None : Sitting next to Mana, who had just swallowed down all the medicine.
+None : 坐在刚吃完药的爱姬旁边。
+
+愛姫
+愛姫 : 『いい？　あなたは決して誰も呼んでは駄目なの。このまま何もいわずに、ただ私を見送って』
+Mana : "Listen. You absolutely can't call for anyone. Just stay quiet and let me go."
+爱姬 : "‘听好了，你千万不要叫任何人来。什么都别说，目送我吧’"
+
+夏夏
+夏夏 : （そう。わたしはどうなるかわかっていたんです。わかっていて、お姉ちゃんが選んだことを、とめなかった）
+Natsuka : (I knew what was going to happen. I did, yet I didn't stop my sister from making the choice she did.)
+夏夏 : （对呀。我明明知道姐姐接下来会做什么，但是没有阻止她）
+
+愛姫
+愛姫 : 『いいの、それでいいのよ。夏夏。いい子ね』
+Mana : "That's it. Good girl, Natsuka. You're such a good girl."
+爱姬 : "‘没事，你做得很好。夏夏，乖’"
+
+夏夏
+夏夏 : （取り返しのつかないことになる前に、わたしは気づいたのに。わたしが声をあげていれば、お姉ちゃんは助かったのに）
+Natsuka : (I realized that what she'd done could still be undone, if only I'd screamed. Then Mana would have lived.)
+夏夏 : （我本来能在事情无法挽回之前阻止她。只要我叫出声音，姐姐就会得救）
+
+夏夏
+夏夏 : （でも、あの頃のわたしは、お姉ちゃんの一部だったから。お姉ちゃんの部品だったから）
+Natsuka : (But back then, I was nothing but an extension of my sister. A tool for her to use as she pleased.)
+夏夏 : （但那时我还只是姐姐的一部分，是她身上的零件）
+
+夏夏
+夏夏 : （目も足も、脳の命令には逆らわない）
+Natsuka : (Neither my eyes, legs, nor my brain could go against her orders.)
+夏夏 : （正如双眼和腿脚都无法反抗大脑发出的命令）
+
+夏夏
+夏夏 : （だからわたしは、誰の助けも呼ばず……お姉ちゃんが逝くのを、ただ見送った）
+Natsuka : (That's why I didn't call for help... And I simply kept my sister company as she died.)
+夏夏 : （所以我没有向任何人求助……眼睁睁地看着姐姐逝去）
+
+夏夏
+夏夏 : （だから……）
+Natsuka : (So...)
+夏夏 : （所以……）
+
+夏夏
+夏夏 : （だからわたしには、泣く資格なんてないんです。お姉ちゃんの死を、泣く資格なんてないんです）
+Natsuka : (I didn't have the right to cry. I didn't have the right to mourn my sister's death.)
+夏夏 : （所以我没资格哭。不配为姐姐的死哭泣）
+
+夏夏
+夏夏 : （でも……）
+Natsuka : (But...)
+夏夏 : （但是……）
+
+夏夏
+夏夏 : （でも……今は？）
+Natsuka : (What about... now?)
+夏夏 : （但是现在呢？）
+
+夏夏
+夏夏 : （今のわたしなら……？）
+Natsuka : (Do I have that right now?)
+夏夏 : （现在的我该怎么做呢……？）
+
+夏夏
+夏夏 : （…………………………………………………………………………………………………………………………………………………わからない）
+Natsuka : (.........I don't know.)
+夏夏 : （……………………………………………………………………………………………………不知道）
+
+夏夏
+夏夏 : （『今のわたしなら……？』その言葉のつづきが見つけられない）
+Natsuka : (I can't think of the answer to that question.)
+夏夏 : （‘如果是现在的我……？’，我想不出后续能接上的词汇）
+
+夏夏
+夏夏 : （あの絵を見て、確かに、何かを見つけたはずなのに……それを伝えたかったはずなのに、何も見えなくなってしまった）
+Natsuka : (When I saw that painting, I definitely found %i1something%id... It must've been what she was trying to tell me, but I can't see it anymore.)
+夏夏 : （看到那张画，我应该有所收获才对……那幅画想表达某种意思，但我现在却什么都看不见了）
+
+夏夏
+夏夏 : （今はもう……なにもわからない……）
+Natsuka : (I don't... know anything anymore...)
+夏夏 : （现在……我已经什么都不知道了……）
+
+夏夏
+夏夏 : （なにも考えられない……）
+Natsuka : (I can't think of anything...)
+夏夏 : （没法思考任何事……）
+
+夏夏
+夏夏 : （なにも……見えない）
+Natsuka : (I can't see anything.)
+夏夏 : （没法看到……任何事）
+
+夏夏
+夏夏 : （リルヤさん……）
+Natsuka : (Lilja-san...)
+夏夏 : （丽露娅小姐……）
+
+夏夏
+夏夏 : （わたし、リルヤさんに出会って人間になって、だからリルヤさんに死んで欲しくなかった）
+Natsuka : (I finally became human after I met her. That's why I wanted her to live.)
+夏夏 : （我和丽露娅小姐相遇，蜕变成完整的人，所以我不想让她死）
+
+夏夏
+夏夏 : （だから走って、必死に走って）
+Natsuka : (I ran as fast as I could.)
+夏夏 : （所以我跑，拼命地跑）
+
+夏夏
+夏夏 : （でもだめでした）
+Natsuka : (But I didn't make it...)
+夏夏 : （但是也无济于事）
+
+夏夏
+夏夏 : （あのときも、今も……）
+Natsuka : (I was too late... again.)
+夏夏 : （姐姐那时候我一无所能，现在也是……）
+
+夏夏
+夏夏 : （わたしには見える目もあるのに、わたしには走る足もあるのに、いつでも、わたしはなにもできない……）
+Natsuka : (Even though my eyes can see and my legs can run, I can't do anything. I've never been able to do anything...)
+夏夏 : （我长着看清事物的双眼，也有能跑动的腿，但自始至终做不好任何事）
+
+夏夏
+夏夏 : 「リルヤさん……」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐……"
+
+夏夏
+夏夏 : 「ごめんなさい……」
+Natsuka : "I'm sorry..."
+夏夏 : "对不起……"
+
+夏夏
+夏夏 : 「役に立てなくてごめんなさい……」
+Natsuka : "I'm sorry I couldn't help you..."
+夏夏 : "对不起，没能帮到你……"
+
+夏夏
+夏夏 : 「傍にいられなくてごめんなさい……」
+Natsuka : "I'm sorry I couldn't stay by your side..."
+夏夏 : "对不起，没能陪伴在你身边……"
+
+夏夏
+夏夏 : 「信じてしまって……ごめんなさい」
+Natsuka : "I'm sorry... that I believed in you."
+夏夏 : "对不起……我相信了你"
+
+None
+None : 今は遠い風景のなかで、リルヤの声が響く。
+None : Lilja's voice seems to echo from the distance.
+None : 遥远的风景中，丽露娅的声音回响着。
+
+None
+None : ――私を信じて欲しい
+None : "I want you to believe in me."
+None : ——我希望你相信我
+
+None
+None : 涙は流れないままに、夏夏の目が歪む。
+None : Natsuka's expression distorts, but she still doesn't shed any tears.
+None : 夏夏欲哭无泪。
+
+夏夏
+夏夏 : 「リルヤさん……」
+Natsuka : "Lilja-san..."
+夏夏 : "丽露娅小姐……"
+
+夏夏
+夏夏 : 「あの言葉を、わたしがもっとちゃんと疑えていれば……あなたはまだ……」
+Natsuka : "If only I'd had the strength to doubt your words... Would you still..."
+夏夏 : "那时你说的话，我要是再怀疑一些……现在你就能……"
+
+夏夏
+夏夏 : 「この世界で、わたしの名前を呼んでくれたのでしょうか」
+Natsuka : "Would you still be in this world, calling my name?"
+夏夏 : "这个世界叫我的名字么"
+
+None
+None : ――夏夏
+None : "Natsuka."
+None : "——夏夏"
+

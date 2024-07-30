@@ -50,10 +50,6 @@ The modified parts are as follows:
 
 2. It would originally add `.txt` directly after the file name, which made it a bit lengthy, so it was changed to delete the original extension first and then add `.txt`.
 
-## to do
-
-1. My personal game progress has reached the end of Chapter 3, and the remaining content is to be completed.
-
 ## special thanks
 
 - [Yazawazi](https://yazawazi.moe/)
